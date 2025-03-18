@@ -1,0 +1,18 @@
+[
+    {
+      "headline": "Positive News 1",
+      "content": "This is the content of positive news article 1.",
+      "sourceLink": "https://source1.com"
+    },
+    {
+      "headline": "Positive News 2",
+      "content": "This is the content of positive news article 2.",
+      "sourceLink": "https://source2.com"
+    },
+    {
+      "headline": "Positive News 3",
+      "content": "This is the content of positive news article 3.",
+      "sourceLink": "https://source3.com"
+    }
+]
+  
