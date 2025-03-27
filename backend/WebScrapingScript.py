@@ -17,18 +17,22 @@ collection = db["news"]
 if not os.path.exists('news_articles'):
     os.makedirs('news_articles')
 
-# List of categories to cycle through
-categories = ["world", "technology", "business", "sport", "arts", "science"]
-category_index = 0 
+# Track used images to prevent duplicates
+used_images = set()
 
-# News source configuration 
+# Master category list
+all_categories = ["world", "technology", "business", "sport", "arts", "science", "us", "politics", "health", "travel"]
+
+# News source configuration
 news_sources = {
     "BBC": {
         "url_template": "https://www.bbc.com/{category}",
         "default_category": "news",
-        "category_map": {"arts": "culture", "sport": "sport"},
-        "card-headline": "h2",
-        "card-description": "p",
+        "category_map": {"arts": "culture", "sport": "sport", "business": "business", "innovation": "innovation", "culture": "culture", "travel": "travel"},
+        "tag": "div",
+        "class": "gs-c-promo",
+        "headline_tag": "h3",
+        "link_tag": "a",
         "image_tag": "img",
         "image_attr": "src"
     },
@@ -36,8 +40,8 @@ news_sources = {
         "url_template": "https://www.cnn.com/{category}",
         "default_category": "world",
         "category_map": {},
-        "headline": "h2",
-        "description": "span",
+        "tag": "a",
+        "class": "container__link",
         "image_tag": "img",
         "image_attr": "src"
     },
@@ -50,41 +54,15 @@ news_sources = {
         "image_tag": "img",
         "image_attr": "src"
     },
-    "Global News": {
-        "url_template": "https://globalnews.ca/{category}",
-        "default_category": "news",
-        "category_map": {},
-        "tag": "span",
-        "class": "c-posts__headlineText",
-        "description_tag": "div",
-        "description_class": "c-posts__excerpt",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
     "The Guardian": {
         "url_template": "https://www.theguardian.com/{category}",
         "default_category": "world",
-        "category_map": {"technology": "technology", "business": "business", "science": "science", "sport": "sport"},
+        "category_map": {},
         "valid_categories": ["world", "technology", "business", "science", "environment", "sport", "global-development"],
         "tag": "h3",
         "class": "fc-item__title",
         "description_tag": "div",
         "description_class": "fc-item__standfirst",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
-    "Al Jazeera": {
-        "url_template": "https://www.aljazeera.com/{category}/",
-        "default_category": "news",
-        "category_map": {
-            "world": "news", "middleeast": "middle-east", "africa": "africa",
-            "asia": "asia", "us": "news/us-canada", "europe": "europe",
-            "business": "economy", "tech": "science-and-technology"
-        },
-        "tag": "a",
-        "class": "u-clickable-card__link",
-        "description_tag": "div",
-        "description_class": "gc__excerpt",
         "image_tag": "img",
         "image_attr": "src"
     },
@@ -129,7 +107,7 @@ news_sources = {
 def get_url(source_config, category):
     category_map = source_config.get("category_map", {})
     valid_categories = source_config.get("valid_categories", [])
-    mapped_category = category_map.get(category, category if category in valid_categories else source_config["default_category"])
+    mapped_category = category_map.get(category, category if not valid_categories or category in valid_categories else source_config["default_category"])
     return source_config["url_template"].format(category=mapped_category)
 
 def find_news(source_name, source_config, current_category):
@@ -142,9 +120,7 @@ def find_news(source_name, source_config, current_category):
     session.mount("http://", adapter)
     session.mount("https://", adapter)
 
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
-    }
+    headers = {'User-Agent': 'Mozilla/5.0'}
 
     try:
         response = session.get(url, headers=headers, timeout=10)
@@ -156,16 +132,15 @@ def find_news(source_name, source_config, current_category):
     soup = BeautifulSoup(response.text, 'html.parser')
 
     if source_name == "BBC":
-        articles = soup.find_all(source_config["card-headline"])
-    elif source_name in ["CNN", "CBC"]:
-        articles = soup.find_all(source_config["headline"])
-    elif source_name in ["Global News", "Al Jazeera", "NPR", "ABC News", "The New York Times", "CTV News"]:
         articles = soup.find_all(source_config["tag"], class_=source_config["class"])
+    elif source_name == "CNN":
+        articles = soup.find_all(source_config["tag"], class_=source_config["class"])
+    elif source_name == "CBC":
+        articles = soup.find_all(source_config["headline"])
     elif source_name == "The Guardian":
         articles = soup.select("h3.fc-item__title")
     else:
-        print(f"No parser logic for {source_name}")
-        return
+        articles = soup.find_all(source_config["tag"], class_=source_config["class"])
 
     if not articles:
         print(f"No articles found for {source_name} at {url}")
@@ -175,48 +150,38 @@ def find_news(source_name, source_config, current_category):
         f.write(f"\n=== {source_name} - {current_category} - {time.strftime('%Y-%m-%d %H:%M:%S')} ===\n")
 
         for index, article in enumerate(articles[:10]):
-            if source_name in ["The Guardian", "Al Jazeera", "NPR"]:
-                headline_link = article.find("a")
-                headline = headline_link.text.strip() if headline_link else article.text.strip()
-                article_url = headline_link['href'] if headline_link else url
+            if source_name == "BBC":
+                headline_tag = article.find(source_config.get("headline_tag", "h3"))
+                headline = headline_tag.get_text(strip=True) if headline_tag else "No headline"
+                link_tag = article.find(source_config.get("link_tag", "a"))
+                raw_url = link_tag.get("href") if link_tag else None
+            elif source_name == "CNN":
+                headline = article.get_text(strip=True)
+                raw_url = article.get("href")
             else:
-                headline = article.text.strip()
-                article_url = article.find("a")['href'] if article.find("a") else url
+                headline_tag = article.find("a")
+                headline = headline_tag.get_text(strip=True) if headline_tag else article.get_text(strip=True)
+                raw_url = headline_tag.get("href") if headline_tag else None
 
-            if not article_url.startswith('http'):
-                article_url = requests.compat.urljoin(url, article_url)
+            article_url = requests.compat.urljoin(url + "/", raw_url) if raw_url else url
 
-            desc_tag = source_config.get("description_tag") or source_config.get("card-description") or source_config.get("description")
+            desc_tag = source_config.get("description_tag") or source_config.get("description")
             desc_class = source_config.get("description_class")
-
-            if desc_tag:
-                if desc_class:
-                    description = article.find(desc_tag, class_=desc_class)
-                else:
-                    description = article.find(desc_tag)
-            else:
-                description = None
-
-            if description and description.text.strip():
-                description_text = description.text.strip()
-            else:
-                if len(headline.split()) > 5:
-                    description_text = "Summary based on headline: " + headline
-                else:
-                    description_text = "No description available from source"
-
+            description = article.find(desc_tag, class_=desc_class) if desc_tag and desc_class else (article.find(desc_tag) if desc_tag else None)
+            description_text = description.text.strip() if description and description.text.strip() else "Summary based on headline: " + headline
             summary = description_text[:100] + "..." if len(description_text) > 100 else description_text
 
-            image = article.find_previous(source_config["image_tag"]) or article.find_next(source_config["image_tag"])
+            image = article.find(source_config["image_tag"]) or article.find_next(source_config["image_tag"])
             image_url = image[source_config["image_attr"]] if image and source_config["image_attr"] in image.attrs else None
             if image_url and not image_url.startswith('http'):
                 image_url = requests.compat.urljoin(url, image_url)
 
-            f.write(f"\nHeadline: {headline}\n")
-            f.write(f"Summary: {summary}\n")
-            f.write(f"Description: {description_text}\n")
-            f.write(f"Image: {image_url or 'None'}\n")
-            f.write(f"Source: {article_url}\n")
+            # Skip article if no image or if image is already used
+            if not image_url or image_url in used_images:
+                continue
+            used_images.add(image_url)
+
+            f.write(f"\nHeadline: {headline}\nSummary: {summary}\nDescription: {description_text}\nImage: {image_url or 'None'}\nSource: {article_url}\n")
             f.write("=" * 50 + "\n")
 
             print(f"Saved from {source_name}: {headline}")
@@ -238,13 +203,11 @@ def find_news(source_name, source_config, current_category):
 
 if __name__ == '__main__':
     while True:
-        current_category = categories[category_index % len(categories)]
-        category_index += 1
-
-        for source, config in news_sources.items():
-            find_news(source, config, current_category)
-            time.sleep(random.uniform(1, 3))
-
-        time_wait = 5
-        print(f"\nWaiting {time_wait} minutes before fetching next category '{categories[category_index % len(categories)]}'...")
+        for current_category in all_categories:
+            for source, config in news_sources.items():
+                find_news(source, config, current_category)
+                time.sleep(random.uniform(1, 3))
+        time_wait = 10
+        print(f"\nWaiting {time_wait} minutes before next full scan...")
         time.sleep(time_wait * 60)
+
