@@ -188,19 +188,29 @@ def find_news(source_name, source_config, current_category):
             if not article_url.startswith('http'):
                 article_url = requests.compat.urljoin(url, article_url)
 
-            # Extracting description
-            desc_tag = source_config.get("description_tag") or source_config.get("card-description") or source_config.get("description")
-            desc_class = source_config.get("description-class")
 
+            desc_tag = source_config.get("description_tag") or source_config.get("card-description") or source_config.get("description")
+            desc_class = source_config.get("description_class")
+
+            #  Attempt to find description
             if desc_tag:
                 if desc_class:
                     description = article.find(desc_tag, class_=desc_class)
+                    else:
+                        description = article.find(desc_tag)
+                        else:
+                            description = None
+
+            #  Fallback to headline-based summary if no description
+            if description and description.text.strip():
+                description_text = description.text.strip()
                 else:
-                    description = article.find(desc_tag)
-            else:
-                description = None
-            description_text = description.text.strip() if description else "No description available from source"
-            summary = description_text[:100] + "..." if len(description_text) > 100 else description_text
+                    description_text = "No description available from source"
+                    if len(headline.split()) > 5:
+                        description_text = "Summary based on headline: " + headline
+                        # Create summary
+                        summary = description_text[:100] + "..." if len(description_text) > 100 else description_text
+
 
             # Extract image (optional from AI)
             image = article.find_previous(source_config["image_tag"]) or article.find_next(source_config["image_tag"])
