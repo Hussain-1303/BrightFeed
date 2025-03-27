@@ -189,11 +189,17 @@ def find_news(source_name, source_config, current_category):
                 article_url = requests.compat.urljoin(url, article_url)
 
             # Extracting description
-            description = article.find_next(
-                source_config.get("description_tag", source_config.get("card-description", source_config.get("description"))),
-                class_=source_config.get("description_class")
-            )
-            description_text = description.text.strip() if description else "No description available from Source"
+            desc_tag = source_config.get("description_tag") or source_config.get("card-description") or source_config.get("description")
+            desc_class = source_config.get("description-class")
+
+            if desc_tag:
+                if desc_class:
+                    description = article.find(desc_tag, class_=desc_class)
+                else:
+                    description = article.find(desc_tag)
+            else:
+                description = None
+            description_text = description.text.strip() if description else "No description available from source"
             summary = description_text[:100] + "..." if len(description_text) > 100 else description_text
 
             # Extract image (optional from AI)
