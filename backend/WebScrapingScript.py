@@ -175,7 +175,6 @@ def find_news(source_name, source_config, current_category):
         f.write(f"\n=== {source_name} - {current_category} - {time.strftime('%Y-%m-%d %H:%M:%S')} ===\n")
 
         for index, article in enumerate(articles[:10]):
-            # Extracting headline
             if source_name in ["The Guardian", "Al Jazeera", "NPR"]:
                 headline_link = article.find("a")
                 headline = headline_link.text.strip() if headline_link else article.text.strip()
@@ -184,35 +183,30 @@ def find_news(source_name, source_config, current_category):
                 headline = article.text.strip()
                 article_url = article.find("a")['href'] if article.find("a") else url
 
-            # Make absolute URL if relative
             if not article_url.startswith('http'):
                 article_url = requests.compat.urljoin(url, article_url)
-
 
             desc_tag = source_config.get("description_tag") or source_config.get("card-description") or source_config.get("description")
             desc_class = source_config.get("description_class")
 
-            #  Attempt to find description
             if desc_tag:
                 if desc_class:
                     description = article.find(desc_tag, class_=desc_class)
-                    else:
-                        description = article.find(desc_tag)
-                        else:
-                            description = None
+                else:
+                    description = article.find(desc_tag)
+            else:
+                description = None
 
-            #  Fallback to headline-based summary if no description
             if description and description.text.strip():
                 description_text = description.text.strip()
+            else:
+                if len(headline.split()) > 5:
+                    description_text = "Summary based on headline: " + headline
                 else:
                     description_text = "No description available from source"
-                    if len(headline.split()) > 5:
-                        description_text = "Summary based on headline: " + headline
-                        # Create summary
-                        summary = description_text[:100] + "..." if len(description_text) > 100 else description_text
 
+            summary = description_text[:100] + "..." if len(description_text) > 100 else description_text
 
-            # Extract image (optional from AI)
             image = article.find_previous(source_config["image_tag"]) or article.find_next(source_config["image_tag"])
             image_url = image[source_config["image_attr"]] if image and source_config["image_attr"] in image.attrs else None
             if image_url and not image_url.startswith('http'):
@@ -227,7 +221,6 @@ def find_news(source_name, source_config, current_category):
 
             print(f"Saved from {source_name}: {headline}")
 
-            # Check for duplicates by headline
             if collection.count_documents({"headline": headline}) > 0:
                 print(f"Skipped {headline} - Already exists")
                 continue
@@ -238,14 +231,13 @@ def find_news(source_name, source_config, current_category):
                 "headline": headline,
                 "summary": summary,
                 "description": description_text,
-                "image": image_url,  # Can be None
-                "url": article_url,  # Can be generic(FIX?)
+                "image": image_url,
+                "url": article_url,
                 "timestamp": datetime.utcnow()
             })
 
 if __name__ == '__main__':
     while True:
-        # Get the current category and increment for next loop
         current_category = categories[category_index % len(categories)]
         category_index += 1
 
