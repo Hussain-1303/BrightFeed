@@ -1,51 +1,89 @@
-import React, { useState, useEffect } from 'react';
-import Article from './components/Article';
-import Navigation from './components/Navigation';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import NewsPage from './components/NewsPage';
 import './App.css';
 
 const App = () => {
-  const [articles, setArticles] = useState([]);
-  const [currentIndex, setCurrentIndex] = useState(0);
-
-  // Fetching articles
-  useEffect(() => {
-    const fetchArticles = async () => {
-      try {
-        const response = await fetch('/data/articles.json');
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        const data = await response.json();
-        setArticles(data);
-      } catch (error) {
-        console.error('Error fetching articles:', error);
-      }
-    };
-  
-    fetchArticles();
-  }, []);
-
-  const nextArticle = () => {
-    setCurrentIndex((prevIndex) => (prevIndex + 1) % articles.length);
-  };
-
-  const previousArticle = () => {
-    setCurrentIndex(
-      (prevIndex) => (prevIndex - 1 + articles.length) % articles.length
-    );
-  };
+  const categories = ["world", "art", "tech", "science", "gaming", "sport", "business"];
 
   return (
-    <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center py-10">
-      <h1 className="text-4xl font-semibold text-center text-blue-600 mb-8">BrightFeed</h1>
-      {articles.length > 0 ? (
-        <div className="max-w-2xl w-full bg-white p-6 rounded-lg shadow-lg">
-          <Article article={articles[currentIndex]} />
-          <Navigation next={nextArticle} previous={previousArticle} />
-        </div>
-      ) : (
-        <p className="text-xl text-gray-600">Loading...</p>
-      )}
+    <Router>
+      <div className="flex flex-col min-h-screen bg-pink-400">
+        {/* Header */}
+        <header className="bg-pink-500 text-yellow-300 p-4 shadow-lg">
+          <div className="max-w-7xl mx-auto">
+            <h1 className="text-4xl font-extrabold tracking-wider">
+              <Link to="/">BRIGHTFEED</Link>
+            </h1>
+          </div>
+        </header>
+
+        {/* Main Content */}
+        <main className="flex-grow">
+          <Routes>
+            <Route path="/" element={<LandingPage categories={categories} />} />
+            {categories.map((category) => (
+              <Route
+                key={category}
+                path={`/${category}`}
+                element={<NewsPage category={category} />}
+              />
+            ))}
+          </Routes>
+        </main>
+
+        {/* Footer */}
+        <footer className="bg-pink-500 text-yellow-300 p-6">
+          <div className="max-w-7xl mx-auto flex justify-between items-center">
+            <p className="text-lg font-semibold">BRIGHTFEED © 2025</p>
+            <p className="text-sm">
+              FRESH NEWS DAILY—STAY CURIOUS, STAY CONNECTED.
+            </p>
+          </div>
+        </footer>
+      </div>
+    </Router>
+  );
+};
+
+// Landing Page Component
+const LandingPage = ({ categories }) => {
+  return (
+    <div className="max-w-7xl mx-auto py-12 px-4">
+      <section className="mb-12">
+        <h2 className="text-5xl font-extrabold text-blue-600 leading-tight">
+          BRIGHTFEED
+        </h2>
+        <p className="text-xl text-blue-500 mt-2">
+          YOUR PLAYFUL GATEWAY TO THE LATEST STORIES—PICK A CATEGORY AND DIVE IN!
+        </p>
+      </section>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {categories.map((category) => (
+          <Link
+            key={category}
+            to={`/${category}`}
+            className="relative bg-white rounded-2xl shadow-md overflow-hidden flex items-center p-6"
+          >
+            <div className="absolute top-2 right-2 text-purple-400 text-xl">➜</div>
+            <div className="flex items-center gap-4">
+              <span className="text-4xl">
+                {category === "world" && "🌍"}
+                {category === "art" && "🎨"}
+                {category === "tech" && "💻"}
+                {category === "science" && "🔬"}
+                {category === "gaming" && "🎮"}
+                {category === "sport" && "⚽"}
+                {category === "business" && "💼"}
+              </span>
+              <h3 className="text-2xl font-semibold text-blue-600 capitalize">
+                {category} News
+              </h3>
+            </div>
+          </Link>
+        ))}
+      </div>
     </div>
   );
 };
