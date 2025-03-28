@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bright Feed (JS Version)</title>
+</head>
+<body>
+<script>
+  // Wait for DOMContent to be ready
+  document.addEventListener('DOMContentLoaded', function() {
+
+    /********************************
+     * 1) Create and inject the CSS *
+     ********************************/
+    const styleElement = document.createElement('style');
+    styleElement.textContent = `
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Helvetica Neue', Arial, sans-serif;
+      }
+      body {
+        background: #FF6BD6; /* Vibrant pink background */
+        color: #5A2E8C;
+        overflow-x: hidden;
+      }
+      .container {
+        width: 90%;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .header {
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+      .header h1 {
+        font-size: 3rem;
+        font-weight: 900;
+        letter-spacing: 2px;
+      }
+      .header p {
+        font-size: 1rem;
+        margin-top: 0.5rem;
+      }
+      .main-layout {
+        display: grid;
+        grid-template-columns: 1.5fr 2fr; 
+        gap: 2rem; 
+        width: 100%;
+      }
+      .world-news {
+        background: #FFFFFF;
+        border-radius: 1rem;
+        padding: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        min-height: 300px;
+      }
+      .world-news h2 {
+        font-size: 2rem;
+        color: #5A2E8C;
+      }
+      .world-news .arrow {
+        position: absolute;
+        bottom: 1rem;
+        right: 1rem;
+        font-size: 1.5rem;
+        color: #5A2E8C;
+        text-decoration: none;
+      }
+      .categories {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+      }
+      .category-box {
+        background: #FFFFFF;
+        border-radius: 1rem;
+        padding: 1rem;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        min-height: 120px;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+      .category-box:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+      }
+      .category-box img {
+        width: 50px;
+        height: 50px;
+        object-fit: contain;
+        margin-bottom: 0.5rem;
+      }
+      .category-box h3 {
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+        color: #5A2E8C;
+      }
+      .category-box .arrow {
+        position: absolute;
+        bottom: 0.75rem;
+        right: 0.75rem;
+        font-size: 1rem;
+        color: #5A2E8C;
+        text-decoration: none;
+      }
+      .footer {
+        margin-top: 2rem;
+        font-size: 0.8rem;
+        text-align: center;
+        color: #FFFFFF;
+      }
+      @media (max-width: 768px) {
+        .main-layout {
+          grid-template-columns: 1fr;
+        }
+        .categories {
+          grid-template-columns: 1fr;
+        }
+      }
+    `;
+    document.head.appendChild(styleElement);
+
+    /****************************************
+     * 2) Build DOM Elements via JavaScript *
+     ****************************************/
+
+    // ============ CONTAINER ============
+    const container = document.createElement('div');
+    container.className = 'container';
+
+    // ============ HEADER ===============
+    const header = document.createElement('div');
+    header.className = 'header';
+
+    const headerTitle = document.createElement('h1');
+    headerTitle.textContent = 'BRIGHT FEED';
+
+    const headerSubtitle = document.createElement('p');
+    headerSubtitle.textContent = 'Your playful gateway to the latest stories — pick a category and dive in!';
+
+    header.appendChild(headerTitle);
+    header.appendChild(headerSubtitle);
+
+    // ============ MAIN LAYOUT ==========
+    const mainLayout = document.createElement('div');
+    mainLayout.className = 'main-layout';
+
+    // -- World News Box --
+    const worldNews = document.createElement('div');
+    worldNews.className = 'world-news';
+
+    const worldNewsHeading = document.createElement('h2');
+    worldNewsHeading.textContent = 'World News';
+
+    const worldNewsLink = document.createElement('a');
+    worldNewsLink.href = '#';
+    worldNewsLink.className = 'arrow';
+    worldNewsLink.textContent = '→';
+
+    worldNews.appendChild(worldNewsHeading);
+    worldNews.appendChild(worldNewsLink);
+
+    // -- Categories Grid --
+    const categories = document.createElement('div');
+    categories.className = 'categories';
+
+    // Function to create a category card
+    function createCategoryBox(imgSrc, imgAlt, titleText, linkHref) {
+      const box = document.createElement('div');
+      box.className = 'category-box';
+
+      const img = document.createElement('img');
+      img.src = imgSrc;       // placeholder or actual path
+      img.alt = imgAlt;       // alt text
+
+      const h3 = document.createElement('h3');
+      h3.textContent = titleText;
+
+      const arrowLink = document.createElement('a');
+      arrowLink.href = linkHref;
+      arrowLink.className = 'arrow';
+      arrowLink.textContent = '→';
+
+      box.appendChild(img);
+      box.appendChild(h3);
+      box.appendChild(arrowLink);
+
+      return box;
+    }
+
+    // Add boxes for each category
+    const artNewsBox = createCategoryBox('art_news_icon.png','Art News Icon','Art News','#');
+    const techNewsBox = createCategoryBox('tech_news_icon.png','Tech News Icon','Tech News','#');
+    const scienceNewsBox = createCategoryBox('science_news_icon.png','Science News Icon','Science News','#');
+    const gamingNewsBox = createCategoryBox('gaming_news_icon.png','Gaming News Icon','Gaming News','#');
+    const sportNewsBox = createCategoryBox('sport_news_icon.png','Sport News Icon','Sport News','#');
+    const businessNewsBox = createCategoryBox('business_news_icon.png','Business News Icon','Business News','#');
+
+    // Append all category boxes
+    categories.appendChild(artNewsBox);
+    categories.appendChild(techNewsBox);
+    categories.appendChild(scienceNewsBox);
+    categories.appendChild(gamingNewsBox);
+    categories.appendChild(sportNewsBox);
+    categories.appendChild(businessNewsBox);
+
+    // Add World News + Categories to main layout
+    mainLayout.appendChild(worldNews);
+    mainLayout.appendChild(categories);
+
+    // ============ FOOTER ===============
+    const footer = document.createElement('div');
+    footer.className = 'footer';
+    const footerText = document.createElement('p');
+    footerText.textContent = '© 2025 BrightFeed • Fresh news daily—stay curious, stay connected.';
+    footer.appendChild(footerText);
+
+    // ============ ASSEMBLE =============
+    container.appendChild(header);
+    container.appendChild(mainLayout);
+    container.appendChild(footer);
+
+    // Append container to body
+    document.body.appendChild(container);
+  });
+</script>
+</body>
+</html>
