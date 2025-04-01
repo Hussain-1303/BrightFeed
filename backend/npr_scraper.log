@@ -1,0 +1,336 @@
+2025-03-28 13:02:16,098 - INFO - MongoDB connection successful
+2025-03-28 13:02:16,099 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-03-28 13:02:16,501 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,502 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,503 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,503 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,504 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,505 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,505 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,506 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,507 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,508 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,508 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,509 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,510 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,511 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,512 - WARNING - Error parsing article in art: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:16,512 - INFO - Scraped 0 articles from art
+2025-03-28 13:02:19,514 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-03-28 13:02:19,858 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,859 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,860 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,861 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,861 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,862 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,863 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,864 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,864 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,865 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,865 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,866 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,866 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,867 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,867 - WARNING - Error parsing article in tech: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:19,868 - INFO - Scraped 0 articles from tech
+2025-03-28 13:02:20,968 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-03-28 13:02:21,392 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,393 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,394 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,394 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,395 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,396 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,397 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,398 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,398 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,399 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,399 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,400 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,400 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,401 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,402 - WARNING - Error parsing article in science: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:21,402 - INFO - Scraped 0 articles from science
+2025-03-28 13:02:22,775 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-03-28 13:02:23,202 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,203 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,204 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,205 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,205 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,206 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,207 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,209 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,210 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,211 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,212 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,212 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,213 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,214 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,215 - WARNING - Error parsing article in world: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:23,215 - INFO - Scraped 0 articles from world
+2025-03-28 13:02:25,765 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-03-28 13:02:26,189 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,190 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,191 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,192 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,193 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,193 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,194 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,195 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,195 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,196 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,197 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,197 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,198 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,198 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,199 - WARNING - Error parsing article in gaming: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:26,199 - INFO - Scraped 0 articles from gaming
+2025-03-28 13:02:28,030 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-03-28 13:02:28,386 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,387 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,388 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,388 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,389 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,389 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,390 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,391 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,391 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,392 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,392 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,393 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,393 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,394 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,395 - WARNING - Error parsing article in sport: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:28,395 - INFO - Scraped 0 articles from sport
+2025-03-28 13:02:29,810 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-03-28 13:02:30,253 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,254 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,255 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,256 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,256 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,257 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,258 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,259 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,260 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,260 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,261 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,262 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,262 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,263 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,264 - WARNING - Error parsing article in business: 'NoneType' object has no attribute 'strip'
+2025-03-28 13:02:30,264 - INFO - Scraped 0 articles from business
+2025-03-28 13:02:31,297 - INFO - No articles to save
+2025-03-28 13:02:31,298 - INFO - Waiting 30 minutes before next scan...
+2025-03-28 13:02:38,460 - INFO - Scraper stopped by user
+2025-03-28 13:05:15,047 - INFO - MongoDB connection successful
+2025-03-28 13:05:15,048 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-03-28 13:05:15,577 - INFO - Scraped 15 articles from art
+2025-03-28 13:05:18,179 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-03-28 13:05:18,730 - INFO - Scraped 15 articles from tech
+2025-03-28 13:05:20,188 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-03-28 13:05:20,673 - INFO - Scraped 15 articles from science
+2025-03-28 13:05:23,267 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-03-28 13:05:23,739 - INFO - Scraped 15 articles from world
+2025-03-28 13:05:26,501 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-03-28 13:05:27,172 - INFO - Scraped 15 articles from gaming
+2025-03-28 13:05:28,328 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-03-28 13:05:30,388 - INFO - Scraped 15 articles from sport
+2025-03-28 13:05:32,709 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-03-28 13:05:33,195 - INFO - Scraped 15 articles from business
+2025-03-28 13:05:36,114 - INFO - Inserted 105 new articles
+2025-03-28 13:05:36,115 - INFO - Waiting 30 minutes before next scan...
+2025-03-28 13:13:26,590 - INFO - Scraper stopped by user
+2025-03-28 13:15:41,196 - INFO - MongoDB connection successful
+2025-03-28 13:15:41,196 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-03-28 13:15:41,573 - INFO - Scraped 15 articles from art
+2025-03-28 13:15:43,835 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-03-28 13:15:44,212 - INFO - Scraped 15 articles from tech
+2025-03-28 13:15:46,703 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-03-28 13:15:47,173 - INFO - Scraped 15 articles from science
+2025-03-28 13:15:49,488 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-03-28 13:15:49,851 - INFO - Scraped 15 articles from world
+2025-03-28 13:15:51,803 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-03-28 13:15:52,085 - INFO - Scraped 15 articles from gaming
+2025-03-28 13:15:53,235 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-03-28 13:15:53,996 - INFO - Scraped 15 articles from sport
+2025-03-28 13:15:55,677 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-03-28 13:15:56,032 - INFO - Scraped 15 articles from business
+2025-03-28 13:15:58,199 - INFO - Inserted 105 new articles
+2025-03-28 13:15:58,200 - INFO - Waiting 30 minutes before next scan...
+2025-03-28 21:57:45,943 - INFO - MongoDB connection successful
+2025-03-28 21:57:45,943 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-03-28 21:57:46,314 - INFO - Duplicate article found: A guide to the Karen Read case, as she returns to court for her second murder trial
+2025-03-28 21:57:46,315 - INFO - Duplicate article found: Is marriage worth it? Single women say no.
+2025-03-28 21:57:46,316 - INFO - Duplicate article found: Indie developers showed off big ideas at this year's Game Developers Conference
+2025-03-28 21:57:46,316 - INFO - Duplicate article found: A young man's homecoming sets off erotic shockwaves in this unsettling French thriller
+2025-03-28 21:57:46,317 - INFO - Duplicate article found: Sigrid Nunez's 'The Friend' tells a story of friendship and despair
+2025-03-28 21:57:46,318 - INFO - Duplicate article found: 'Death of a Unicorn' is a myth-fire
+2025-03-28 21:57:46,319 - INFO - Duplicate article found: Trump executive order seeks to 'restore' American history through Smithsonian overhaul
+2025-03-28 21:57:46,319 - INFO - Duplicate article found: The Sundance Film Festival announces its new home: Boulder, Colorado
+2025-03-28 21:57:46,320 - INFO - Duplicate article found: 'Việt and Nam' is a film about love, exile and the memory of war
+2025-03-28 21:57:46,321 - INFO - Duplicate article found: John Green cherishes life by writing about death
+2025-03-28 21:57:46,321 - INFO - Duplicate article found: New in theaters this week: A dead unicorn, an adopted penguin, and a band reunited
+2025-03-28 21:57:46,322 - INFO - Duplicate article found: March Madness and babies: Are the sounds of the game too big for little ears?
+2025-03-28 21:57:46,322 - INFO - Scraped 3 articles from art
+2025-03-28 21:57:48,936 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-03-28 21:57:49,167 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-03-28 21:57:49,168 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-03-28 21:57:49,169 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-03-28 21:57:49,170 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-03-28 21:57:49,171 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-03-28 21:57:49,171 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-03-28 21:57:49,172 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-03-28 21:57:49,173 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-03-28 21:57:49,173 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-03-28 21:57:49,174 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-03-28 21:57:49,175 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-03-28 21:57:49,175 - INFO - Duplicate article found: Here are all the ways people are disappearing from government websites
+2025-03-28 21:57:49,176 - INFO - Duplicate article found: ChatGPT can help write an essay. Scientists want it to start folding laundry
+2025-03-28 21:57:49,176 - INFO - Duplicate article found: A Tesla protester targeted by Elon Musk speaks out: 'I have to protect myself'
+2025-03-28 21:57:49,177 - INFO - Duplicate article found: Why 'Severance' is 'not that far off' from reality, according to one scientist
+2025-03-28 21:57:49,177 - INFO - Scraped 0 articles from tech
+2025-03-28 21:57:51,931 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-03-28 21:57:52,461 - INFO - Duplicate article found: Narwhal sightings are rare. Scientists just saw them use their tusks in new ways
+2025-03-28 21:57:52,462 - INFO - Duplicate article found: Photos: Peak bloom in D.C. draws cherry blossom fans from near and far
+2025-03-28 21:57:52,462 - INFO - Duplicate article found: The world has no rulebook for deep-sea mining. One company is pushing forward anyway
+2025-03-28 21:57:52,463 - INFO - Duplicate article found: EV buyers who missed out on their tax credits now have a fix from the IRS
+2025-03-28 21:57:52,464 - INFO - Duplicate article found: What's soil blocking? This seeding method helps gardeners use less plastic and peat
+2025-03-28 21:57:52,465 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-03-28 21:57:52,465 - INFO - Duplicate article found: Why don't diving seals drown? Scientists finally have an answer
+2025-03-28 21:57:52,465 - INFO - Duplicate article found: Why a tiny bit of oil can be a big deal
+2025-03-28 21:57:52,466 - INFO - Duplicate article found: Parts of America will experience a partial solar eclipse this weekend
+2025-03-28 21:57:52,466 - INFO - Duplicate article found: March Madness is underway. So is March Napness, the tournament for hibernating bears
+2025-03-28 21:57:52,467 - INFO - Duplicate article found: In the Arctic, microalgae are doing the limbo
+2025-03-28 21:57:52,467 - INFO - Duplicate article found: Lavender, citrus and candy: Weed's signature aroma changes with the times
+2025-03-28 21:57:52,467 - INFO - Duplicate article found: NASA website axes a pledge to land a woman and a person of color on the moon
+2025-03-28 21:57:52,468 - INFO - Duplicate article found: Doctors still seeking cure for brain cancer that struck former Utah Rep. Mia Love
+2025-03-28 21:57:52,468 - INFO - Duplicate article found: Feeling scatterbrained? 5 ways to focus your attention
+2025-03-28 21:57:52,468 - INFO - Scraped 0 articles from science
+2025-03-28 21:57:54,180 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-03-28 21:57:54,498 - INFO - Duplicate article found: Israel will 'strike anywhere in Lebanon against any threat,' Netanyahu warns
+2025-03-28 21:57:54,500 - INFO - Duplicate article found: Food is running out in Gaza nearly a month into Israeli blockade
+2025-03-28 21:57:54,500 - INFO - Duplicate article found: The world has no rulebook for deep-sea mining. One company is pushing forward anyway
+2025-03-28 21:57:54,501 - INFO - Duplicate article found: Ukrainians in front line regions reel from losses, but say hope dies last for them
+2025-03-28 21:57:54,502 - INFO - Duplicate article found: Deported over a Real Madrid tattoo? Lawyer claims his client is not a gang member
+2025-03-28 21:57:54,502 - INFO - Duplicate article found: As Bangladesh gears up for election, a new political player emerges
+2025-03-28 21:57:54,503 - INFO - Duplicate article found: Climate change and overfishing threaten Vietnam's tradition of making fish sauce
+2025-03-28 21:57:54,503 - INFO - Duplicate article found: As U.S. foreign aid grants get slashed, Greenland gets money for a dog race
+2025-03-28 21:57:54,504 - INFO - Duplicate article found: What to know about Pituffik, the only U.S. military base in Greenland
+2025-03-28 21:57:54,505 - INFO - Duplicate article found: Brazil's Supreme Court says Bolsonaro must stand trial over alleged coup attempt
+2025-03-28 21:57:54,505 - INFO - Scraped 5 articles from world
+2025-03-28 21:57:56,352 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-03-28 21:57:56,745 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-03-28 21:57:56,745 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-03-28 21:57:56,746 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-03-28 21:57:56,747 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-03-28 21:57:56,747 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-03-28 21:57:56,748 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-03-28 21:57:56,748 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-03-28 21:57:56,749 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-03-28 21:57:56,749 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-03-28 21:57:56,750 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-03-28 21:57:56,751 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-03-28 21:57:56,752 - INFO - Duplicate article found: Here are all the ways people are disappearing from government websites
+2025-03-28 21:57:56,752 - INFO - Duplicate article found: ChatGPT can help write an essay. Scientists want it to start folding laundry
+2025-03-28 21:57:56,753 - INFO - Duplicate article found: A Tesla protester targeted by Elon Musk speaks out: 'I have to protect myself'
+2025-03-28 21:57:56,755 - INFO - Duplicate article found: Why 'Severance' is 'not that far off' from reality, according to one scientist
+2025-03-28 21:57:56,755 - INFO - Scraped 0 articles from gaming
+2025-03-28 21:57:58,806 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-03-28 21:57:59,214 - INFO - Duplicate article found: Cooper Flagg sends Duke into Elite Eight while Texas Tech wins an overtime thriller
+2025-03-28 21:57:59,214 - INFO - Duplicate article found: March Madness and babies: Are the sounds of the game too big for little ears?
+2025-03-28 21:57:59,215 - INFO - Duplicate article found: Déjà vu all over again? Dodgers are favorites as 2025 MLB season begins
+2025-03-28 21:57:59,216 - INFO - Duplicate article found: Why women athletes face higher ACL injury risk than men, according to a sports physician
+2025-03-28 21:57:59,216 - INFO - Duplicate article found: USC star JuJu Watkins carried off the court as NCAA tournament reaches the Sweet 16
+2025-03-28 21:57:59,218 - INFO - Duplicate article found: Anticipating more home runs this baseball season? It might be climate change
+2025-03-28 21:57:59,219 - INFO - Duplicate article found: Lindsey Vonn sets a record straight out of retirement
+2025-03-28 21:57:59,220 - INFO - Duplicate article found: Dreams of a three-peat come crashing at the NCAA basketball tournament
+2025-03-28 21:57:59,220 - INFO - Duplicate article found: As Ovechkin nears the NHL goals record, the hockey world leans in to savor the moment
+2025-03-28 21:57:59,221 - INFO - Duplicate article found: Where is the NCAA basketball tournament game-winning buzzer-beater?
+2025-03-28 21:57:59,222 - INFO - Duplicate article found: Orlando Magic's Moe Wagner discusses the fine art of German trash talk
+2025-03-28 21:57:59,223 - INFO - Duplicate article found: George Foreman, the fearsome heavyweight who became a beloved champion, dies at 76
+2025-03-28 21:57:59,224 - INFO - Duplicate article found: Remembering award-winning sports journalist John Feinstein
+2025-03-28 21:57:59,225 - INFO - Duplicate article found: Survive and advance: First-day upsets set the table for March Madness
+2025-03-28 21:57:59,225 - INFO - Duplicate article found: Zimbabwean millennial Kirsty Coventry gets Olympic top job
+2025-03-28 21:57:59,225 - INFO - Scraped 0 articles from sport
+2025-03-28 21:58:00,503 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-03-28 21:58:00,931 - INFO - Duplicate article found: Trump signs order ending union bargaining rights for wide swaths of federal employees
+2025-03-28 21:58:00,932 - INFO - Duplicate article found: U.S. sees large rise in border seizures of eggs, while fentanyl rate falls
+2025-03-28 21:58:00,933 - INFO - Duplicate article found: Missing taxes, spiking copper and Napster's re-re-rebirth
+2025-03-28 21:58:00,933 - INFO - Duplicate article found: Trump's new tariffs on imported cars could have a clear winner: Tesla
+2025-03-28 21:58:00,934 - INFO - Duplicate article found: How pro-Trump media is covering the Signal leak
+2025-03-28 21:58:00,935 - INFO - Duplicate article found: A lawyer who represented SpaceX looks to downsize federal contracting watchdog
+2025-03-28 21:58:00,936 - INFO - Duplicate article found: The world has no rulebook for deep-sea mining. One company is pushing forward anyway
+2025-03-28 21:58:00,936 - INFO - Duplicate article found: How nonprofits get cash from your clunker
+2025-03-28 21:58:00,937 - INFO - Duplicate article found: Trump announces new 25% tariff on imported cars and car parts
+2025-03-28 21:58:00,938 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-03-28 21:58:00,938 - INFO - Duplicate article found: EV buyers who missed out on their tax credits now have a fix from the IRS
+2025-03-28 21:58:00,939 - INFO - Duplicate article found: Planet Money buys a mystery diamond
+2025-03-28 21:58:00,939 - INFO - Scraped 3 articles from business
+2025-03-28 21:58:02,671 - INFO - Inserted 11 new articles
+2025-03-28 21:58:02,671 - INFO - Waiting 30 minutes before next scan...
+2025-03-28 22:11:38,869 - INFO - Scraper stopped by user
+2025-04-01 10:56:25,896 - INFO - MongoDB connection successful
+2025-04-01 10:56:25,896 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 10:56:27,234 - INFO - Scraped 15 articles from art
+2025-04-01 10:56:29,967 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 10:56:31,018 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-04-01 10:56:31,018 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-04-01 10:56:31,019 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 10:56:31,020 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-04-01 10:56:31,020 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-04-01 10:56:31,021 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-04-01 10:56:31,022 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-04-01 10:56:31,022 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-04-01 10:56:31,023 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-04-01 10:56:31,024 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-04-01 10:56:31,025 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-04-01 10:56:31,025 - INFO - Scraped 4 articles from tech
+2025-04-01 10:56:32,399 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 10:56:33,179 - INFO - Duplicate article found: Narwhal sightings are rare. Scientists just saw them use their tusks in new ways
+2025-04-01 10:56:33,180 - INFO - Duplicate article found: Photos: Peak bloom in D.C. draws cherry blossom fans from near and far
+2025-04-01 10:56:33,181 - INFO - Duplicate article found: The world has no rulebook for deep-sea mining. One company is pushing forward anyway
+2025-04-01 10:56:33,182 - INFO - Duplicate article found: EV buyers who missed out on their tax credits now have a fix from the IRS
+2025-04-01 10:56:33,182 - INFO - Duplicate article found: What's soil blocking? This seeding method helps gardeners use less plastic and peat
+2025-04-01 10:56:33,183 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 10:56:33,183 - INFO - Duplicate article found: Why don't diving seals drown? Scientists finally have an answer
+2025-04-01 10:56:33,184 - INFO - Duplicate article found: Why a tiny bit of oil can be a big deal
+2025-04-01 10:56:33,185 - INFO - Duplicate article found: Parts of America will experience a partial solar eclipse this weekend
+2025-04-01 10:56:33,185 - INFO - Duplicate article found: March Madness is underway. So is March Napness, the tournament for hibernating bears
+2025-04-01 10:56:33,186 - INFO - Duplicate article found: In the Arctic, microalgae are doing the limbo
+2025-04-01 10:56:33,186 - INFO - Scraped 4 articles from science
+2025-04-01 10:56:35,757 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 10:56:36,591 - INFO - Scraped 15 articles from world
+2025-04-01 10:56:38,366 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 10:56:39,124 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-04-01 10:56:39,125 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-04-01 10:56:39,125 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 10:56:39,126 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-04-01 10:56:39,127 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-04-01 10:56:39,127 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-04-01 10:56:39,128 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-04-01 10:56:39,129 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-04-01 10:56:39,129 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-04-01 10:56:39,130 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-04-01 10:56:39,130 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-04-01 10:56:39,130 - INFO - Scraped 4 articles from gaming
+2025-04-01 10:56:40,970 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 10:56:41,645 - INFO - Duplicate article found: Cooper Flagg sends Duke into Elite Eight while Texas Tech wins an overtime thriller
+2025-04-01 10:56:41,645 - INFO - Duplicate article found: March Madness and babies: Are the sounds of the game too big for little ears?
+2025-04-01 10:56:41,646 - INFO - Duplicate article found: Déjà vu all over again? Dodgers are favorites as 2025 MLB season begins
+2025-04-01 10:56:41,647 - INFO - Duplicate article found: Why women athletes face higher ACL injury risk than men, according to a sports physician
+2025-04-01 10:56:41,648 - INFO - Duplicate article found: USC star JuJu Watkins carried off the court as NCAA tournament reaches the Sweet 16
+2025-04-01 10:56:41,648 - INFO - Duplicate article found: Anticipating more home runs this baseball season? It might be climate change
+2025-04-01 10:56:41,649 - INFO - Duplicate article found: Lindsey Vonn sets a record straight out of retirement
+2025-04-01 10:56:41,650 - INFO - Duplicate article found: Dreams of a three-peat come crashing at the NCAA basketball tournament
+2025-04-01 10:56:41,651 - INFO - Duplicate article found: As Ovechkin nears the NHL goals record, the hockey world leans in to savor the moment
+2025-04-01 10:56:41,651 - INFO - Duplicate article found: Where is the NCAA basketball tournament game-winning buzzer-beater?
+2025-04-01 10:56:41,652 - INFO - Duplicate article found: Orlando Magic's Moe Wagner discusses the fine art of German trash talk
+2025-04-01 10:56:41,652 - INFO - Scraped 4 articles from sport
+2025-04-01 10:56:44,276 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 10:56:45,526 - INFO - Duplicate article found: Federal judge prevents Trump administration from dismantling CFPB
+2025-04-01 10:56:45,527 - INFO - Duplicate article found: Appeals court rules Trump can fire board members of independent agencies
+2025-04-01 10:56:45,529 - INFO - Duplicate article found: PM x Radiolab: Can the economy grow forever?
+2025-04-01 10:56:45,530 - INFO - Duplicate article found: Trump signs order ending union bargaining rights for wide swaths of federal employees
+2025-04-01 10:56:45,530 - INFO - Scraped 11 articles from business
+2025-04-01 10:56:47,277 - INFO - Inserted 57 new articles
+2025-04-01 10:56:47,278 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 11:17:15,271 - INFO - Scraper stopped by user

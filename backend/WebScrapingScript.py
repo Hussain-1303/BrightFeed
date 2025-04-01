@@ -1,213 +1,211 @@
 from bs4 import BeautifulSoup
 import requests
 import time
-import os
 import random
 from datetime import datetime
 from pymongo import MongoClient
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+import logging
+import hashlib
 
-# Connect to MongoDB
-client = MongoClient("mongodb://localhost:27017/")
-db = client["NewsScraper"]
-collection = db["news"]
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('npr_scraper.log'),
+        logging.StreamHandler()
+    ]
+)
 
-# Create a folder for articles DEBUGGING
-if not os.path.exists('news_articles'):
-    os.makedirs('news_articles')
-
-# Track used images to prevent duplicates
-used_images = set()
-
-# Master category list
-all_categories = ["world", "technology", "business", "sport", "arts", "science", "us", "politics", "health", "travel"]
-
-# News source configuration
-news_sources = {
-    "BBC": {
-        "url_template": "https://www.bbc.com/{category}",
-        "default_category": "news",
-        "category_map": {"arts": "culture", "sport": "sport", "business": "business", "innovation": "innovation", "culture": "culture", "travel": "travel"},
-        "tag": "div",
-        "class": "gs-c-promo",
-        "headline_tag": "h3",
-        "link_tag": "a",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
-    "CNN": {
-        "url_template": "https://www.cnn.com/{category}",
-        "default_category": "world",
-        "category_map": {},
-        "tag": "a",
-        "class": "container__link",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
-    "CBC": {
-        "url_template": "https://www.cbc.ca/news/{category}",
-        "default_category": "world",
-        "category_map": {},
-        "headline": "h3",
-        "description": "p",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
-    "The Guardian": {
-        "url_template": "https://www.theguardian.com/{category}",
-        "default_category": "world",
-        "category_map": {},
-        "valid_categories": ["world", "technology", "business", "science", "environment", "sport", "global-development"],
-        "tag": "h3",
-        "class": "fc-item__title",
-        "description_tag": "div",
-        "description_class": "fc-item__standfirst",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
-    "NPR": {
-        "url_template": "https://www.npr.org/sections/{category}",
-        "default_category": "news",
-        "category_map": {},
-        "tag": "h2",
-        "class": "title",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
-    "ABC News": {
-        "url_template": "https://abcnews.go.com/{category}",
-        "default_category": "International",
-        "category_map": {"business": "Business", "technology": "Technology", "sport": "Sports"},
-        "tag": "h2",
-        "class": "Heading",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
-    "The New York Times": {
-        "url_template": "https://www.nytimes.com/section/{category}",
-        "default_category": "world",
-        "category_map": {},
-        "tag": "h2",
-        "class": "css-1j9dxys",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
-    "CTV News": {
-        "url_template": "https://www.ctvnews.ca/{category}",
-        "default_category": "world",
-        "category_map": {},
-        "tag": "h3",
-        "class": "teaserTitle",
-        "image_tag": "img",
-        "image_attr": "src"
-    },
-}
-
-def get_url(source_config, category):
-    category_map = source_config.get("category_map", {})
-    valid_categories = source_config.get("valid_categories", [])
-    mapped_category = category_map.get(category, category if not valid_categories or category in valid_categories else source_config["default_category"])
-    return source_config["url_template"].format(category=mapped_category)
-
-def find_news(source_name, source_config, current_category):
-    url = get_url(source_config, current_category)
-    print(f"\nFetching news from {source_name} in category '{current_category}': {url}")
-
-    session = requests.Session()
-    retry_strategy = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
-    adapter = HTTPAdapter(max_retries=retry_strategy)
-    session.mount("http://", adapter)
-    session.mount("https://", adapter)
-
-    headers = {'User-Agent': 'Mozilla/5.0'}
-
+# Main scraper configuration and logic
+def main():
+    # MongoDB setup
+    client = MongoClient("mongodb://localhost:27017/")
+    db = client["NewsScraper"]
+    collection = db["news"]
+    
+    # Verify MongoDB connection
     try:
-        response = session.get(url, headers=headers, timeout=10)
-        response.raise_for_status()
+        client.admin.command('ping')
+        logging.info("MongoDB connection successful")
     except Exception as e:
-        print(f"Error fetching from {source_name}: {e}")
-        return
+        logging.error(f"MongoDB connection failed: {e}")
+        exit(1)
 
-    soup = BeautifulSoup(response.text, 'html.parser')
+    # NPR configuration
+    config = {
+        "base_url": "https://www.npr.org",
+        "categories": {
+            "art": "sections/arts",
+            "tech": "sections/technology",
+            "science": "sections/science",
+            "world": "sections/world",
+            "gaming": "sections/technology",  # NPR doesn't have gaming, map to technology
+            "sport": "sections/sports",
+            "business": "sections/business"
+        },
+        "selectors": {
+            "articles": "article.item",
+            "headline": "h2.title a",
+            "link": "h2.title a",
+            "image": "div.imagewrap img",
+            "description": "p.teaser a",
+            "timestamp": "time[datetime]"
+        },
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Referer": "https://www.npr.org/"
+        }
+    }
 
-    if source_name == "BBC":
-        articles = soup.find_all(source_config["tag"], class_=source_config["class"])
-    elif source_name == "CNN":
-        articles = soup.find_all(source_config["tag"], class_=source_config["class"])
-    elif source_name == "CBC":
-        articles = soup.find_all(source_config["headline"])
-    elif source_name == "The Guardian":
-        articles = soup.select("h3.fc-item__title")
-    else:
-        articles = soup.find_all(source_config["tag"], class_=source_config["class"])
+    def scrape_page(url):
+        """Fetch page with error handling"""
+        try:
+            response = requests.get(url, headers=config["headers"], timeout=10)
+            response.raise_for_status()
+            return response.text
+        except Exception as e:
+            logging.error(f"Error fetching {url}: {str(e)}")
+            return None
 
-    if not articles:
-        print(f"No articles found for {source_name} at {url}")
-        return
+    def parse_article(article, category):
+        """Extract article data with robust error handling"""
+        try:
+            # Headline and URL
+            headline_elem = article.select_one(config["selectors"]["headline"])
+            if not headline_elem:
+                logging.warning(f"No headline found for article in {category}")
+                return None
+                
+            headline = headline_elem.text.strip()
+            url = headline_elem['href']
+            if not url.startswith('http'):
+                url = config["base_url"] + url
+            
+            logging.debug(f"Found headline: {headline}")
 
-    with open("news_articles/news_article.txt", "a", encoding="utf-8") as f:
-        f.write(f"\n=== {source_name} - {current_category} - {time.strftime('%Y-%m-%d %H:%M:%S')} ===\n")
+            # Skip duplicates
+            content_hash = hashlib.md5((headline + url).encode()).hexdigest()
+            if collection.find_one({"content_hash": content_hash}):
+                logging.info(f"Duplicate article found: {headline}")
+                return None
 
-        for index, article in enumerate(articles[:10]):
-            if source_name == "BBC":
-                headline_tag = article.find(source_config.get("headline_tag", "h3"))
-                headline = headline_tag.get_text(strip=True) if headline_tag else "No headline"
-                link_tag = article.find(source_config.get("link_tag", "a"))
-                raw_url = link_tag.get("href") if link_tag else None
-            elif source_name == "CNN":
-                headline = article.get_text(strip=True)
-                raw_url = article.get("href")
+            # Description (extract text, removing the <time> tag's content)
+            desc_elem = article.select_one(config["selectors"]["description"])
+            description = ""
+            if desc_elem:
+                # Remove the <time> tag and its content
+                time_elem = desc_elem.find('time')
+                if time_elem:
+                    time_elem.extract()  # Remove the <time> tag
+                description = desc_elem.text.strip()
+                if not description:  # If description is empty after removing <time>
+                    description = headline[:100] + "..."
             else:
-                headline_tag = article.find("a")
-                headline = headline_tag.get_text(strip=True) if headline_tag else article.get_text(strip=True)
-                raw_url = headline_tag.get("href") if headline_tag else None
+                description = headline[:100] + "..."
 
-            article_url = requests.compat.urljoin(url + "/", raw_url) if raw_url else url
+            logging.debug(f"Extracted description: {description}")
 
-            desc_tag = source_config.get("description_tag") or source_config.get("description")
-            desc_class = source_config.get("description_class")
-            description = article.find(desc_tag, class_=desc_class) if desc_tag and desc_class else (article.find(desc_tag) if desc_tag else None)
-            description_text = description.text.strip() if description and description.text.strip() else "Summary based on headline: " + headline
-            summary = description_text[:100] + "..." if len(description_text) > 100 else description_text
+            # Image
+            img_elem = article.select_one(config["selectors"]["image"])
+            img_url = img_elem['src'] if img_elem and 'src' in img_elem.attrs else None
+            logging.debug(f"Extracted image URL: {img_url}")
 
-            image = article.find(source_config["image_tag"]) or article.find_next(source_config["image_tag"])
-            image_url = image[source_config["image_attr"]] if image and source_config["image_attr"] in image.attrs else None
-            if image_url and not image_url.startswith('http'):
-                image_url = requests.compat.urljoin(url, image_url)
+            # Timestamp
+            time_elem = article.select_one(config["selectors"]["timestamp"])
+            timestamp = time_elem['datetime'] if time_elem and 'datetime' in time_elem.attrs else datetime.utcnow().isoformat()
+            logging.debug(f"Extracted timestamp: {timestamp}")
 
-            # Skip article if no image or if image is already used
-            if not image_url or image_url in used_images:
-                continue
-            used_images.add(image_url)
+            # Map NPR categories to frontend categories
+            mapped_category = category
+            if category == "gaming":
+                mapped_category = "tech"  # NPR doesn't have a gaming section
 
-            f.write(f"\nHeadline: {headline}\nSummary: {summary}\nDescription: {description_text}\nImage: {image_url or 'None'}\nSource: {article_url}\n")
-            f.write("=" * 50 + "\n")
-
-            print(f"Saved from {source_name}: {headline}")
-
-            if collection.count_documents({"headline": headline}) > 0:
-                print(f"Skipped {headline} - Already exists")
-                continue
-
-            collection.insert_one({
-                "category": current_category,
-                "source": source_name,
+            return {
+                "category": mapped_category,
+                "source": "NPR",
                 "headline": headline,
-                "summary": summary,
-                "description": description_text,
-                "image": image_url,
-                "url": article_url,
-                "timestamp": datetime.utcnow()
-            })
+                "description": description,
+                "summary": description[:150] + "..." if len(description) > 150 else description,
+                "sourceLink": url,
+                "image": img_url,
+                "date": timestamp,
+                "content_hash": content_hash
+            }
+
+        except Exception as e:
+            logging.warning(f"Error parsing article in {category}: {str(e)}")
+            return None
+
+    def scrape_category(category):
+        """Scrape a single category"""
+        url = f"{config['base_url']}/{config['categories'][category]}"
+        logging.info(f"Scraping {category}: {url}")
+        
+        html = scrape_page(url)
+        if not html:
+            return []
+            
+        soup = BeautifulSoup(html, 'html.parser')
+        articles = []
+        
+        article_elements = soup.select(config["selectors"]["articles"])
+        if not article_elements:
+            logging.warning(f"No articles found for {category} at {url}")
+        
+        for article in article_elements[:15]:
+            parsed = parse_article(article, category)
+            if parsed:
+                articles.append(parsed)
+        
+        logging.info(f"Scraped {len(articles)} articles from {category}")
+        return articles
+
+    def save_articles(articles):
+        """Save to MongoDB with batch insert"""
+        if not articles:
+            logging.info("No articles to save")
+            return
+            
+        try:
+            new_articles = [
+                article for article in articles
+                if not collection.find_one({"content_hash": article["content_hash"]})
+            ]
+            
+            if new_articles:
+                result = collection.insert_many(new_articles)
+                logging.info(f"Inserted {len(result.inserted_ids)} new articles")
+            else:
+                logging.info("No new articles found")
+                
+        except Exception as e:
+            logging.error(f"Database error: {str(e)}")
+
+    # Main execution loop
+    try:
+        while True:
+            all_articles = []
+            for category in config["categories"]:
+                try:
+                    articles = scrape_category(category)
+                    all_articles.extend(articles)
+                    time.sleep(random.uniform(1, 3))  # Respectful delay
+                except Exception as e:
+                    logging.error(f"Error in {category}: {str(e)}")
+                    continue
+            
+            save_articles(all_articles)
+            
+            logging.info("Waiting 30 minutes before next scan...")
+            time.sleep(1800)
+            
+    except KeyboardInterrupt:
+        logging.info("Scraper stopped by user")
+    finally:
+        client.close()
 
 if __name__ == '__main__':
-    while True:
-        for current_category in all_categories:
-            for source, config in news_sources.items():
-                find_news(source, config, current_category)
-                time.sleep(random.uniform(1, 3))
-        time_wait = 10
-        print(f"\nWaiting {time_wait} minutes before next full scan...")
-        time.sleep(time_wait * 60)
-
+    main()

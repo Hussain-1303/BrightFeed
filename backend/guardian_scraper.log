@@ -1,0 +1,68 @@
+2025-03-28 12:24:25,000 - INFO - Scraping world: https://www.theguardian.com/world
+2025-03-28 12:24:28,216 - INFO - Scraping technology: https://www.theguardian.com/technology
+2025-03-28 12:24:29,697 - INFO - Scraping business: https://www.theguardian.com/business
+2025-03-28 12:24:31,356 - INFO - Scraping science: https://www.theguardian.com/science
+2025-03-28 12:24:33,243 - INFO - Scraping sports: https://www.theguardian.com/sport
+2025-03-28 12:24:36,537 - INFO - Scraping politics: https://www.theguardian.com/politics
+2025-03-28 12:24:39,152 - INFO - Scraping environment: https://www.theguardian.com/environment
+2025-03-28 12:24:41,895 - INFO - Scan complete. Next run in 30 minutes...
+2025-03-28 12:28:54,133 - INFO - Scraper stopped by user
+2025-03-28 12:29:16,837 - INFO - MongoDB connection successful
+2025-03-28 12:29:16,837 - INFO - Scraping world: https://www.theguardian.com/world
+2025-03-28 12:29:19,247 - INFO - Scraping technology: https://www.theguardian.com/technology
+2025-03-28 12:29:22,440 - INFO - Scraping business: https://www.theguardian.com/business
+2025-03-28 12:29:24,655 - INFO - Scraping science: https://www.theguardian.com/science
+2025-03-28 12:29:26,714 - INFO - Scraping sports: https://www.theguardian.com/sport
+2025-03-28 12:29:28,829 - INFO - No articles to save
+2025-03-28 12:29:28,829 - INFO - Waiting 30 minutes before next scan...
+2025-03-28 12:29:49,138 - INFO - Scraper stopped by user
+2025-03-28 12:44:06,910 - INFO - MongoDB connection successful
+2025-03-28 12:44:06,910 - INFO - Scraping art: https://www.theguardian.com/culture
+2025-03-28 12:44:07,333 - WARNING - No articles found for art at https://www.theguardian.com/culture
+2025-03-28 12:44:07,333 - INFO - Scraped 0 articles from art
+2025-03-28 12:44:10,226 - INFO - Scraping tech: https://www.theguardian.com/technology
+2025-03-28 12:44:10,590 - WARNING - No articles found for tech at https://www.theguardian.com/technology
+2025-03-28 12:44:10,591 - INFO - Scraped 0 articles from tech
+2025-03-28 12:44:11,961 - INFO - Scraping science: https://www.theguardian.com/science
+2025-03-28 12:44:12,238 - WARNING - No articles found for science at https://www.theguardian.com/science
+2025-03-28 12:44:12,238 - INFO - Scraped 0 articles from science
+2025-03-28 12:44:14,308 - INFO - Scraping world: https://www.theguardian.com/world
+2025-03-28 12:44:14,597 - WARNING - No articles found for world at https://www.theguardian.com/world
+2025-03-28 12:44:14,597 - INFO - Scraped 0 articles from world
+2025-03-28 12:44:16,714 - INFO - Scraping gaming: https://www.theguardian.com/games
+2025-03-28 12:44:16,982 - WARNING - No articles found for gaming at https://www.theguardian.com/games
+2025-03-28 12:44:16,982 - INFO - Scraped 0 articles from gaming
+2025-03-28 12:44:19,331 - INFO - Scraping sport: https://www.theguardian.com/sport
+2025-03-28 12:44:20,065 - WARNING - No articles found for sport at https://www.theguardian.com/sport
+2025-03-28 12:44:20,065 - INFO - Scraped 0 articles from sport
+2025-03-28 12:44:21,564 - INFO - Scraping business: https://www.theguardian.com/business
+2025-03-28 12:44:21,920 - WARNING - No articles found for business at https://www.theguardian.com/business
+2025-03-28 12:44:21,920 - INFO - Scraped 0 articles from business
+2025-03-28 12:44:23,489 - INFO - No articles to save
+2025-03-28 12:44:23,490 - INFO - Waiting 30 minutes before next scan...
+2025-03-28 12:48:17,900 - INFO - Scraper stopped by user
+2025-03-28 12:50:22,602 - INFO - MongoDB connection successful
+2025-03-28 12:50:22,602 - INFO - Scraping art: https://www.theguardian.com/culture
+2025-03-28 12:50:22,975 - WARNING - No articles found for art at https://www.theguardian.com/culture
+2025-03-28 12:50:22,975 - INFO - Scraped 0 articles from art
+2025-03-28 12:50:24,882 - INFO - Scraping tech: https://www.theguardian.com/technology
+2025-03-28 12:50:25,516 - WARNING - No articles found for tech at https://www.theguardian.com/technology
+2025-03-28 12:50:25,516 - INFO - Scraped 0 articles from tech
+2025-03-28 12:50:28,388 - INFO - Scraping science: https://www.theguardian.com/science
+2025-03-28 12:50:28,656 - WARNING - No articles found for science at https://www.theguardian.com/science
+2025-03-28 12:50:28,657 - INFO - Scraped 0 articles from science
+2025-03-28 12:50:31,618 - INFO - Scraping world: https://www.theguardian.com/world
+2025-03-28 12:50:32,210 - WARNING - No articles found for world at https://www.theguardian.com/world
+2025-03-28 12:50:32,210 - INFO - Scraped 0 articles from world
+2025-03-28 12:50:34,198 - INFO - Scraping gaming: https://www.theguardian.com/games
+2025-03-28 12:50:34,502 - WARNING - No articles found for gaming at https://www.theguardian.com/games
+2025-03-28 12:50:34,502 - INFO - Scraped 0 articles from gaming
+2025-03-28 12:50:36,697 - INFO - Scraping sport: https://www.theguardian.com/sport
+2025-03-28 12:50:37,133 - WARNING - No articles found for sport at https://www.theguardian.com/sport
+2025-03-28 12:50:37,133 - INFO - Scraped 0 articles from sport
+2025-03-28 12:50:38,658 - INFO - Scraping business: https://www.theguardian.com/business
+2025-03-28 12:50:39,209 - WARNING - No articles found for business at https://www.theguardian.com/business
+2025-03-28 12:50:39,209 - INFO - Scraped 0 articles from business
+2025-03-28 12:50:41,332 - INFO - No articles to save
+2025-03-28 12:50:41,333 - INFO - Waiting 30 minutes before next scan...
+2025-03-28 13:02:12,123 - INFO - Scraper stopped by user
