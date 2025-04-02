@@ -1,0 +1,45 @@
+2025-04-01 22:01:16,773 - INFO - MongoDB connection successful
+2025-04-01 22:01:16,774 - INFO - Scraping npr - art: https://www.npr.org/sections/arts
+2025-04-01 22:01:18,225 - INFO - Scraping npr - tech: https://www.npr.org/sections/technology
+2025-04-01 22:01:20,359 - INFO - Scraping npr - science: https://www.npr.org/sections/science
+2025-04-01 22:01:22,601 - INFO - Scraping npr - world: https://www.npr.org/sections/world
+2025-04-01 22:01:24,273 - INFO - Scraping npr - gaming: https://www.npr.org/sections/technology
+2025-04-01 22:01:25,607 - INFO - Scraping npr - sport: https://www.npr.org/sections/sports
+2025-04-01 22:01:27,868 - INFO - Scraping npr - business: https://www.npr.org/sections/business
+2025-04-01 22:01:29,986 - INFO - Scraping reuters - world: https://www.reuters.com/world
+2025-04-01 22:01:30,130 - ERROR - Error fetching https://www.reuters.com/world: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world
+2025-04-01 22:01:30,132 - INFO - Scraping reuters - tech: https://www.reuters.com/technology
+2025-04-01 22:01:30,215 - ERROR - Error fetching https://www.reuters.com/technology: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology
+2025-04-01 22:01:30,216 - INFO - Scraping reuters - business: https://www.reuters.com/business
+2025-04-01 22:01:30,292 - ERROR - Error fetching https://www.reuters.com/business: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business
+2025-04-01 22:01:30,293 - INFO - Scraping techcrunch - tech: https://techcrunch.com/
+2025-04-01 22:01:32,047 - INFO - Scraping theverge - tech: https://www.theverge.com/tech
+2025-04-01 22:01:33,396 - INFO - Inserted 105 new articles
+2025-04-01 22:01:33,396 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 22:14:19,611 - INFO - Starting news scraper...
+2025-04-01 22:14:19,612 - INFO - Scraping NPR
+2025-04-01 22:14:22,709 - INFO - No new articles to insert
+2025-04-01 22:14:24,122 - INFO - Scraping BBC
+2025-04-01 22:14:25,566 - INFO - Scraping CNN
+2025-04-01 22:14:27,614 - INFO - Scraping Al Jazeera
+2025-04-01 22:14:27,795 - INFO - Inserted 10 new articles
+2025-04-01 22:14:29,169 - INFO - Total articles collected: 80
+2025-04-01 22:14:29,170 - INFO - Sleeping for 30 minutes...
+2025-04-01 22:15:50,560 - INFO - Starting news scraper...
+2025-04-01 22:15:50,560 - INFO - Scraping NPR
+2025-04-01 22:15:55,785 - INFO - Inserted 70 new articles
+2025-04-01 22:15:56,971 - INFO - Scraping BBC
+2025-04-01 22:15:58,553 - INFO - Scraping CNN
+2025-04-01 22:16:00,401 - INFO - Scraping Al Jazeera
+2025-04-01 22:16:00,598 - INFO - Inserted 10 new articles
+2025-04-01 22:16:01,695 - INFO - Total articles collected: 80
+2025-04-01 22:16:01,695 - INFO - Sleeping for 30 minutes...
+2025-04-01 22:33:35,256 - INFO - Starting news scraper...
+2025-04-01 22:33:35,256 - INFO - Scraping NPR
+2025-04-01 22:33:38,672 - INFO - Inserted 70 new articles
+2025-04-01 22:33:40,458 - INFO - Scraping BBC
+2025-04-01 22:33:41,630 - INFO - Scraping CNN
+2025-04-01 22:33:43,462 - INFO - Scraping Al Jazeera
+2025-04-01 22:33:43,633 - INFO - Inserted 10 new articles
+2025-04-01 22:33:44,957 - INFO - Total articles collected: 80
+2025-04-01 22:33:44,958 - INFO - Sleeping for 30 minutes...
