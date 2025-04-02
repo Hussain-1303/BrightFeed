@@ -334,3 +334,471 @@
 2025-04-01 10:56:47,277 - INFO - Inserted 57 new articles
 2025-04-01 10:56:47,278 - INFO - Waiting 30 minutes before next scan...
 2025-04-01 11:17:15,271 - INFO - Scraper stopped by user
+2025-04-01 20:29:52,589 - INFO - MongoDB connection successful
+2025-04-01 20:29:52,589 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 20:29:53,226 - INFO - Scraped 15 articles from art
+2025-04-01 20:29:54,640 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 20:29:55,086 - INFO - Scraped 15 articles from tech
+2025-04-01 20:29:56,952 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 20:29:57,205 - INFO - Scraped 15 articles from science
+2025-04-01 20:29:58,337 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 20:29:58,758 - INFO - Scraped 15 articles from world
+2025-04-01 20:30:00,116 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 20:30:01,252 - INFO - Scraped 15 articles from gaming
+2025-04-01 20:30:03,512 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 20:30:04,210 - INFO - Scraped 15 articles from sport
+2025-04-01 20:30:05,656 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 20:30:06,180 - INFO - Scraped 15 articles from business
+2025-04-01 20:30:09,013 - INFO - Inserted 105 new articles
+2025-04-01 20:30:09,014 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 20:32:36,561 - INFO - Scraper stopped by user
+2025-04-01 20:32:41,446 - INFO - MongoDB connection successful
+2025-04-01 20:32:41,446 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 20:32:42,219 - INFO - Duplicate article found: Thyme for some healing soup recipes from around the world
+2025-04-01 20:32:42,220 - INFO - Duplicate article found: A civil rights leader's family airs its dirty laundry on Broadway in 'Purpose'
+2025-04-01 20:32:42,221 - INFO - Duplicate article found: 6 tales of mystery and mishap — all hitting book stores on April Fools' Day
+2025-04-01 20:32:42,222 - INFO - Duplicate article found: Palestinian soap gets UNESCO recognition as Israel's military operation closes in
+2025-04-01 20:32:42,223 - INFO - Duplicate article found: Michelle Buteau's winsome 'Survival of the Thickest' is a natural selection
+2025-04-01 20:32:42,225 - INFO - Duplicate article found: Entire staff at federal agency that funds libraries and museums put on leave
+2025-04-01 20:32:42,226 - INFO - Duplicate article found: Older viewers are turning to YouTube. It's recently led me back to some favorite shows
+2025-04-01 20:32:42,227 - INFO - Duplicate article found: 'Adolescence' co-creator says 'maybe we're all accountable' for youth violence
+2025-04-01 20:32:42,228 - INFO - Duplicate article found: Seth Rogen and a fabulous cast highlight the satire 'The Studio'
+2025-04-01 20:32:42,230 - INFO - Duplicate article found: Cesar Chavez Day celebrates a lifetime fight for justice for farmworkers
+2025-04-01 20:32:42,231 - INFO - Duplicate article found: A folk legend gets a reunion he didn't sign up for in this melancholy charmer
+2025-04-01 20:32:42,232 - INFO - Duplicate article found: Beloved historic landmarks navigate an uncertain future after the LA fires
+2025-04-01 20:32:42,234 - INFO - Duplicate article found: Am I a god?! Why "manifesting" your reality is easier than ever
+2025-04-01 20:32:42,235 - INFO - Duplicate article found: Richard Chamberlain, TV actor who starred in 'Dr. Kildare,' dies at 90
+2025-04-01 20:32:42,236 - INFO - Duplicate article found: This may be the most lead polluted place on Earth. Is there any hope?
+2025-04-01 20:32:42,237 - INFO - Scraped 0 articles from art
+2025-04-01 20:32:44,393 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 20:32:45,354 - INFO - Duplicate article found: AI is great at predicting text. How well can it guide robots?
+2025-04-01 20:32:45,355 - INFO - Duplicate article found: Am I a god?! Why "manifesting" your reality is easier than ever
+2025-04-01 20:32:45,357 - INFO - Duplicate article found: Gambling with Memes
+2025-04-01 20:32:45,358 - INFO - Duplicate article found: Trump's changes to a $42 billion broadband program could be a win for Musk's Starlink
+2025-04-01 20:32:45,360 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-04-01 20:32:45,361 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-04-01 20:32:45,363 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 20:32:45,364 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-04-01 20:32:45,366 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-04-01 20:32:45,368 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-04-01 20:32:45,370 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-04-01 20:32:45,372 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-04-01 20:32:45,374 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-04-01 20:32:45,376 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-04-01 20:32:45,380 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-04-01 20:32:45,381 - INFO - Scraped 0 articles from tech
+2025-04-01 20:32:47,533 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 20:32:48,302 - INFO - Duplicate article found: Top scientists warn that Trump policies are causing a 'climate of fear' in research
+2025-04-01 20:32:48,304 - INFO - Duplicate article found: Rural leaders push Congress to unfreeze climate and environmental funds
+2025-04-01 20:32:48,306 - INFO - Duplicate article found: 3 places to see cherry blossoms that aren't Washington D.C.
+2025-04-01 20:32:48,308 - INFO - Duplicate article found: How did iguanas end up in Fiji? By raft
+2025-04-01 20:32:48,309 - INFO - Duplicate article found: SpaceX launches historic privately funded mission around Earth's poles
+2025-04-01 20:32:48,311 - INFO - Duplicate article found: AI is great at predicting text. How well can it guide robots?
+2025-04-01 20:32:48,313 - INFO - Duplicate article found: Countries boost recruitment of American scientists amid cuts to scientific funding
+2025-04-01 20:32:48,314 - INFO - Duplicate article found: Narwhal sightings are rare. Scientists just saw them use their tusks in new ways
+2025-04-01 20:32:48,316 - INFO - Duplicate article found: Photos: Peak bloom in D.C. draws cherry blossom fans from near and far
+2025-04-01 20:32:48,320 - INFO - Duplicate article found: The world has no rulebook for deep-sea mining. One company is pushing forward anyway
+2025-04-01 20:32:48,323 - INFO - Duplicate article found: EV buyers who missed out on their tax credits now have a fix from the IRS
+2025-04-01 20:32:48,325 - INFO - Duplicate article found: What's soil blocking? This seeding method helps gardeners use less plastic and peat
+2025-04-01 20:32:48,327 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 20:32:48,328 - INFO - Duplicate article found: Why don't diving seals drown? Scientists finally have an answer
+2025-04-01 20:32:48,330 - INFO - Duplicate article found: Parts of America will experience a partial solar eclipse this weekend
+2025-04-01 20:32:48,330 - INFO - Scraped 0 articles from science
+2025-04-01 20:32:49,682 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 20:32:49,899 - INFO - Duplicate article found: Trump is betting the economy on his tariff theory
+2025-04-01 20:32:49,900 - INFO - Duplicate article found: China's Global Electric Vehicle Boom
+2025-04-01 20:32:49,901 - INFO - Duplicate article found: More billionaires than ever ranked in Forbes' annual list. Here are the top 10
+2025-04-01 20:32:49,902 - INFO - Duplicate article found: What U.S. tariffs look like from a Chinese trade city
+2025-04-01 20:32:49,903 - INFO - Duplicate article found: Palestinian soap gets UNESCO recognition as Israel's military operation closes in
+2025-04-01 20:32:49,904 - INFO - Duplicate article found: China practices attacks and blockades in fresh military exercises around Taiwan
+2025-04-01 20:32:49,906 - INFO - Duplicate article found: South Korea admits to widespread adoption fraud. Here's one story
+2025-04-01 20:32:49,908 - INFO - Duplicate article found: Mobile medical units, clean water needed in Myanmar quake zone, aid official says
+2025-04-01 20:32:49,909 - INFO - Duplicate article found: Charity-seekers from all over Pakistan flock to Karachi at Ramadan to collect alms
+2025-04-01 20:32:49,911 - INFO - Duplicate article found: The head of Africa CDC thought news of a U.S. aid freeze must be 'a joke.' Now what?
+2025-04-01 20:32:49,912 - INFO - Duplicate article found: French court bars far-right leader Marine Le Pen from public office for embezzlement
+2025-04-01 20:32:49,916 - INFO - Duplicate article found: Expert says Tesla's best way to rebuild its brand is to ditch Musk
+2025-04-01 20:32:49,919 - INFO - Duplicate article found: What happened when Syria's conservative new leaders tried to shut 60 Damascus bars
+2025-04-01 20:32:49,920 - INFO - Duplicate article found: Rescuers sift through Myanmar earthquake debris as window to find survivors closes
+2025-04-01 20:32:49,922 - INFO - Duplicate article found: Asian shares are sharply lower over concerns about the U.S. economy
+2025-04-01 20:32:49,922 - INFO - Scraped 0 articles from world
+2025-04-01 20:32:50,945 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 20:32:52,129 - INFO - Duplicate article found: AI is great at predicting text. How well can it guide robots?
+2025-04-01 20:32:52,131 - INFO - Duplicate article found: Am I a god?! Why "manifesting" your reality is easier than ever
+2025-04-01 20:32:52,132 - INFO - Duplicate article found: Gambling with Memes
+2025-04-01 20:32:52,133 - INFO - Duplicate article found: Trump's changes to a $42 billion broadband program could be a win for Musk's Starlink
+2025-04-01 20:32:52,134 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-04-01 20:32:52,136 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-04-01 20:32:52,137 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 20:32:52,138 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-04-01 20:32:52,140 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-04-01 20:32:52,142 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-04-01 20:32:52,144 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-04-01 20:32:52,147 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-04-01 20:32:52,151 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-04-01 20:32:52,152 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-04-01 20:32:52,153 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-04-01 20:32:52,153 - INFO - Scraped 0 articles from gaming
+2025-04-01 20:32:54,282 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 20:32:54,527 - INFO - Duplicate article found: Say goodbye to chain crews: The NFL will use camera technology to measure 1st downs
+2025-04-01 20:32:54,529 - INFO - Duplicate article found: Nine home runs for the Yankees lead to questions about their new bats
+2025-04-01 20:32:54,531 - INFO - Duplicate article found: Alysa Liu ends long U.S. drought at women's figure skating world championships
+2025-04-01 20:32:54,532 - INFO - Duplicate article found: March Madness is a season for betting, but help for problem gambling is hard to find
+2025-04-01 20:32:54,534 - INFO - Duplicate article found: Jersey Shore Wave to kick off season as one of the newest teams in women's football
+2025-04-01 20:32:54,535 - INFO - Duplicate article found: Cooper Flagg sends Duke into Elite Eight while Texas Tech wins an overtime thriller
+2025-04-01 20:32:54,537 - INFO - Duplicate article found: March Madness and babies: Are the sounds of the game too big for little ears?
+2025-04-01 20:32:54,538 - INFO - Duplicate article found: Déjà vu all over again? Dodgers are favorites as 2025 MLB season begins
+2025-04-01 20:32:54,539 - INFO - Duplicate article found: Why women athletes face higher ACL injury risk than men, according to a sports physician
+2025-04-01 20:32:54,541 - INFO - Duplicate article found: USC star JuJu Watkins carried off the court as NCAA tournament reaches the Sweet 16
+2025-04-01 20:32:54,542 - INFO - Duplicate article found: Anticipating more home runs this baseball season? It might be climate change
+2025-04-01 20:32:54,544 - INFO - Duplicate article found: Lindsey Vonn sets a record straight out of retirement
+2025-04-01 20:32:54,545 - INFO - Duplicate article found: Dreams of a three-peat come crashing at the NCAA basketball tournament
+2025-04-01 20:32:54,547 - INFO - Duplicate article found: As Ovechkin nears the NHL goals record, the hockey world leans in to savor the moment
+2025-04-01 20:32:54,548 - INFO - Duplicate article found: Where is the NCAA basketball tournament game-winning buzzer-beater?
+2025-04-01 20:32:54,549 - INFO - Scraped 0 articles from sport
+2025-04-01 20:32:55,875 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 20:32:56,157 - INFO - Duplicate article found: Trump is betting the economy on his tariff theory
+2025-04-01 20:32:56,160 - INFO - Duplicate article found: China's Global Electric Vehicle Boom
+2025-04-01 20:32:56,161 - INFO - Duplicate article found: Why gold prices are surging to record highs
+2025-04-01 20:32:56,162 - INFO - Duplicate article found: Crumbling trust in American institutions: A MAHA activist takes on Girl Scout cookies
+2025-04-01 20:32:56,164 - INFO - Duplicate article found: More billionaires than ever ranked in Forbes' annual list. Here are the top 10
+2025-04-01 20:32:56,165 - INFO - Duplicate article found: Should we vote for all judges?
+2025-04-01 20:32:56,167 - INFO - Duplicate article found: Hyundai's plans for its new Georgia plant reveal an industry hedging its bets on EVs
+2025-04-01 20:32:56,169 - INFO - Duplicate article found: Overly Friendly Emails and other marketing pet peeves
+2025-04-01 20:32:56,170 - INFO - Duplicate article found: Asian shares are sharply lower over concerns about the U.S. economy
+2025-04-01 20:32:56,172 - INFO - Duplicate article found: Gambling with Memes
+2025-04-01 20:32:56,173 - INFO - Duplicate article found: FCC chair opens investigation into Disney and ABC over DEI practices
+2025-04-01 20:32:56,177 - INFO - Duplicate article found: Startup founder convicted of defrauding JPMorgan Chase of $175M by faking firm's success
+2025-04-01 20:32:56,179 - INFO - Duplicate article found: From Seattle to Miami, anti-Musk protesters gather at hundreds of Tesla locations
+2025-04-01 20:32:56,182 - INFO - Duplicate article found: Judicial rulings block Kari Lake's drive to shutter Voice of America
+2025-04-01 20:32:56,185 - INFO - Duplicate article found: Federal judge prevents Trump administration from dismantling CFPB
+2025-04-01 20:32:56,185 - INFO - Scraped 0 articles from business
+2025-04-01 20:32:59,010 - INFO - No articles to save
+2025-04-01 20:32:59,012 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 20:34:55,136 - INFO - Scraper stopped by user
+2025-04-01 20:34:59,497 - INFO - MongoDB connection successful
+2025-04-01 20:34:59,497 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 20:35:00,329 - INFO - Scraped 15 articles from art
+2025-04-01 20:35:02,198 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 20:35:02,698 - INFO - Scraped 15 articles from tech
+2025-04-01 20:35:04,586 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 20:35:05,039 - INFO - Scraped 15 articles from science
+2025-04-01 20:35:07,398 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 20:35:07,807 - INFO - Scraped 15 articles from world
+2025-04-01 20:35:09,326 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 20:35:09,894 - INFO - Scraped 15 articles from gaming
+2025-04-01 20:35:12,848 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 20:35:13,627 - INFO - Scraped 15 articles from sport
+2025-04-01 20:35:16,014 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 20:35:17,055 - INFO - Scraped 15 articles from business
+2025-04-01 20:35:19,955 - INFO - Inserted 105 new articles
+2025-04-01 20:35:19,956 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 21:05:20,005 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 21:05:20,540 - INFO - Duplicate article found: Thyme for some healing soup recipes from around the world
+2025-04-01 21:05:20,541 - INFO - Duplicate article found: A civil rights leader's family airs its dirty laundry on Broadway in 'Purpose'
+2025-04-01 21:05:20,542 - INFO - Duplicate article found: 6 tales of mystery and mishap — all hitting book stores on April Fools' Day
+2025-04-01 21:05:20,543 - INFO - Duplicate article found: Palestinian soap gets UNESCO recognition as Israel's military operation closes in
+2025-04-01 21:05:20,544 - INFO - Duplicate article found: Michelle Buteau's winsome 'Survival of the Thickest' is a natural selection
+2025-04-01 21:05:20,545 - INFO - Duplicate article found: Entire staff at federal agency that funds libraries and museums put on leave
+2025-04-01 21:05:20,546 - INFO - Duplicate article found: Older viewers are turning to YouTube. It's recently led me back to some favorite shows
+2025-04-01 21:05:20,547 - INFO - Duplicate article found: 'Adolescence' co-creator says 'maybe we're all accountable' for youth violence
+2025-04-01 21:05:20,548 - INFO - Duplicate article found: Seth Rogen and a fabulous cast highlight the satire 'The Studio'
+2025-04-01 21:05:20,549 - INFO - Duplicate article found: Cesar Chavez Day celebrates a lifetime fight for justice for farmworkers
+2025-04-01 21:05:20,550 - INFO - Duplicate article found: A folk legend gets a reunion he didn't sign up for in this melancholy charmer
+2025-04-01 21:05:20,553 - INFO - Duplicate article found: Beloved historic landmarks navigate an uncertain future after the LA fires
+2025-04-01 21:05:20,554 - INFO - Duplicate article found: Am I a god?! Why "manifesting" your reality is easier than ever
+2025-04-01 21:05:20,556 - INFO - Duplicate article found: Richard Chamberlain, TV actor who starred in 'Dr. Kildare,' dies at 90
+2025-04-01 21:05:20,557 - INFO - Duplicate article found: This may be the most lead polluted place on Earth. Is there any hope?
+2025-04-01 21:05:20,557 - INFO - Scraped 0 articles from art
+2025-04-01 21:05:21,738 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 21:05:22,132 - INFO - Duplicate article found: AI is great at predicting text. How well can it guide robots?
+2025-04-01 21:05:22,133 - INFO - Duplicate article found: Am I a god?! Why "manifesting" your reality is easier than ever
+2025-04-01 21:05:22,136 - INFO - Duplicate article found: Gambling with Memes
+2025-04-01 21:05:22,137 - INFO - Duplicate article found: Trump's changes to a $42 billion broadband program could be a win for Musk's Starlink
+2025-04-01 21:05:22,138 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-04-01 21:05:22,139 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-04-01 21:05:22,140 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 21:05:22,142 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-04-01 21:05:22,143 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-04-01 21:05:22,144 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-04-01 21:05:22,145 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-04-01 21:05:22,146 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-04-01 21:05:22,147 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-04-01 21:05:22,148 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-04-01 21:05:22,149 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-04-01 21:05:22,150 - INFO - Scraped 0 articles from tech
+2025-04-01 21:05:23,983 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 21:05:25,048 - INFO - Duplicate article found: Top scientists warn that Trump policies are causing a 'climate of fear' in research
+2025-04-01 21:05:25,050 - INFO - Duplicate article found: Rural leaders push Congress to unfreeze climate and environmental funds
+2025-04-01 21:05:25,051 - INFO - Duplicate article found: 3 places to see cherry blossoms that aren't Washington D.C.
+2025-04-01 21:05:25,052 - INFO - Duplicate article found: How did iguanas end up in Fiji? By raft
+2025-04-01 21:05:25,053 - INFO - Duplicate article found: SpaceX launches historic privately funded mission around Earth's poles
+2025-04-01 21:05:25,054 - INFO - Duplicate article found: AI is great at predicting text. How well can it guide robots?
+2025-04-01 21:05:25,057 - INFO - Duplicate article found: Countries boost recruitment of American scientists amid cuts to scientific funding
+2025-04-01 21:05:25,058 - INFO - Duplicate article found: Narwhal sightings are rare. Scientists just saw them use their tusks in new ways
+2025-04-01 21:05:25,059 - INFO - Duplicate article found: Photos: Peak bloom in D.C. draws cherry blossom fans from near and far
+2025-04-01 21:05:25,060 - INFO - Duplicate article found: The world has no rulebook for deep-sea mining. One company is pushing forward anyway
+2025-04-01 21:05:25,061 - INFO - Duplicate article found: EV buyers who missed out on their tax credits now have a fix from the IRS
+2025-04-01 21:05:25,062 - INFO - Duplicate article found: What's soil blocking? This seeding method helps gardeners use less plastic and peat
+2025-04-01 21:05:25,063 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 21:05:25,064 - INFO - Duplicate article found: Why don't diving seals drown? Scientists finally have an answer
+2025-04-01 21:05:25,065 - INFO - Duplicate article found: Parts of America will experience a partial solar eclipse this weekend
+2025-04-01 21:05:25,065 - INFO - Scraped 0 articles from science
+2025-04-01 21:05:26,987 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 21:05:27,704 - INFO - Duplicate article found: Trump is betting the economy on his tariff theory
+2025-04-01 21:05:27,706 - INFO - Duplicate article found: China's Global Electric Vehicle Boom
+2025-04-01 21:05:27,707 - INFO - Duplicate article found: More billionaires than ever ranked in Forbes' annual list. Here are the top 10
+2025-04-01 21:05:27,708 - INFO - Duplicate article found: What U.S. tariffs look like from a Chinese trade city
+2025-04-01 21:05:27,709 - INFO - Duplicate article found: Palestinian soap gets UNESCO recognition as Israel's military operation closes in
+2025-04-01 21:05:27,710 - INFO - Duplicate article found: China practices attacks and blockades in fresh military exercises around Taiwan
+2025-04-01 21:05:27,711 - INFO - Duplicate article found: South Korea admits to widespread adoption fraud. Here's one story
+2025-04-01 21:05:27,712 - INFO - Duplicate article found: Mobile medical units, clean water needed in Myanmar quake zone, aid official says
+2025-04-01 21:05:27,713 - INFO - Duplicate article found: Charity-seekers from all over Pakistan flock to Karachi at Ramadan to collect alms
+2025-04-01 21:05:27,714 - INFO - Duplicate article found: The head of Africa CDC thought news of a U.S. aid freeze must be 'a joke.' Now what?
+2025-04-01 21:05:27,716 - INFO - Duplicate article found: French court bars far-right leader Marine Le Pen from public office for embezzlement
+2025-04-01 21:05:27,717 - INFO - Duplicate article found: Expert says Tesla's best way to rebuild its brand is to ditch Musk
+2025-04-01 21:05:27,719 - INFO - Duplicate article found: What happened when Syria's conservative new leaders tried to shut 60 Damascus bars
+2025-04-01 21:05:27,720 - INFO - Duplicate article found: Rescuers sift through Myanmar earthquake debris as window to find survivors closes
+2025-04-01 21:05:27,721 - INFO - Duplicate article found: Asian shares are sharply lower over concerns about the U.S. economy
+2025-04-01 21:05:27,721 - INFO - Scraped 0 articles from world
+2025-04-01 21:05:29,261 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 21:05:29,763 - INFO - Duplicate article found: AI is great at predicting text. How well can it guide robots?
+2025-04-01 21:05:29,764 - INFO - Duplicate article found: Am I a god?! Why "manifesting" your reality is easier than ever
+2025-04-01 21:05:29,765 - INFO - Duplicate article found: Gambling with Memes
+2025-04-01 21:05:29,766 - INFO - Duplicate article found: Trump's changes to a $42 billion broadband program could be a win for Musk's Starlink
+2025-04-01 21:05:29,767 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-04-01 21:05:29,769 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-04-01 21:05:29,771 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 21:05:29,772 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-04-01 21:05:29,773 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-04-01 21:05:29,773 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-04-01 21:05:29,774 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-04-01 21:05:29,775 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-04-01 21:05:29,776 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-04-01 21:05:29,777 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-04-01 21:05:29,778 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-04-01 21:05:29,778 - INFO - Scraped 0 articles from gaming
+2025-04-01 21:05:31,388 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 21:05:31,753 - INFO - Duplicate article found: Say goodbye to chain crews: The NFL will use camera technology to measure 1st downs
+2025-04-01 21:05:31,755 - INFO - Duplicate article found: Nine home runs for the Yankees lead to questions about their new bats
+2025-04-01 21:05:31,757 - INFO - Duplicate article found: Alysa Liu ends long U.S. drought at women's figure skating world championships
+2025-04-01 21:05:31,759 - INFO - Duplicate article found: March Madness is a season for betting, but help for problem gambling is hard to find
+2025-04-01 21:05:31,761 - INFO - Duplicate article found: Jersey Shore Wave to kick off season as one of the newest teams in women's football
+2025-04-01 21:05:31,762 - INFO - Duplicate article found: Cooper Flagg sends Duke into Elite Eight while Texas Tech wins an overtime thriller
+2025-04-01 21:05:31,763 - INFO - Duplicate article found: March Madness and babies: Are the sounds of the game too big for little ears?
+2025-04-01 21:05:31,764 - INFO - Duplicate article found: Déjà vu all over again? Dodgers are favorites as 2025 MLB season begins
+2025-04-01 21:05:31,765 - INFO - Duplicate article found: Why women athletes face higher ACL injury risk than men, according to a sports physician
+2025-04-01 21:05:31,766 - INFO - Duplicate article found: USC star JuJu Watkins carried off the court as NCAA tournament reaches the Sweet 16
+2025-04-01 21:05:31,768 - INFO - Duplicate article found: Anticipating more home runs this baseball season? It might be climate change
+2025-04-01 21:05:31,769 - INFO - Duplicate article found: Lindsey Vonn sets a record straight out of retirement
+2025-04-01 21:05:31,771 - INFO - Duplicate article found: Dreams of a three-peat come crashing at the NCAA basketball tournament
+2025-04-01 21:05:31,773 - INFO - Duplicate article found: As Ovechkin nears the NHL goals record, the hockey world leans in to savor the moment
+2025-04-01 21:05:31,776 - INFO - Duplicate article found: Where is the NCAA basketball tournament game-winning buzzer-beater?
+2025-04-01 21:05:31,776 - INFO - Scraped 0 articles from sport
+2025-04-01 21:05:34,033 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 21:05:34,373 - INFO - Duplicate article found: Trump is betting the economy on his tariff theory
+2025-04-01 21:05:34,374 - INFO - Duplicate article found: China's Global Electric Vehicle Boom
+2025-04-01 21:05:34,375 - INFO - Duplicate article found: Why gold prices are surging to record highs
+2025-04-01 21:05:34,376 - INFO - Duplicate article found: Crumbling trust in American institutions: A MAHA activist takes on Girl Scout cookies
+2025-04-01 21:05:34,378 - INFO - Duplicate article found: More billionaires than ever ranked in Forbes' annual list. Here are the top 10
+2025-04-01 21:05:34,379 - INFO - Duplicate article found: Should we vote for all judges?
+2025-04-01 21:05:34,380 - INFO - Duplicate article found: Hyundai's plans for its new Georgia plant reveal an industry hedging its bets on EVs
+2025-04-01 21:05:34,381 - INFO - Duplicate article found: Overly Friendly Emails and other marketing pet peeves
+2025-04-01 21:05:34,382 - INFO - Duplicate article found: Asian shares are sharply lower over concerns about the U.S. economy
+2025-04-01 21:05:34,384 - INFO - Duplicate article found: Gambling with Memes
+2025-04-01 21:05:34,386 - INFO - Duplicate article found: FCC chair opens investigation into Disney and ABC over DEI practices
+2025-04-01 21:05:34,388 - INFO - Duplicate article found: Startup founder convicted of defrauding JPMorgan Chase of $175M by faking firm's success
+2025-04-01 21:05:34,389 - INFO - Duplicate article found: From Seattle to Miami, anti-Musk protesters gather at hundreds of Tesla locations
+2025-04-01 21:05:34,390 - INFO - Duplicate article found: Judicial rulings block Kari Lake's drive to shutter Voice of America
+2025-04-01 21:05:34,392 - INFO - Duplicate article found: Federal judge prevents Trump administration from dismantling CFPB
+2025-04-01 21:05:34,392 - INFO - Scraped 0 articles from business
+2025-04-01 21:05:35,559 - INFO - No articles to save
+2025-04-01 21:05:35,560 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 21:35:35,599 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 21:35:37,051 - INFO - Duplicate article found: Thyme for some healing soup recipes from around the world
+2025-04-01 21:35:37,054 - INFO - Duplicate article found: A civil rights leader's family airs its dirty laundry on Broadway in 'Purpose'
+2025-04-01 21:35:37,056 - INFO - Duplicate article found: 6 tales of mystery and mishap — all hitting book stores on April Fools' Day
+2025-04-01 21:35:37,058 - INFO - Duplicate article found: Palestinian soap gets UNESCO recognition as Israel's military operation closes in
+2025-04-01 21:35:37,059 - INFO - Duplicate article found: Michelle Buteau's winsome 'Survival of the Thickest' is a natural selection
+2025-04-01 21:35:37,061 - INFO - Duplicate article found: Entire staff at federal agency that funds libraries and museums put on leave
+2025-04-01 21:35:37,064 - INFO - Duplicate article found: Older viewers are turning to YouTube. It's recently led me back to some favorite shows
+2025-04-01 21:35:37,066 - INFO - Duplicate article found: 'Adolescence' co-creator says 'maybe we're all accountable' for youth violence
+2025-04-01 21:35:37,070 - INFO - Duplicate article found: Seth Rogen and a fabulous cast highlight the satire 'The Studio'
+2025-04-01 21:35:37,072 - INFO - Duplicate article found: Cesar Chavez Day celebrates a lifetime fight for justice for farmworkers
+2025-04-01 21:35:37,074 - INFO - Duplicate article found: A folk legend gets a reunion he didn't sign up for in this melancholy charmer
+2025-04-01 21:35:37,076 - INFO - Duplicate article found: Beloved historic landmarks navigate an uncertain future after the LA fires
+2025-04-01 21:35:37,078 - INFO - Duplicate article found: Am I a god?! Why "manifesting" your reality is easier than ever
+2025-04-01 21:35:37,081 - INFO - Duplicate article found: Richard Chamberlain, TV actor who starred in 'Dr. Kildare,' dies at 90
+2025-04-01 21:35:37,085 - INFO - Duplicate article found: This may be the most lead polluted place on Earth. Is there any hope?
+2025-04-01 21:35:37,086 - INFO - Scraped 0 articles from art
+2025-04-01 21:35:40,074 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 21:35:41,388 - INFO - Duplicate article found: AI is great at predicting text. How well can it guide robots?
+2025-04-01 21:35:41,391 - INFO - Duplicate article found: Am I a god?! Why "manifesting" your reality is easier than ever
+2025-04-01 21:35:41,393 - INFO - Duplicate article found: Gambling with Memes
+2025-04-01 21:35:41,396 - INFO - Duplicate article found: Trump's changes to a $42 billion broadband program could be a win for Musk's Starlink
+2025-04-01 21:35:41,398 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-04-01 21:35:41,402 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-04-01 21:35:41,405 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 21:35:41,408 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-04-01 21:35:41,410 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-04-01 21:35:41,412 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-04-01 21:35:41,415 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-04-01 21:35:41,418 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-04-01 21:35:41,421 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-04-01 21:35:41,423 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-04-01 21:35:41,425 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-04-01 21:35:41,425 - INFO - Scraped 0 articles from tech
+2025-04-01 21:35:43,884 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 21:35:44,589 - INFO - Duplicate article found: Top scientists warn that Trump policies are causing a 'climate of fear' in research
+2025-04-01 21:35:44,592 - INFO - Duplicate article found: Rural leaders push Congress to unfreeze climate and environmental funds
+2025-04-01 21:35:44,594 - INFO - Duplicate article found: 3 places to see cherry blossoms that aren't Washington D.C.
+2025-04-01 21:35:44,596 - INFO - Duplicate article found: How did iguanas end up in Fiji? By raft
+2025-04-01 21:35:44,599 - INFO - Duplicate article found: SpaceX launches historic privately funded mission around Earth's poles
+2025-04-01 21:35:44,601 - INFO - Duplicate article found: AI is great at predicting text. How well can it guide robots?
+2025-04-01 21:35:44,603 - INFO - Duplicate article found: Countries boost recruitment of American scientists amid cuts to scientific funding
+2025-04-01 21:35:44,605 - INFO - Duplicate article found: Narwhal sightings are rare. Scientists just saw them use their tusks in new ways
+2025-04-01 21:35:44,607 - INFO - Duplicate article found: Photos: Peak bloom in D.C. draws cherry blossom fans from near and far
+2025-04-01 21:35:44,609 - INFO - Duplicate article found: The world has no rulebook for deep-sea mining. One company is pushing forward anyway
+2025-04-01 21:35:44,610 - INFO - Duplicate article found: EV buyers who missed out on their tax credits now have a fix from the IRS
+2025-04-01 21:35:44,612 - INFO - Duplicate article found: What's soil blocking? This seeding method helps gardeners use less plastic and peat
+2025-04-01 21:35:44,615 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 21:35:44,616 - INFO - Duplicate article found: Why don't diving seals drown? Scientists finally have an answer
+2025-04-01 21:35:44,619 - INFO - Scraped 1 articles from science
+2025-04-01 21:35:45,983 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 21:35:46,561 - INFO - Duplicate article found: Trump is betting the economy on his tariff theory
+2025-04-01 21:35:46,564 - INFO - Duplicate article found: China's Global Electric Vehicle Boom
+2025-04-01 21:35:46,567 - INFO - Duplicate article found: More billionaires than ever ranked in Forbes' annual list. Here are the top 10
+2025-04-01 21:35:46,570 - INFO - Duplicate article found: What U.S. tariffs look like from a Chinese trade city
+2025-04-01 21:35:46,573 - INFO - Duplicate article found: Palestinian soap gets UNESCO recognition as Israel's military operation closes in
+2025-04-01 21:35:46,576 - INFO - Duplicate article found: China practices attacks and blockades in fresh military exercises around Taiwan
+2025-04-01 21:35:46,579 - INFO - Duplicate article found: South Korea admits to widespread adoption fraud. Here's one story
+2025-04-01 21:35:46,582 - INFO - Duplicate article found: Mobile medical units, clean water needed in Myanmar quake zone, aid official says
+2025-04-01 21:35:46,585 - INFO - Duplicate article found: Charity-seekers from all over Pakistan flock to Karachi at Ramadan to collect alms
+2025-04-01 21:35:46,588 - INFO - Duplicate article found: The head of Africa CDC thought news of a U.S. aid freeze must be 'a joke.' Now what?
+2025-04-01 21:35:46,591 - INFO - Duplicate article found: French court bars far-right leader Marine Le Pen from public office for embezzlement
+2025-04-01 21:35:46,594 - INFO - Duplicate article found: Expert says Tesla's best way to rebuild its brand is to ditch Musk
+2025-04-01 21:35:46,597 - INFO - Duplicate article found: What happened when Syria's conservative new leaders tried to shut 60 Damascus bars
+2025-04-01 21:35:46,600 - INFO - Duplicate article found: Rescuers sift through Myanmar earthquake debris as window to find survivors closes
+2025-04-01 21:35:46,603 - INFO - Duplicate article found: Asian shares are sharply lower over concerns about the U.S. economy
+2025-04-01 21:35:46,604 - INFO - Scraped 0 articles from world
+2025-04-01 21:35:49,558 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 21:35:50,447 - INFO - Duplicate article found: AI is great at predicting text. How well can it guide robots?
+2025-04-01 21:35:50,449 - INFO - Duplicate article found: Am I a god?! Why "manifesting" your reality is easier than ever
+2025-04-01 21:35:50,452 - INFO - Duplicate article found: Gambling with Memes
+2025-04-01 21:35:50,457 - INFO - Duplicate article found: Trump's changes to a $42 billion broadband program could be a win for Musk's Starlink
+2025-04-01 21:35:50,460 - INFO - Duplicate article found: Judge orders government to preserve Signal messages about Houthi military strike
+2025-04-01 21:35:50,462 - INFO - Duplicate article found: Judge allows 'New York Times' copyright case against OpenAI to go forward
+2025-04-01 21:35:50,464 - INFO - Duplicate article found: Trump cuts threaten a measurement lab critical for advanced chips and medical devices
+2025-04-01 21:35:50,466 - INFO - Duplicate article found: U.S. intel leaders are grilled again about the leaked Signal chat as more details emerge
+2025-04-01 21:35:50,469 - INFO - Duplicate article found: 'Heads are exploding': How security experts see the Signal war-plan breach
+2025-04-01 21:35:50,471 - INFO - Duplicate article found: How to delete your 23andMe data after the company filed for bankruptcy
+2025-04-01 21:35:50,474 - INFO - Duplicate article found: 23andMe is filing for bankruptcy. Here's what it means for your genetic data
+2025-04-01 21:35:50,476 - INFO - Duplicate article found: Why tech bros worship psychedelics (and think you should too)
+2025-04-01 21:35:50,479 - INFO - Duplicate article found: As the Trump administration purges web pages, this group is rushing to save them
+2025-04-01 21:35:50,481 - INFO - Duplicate article found: Building a Tech Industry in Syria From Scratch
+2025-04-01 21:35:50,483 - INFO - Duplicate article found: 'AI Valley' author worries there's 'so much power in the hands of few people'
+2025-04-01 21:35:50,483 - INFO - Scraped 0 articles from gaming
+2025-04-01 21:35:52,737 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 21:35:53,588 - INFO - Duplicate article found: Say goodbye to chain crews: The NFL will use camera technology to measure 1st downs
+2025-04-01 21:35:53,590 - INFO - Duplicate article found: Nine home runs for the Yankees lead to questions about their new bats
+2025-04-01 21:35:53,592 - INFO - Duplicate article found: Alysa Liu ends long U.S. drought at women's figure skating world championships
+2025-04-01 21:35:53,594 - INFO - Duplicate article found: March Madness is a season for betting, but help for problem gambling is hard to find
+2025-04-01 21:35:53,596 - INFO - Duplicate article found: Jersey Shore Wave to kick off season as one of the newest teams in women's football
+2025-04-01 21:35:53,598 - INFO - Duplicate article found: Cooper Flagg sends Duke into Elite Eight while Texas Tech wins an overtime thriller
+2025-04-01 21:35:53,600 - INFO - Duplicate article found: March Madness and babies: Are the sounds of the game too big for little ears?
+2025-04-01 21:35:53,601 - INFO - Duplicate article found: Déjà vu all over again? Dodgers are favorites as 2025 MLB season begins
+2025-04-01 21:35:53,603 - INFO - Duplicate article found: Why women athletes face higher ACL injury risk than men, according to a sports physician
+2025-04-01 21:35:53,605 - INFO - Duplicate article found: USC star JuJu Watkins carried off the court as NCAA tournament reaches the Sweet 16
+2025-04-01 21:35:53,608 - INFO - Duplicate article found: Anticipating more home runs this baseball season? It might be climate change
+2025-04-01 21:35:53,609 - INFO - Duplicate article found: Lindsey Vonn sets a record straight out of retirement
+2025-04-01 21:35:53,611 - INFO - Duplicate article found: Dreams of a three-peat come crashing at the NCAA basketball tournament
+2025-04-01 21:35:53,613 - INFO - Duplicate article found: As Ovechkin nears the NHL goals record, the hockey world leans in to savor the moment
+2025-04-01 21:35:53,616 - INFO - Duplicate article found: Where is the NCAA basketball tournament game-winning buzzer-beater?
+2025-04-01 21:35:53,617 - INFO - Scraped 0 articles from sport
+2025-04-01 21:35:56,502 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 21:35:56,948 - INFO - Duplicate article found: Trump is betting the economy on his tariff theory
+2025-04-01 21:35:56,950 - INFO - Duplicate article found: China's Global Electric Vehicle Boom
+2025-04-01 21:35:56,951 - INFO - Duplicate article found: Why gold prices are surging to record highs
+2025-04-01 21:35:56,952 - INFO - Duplicate article found: Crumbling trust in American institutions: A MAHA activist takes on Girl Scout cookies
+2025-04-01 21:35:56,953 - INFO - Duplicate article found: More billionaires than ever ranked in Forbes' annual list. Here are the top 10
+2025-04-01 21:35:56,954 - INFO - Duplicate article found: Should we vote for all judges?
+2025-04-01 21:35:56,955 - INFO - Duplicate article found: Hyundai's plans for its new Georgia plant reveal an industry hedging its bets on EVs
+2025-04-01 21:35:56,956 - INFO - Duplicate article found: Overly Friendly Emails and other marketing pet peeves
+2025-04-01 21:35:56,957 - INFO - Duplicate article found: Asian shares are sharply lower over concerns about the U.S. economy
+2025-04-01 21:35:56,958 - INFO - Duplicate article found: Gambling with Memes
+2025-04-01 21:35:56,959 - INFO - Duplicate article found: FCC chair opens investigation into Disney and ABC over DEI practices
+2025-04-01 21:35:56,960 - INFO - Duplicate article found: Startup founder convicted of defrauding JPMorgan Chase of $175M by faking firm's success
+2025-04-01 21:35:56,961 - INFO - Duplicate article found: From Seattle to Miami, anti-Musk protesters gather at hundreds of Tesla locations
+2025-04-01 21:35:56,963 - INFO - Duplicate article found: Judicial rulings block Kari Lake's drive to shutter Voice of America
+2025-04-01 21:35:56,964 - INFO - Duplicate article found: Federal judge prevents Trump administration from dismantling CFPB
+2025-04-01 21:35:56,964 - INFO - Scraped 0 articles from business
+2025-04-01 21:35:59,469 - INFO - Inserted 1 new articles
+2025-04-01 21:35:59,470 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 21:45:27,462 - INFO - MongoDB connection successful
+2025-04-01 21:45:27,462 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 21:45:28,036 - INFO - Scraped 15 articles from art
+2025-04-01 21:45:30,174 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 21:45:30,699 - INFO - Scraped 15 articles from tech
+2025-04-01 21:45:33,313 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 21:45:33,903 - INFO - Scraped 15 articles from science
+2025-04-01 21:45:36,741 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 21:45:37,766 - INFO - Scraped 15 articles from world
+2025-04-01 21:45:40,673 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 21:45:41,252 - INFO - Scraped 15 articles from gaming
+2025-04-01 21:45:43,559 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 21:45:43,902 - INFO - Scraped 15 articles from sport
+2025-04-01 21:45:46,891 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 21:45:47,320 - INFO - Scraped 15 articles from business
+2025-04-01 21:45:49,753 - INFO - Inserted 105 new articles
+2025-04-01 21:45:49,753 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 21:49:46,415 - INFO - MongoDB connection successful
+2025-04-01 21:49:46,415 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 21:49:47,209 - INFO - Scraped 15 articles from art
+2025-04-01 21:49:49,403 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 21:49:49,970 - INFO - Scraped 15 articles from tech
+2025-04-01 21:49:52,286 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 21:49:53,053 - INFO - Scraped 15 articles from science
+2025-04-01 21:49:54,346 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 21:49:55,099 - INFO - Scraped 15 articles from world
+2025-04-01 21:49:58,002 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 21:49:58,382 - INFO - Scraped 15 articles from gaming
+2025-04-01 21:50:00,035 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 21:50:00,728 - INFO - Scraped 15 articles from sport
+2025-04-01 21:50:02,414 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 21:50:02,809 - INFO - Scraped 15 articles from business
+2025-04-01 21:50:05,430 - INFO - Inserted 105 new articles
+2025-04-01 21:50:05,430 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 21:54:00,569 - INFO - MongoDB connection successful
+2025-04-01 21:54:00,570 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 21:54:00,891 - INFO - Scraped 15 articles from art
+2025-04-01 21:54:02,368 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 21:54:03,342 - INFO - Scraped 15 articles from tech
+2025-04-01 21:54:04,751 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 21:54:05,035 - INFO - Scraped 15 articles from science
+2025-04-01 21:54:06,963 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 21:54:07,619 - INFO - Scraped 15 articles from world
+2025-04-01 21:54:09,296 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 21:54:09,674 - INFO - Scraped 15 articles from gaming
+2025-04-01 21:54:11,777 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 21:54:12,329 - INFO - Scraped 15 articles from sport
+2025-04-01 21:54:14,000 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 21:54:14,497 - INFO - Scraped 15 articles from business
+2025-04-01 21:54:16,693 - INFO - Inserted 105 new articles
+2025-04-01 21:54:16,694 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 22:35:54,203 - INFO - MongoDB connection successful
+2025-04-01 22:35:54,203 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-04-01 22:35:54,549 - INFO - Scraped 15 articles from art
+2025-04-01 22:35:56,379 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-04-01 22:35:56,869 - INFO - Scraped 15 articles from tech
+2025-04-01 22:35:58,531 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-04-01 22:35:58,727 - INFO - Scraped 15 articles from science
+2025-04-01 22:36:01,196 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-04-01 22:36:01,469 - INFO - Scraped 15 articles from world
+2025-04-01 22:36:03,840 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-04-01 22:36:04,086 - INFO - Scraped 15 articles from gaming
+2025-04-01 22:36:05,324 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-04-01 22:36:05,608 - INFO - Scraped 15 articles from sport
+2025-04-01 22:36:08,019 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-04-01 22:36:08,352 - INFO - Scraped 15 articles from business
+2025-04-01 22:36:10,946 - INFO - Inserted 105 new articles
+2025-04-01 22:36:10,946 - INFO - Waiting 30 minutes before next scan...
+2025-04-01 22:37:49,313 - INFO - Scraper stopped by user
