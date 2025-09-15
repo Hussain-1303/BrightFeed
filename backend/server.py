@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request
 from pymongo import MongoClient
 from flask_cors import CORS
+from datetime import datetime
 
 app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000"}})
@@ -9,7 +10,7 @@ try:
     client = MongoClient("mongodb://localhost:27017/")
     db = client["NewsScraper"]
     news_collection = db["news"]
-    subscriptions_collection = db["subscriptions"]  # New collection for subscriptions
+    subscriptions_collection = db["subscriptions"]
     print("MongoDB connection successful!")
 except Exception as e:
     print(f"MongoDB connection failed: {e}")
@@ -28,7 +29,8 @@ def get_news():
                 "description": article["description"],
                 "image": article["image"],
                 "sourceLink": article["sourceLink"],
-                "date": article["date"]
+                "date": article["date"],
+                "sentiment": article.get("sentiment", {})  # Include sentiment scores, default to empty dict if missing
             } for article in articles
         ]
         print(f"Serving {len(articles_list)} articles")
@@ -42,7 +44,7 @@ def subscribe():
     try:
         data = request.get_json()
         email = data.get('email')
-        category = data.get('category', 'positive')  # Default to 'positive' for PositiveNewsletterModal
+        category = data.get('category', 'positive')
         if not email:
             return jsonify({"error": "Email is required"}), 400
         subscription = {

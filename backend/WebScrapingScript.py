@@ -6,6 +6,7 @@ from datetime import datetime
 from pymongo import MongoClient
 import logging
 import hashlib
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer  
 
 # Configure logging
 logging.basicConfig(
@@ -16,6 +17,9 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+
+# Initialize VADER sentiment analyzer
+analyzer = SentimentIntensityAnalyzer()
 
 # Main scraper configuration and logic
 def main():
@@ -71,7 +75,7 @@ def main():
             return None
 
     def parse_article(article, category):
-        """Extract article data with robust error handling"""
+        """Extract article data with robust error handling and sentiment analysis"""
         try:
             # Headline and URL
             headline_elem = article.select_one(config["selectors"]["headline"])
@@ -108,12 +112,18 @@ def main():
 
             logging.debug(f"Extracted description: {description}")
 
+            # Sentiment Analysis using VADER
+            headline_sentiment = analyzer.polarity_scores(headline)
+            description_sentiment = analyzer.polarity_scores(description)
+            logging.debug(f"Headline sentiment: {headline_sentiment}")
+            logging.debug(f"Description sentiment: {description_sentiment}")
+
             # Image
             img_elem = article.select_one(config["selectors"]["image"])
             img_url = img_elem['src'] if img_elem and 'src' in img_elem.attrs else None
             logging.debug(f"Extracted image URL: {img_url}")
 
-            # Timestamp
+            # Timestamps
             time_elem = article.select_one(config["selectors"]["timestamp"])
             timestamp = time_elem['datetime'] if time_elem and 'datetime' in time_elem.attrs else datetime.utcnow().isoformat()
             logging.debug(f"Extracted timestamp: {timestamp}")
@@ -132,7 +142,11 @@ def main():
                 "sourceLink": url,
                 "image": img_url,
                 "date": timestamp,
-                "content_hash": content_hash
+                "content_hash": content_hash,
+                "sentiment": {
+                    "headline": headline_sentiment,  # VADER scores for headline
+                    "description": description_sentiment  # VADER scores for description
+                }
             }
 
         except Exception as e:

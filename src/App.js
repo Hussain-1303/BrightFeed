@@ -22,7 +22,6 @@ const App = () => {
   return (
     <Router>
       <div className="relative min-h-screen">
-        {/* 🌄 Background Image */}
         <div
           className="absolute inset-0 bg-cover bg-center bg-fixed z-0"
           style={{
@@ -31,7 +30,6 @@ const App = () => {
           }}
         />
 
-        {/* Foreground App Content */}
         <div className="relative z-10 flex flex-col min-h-screen bg-white/70 dark:bg-gray-900/80 backdrop-blur-sm transition-colors duration-300">
           {/* Sticky Header */}
           <header className="sticky top-0 z-50 bg-white dark:bg-gray-800 text-gray-900 dark:text-white p-4 shadow-sm">
@@ -58,7 +56,6 @@ const App = () => {
             </div>
           </header>
 
-          {/* Main Content */}
           <main className="flex-grow">
             <Routes>
               <Route
@@ -81,7 +78,6 @@ const App = () => {
             </Routes>
           </main>
 
-          {/* Footer */}
           <footer className="bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 p-4 shadow-inner">
             <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-2">
               <p className="text-lg font-semibold">BRIGHT FEED © 2025</p>
