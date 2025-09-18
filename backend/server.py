@@ -1,20 +1,42 @@
-from flask import Flask, jsonify, request
+from flask import Flask, request, jsonify
 from pymongo import MongoClient
 from flask_cors import CORS
-from datetime import datetime
+from werkzeug.security import generate_password_hash, check_password_hash
+import jwt
+from datetime import datetime, timedelta
 
 app = Flask(__name__)
-CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000"}})
+# Force CORS to handle all preflight requests with explicit configuration
+CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000", "methods": ["GET", "POST", "OPTIONS"], "allow_headers": ["Content-Type", "Authorization"], "supports_credentials": True}})
+
+# Configure secret key for JWT
+app.config['SECRET_KEY'] = 'your-secret-key-here'  # Change this to a secure, unique key in production
 
 try:
     client = MongoClient("mongodb://localhost:27017/")
     db = client["NewsScraper"]
     news_collection = db["news"]
     subscriptions_collection = db["subscriptions"]
+    users_collection = db["users"]  # New collection for users
     print("MongoDB connection successful!")
 except Exception as e:
     print(f"MongoDB connection failed: {e}")
     exit(1)
+
+# Middleware to log all requests for debugging
+@app.before_request
+def log_request():
+    print(f"Received {request.method} request for {request.path} from {request.remote_addr}")
+
+# Ensure CORS headers are added to all responses
+@app.after_request
+def apply_cors_headers(response):
+    print(f"Applying CORS headers for {request.path}")  # Debug log
+    response.headers.add('Access-Control-Allow-Origin', 'http://localhost:3000')
+    response.headers.add('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type, Authorization')
+    response.headers.add('Access-Control-Max-Age', '86400')  # Cache preflight for 24 hours
+    return response
 
 @app.route('/api/news', methods=['GET'])
 def get_news():
@@ -53,10 +75,63 @@ def subscribe():
             "subscribedAt": datetime.utcnow().isoformat()
         }
         subscriptions_collection.insert_one(subscription)
-        return jsonify({"message": f"Subscribed {email} to {category} news!"}), 200
+        return jsonify({"message": f"Subscribed {email} to {category} news!"})
     except Exception as e:
         print(f"Error subscribing: {e}")
         return jsonify({"error": str(e)}), 500
+
+@app.route('/api/signup', methods=['POST', 'OPTIONS'])
+def signup():
+    try:
+        print(f"Processing {request.method} request for /api/signup")  # Debug log
+        if request.method == 'OPTIONS':
+            print("Returning OPTIONS response for signup")  # Debug log
+            return jsonify({}), 200
+
+        data = request.get_json()
+        username = data.get('username')
+        email = data.get('email')
+        password = data.get('password')
+
+        if not username or not email or not password:
+            return jsonify({'message': 'All fields are required', 'success': False}), 400
+
+        if users_collection.find_one({'email': email}):
+            return jsonify({'message': 'Email already exists', 'success': False}), 400
+
+        hashed_password = generate_password_hash(password)
+        users_collection.insert_one({'username': username, 'email': email, 'password': hashed_password})
+        return jsonify({'message': 'User registered successfully', 'success': True}), 201
+    except Exception as e:
+        print(f"Error during signup: {e}")
+        return jsonify({'message': str(e), 'success': False}), 500
+
+@app.route('/api/signin', methods=['POST', 'OPTIONS'])
+def signin():
+    try:
+        print(f"Processing {request.method} request for /api/signin")  # Debug log
+        if request.method == 'OPTIONS':
+            print("Returning OPTIONS response for signin")  # Debug log
+            return jsonify({}), 200
+
+        data = request.get_json()
+        email = data.get('email')
+        password = data.get('password')
+
+        if not email or not password:
+            return jsonify({'message': 'Email and password are required', 'success': False}), 400
+
+        user = users_collection.find_one({'email': email})
+        if user and check_password_hash(user['password'], password):
+            token = jwt.encode({
+                'email': email,
+                'exp': datetime.utcnow() + timedelta(hours=24)
+            }, app.config['SECRET_KEY'])
+            return jsonify({'message': 'Login successful', 'success': True, 'token': token}), 200
+        return jsonify({'message': 'Invalid credentials', 'success': False}), 401
+    except Exception as e:
+        print(f"Error during signin: {e}")
+        return jsonify({'message': str(e), 'success': False}), 500
 
 if __name__ == '__main__':
     app.run(debug=True, port=5001, host='0.0.0.0')
