@@ -2,7 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const LandingPage = ({ categories, darkMode, onOpenSubscribeModal, isAuthenticated }) => {
-  // Helper functions (moved from App.js)
+  const username = localStorage.getItem('username') || 'User'; // Fallback if no username
+
+  // Helper functions
   const getCategoryBorderColor = (category) => {
     const colors = {
       art: 'border-purple-500',
@@ -32,7 +34,7 @@ const LandingPage = ({ categories, darkMode, onOpenSubscribeModal, isAuthenticat
   return (
     <div className="max-w-6xl mx-auto py-8 px-4">
       <section className="mb-12 text-center">
-        <h2 className="text-4xl font-bold mb-2 text-gray-800 dark:text-white">YOUR POWER GRIEVER TO THE</h2>
+        <h2 className="text-4xl font-bold mb-2 text-gray-800 dark:text-white">{username}'s BrightFeed</h2>
         <h2 className="text-4xl font-bold mb-6 text-blue-600 dark:text-blue-400">LATEST STORIES</h2>
         <p className="text-xl mb-4 text-gray-600 dark:text-gray-300">PICK A CATEGORY AND DIVE IN!</p>
         <button

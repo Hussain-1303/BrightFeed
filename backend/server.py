@@ -109,9 +109,9 @@ def signup():
 @app.route('/api/signin', methods=['POST', 'OPTIONS'])
 def signin():
     try:
-        print(f"Processing {request.method} request for /api/signin")  # Debug log
+        print(f"Processing {request.method} request for /api/signin")
         if request.method == 'OPTIONS':
-            print("Returning OPTIONS response for signin")  # Debug log
+            print("Returning OPTIONS response for signin")
             return jsonify({}), 200
 
         data = request.get_json()
@@ -125,13 +125,41 @@ def signin():
         if user and check_password_hash(user['password'], password):
             token = jwt.encode({
                 'email': email,
+                'username': user['username'],  # Add username to token
                 'exp': datetime.utcnow() + timedelta(hours=24)
             }, app.config['SECRET_KEY'])
-            return jsonify({'message': 'Login successful', 'success': True, 'token': token}), 200
+            return jsonify({'message': 'Login successful', 'success': True, 'token': token, 'username': user['username']}), 200
         return jsonify({'message': 'Invalid credentials', 'success': False}), 401
     except Exception as e:
         print(f"Error during signin: {e}")
         return jsonify({'message': str(e), 'success': False}), 500
+
+@app.route('/api/profile', methods=['GET'])
+def get_profile():
+    try:
+        token = request.headers.get('Authorization').split(' ')[1]
+        payload = jwt.decode(token, app.config['SECRET_KEY'], algorithms=['HS256'])
+        email = payload['email']
+        user = users_collection.find_one({'email': email})
+        if user:
+            return jsonify({'username': user['username'], 'email': user['email']}), 200
+        return jsonify({'message': 'User not found'}), 404
+    except Exception as e:
+        print(f"Profile error: {e}")
+        return jsonify({'message': str(e)}), 401
+
+@app.route('/api/profile', methods=['PUT'])
+def update_profile():
+    try:
+        token = request.headers.get('Authorization').split(' ')[1]
+        payload = jwt.decode(token, app.config['SECRET_KEY'], algorithms=['HS256'])
+        email = payload['email']
+        data = request.get_json()
+        users_collection.update_one({'email': email}, {'$set': {'username': data['username'], 'email': data['email']}})
+        return jsonify({'message': 'Profile updated', 'success': True}), 200
+    except Exception as e:
+        print(f"Update profile error: {e}")
+        return jsonify({'message': str(e), 'success': False}), 400
 
 if __name__ == '__main__':
     app.run(debug=True, port=5001, host='0.0.0.0')

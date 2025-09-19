@@ -3162,3 +3162,191 @@
 2025-09-16 01:01:09,817 - INFO - Inserted 2 new articles
 2025-09-16 01:01:09,817 - INFO - Waiting 30 minutes before next scan...
 2025-09-16 12:07:44,833 - INFO - Scraper stopped by user
+2025-09-18 11:08:14,569 - INFO - MongoDB connection successful
+2025-09-18 11:08:14,570 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-09-18 11:08:15,902 - INFO - Duplicate article found: 28 new movies worth checking out this fall
+2025-09-18 11:08:15,922 - INFO - Scraped 14 articles from art
+2025-09-18 11:08:18,820 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-09-18 11:08:19,333 - INFO - Duplicate article found: Officials announce a 'framework' for keeping TikTok online in the U.S.
+2025-09-18 11:08:19,334 - INFO - Duplicate article found: AI can keep you alive forever. Should it?
+2025-09-18 11:08:19,336 - INFO - Duplicate article found: Why parents need to talk to their teens about AI — and how to start the conversation
+2025-09-18 11:08:19,337 - INFO - Duplicate article found: A play about the revolt of human workers — not machines — gave us the word 'robot'
+2025-09-18 11:08:19,339 - INFO - Duplicate article found: Running your lab results by ChatGPT? Here's what to keep in mind
+2025-09-18 11:08:19,340 - INFO - Duplicate article found: After 6 years, Hollow Knight Silksong is here at last — and it was worth the wait
+2025-09-18 11:08:19,341 - INFO - Duplicate article found: How AI slop is clogging your brain
+2025-09-18 11:08:19,342 - INFO - Duplicate article found: Fantasy or faith? One company's AI-generated Bible content stirs controversy
+2025-09-18 11:08:19,343 - INFO - Duplicate article found: The U.S. government is taking a stake in Intel. It's rare — and it has some risks
+2025-09-18 11:08:19,344 - INFO - Duplicate article found: Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit
+2025-09-18 11:08:19,345 - INFO - Duplicate article found: Anthropic to pay authors $1.5B to settle lawsuit over pirated chatbot training material
+2025-09-18 11:08:19,345 - INFO - Scraped 4 articles from tech
+2025-09-18 11:08:22,043 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-09-18 11:08:22,839 - INFO - Duplicate article found: Melting glaciers mean an uncertain future for Europe's rivers
+2025-09-18 11:08:22,841 - INFO - Duplicate article found: Is it the magnesium or the massage? The facts about magnesium lotion for sleep
+2025-09-18 11:08:22,842 - INFO - Duplicate article found: The ancient science of nose jobs
+2025-09-18 11:08:22,844 - INFO - Duplicate article found: Australia approves vaccine to protect koalas from chlamydia
+2025-09-18 11:08:22,846 - INFO - Duplicate article found: Insect populations drop even without direct human interference, a new study finds
+2025-09-18 11:08:22,848 - INFO - Duplicate article found: Health care costs are soaring. Blame insurers, drug companies — and your employer
+2025-09-18 11:08:22,849 - INFO - Duplicate article found: NASA just dropped the most convincing evidence for ancient life on Mars
+2025-09-18 11:08:22,851 - INFO - Duplicate article found: A play about the revolt of human workers — not machines — gave us the word 'robot'
+2025-09-18 11:08:22,853 - INFO - Duplicate article found: After 10 years of black hole science, Stephen Hawking is proven right
+2025-09-18 11:08:22,853 - INFO - Scraped 6 articles from science
+2025-09-18 11:08:24,600 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-09-18 11:08:25,311 - INFO - Scraped 15 articles from world
+2025-09-18 11:08:27,760 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-09-18 11:08:28,062 - INFO - Duplicate article found: Officials announce a 'framework' for keeping TikTok online in the U.S.
+2025-09-18 11:08:28,063 - INFO - Duplicate article found: AI can keep you alive forever. Should it?
+2025-09-18 11:08:28,066 - INFO - Duplicate article found: Why parents need to talk to their teens about AI — and how to start the conversation
+2025-09-18 11:08:28,067 - INFO - Duplicate article found: A play about the revolt of human workers — not machines — gave us the word 'robot'
+2025-09-18 11:08:28,068 - INFO - Duplicate article found: Running your lab results by ChatGPT? Here's what to keep in mind
+2025-09-18 11:08:28,069 - INFO - Duplicate article found: After 6 years, Hollow Knight Silksong is here at last — and it was worth the wait
+2025-09-18 11:08:28,071 - INFO - Duplicate article found: How AI slop is clogging your brain
+2025-09-18 11:08:28,072 - INFO - Duplicate article found: Fantasy or faith? One company's AI-generated Bible content stirs controversy
+2025-09-18 11:08:28,074 - INFO - Duplicate article found: The U.S. government is taking a stake in Intel. It's rare — and it has some risks
+2025-09-18 11:08:28,075 - INFO - Duplicate article found: Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit
+2025-09-18 11:08:28,075 - INFO - Duplicate article found: Anthropic to pay authors $1.5B to settle lawsuit over pirated chatbot training material
+2025-09-18 11:08:28,076 - INFO - Scraped 4 articles from gaming
+2025-09-18 11:08:30,916 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-09-18 11:08:31,670 - INFO - Duplicate article found: Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground
+2025-09-18 11:08:31,672 - INFO - Duplicate article found: Does adding football help colleges with recruiting? It's complicated
+2025-09-18 11:08:31,674 - INFO - Duplicate article found: 60 years later, Sandy Koufax's perfect game is still amazing
+2025-09-18 11:08:31,675 - INFO - Duplicate article found: World Cup tickets are on sale. Scoring them may not be easy — or cheap
+2025-09-18 11:08:31,676 - INFO - Duplicate article found: Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump's attendance
+2025-09-18 11:08:31,677 - INFO - Duplicate article found: Young Phillies fan is gifted swag after adult fan takes his home run ball
+2025-09-18 11:08:31,679 - INFO - Duplicate article found: Davey Johnson, who won 2 World Series with Orioles, managed Mets to title, dies at 82
+2025-09-18 11:08:31,680 - INFO - Duplicate article found: Ken Dryden, Hall of Fame goalie for the Montreal Canadiens, dies at age 78
+2025-09-18 11:08:31,681 - INFO - Duplicate article found: Alcaraz beats Djokovic at the U.S. Open and will meet Sinner for Grand Slam final
+2025-09-18 11:08:31,681 - INFO - Duplicate article found: A clash of the comebacks: Anisimova outlasts Osaka in the U.S. Open semifinals
+2025-09-18 11:08:31,682 - INFO - Duplicate article found: The NFL is back. Here are 3 big questions as the season kicks off
+2025-09-18 11:08:31,683 - INFO - Duplicate article found: How 3 Hawaiian teen princes brought surfing to the mainland
+2025-09-18 11:08:31,684 - INFO - Duplicate article found: 139 days: 3 Scottish brothers set a record for fastest row across the Pacific
+2025-09-18 11:08:31,685 - INFO - Duplicate article found: College football season is here. Here's what to know ahead of Saturday's kickoff
+2025-09-18 11:08:31,686 - INFO - Duplicate article found: Grassroots motorsport pulls big tractors and bigger crowds
+2025-09-18 11:08:31,686 - INFO - Scraped 0 articles from sport
+2025-09-18 11:08:32,827 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-09-18 11:08:33,726 - INFO - Duplicate article found: Appeals court says Lisa Cook can stay on the Federal Reserve board -- for now
+2025-09-18 11:08:33,726 - INFO - Scraped 14 articles from business
+2025-09-18 11:08:36,035 - INFO - Inserted 57 new articles
+2025-09-18 11:08:36,036 - INFO - Waiting 30 minutes before next scan...
+2025-09-18 11:32:46,337 - INFO - Scraper stopped by user
+2025-09-18 11:33:22,452 - INFO - MongoDB connection successful
+2025-09-18 11:33:22,452 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-09-18 11:33:22,964 - INFO - Duplicate article found: 28 new movies worth checking out this fall
+2025-09-18 11:33:22,966 - INFO - Duplicate article found: What to watch this fall: Here are 12 TV shows we're looking forward to
+2025-09-18 11:33:22,967 - INFO - Duplicate article found: 12 brand new books we can't wait to read this fall
+2025-09-18 11:33:22,968 - INFO - Duplicate article found: Bobbi Brown doesn’t listen to men in suits about makeup
+2025-09-18 11:33:22,969 - INFO - Duplicate article found: ABC pulls Jimmy Kimmel off air after comments made about the Charlie Kirk killing
+2025-09-18 11:33:22,970 - INFO - Duplicate article found: Why beef prices are higher than ever (and shoppers are finally resisting)
+2025-09-18 11:33:22,971 - INFO - Duplicate article found: The movies and TV we’re excited about this fall
+2025-09-18 11:33:22,973 - INFO - Duplicate article found: Jimmy Kimmel show is pulled by ABC after comments about the Charlie Kirk killing
+2025-09-18 11:33:22,973 - INFO - Duplicate article found: 'I was quite a maverick kid' — 'Fresh Air' went behind the scenes with Robert Redford
+2025-09-18 11:33:22,975 - INFO - Duplicate article found: What to know about zarfs, the fanciest way to drink coffee
+2025-09-18 11:33:22,976 - INFO - Duplicate article found: Keanu Reeves and Alex Winter go on a new excellent adventure: 'Waiting for Godot'
+2025-09-18 11:33:22,978 - INFO - Duplicate article found: The key to thriving later in life: menopause
+2025-09-18 11:33:22,980 - INFO - Duplicate article found: Robert Redford was his own kind of Hollywood icon
+2025-09-18 11:33:22,981 - INFO - Duplicate article found: Robert Redford knew how to make a thriller
+2025-09-18 11:33:22,983 - INFO - Duplicate article found: From heart to skin to hair, 'Replaceable You' dives into the science of transplant
+2025-09-18 11:33:22,983 - INFO - Scraped 0 articles from art
+2025-09-18 11:33:25,680 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-09-18 11:33:26,123 - INFO - Duplicate article found: Kirk shooting videos spread online, even to viewers who didn't want to see them
+2025-09-18 11:33:26,124 - INFO - Duplicate article found: What does the Google antitrust ruling mean for the future of AI?
+2025-09-18 11:33:26,126 - INFO - Duplicate article found: Foreign influencers are doing their best to spin the Charlie Kirk assassination
+2025-09-18 11:33:26,128 - INFO - Duplicate article found: Trump extends TikTok reprieve as deal nears
+2025-09-18 11:33:26,130 - INFO - Duplicate article found: Officials announce a 'framework' for keeping TikTok online in the U.S.
+2025-09-18 11:33:26,131 - INFO - Duplicate article found: AI can keep you alive forever. Should it?
+2025-09-18 11:33:26,132 - INFO - Duplicate article found: Why parents need to talk to their teens about AI — and how to start the conversation
+2025-09-18 11:33:26,134 - INFO - Duplicate article found: A play about the revolt of human workers — not machines — gave us the word 'robot'
+2025-09-18 11:33:26,134 - INFO - Duplicate article found: Running your lab results by ChatGPT? Here's what to keep in mind
+2025-09-18 11:33:26,135 - INFO - Duplicate article found: After 6 years, Hollow Knight Silksong is here at last — and it was worth the wait
+2025-09-18 11:33:26,137 - INFO - Duplicate article found: How AI slop is clogging your brain
+2025-09-18 11:33:26,137 - INFO - Duplicate article found: Fantasy or faith? One company's AI-generated Bible content stirs controversy
+2025-09-18 11:33:26,139 - INFO - Duplicate article found: The U.S. government is taking a stake in Intel. It's rare — and it has some risks
+2025-09-18 11:33:26,141 - INFO - Duplicate article found: Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit
+2025-09-18 11:33:26,142 - INFO - Duplicate article found: Anthropic to pay authors $1.5B to settle lawsuit over pirated chatbot training material
+2025-09-18 11:33:26,142 - INFO - Scraped 0 articles from tech
+2025-09-18 11:33:27,825 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-09-18 11:33:28,214 - INFO - Duplicate article found: To save its unique and rare birds, New Zealand is turning to AI and genetic research
+2025-09-18 11:33:28,216 - INFO - Duplicate article found: The key to thriving later in life: menopause
+2025-09-18 11:33:28,217 - INFO - Duplicate article found: From heart to skin to hair, 'Replaceable You' dives into the science of transplant
+2025-09-18 11:33:28,219 - INFO - Duplicate article found: Movie star and visionary Robert Redford has died at age 89
+2025-09-18 11:33:28,220 - INFO - Duplicate article found: On 9/16/25, celebrate a date of mathematical beauty
+2025-09-18 11:33:28,222 - INFO - Duplicate article found: Parkinson's is on the rise. Here's one future treatment giving researchers hope
+2025-09-18 11:33:28,223 - INFO - Duplicate article found: Melting glaciers mean an uncertain future for Europe's rivers
+2025-09-18 11:33:28,224 - INFO - Duplicate article found: Is it the magnesium or the massage? The facts about magnesium lotion for sleep
+2025-09-18 11:33:28,225 - INFO - Duplicate article found: The ancient science of nose jobs
+2025-09-18 11:33:28,226 - INFO - Duplicate article found: Australia approves vaccine to protect koalas from chlamydia
+2025-09-18 11:33:28,226 - INFO - Duplicate article found: Insect populations drop even without direct human interference, a new study finds
+2025-09-18 11:33:28,227 - INFO - Duplicate article found: Health care costs are soaring. Blame insurers, drug companies — and your employer
+2025-09-18 11:33:28,228 - INFO - Duplicate article found: NASA just dropped the most convincing evidence for ancient life on Mars
+2025-09-18 11:33:28,229 - INFO - Duplicate article found: A play about the revolt of human workers — not machines — gave us the word 'robot'
+2025-09-18 11:33:28,230 - INFO - Duplicate article found: After 10 years of black hole science, Stephen Hawking is proven right
+2025-09-18 11:33:28,230 - INFO - Scraped 0 articles from science
+2025-09-18 11:33:29,682 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-09-18 11:33:31,059 - INFO - Duplicate article found: How CDC's vaccine advisers could affect policy. And, Jimmy Kimmel pulled off the air
+2025-09-18 11:33:31,081 - INFO - Duplicate article found: The Evolving Relationship Between the U.S. and the U.N.
+2025-09-18 11:33:31,103 - INFO - Duplicate article found: Russia gives Ukrainian kids military training and reeducation, Yale researchers find
+2025-09-18 11:33:31,124 - INFO - Duplicate article found: Greetings from American University of Beirut, where more than 1,000 cats roam
+2025-09-18 11:33:31,146 - INFO - Duplicate article found: Suspect in UK toddler disappearance is released after serving time in unrelated case
+2025-09-18 11:33:31,167 - INFO - Duplicate article found: What to know about zarfs, the fanciest way to drink coffee
+2025-09-18 11:33:31,168 - INFO - Duplicate article found: Pomp and protests for Trump's unprecedented second U.K. state visit
+2025-09-18 11:33:31,169 - INFO - Duplicate article found: A humanitarian expert says civilians in Gaza City are facing an 'impossible choice'
+2025-09-18 11:33:31,173 - INFO - Duplicate article found: Israel’s Ground Invasion of Gaza City
+2025-09-18 11:33:31,176 - INFO - Duplicate article found: Labour MP Clive Lewis on the UK's energized far-right
+2025-09-18 11:33:31,178 - INFO - Duplicate article found: Israel is committing genocide in Gaza, a UN inquiry finds
+2025-09-18 11:33:31,199 - INFO - Duplicate article found: The U.S. said it would burn $9.7 million of birth control. Its fate is still unclear
+2025-09-18 11:33:31,201 - INFO - Duplicate article found: A U.N. inquiry accuses Israel of genocide in Gaza, joining a rising chorus
+2025-09-18 11:33:31,204 - INFO - Duplicate article found: For the first time in decades, U.S. says Colombia is falling short in the drug war
+2025-09-18 11:33:31,205 - INFO - Scraped 1 articles from world
+2025-09-18 11:33:32,843 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-09-18 11:33:33,397 - INFO - Duplicate article found: Kirk shooting videos spread online, even to viewers who didn't want to see them
+2025-09-18 11:33:33,398 - INFO - Duplicate article found: What does the Google antitrust ruling mean for the future of AI?
+2025-09-18 11:33:33,399 - INFO - Duplicate article found: Foreign influencers are doing their best to spin the Charlie Kirk assassination
+2025-09-18 11:33:33,400 - INFO - Duplicate article found: Trump extends TikTok reprieve as deal nears
+2025-09-18 11:33:33,402 - INFO - Duplicate article found: Officials announce a 'framework' for keeping TikTok online in the U.S.
+2025-09-18 11:33:33,403 - INFO - Duplicate article found: AI can keep you alive forever. Should it?
+2025-09-18 11:33:33,404 - INFO - Duplicate article found: Why parents need to talk to their teens about AI — and how to start the conversation
+2025-09-18 11:33:33,405 - INFO - Duplicate article found: A play about the revolt of human workers — not machines — gave us the word 'robot'
+2025-09-18 11:33:33,406 - INFO - Duplicate article found: Running your lab results by ChatGPT? Here's what to keep in mind
+2025-09-18 11:33:33,406 - INFO - Duplicate article found: After 6 years, Hollow Knight Silksong is here at last — and it was worth the wait
+2025-09-18 11:33:33,407 - INFO - Duplicate article found: How AI slop is clogging your brain
+2025-09-18 11:33:33,408 - INFO - Duplicate article found: Fantasy or faith? One company's AI-generated Bible content stirs controversy
+2025-09-18 11:33:33,409 - INFO - Duplicate article found: The U.S. government is taking a stake in Intel. It's rare — and it has some risks
+2025-09-18 11:33:33,410 - INFO - Duplicate article found: Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit
+2025-09-18 11:33:33,410 - INFO - Duplicate article found: Anthropic to pay authors $1.5B to settle lawsuit over pirated chatbot training material
+2025-09-18 11:33:33,410 - INFO - Scraped 0 articles from gaming
+2025-09-18 11:33:35,827 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-09-18 11:33:36,150 - INFO - Duplicate article found: Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground
+2025-09-18 11:33:36,152 - INFO - Duplicate article found: Does adding football help colleges with recruiting? It's complicated
+2025-09-18 11:33:36,153 - INFO - Duplicate article found: 60 years later, Sandy Koufax's perfect game is still amazing
+2025-09-18 11:33:36,154 - INFO - Duplicate article found: World Cup tickets are on sale. Scoring them may not be easy — or cheap
+2025-09-18 11:33:36,155 - INFO - Duplicate article found: Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump's attendance
+2025-09-18 11:33:36,156 - INFO - Duplicate article found: Young Phillies fan is gifted swag after adult fan takes his home run ball
+2025-09-18 11:33:36,157 - INFO - Duplicate article found: Davey Johnson, who won 2 World Series with Orioles, managed Mets to title, dies at 82
+2025-09-18 11:33:36,158 - INFO - Duplicate article found: Ken Dryden, Hall of Fame goalie for the Montreal Canadiens, dies at age 78
+2025-09-18 11:33:36,158 - INFO - Duplicate article found: Alcaraz beats Djokovic at the U.S. Open and will meet Sinner for Grand Slam final
+2025-09-18 11:33:36,159 - INFO - Duplicate article found: A clash of the comebacks: Anisimova outlasts Osaka in the U.S. Open semifinals
+2025-09-18 11:33:36,160 - INFO - Duplicate article found: The NFL is back. Here are 3 big questions as the season kicks off
+2025-09-18 11:33:36,163 - INFO - Duplicate article found: How 3 Hawaiian teen princes brought surfing to the mainland
+2025-09-18 11:33:36,165 - INFO - Duplicate article found: 139 days: 3 Scottish brothers set a record for fastest row across the Pacific
+2025-09-18 11:33:36,165 - INFO - Duplicate article found: College football season is here. Here's what to know ahead of Saturday's kickoff
+2025-09-18 11:33:36,166 - INFO - Duplicate article found: Grassroots motorsport pulls big tractors and bigger crowds
+2025-09-18 11:33:36,166 - INFO - Scraped 0 articles from sport
+2025-09-18 11:33:37,983 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-09-18 11:33:38,516 - INFO - Duplicate article found: Kirk shooting videos spread online, even to viewers who didn't want to see them
+2025-09-18 11:33:38,517 - INFO - Duplicate article found: What does the Google antitrust ruling mean for the future of AI?
+2025-09-18 11:33:38,525 - INFO - Duplicate article found: ABC pulls Jimmy Kimmel off air after comments made about the Charlie Kirk killing
+2025-09-18 11:33:38,527 - INFO - Duplicate article found: New policies are making life harder for trans people — and prompting big financial decisions
+2025-09-18 11:33:38,529 - INFO - Duplicate article found: Why beef prices are higher than ever (and shoppers are finally resisting)
+2025-09-18 11:33:38,532 - INFO - Duplicate article found: Why "free" public education doesn't always include school supplies
+2025-09-18 11:33:38,534 - INFO - Duplicate article found: Jimmy Kimmel show is pulled by ABC after comments about the Charlie Kirk killing
+2025-09-18 11:33:38,537 - INFO - Duplicate article found: Ben & Jerry's co-founder Jerry Greenfield resigns over dispute with owner Unilever
+2025-09-18 11:33:38,539 - INFO - Duplicate article found: Facing Trump's pressure, the Fed cuts rates for the first time this year
+2025-09-18 11:33:38,541 - INFO - Duplicate article found: The crypto market is hot. But is it an illusion?
+2025-09-18 11:33:38,544 - INFO - Duplicate article found: When CEO pay exploded (update)
+2025-09-18 11:33:38,548 - INFO - Duplicate article found: NPR to trim $5 million this year as public radio stations struggle to pay bills
+2025-09-18 11:33:38,550 - INFO - Duplicate article found: Trump files $15 billion defamation lawsuit against 'New York Times'
+2025-09-18 11:33:38,551 - INFO - Duplicate article found: Why an aggressive rate cut could backfire on Trump
+2025-09-18 11:33:38,553 - INFO - Duplicate article found: Appeals court says Lisa Cook can stay on the Federal Reserve board -- for now
+2025-09-18 11:33:38,553 - INFO - Scraped 0 articles from business
+2025-09-18 11:33:41,197 - INFO - Inserted 1 new articles
+2025-09-18 11:33:41,197 - INFO - Waiting 30 minutes before next scan...
+2025-09-18 12:07:26,507 - INFO - Scraper stopped by user

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 
 const SignIn = ({ setIsAuthenticated }) => {
   const [formData, setFormData] = useState({ email: '', password: '' });
@@ -16,9 +16,10 @@ const SignIn = ({ setIsAuthenticated }) => {
     try {
       const response = await axios.post('http://localhost:5001/api/signin', formData);
       if (response.data.success) {
-        localStorage.setItem('token', response.data.token); // Store the token
-        setIsAuthenticated(true); // Update the parent state
-        navigate('/'); // Redirect to home
+        localStorage.setItem('token', response.data.token);
+        localStorage.setItem('username', response.data.username);
+        setIsAuthenticated(true);
+        navigate('/');
       } else {
         setError(response.data.message || 'Sign-in failed');
       }
@@ -62,6 +63,9 @@ const SignIn = ({ setIsAuthenticated }) => {
           Sign In
         </button>
       </form>
+      <p className="text-center mt-4">
+        Don't have an account? <Link to="/signup" className="text-blue-500 hover:underline">Sign Up</Link>
+      </p>
     </div>
   );
 };
