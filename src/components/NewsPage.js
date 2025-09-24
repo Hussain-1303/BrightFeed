@@ -36,7 +36,7 @@ const NewsPage = ({ category, darkMode }) => {
   return (
     <div className="max-w-4xl mx-auto py-8 px-4">
       <div className="flex flex-col items-center mb-8">
-        <h2 className={`text-3xl font-bold capitalize mb-2 ${darkMode ? 'text-white' : 'text-gray-800'}`}>
+        <h2 className={`text-3xl font-bold capitalize mb-2 ${darkMode ? 'text-white' : 'text-neutral-800'}`}>
           {category === "sport" ? "Sports" : category} News
         </h2>
         {/* <div className="flex gap-4 mt-4">
@@ -66,7 +66,7 @@ const NewsPage = ({ category, darkMode }) => {
           <Navigation next={nextArticle} previous={prevArticle} darkMode={darkMode} />
         </div>
       ) : (
-        <p className={`text-xl text-center ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
+        <p className={`text-xl text-center ${darkMode ? 'text-neutral-300' : 'text-neutral-600'}`}>
           Loading {category} news...
         </p>
       )}

@@ -32,27 +32,27 @@ const App = () => {
         />
 
         {/* Foreground App Content */}
-        <div className="relative z-10 flex flex-col min-h-screen bg-white/70 dark:bg-gray-900/80 backdrop-blur-sm transition-colors duration-300">
+        <div className="relative z-10 flex flex-col min-h-screen bg-white/70 dark:bg-neutral-900/80 backdrop-blur-sm transition-colors duration-300">
           {/* Sticky Header */}
-          <header className="sticky top-0 z-50 bg-white dark:bg-gray-800 text-gray-900 dark:text-white p-4 shadow-sm">
+          <header className="sticky top-0 z-50 bg-white dark:bg-neutral-800 text-neutral-900 dark:text-white p-4 shadow-lg">
             <div className="max-w-7xl mx-auto flex justify-between items-center">
-              <h1 className="text-4xl font-extrabold tracking-tight text-blue-600 dark:text-blue-400">
+              <h1 className="text-4xl font-extrabold tracking-tight text-brand-500 dark:text-brand-400">
                 <Link to="/">BRIGHT FEED</Link>
               </h1>
               <div className="flex items-center gap-4">
                 <button
                   onClick={toggleTheme}
-                  className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                  className="p-2 rounded-full bg-neutral-100 dark:bg-neutral-700 hover:bg-neutral-200 dark:hover:bg-neutral-600 transition-colors"
                   aria-label="Toggle dark mode"
                 >
-                  {darkMode ? <FiSun className="text-yellow-300" /> : <FiMoon className="text-gray-600" />}
+                  {darkMode ? <FiSun className="text-warning-400" /> : <FiMoon className="text-neutral-600" />}
                 </button>
                 <Link
                   to="/"
-                  className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                  className="p-2 rounded-full bg-neutral-100 dark:bg-neutral-700 hover:bg-neutral-200 dark:hover:bg-neutral-600 transition-colors"
                   aria-label="Home"
                 >
-                  <FiHome className={darkMode ? "text-white" : "text-gray-800"} />
+                  <FiHome className={darkMode ? "text-white" : "text-neutral-800"} />
                 </Link>
               </div>
             </div>
@@ -82,14 +82,14 @@ const App = () => {
           </main>
 
           {/* Footer */}
-          <footer className="bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 p-4 shadow-inner">
+          <footer className="bg-white dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 p-4 shadow-inner">
             <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-2">
               <p className="text-lg font-semibold">BRIGHT FEED © 2025</p>
               <p className="text-sm italic">Fresh news daily—stay curious, stay connected.</p>
               <div className="flex gap-2">
                 <button
                   onClick={() => setShowPositiveModal(true)}
-                  className="px-4 py-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-colors"
+                  className="px-4 py-2 bg-accent-500 text-white rounded-lg hover:bg-accent-600 transition-colors shadow-md"
                 >
                   Positive Newsletter 💖
                 </button>
@@ -121,12 +121,12 @@ const App = () => {
 const LandingPage = ({ categories, darkMode, onOpenSubscribeModal }) => (
   <div className="max-w-6xl mx-auto py-8 px-4">
     <section className="mb-12 text-center">
-      <h2 className="text-4xl font-bold mb-2 text-gray-800 dark:text-white">YOUR POWER GRIEVER TO THE</h2>
-      <h2 className="text-4xl font-bold mb-6 text-blue-600 dark:text-blue-400">LATEST STORIES</h2>
-      <p className="text-xl mb-4 text-gray-600 dark:text-gray-300">PICK A CATEGORY AND DIVE IN!</p>
+      <h2 className="text-4xl font-bold mb-2 text-neutral-800 dark:text-white">YOUR POWER GRIEVER TO THE</h2>
+      <h2 className="text-4xl font-bold mb-6 text-brand-500 dark:text-brand-400">LATEST STORIES</h2>
+      <p className="text-xl mb-4 text-neutral-600 dark:text-neutral-300">PICK A CATEGORY AND DIVE IN!</p>
       <button
         onClick={onOpenSubscribeModal}
-        className="px-6 py-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-colors"
+        className="px-6 py-2 bg-brand-500 text-white rounded-lg hover:bg-brand-600 transition-colors shadow-md"
       >
         Subscribe to Category
       </button>
@@ -137,7 +137,7 @@ const LandingPage = ({ categories, darkMode, onOpenSubscribeModal }) => (
         <Link
         key={category}
         to={`/${category}`}
-        className={`relative rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all border-l-4 ${getCategoryBorderColor(category)}`}
+        className={`relative rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all ${getCategoryBorderColor(category)}`}
         style={{
           backgroundImage: `url(${getCategoryImage(category)})`,
           backgroundSize: 'cover',
@@ -169,27 +169,27 @@ const SubscribeModal = ({ categories, onClose, darkMode }) => {
 
   return (
     <div className="fixed inset-0 bg-black bg-opacity-40 flex items-center justify-center z-50">
-      <div className={`rounded-2xl shadow-xl p-8 w-full max-w-md relative ${darkMode ? 'bg-gray-800 text-white' : 'bg-white text-gray-900'}`}>
+      <div className={`rounded-2xl shadow-xl p-8 w-full max-w-md relative ${darkMode ? 'bg-neutral-800 text-white' : 'bg-white text-neutral-900'}`}>
         <button
           onClick={onClose}
-          className="absolute top-3 right-4 text-xl text-gray-600 hover:text-black dark:text-gray-400 dark:hover:text-white"
+          className="absolute top-3 right-4 text-xl text-neutral-600 hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-white"
         >
           ✕
         </button>
-        <h2 className="text-3xl font-bold mb-2 text-pink-600 dark:text-pink-400">Subscribe!</h2>
+        <h2 className="text-3xl font-bold mb-2 text-brand-500 dark:text-brand-400">Subscribe!</h2>
         <form onSubmit={handleSubmit} className="space-y-4">
           <input
             type="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required
-            className={`w-full p-3 border rounded-lg ${darkMode ? 'border-gray-600 bg-gray-700 text-white placeholder-gray-400' : 'border-pink-300 text-pink-700 placeholder-pink-300'}`}
+            className={`w-full p-3 border rounded-lg ${darkMode ? 'border-neutral-600 bg-neutral-700 text-white placeholder-neutral-400' : 'border-brand-300 text-brand-700 placeholder-brand-300'}`}
             placeholder="you@example.com"
           />
           <select
             value={selectedCategory}
             onChange={(e) => setSelectedCategory(e.target.value)}
-            className={`w-full p-3 border rounded-lg ${darkMode ? 'border-gray-600 bg-gray-700 text-white' : 'border-pink-300 text-pink-700'}`}
+            className={`w-full p-3 border rounded-lg ${darkMode ? 'border-neutral-600 bg-neutral-700 text-white' : 'border-brand-300 text-brand-700'}`}
           >
             {categories.map((cat) => (
               <option key={cat} value={cat}>
@@ -199,7 +199,7 @@ const SubscribeModal = ({ categories, onClose, darkMode }) => {
           </select>
           <button
             type="submit"
-            className="w-full bg-pink-500 text-yellow-200 font-semibold py-2 rounded-lg hover:bg-pink-600 transition"
+            className="w-full bg-brand-500 text-white font-semibold py-2 rounded-lg hover:bg-brand-600 transition shadow-md"
           >
             Subscribe
           </button>
@@ -221,27 +221,27 @@ const PositiveNewsletterModal = ({ onClose, darkMode }) => {
 
   return (
     <div className="fixed inset-0 bg-black bg-opacity-40 flex items-center justify-center z-50">
-      <div className={`rounded-2xl shadow-xl p-8 w-full max-w-md relative border border-pink-300 ${darkMode ? 'bg-gray-800 text-pink-300' : 'bg-pink-100 text-pink-800'}`}>
+      <div className={`rounded-2xl shadow-xl p-8 w-full max-w-md relative border border-accent-300 ${darkMode ? 'bg-neutral-800 text-accent-300' : 'bg-accent-50 text-accent-800'}`}>
         <button
           onClick={onClose}
-          className="absolute top-3 right-4 text-2xl text-pink-600 hover:text-pink-800 dark:text-pink-400 dark:hover:text-pink-200"
+          className="absolute top-3 right-4 text-2xl text-accent-600 hover:text-accent-800 dark:text-accent-400 dark:hover:text-accent-200"
         >
           ✕
         </button>
-        <h2 className="text-3xl font-bold mb-2 text-pink-600 dark:text-pink-400">Positive Newsletter 💖</h2>
-        <p className="text-pink-500 dark:text-pink-300 mb-6">Enter your email to get feel-good stories and uplifting news!</p>
+        <h2 className="text-3xl font-bold mb-2 text-accent-600 dark:text-accent-400">Positive Newsletter 💖</h2>
+        <p className="text-accent-500 dark:text-accent-300 mb-6">Enter your email to get feel-good stories and uplifting news!</p>
         <form onSubmit={handleSubmit} className="space-y-4">
           <input
             type="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required
-            className={`w-full p-3 border rounded-lg ${darkMode ? 'border-gray-600 bg-gray-700 text-white placeholder-gray-400' : 'border-pink-300 text-pink-700 placeholder-pink-300'}`}
+            className={`w-full p-3 border rounded-lg ${darkMode ? 'border-neutral-600 bg-neutral-700 text-white placeholder-neutral-400' : 'border-accent-300 text-accent-700 placeholder-accent-300'}`}
             placeholder="you@example.com"
           />
           <button
             type="submit"
-            className="w-full bg-pink-500 text-yellow-200 font-semibold py-2 rounded-lg hover:bg-pink-600 transition"
+            className="w-full bg-accent-500 text-white font-semibold py-2 rounded-lg hover:bg-accent-600 transition shadow-md"
           >
             Get Your Preferred News Articles!
           </button>
@@ -267,28 +267,28 @@ const getCategoryIcon = (category) => {
 
 const getCategoryBorderColor = (category) => {
   const colors = {
-    art: 'border-purple-500',
-    tech: 'border-blue-500',
-    science: 'border-green-500',
-    world: 'border-yellow-500',
-    gaming: 'border-red-500',
-    sport: 'border-orange-500',
-    business: 'border-indigo-500'
+    art: 'border-l-4 border-purple-600',
+    tech: 'border-l-4 border-blue-600', 
+    science: 'border-l-4 border-emerald-600',
+    world: 'border-l-4 border-amber-600',
+    gaming: 'border-l-4 border-red-600',
+    sport: 'border-l-4 border-orange-600',
+    business: 'border-l-4 border-indigo-600'
   };
-  return colors[category] || 'border-gray-500';
+  return colors[category] || 'border-l-4 border-neutral-500';
 };
 
 const getCategoryIconColor = (category) => {
   const colors = {
     art: 'text-purple-500',
     tech: 'text-blue-500',
-    science: 'text-green-500',
-    world: 'text-yellow-500',
+    science: 'text-emerald-500',
+    world: 'text-amber-500',
     gaming: 'text-red-500',
     sport: 'text-orange-500',
     business: 'text-indigo-500'
   };
-  return colors[category] || 'text-gray-500';
+  return colors[category] || 'text-neutral-500';
 };
 
 const getCategoryImage = (category) => {
