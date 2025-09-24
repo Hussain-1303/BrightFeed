@@ -7,6 +7,14 @@ const NewsCard = ({ article, darkMode }) => {
     return date.toString() !== "Invalid Date" ? date.toLocaleDateString() : "Unknown Date";
   };
 
+  // Determine sentiment emoji based on compound score
+  const getSentimentEmoji = (sentiment) => {
+    const compound = sentiment?.headline?.compound || 0; // Use headline sentiment
+    if (compound >= 0.05) return '😊'; // Positive
+    if (compound <= -0.05) return '😢'; // Negative
+    return '😐'; // Neutral
+  };
+
   return (
     <div className={`relative rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:scale-[1.02] 
       ${darkMode ? 'bg-neutral-700' : 'bg-white'} card-hover`}
@@ -36,8 +44,9 @@ const NewsCard = ({ article, darkMode }) => {
           >
             {article.category}
           </span>
-          <span className="ml-auto text-sm text-neutral-500 dark:text-neutral-400">
-            {formatDate(article.date)} {/* Updated to use formatDate */}
+          <span className="ml-2 text-lg">{getSentimentEmoji(article.sentiment)}</span>
+          <span className="ml-auto text-sm text-gray-500 dark:text-gray-400">
+            {formatDate(article.date)}
           </span>
         </div>
         
