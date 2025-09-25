@@ -7,15 +7,15 @@ const LandingPage = ({ categories, darkMode, onOpenSubscribeModal, isAuthenticat
   // Helper functions
   const getCategoryBorderColor = (category) => {
     const colors = {
-      art: 'border-purple-500',
-      tech: 'border-blue-500',
-      science: 'border-green-500',
-      world: 'border-yellow-500',
-      gaming: 'border-red-500',
-      sport: 'border-orange-500',
-      business: 'border-indigo-500',
+      art: 'border-l-4 border-l-violet-600',
+      tech: 'border-l-4 border-l-sky-600',
+      science: 'border-l-4 border-l-emerald-700',
+      world: 'border-l-4 border-l-amber-700',
+      gaming: 'border-l-4 border-l-red-700',
+      sport: 'border-l-4 border-l-orange-700',
+      business: 'border-l-4 border-l-indigo-700',
     };
-    return colors[category] || 'border-gray-500';
+    return colors[category] || 'border-l-4 border-l-neutral-500';
   };
 
   const getCategoryImage = (category) => {
@@ -35,11 +35,11 @@ const LandingPage = ({ categories, darkMode, onOpenSubscribeModal, isAuthenticat
     <div className="max-w-6xl mx-auto py-8 px-4">
       <section className="mb-12 text-center">
         <h2 className="text-4xl font-bold mb-2 text-gray-800 dark:text-white">{username}'s BrightFeed</h2>
-        <h2 className="text-4xl font-bold mb-6 text-blue-600 dark:text-blue-400">LATEST STORIES</h2>
+        <h2 className="text-4xl font-bold mb-6 text-brand-600 dark:text-brand-400">LATEST STORIES</h2>
         <p className="text-xl mb-4 text-gray-600 dark:text-gray-300">PICK A CATEGORY AND DIVE IN!</p>
         <button
           onClick={onOpenSubscribeModal}
-          className="px-6 py-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-colors"
+          className="px-6 py-2 bg-accent-500 text-white rounded-lg hover:bg-accent-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
           disabled={!isAuthenticated}
         >
           Subscribe to Category
@@ -51,7 +51,7 @@ const LandingPage = ({ categories, darkMode, onOpenSubscribeModal, isAuthenticat
           <Link
             key={category}
             to={`/${category}`}
-            className={`relative rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all border-l-4 ${getCategoryBorderColor(category)}`}
+            className={`relative rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all ${getCategoryBorderColor(category)}`}
             style={{
               backgroundImage: `url(${getCategoryImage(category)})`,
               backgroundSize: 'cover',

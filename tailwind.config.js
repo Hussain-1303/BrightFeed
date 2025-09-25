@@ -19,18 +19,18 @@ module.exports = {
           800: '#075985',
           900: '#0c4a6e',
         },
-        // Secondary Accent Colors
+        // Secondary Accent Colors - Professional green accent
         accent: {
-          50: '#fef7f7',
-          100: '#fef2f2',
-          200: '#fde8e8',
-          300: '#fbd5d5',
-          400: '#f8b4b4',
-          500: '#ef4444', // Changed from pink to a more sophisticated red
-          600: '#dc2626',
-          700: '#b91c1c',
-          800: '#991b1b',
-          900: '#7f1d1d',
+          50: '#f0fdf4',
+          100: '#dcfce7',
+          200: '#bbf7d0',
+          300: '#86efac',
+          400: '#4ade80',
+          500: '#22c55e', // Professional green for actions
+          600: '#16a34a',
+          700: '#15803d',
+          800: '#166534',
+          900: '#14532d',
         },
         // Semantic Colors
         success: {
@@ -69,42 +69,56 @@ module.exports = {
           800: '#991b1b',
           900: '#7f1d1d',
         },
-        // Category-specific colors (improved)
+        // Category-specific colors (enhanced with better accessibility)
         category: {
           art: {
-            light: '#a855f7',    // purple-500
-            dark: '#c084fc',     // purple-400
-            border: '#7c3aed',   // purple-600
+            light: '#8b5cf6',    // violet-500 - more vibrant
+            dark: '#a78bfa',     // violet-400
+            border: '#7c3aed',   // violet-600
+            bg: '#f3f4f6',       // neutral background
+            'bg-dark': '#374151', // dark background
           },
           tech: {
-            light: '#3b82f6',    // blue-500
-            dark: '#60a5fa',     // blue-400
-            border: '#2563eb',   // blue-600
+            light: '#0ea5e9',    // sky-500 - matches brand
+            dark: '#38bdf8',     // sky-400
+            border: '#0284c7',   // sky-600
+            bg: '#f0f9ff',       // brand-50
+            'bg-dark': '#0c4a6e', // brand-900
           },
           science: {
-            light: '#10b981',    // emerald-500
-            dark: '#34d399',     // emerald-400
-            border: '#059669',   // emerald-600
+            light: '#059669',    // emerald-600 - deeper for better contrast
+            dark: '#10b981',     // emerald-500
+            border: '#047857',   // emerald-700
+            bg: '#ecfdf5',       // emerald-50
+            'bg-dark': '#064e3b', // emerald-900
           },
           world: {
-            light: '#f59e0b',    // amber-500
-            dark: '#fbbf24',     // amber-400
-            border: '#d97706',   // amber-600
+            light: '#d97706',    // amber-600 - better contrast
+            dark: '#f59e0b',     // amber-500
+            border: '#b45309',   // amber-700
+            bg: '#fffbeb',       // amber-50
+            'bg-dark': '#78350f', // amber-900
           },
           gaming: {
-            light: '#ef4444',    // red-500
-            dark: '#f87171',     // red-400
-            border: '#dc2626',   // red-600
+            light: '#dc2626',    // red-600 - better contrast
+            dark: '#ef4444',     // red-500
+            border: '#b91c1c',   // red-700
+            bg: '#fef2f2',       // red-50
+            'bg-dark': '#7f1d1d', // red-900
           },
           sport: {
-            light: '#f97316',    // orange-500
-            dark: '#fb923c',     // orange-400
-            border: '#ea580c',   // orange-600
+            light: '#ea580c',    // orange-600 - better contrast
+            dark: '#f97316',     // orange-500
+            border: '#c2410c',   // orange-700
+            bg: '#fff7ed',       // orange-50
+            'bg-dark': '#9a3412', // orange-900
           },
           business: {
-            light: '#6366f1',    // indigo-500
-            dark: '#818cf8',     // indigo-400
-            border: '#4f46e5',   // indigo-600
+            light: '#4f46e5',    // indigo-600 - better contrast
+            dark: '#6366f1',     // indigo-500
+            border: '#4338ca',   // indigo-700
+            bg: '#eef2ff',       // indigo-50
+            'bg-dark': '#312e81', // indigo-900
           },
         },
         // Enhanced neutrals for better contrast

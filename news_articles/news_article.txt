@@ -4640,3 +4640,1104 @@ Source: https://www.cbc.ca/news/science
 === NPR - health - 2025-09-24 16:16:04 ===
 
 === CNN - travel - 2025-09-24 16:16:16 ===
+
+=== CNN - world - 2025-09-24 22:42:57 ===
+
+Headline: Giorgos Solaris/Reuters
+Summary: Summary based on headline: Giorgos Solaris/Reuters
+Description: Summary based on headline: Giorgos Solaris/Reuters
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-09-14t201412z-842744793-rc2wrga905q6-rtrmadp-3-israel-palestinians-gaza-flotilla-greece.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/world/italy-gaza-aid-flotilla-latam-intl
+==================================================
+
+Headline: Italy and Spain deploy ships to help Gaza aid flotilla targeted in drone attack
+Summary: Summary based on headline: Italy and Spain deploy ships to help Gaza aid flotilla targeted in drone ...
+Description: Summary based on headline: Italy and Spain deploy ships to help Gaza aid flotilla targeted in drone attack
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235873759.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/world/italy-gaza-aid-flotilla-latam-intl
+==================================================
+
+Headline: Man arrested in connection with cyberattack that disrupted European airports
+Summary: Summary based on headline: Man arrested in connection with cyberattack that disrupted European airpo...
+Description: Summary based on headline: Man arrested in connection with cyberattack that disrupted European airports
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25265151250569.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/uk/european-airports-cyberattack-man-arrested-intl
+==================================================
+
+=== CBC - world - 2025-09-24 22:42:59 ===
+
+Headline: How the ruling elite created 'a perfect storm' that led to the downfall of 3 South Asian governments
+Summary: Summary based on headline: How the ruling elite created 'a perfect storm' that led to the downfall o...
+Description: Summary based on headline: How the ruling elite created 'a perfect storm' that led to the downfall of 3 South Asian governments
+Image: https://i.cbc.ca/1.7642586.1758739454!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2233764037.jpg?im=Resize%3D780
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: 1 detainee killed, 2 others critically injured in Dallas ICE facility shooting: officials
+Summary: Summary based on headline: 1 detainee killed, 2 others critically injured in Dallas ICE facility sho...
+Description: Summary based on headline: 1 detainee killed, 2 others critically injured in Dallas ICE facility shooting: officials
+Image: https://i.cbc.ca/1.7642851.1758748543!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/unga-20250924.JPG?im=
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Carney sees possibilities for Canada at UN General Assembly
+Summary: Summary based on headline: Carney sees possibilities for Canada at UN General Assembly
+Description: Summary based on headline: Carney sees possibilities for Canada at UN General Assembly
+Image: https://i.cbc.ca/1.7640973.1758635711!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/trump.jpg?im=
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: White House shifts explanation on Tom Homan, U.S. border czar accused of taking $50,000 in a paper bag
+Summary: Summary based on headline: White House shifts explanation on Tom Homan, U.S. border czar accused of ...
+Description: Summary based on headline: White House shifts explanation on Tom Homan, U.S. border czar accused of taking $50,000 in a paper bag
+Image: https://i.cbc.ca/1.6424956.1758673649!/cpImage/httpImage/image.jpg_gen/derivatives/square_1180/tylenol-20170126.jpg?im=
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Trump's autism announcement leaves Tylenol's parent company with PR crisis
+Summary: Summary based on headline: Trump's autism announcement leaves Tylenol's parent company with PR crisi...
+Description: Summary based on headline: Trump's autism announcement leaves Tylenol's parent company with PR crisis
+Image: https://i.cbc.ca/1.5276813.1568063156!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/anya-zoledziowski.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Why are some Christians predicting the rapture on TikTok?
+Summary: Summary based on headline: Why are some Christians predicting the rapture on TikTok?
+Description: Summary based on headline: Why are some Christians predicting the rapture on TikTok?
+Image: https://i.cbc.ca/ais/3c60f952-c75f-416d-ab68-1772eb3f9a4c,1758727347943/full/max/0/default.jpg?im=Crop%2Crect%3D%28280%2C0%2C720%2C720%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Nexstar to keep Jimmy Kimmel Live! off the air, as monologue breaks YouTube record
+Summary: Summary based on headline: Nexstar to keep Jimmy Kimmel Live! off the air, as monologue breaks YouTu...
+Description: Summary based on headline: Nexstar to keep Jimmy Kimmel Live! off the air, as monologue breaks YouTube record
+Image: https://i.cbc.ca/1.7641376.1758652581!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/sarah-mclachlan-jimmy-kimmel-composite.jpg?im=
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-09-24 22:43:04 ===
+
+Headline: For the first time in nearly 6 decades, a Syrian president steps up to speak at the U.N.
+Summary: Summary based on headline: For the first time in nearly 6 decades, a Syrian president steps up to sp...
+Description: Summary based on headline: For the first time in nearly 6 decades, a Syrian president steps up to speak at the U.N.
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4814x2708+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2F99%2F7d8f36784bb198064182529fd5b7%2Fe12a0eae-2ec0-48aa-8863-7f363afc3d3c.jpg
+Source: https://www.npr.org/2025/09/24/g-s1-90401/syrian-president-ahmad-al-sharaa-united-nations-general-assembly
+==================================================
+
+Headline: Renewed Pressure on Russia Over the War in Ukraine
+Summary: Summary based on headline: Renewed Pressure on Russia Over the War in Ukraine
+Description: Summary based on headline: Renewed Pressure on Russia Over the War in Ukraine
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4814x2708+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb2%2Fe7%2Fd476646446ff97903fedf511f0c0%2Fap25267487184305.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5552725/renewed-pressure-on-russia-over-the-war-in-ukraine
+==================================================
+
+Headline: Ukraine's Zelenskyy issues a stark warning about a global arms race and AI war
+Summary: Summary based on headline: Ukraine's Zelenskyy issues a stark warning about a global arms race and A...
+Description: Summary based on headline: Ukraine's Zelenskyy issues a stark warning about a global arms race and AI war
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F9a%2Fb2d28eea4b849c3aaf58d47d8bdf%2Ffarflungpostcard-gdixon.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5552206/ukraine-zelenskyy-un-general-assembly-trump
+==================================================
+
+Headline: Greetings from Guatemala, where one person's trash becomes another's colorful art
+Summary: Summary based on headline: Greetings from Guatemala, where one person's trash becomes another's colo...
+Description: Summary based on headline: Greetings from Guatemala, where one person's trash becomes another's colorful art
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2Fb8%2F071c1d27482ea8235259a13c80f5%2Fap25266859623920.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5551059/guatemala-art
+==================================================
+
+Headline: Typhoon Ragasa batters Hong Kong and southern China
+Summary: Summary based on headline: Typhoon Ragasa batters Hong Kong and southern China
+Description: Summary based on headline: Typhoon Ragasa batters Hong Kong and southern China
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5925x3333+0+276/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2Fb0%2F387208984cb5b5f6d78a0b6adfe2%2Fgettyimages-2236752860.jpg
+Source: https://www.npr.org/2025/09/24/g-s1-90281/typhoon-ragasa-batters-hong-kong-and-southern-china
+==================================================
+
+Headline: Estonian foreign minister talks about Russia's alleged incursion into their airspace
+Summary: Summary based on headline: Estonian foreign minister talks about Russia's alleged incursion into the...
+Description: Summary based on headline: Estonian foreign minister talks about Russia's alleged incursion into their airspace
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7640x4298+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F5c%2F572708f648258f4ca309c6ebb74f%2Fgettyimages-2236955716.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5550339/nato-un-estonia-foreign-minister-russia-airspace
+==================================================
+
+Headline: Trump, in major shift, suggests Ukraine can win back territory long held by Russia
+Summary: Summary based on headline: Trump, in major shift, suggests Ukraine can win back territory long held ...
+Description: Summary based on headline: Trump, in major shift, suggests Ukraine can win back territory long held by Russia
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F76%2F8f07a36c4f3fb3772c208148ed51%2Fstateless-elee-072625-028-2.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5551269/trump-ukraine-territory
+==================================================
+
+Headline: What is Life Like When You Don’t Have Citizenship Anywhere?
+Summary: Summary based on headline: What is Life Like When You Don’t Have Citizenship Anywhere?
+Description: Summary based on headline: What is Life Like When You Don’t Have Citizenship Anywhere?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fa8%2F35523c5b4f859b10d558a8651bd1%2Fmg-8217.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5551271/what-is-life-like-when-you-dont-have-citizenship-anywhere
+==================================================
+
+Headline: Americans are crazy for shrimp. Much of it came from India — until now
+Summary: Summary based on headline: Americans are crazy for shrimp. Much of it came from India — until now
+Description: Summary based on headline: Americans are crazy for shrimp. Much of it came from India — until now
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+417/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F6b%2Ff19caea34c1d96311b89996bb0ad%2Fap25266174314589.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5542367/india-us-trump-tariffs-shrimp-exports
+==================================================
+
+Headline: ICC charges former Philippine President Duterte with crimes against humanity
+Summary: Summary based on headline: ICC charges former Philippine President Duterte with crimes against human...
+Description: Summary based on headline: ICC charges former Philippine President Duterte with crimes against humanity
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4425x2489+0+153/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F83%2Fef36786848258b63a58b064aa3a2%2F20250607-dsc0488.jpg
+Source: https://www.npr.org/2025/09/23/g-s1-90024/icc-charges-former-philippine-president-duterte-crimes-against-humanity
+==================================================
+
+=== CNN - technology - 2025-09-24 22:43:15 ===
+
+Headline: ABC says ‘Jimmy Kimmel Live!’ racked up 6.3 million viewers on broadcast in his late-night return
+Summary: Summary based on headline: ABC says ‘Jimmy Kimmel Live!’ racked up 6.3 million viewers on broadcast ...
+Description: Summary based on headline: ABC says ‘Jimmy Kimmel Live!’ racked up 6.3 million viewers on broadcast in his late-night return
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1275422782.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/media/ratings-jimmy-kimmel-return-abc-broadcast
+==================================================
+
+Headline: How will the $100,000 H1-B work visa application fee affect you? Tell us about it here
+Summary: Summary based on headline: How will the $100,000 H1-B work visa application fee affect you? Tell us ...
+Description: Summary based on headline: How will the $100,000 H1-B work visa application fee affect you? Tell us about it here
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2211009858.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/tech/trump-h1b-fee-callout
+==================================================
+
+Headline: YouTube to reinstate accounts banned for posting false claims about Covid-19, 2020 election
+Summary: Summary based on headline: YouTube to reinstate accounts banned for posting false claims about Covid...
+Description: Summary based on headline: YouTube to reinstate accounts banned for posting false claims about Covid-19, 2020 election
+Image: https://media.cnn.com/api/v1/images/stellar/prod/sipausa-64173327.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/tech/youtube-reinstate-banned-accounts-covid-19-2020-election
+==================================================
+
+Headline: China’s internet censors have a new target: pessimists
+Summary: Summary based on headline: China’s internet censors have a new target: pessimists
+Description: Summary based on headline: China’s internet censors have a new target: pessimists
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1341307279.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/23/tech/chinas-internet-censors-target-pessimism-intl-hnk
+==================================================
+
+=== NPR - technology - 2025-09-24 22:43:22 ===
+
+Headline: As AI advances, doomers warn the superintelligence apocalypse is nigh
+Summary: Summary based on headline: As AI advances, doomers warn the superintelligence apocalypse is nigh
+Description: Summary based on headline: As AI advances, doomers warn the superintelligence apocalypse is nigh
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/800x450+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Fc7%2Fac8c60ef408e814577598da7e2b0%2Fimage-2025-09-22t163714-263.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5501544/ai-doomers-superintelligence-apocalypse
+==================================================
+
+Headline: You can now experience Björk's heartbreak in VR
+Summary: Summary based on headline: You can now experience Björk's heartbreak in VR
+Description: Summary based on headline: You can now experience Björk's heartbreak in VR
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4429x2491+0+231/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F70%2Fd49994234b10a2b650b7720fa658%2Fgettyimages-874683314.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5543338/bjork-vr-vulnicura-remastered
+==================================================
+
+Headline: Did Amazon trick people into paying for Prime? Federal case goes to trial
+Summary: Summary based on headline: Did Amazon trick people into paying for Prime? Federal case goes to trial
+Description: Summary based on headline: Did Amazon trick people into paying for Prime? Federal case goes to trial
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F19%2Fc8d76ca94ed5a3cc54a0e699b0ea%2Fgettyimages-2207896745.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5550290/amazon-prime-membership-lawsuit-ftc-fraud-antitrust
+==================================================
+
+Headline: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+Summary: Summary based on headline: Deal for TikTok creates U.S. joint venture, and government won't have a s...
+Description: Summary based on headline: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1335x751+0+139/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F3c%2F6a9e67f74ec3b3b59ba1c47e3a69%2Flynn-milam6-cropped.jpg
+Source: https://www.npr.org/2025/09/22/nx-s1-5550152/tiktok-deal-joint-venture
+==================================================
+
+Headline: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+Summary: Summary based on headline: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+Description: Summary based on headline: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2Fd2%2F1d2cf2b54a909d2a06c873148f90%2Fscreenshot03.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/09/22/nx-s1-5544463/rheumatoid-arthritis-new-device-nerve-stimulator
+==================================================
+
+Headline: Silent Hill f surprises as one of the boldest and best horror games ever
+Summary: Summary based on headline: Silent Hill f surprises as one of the boldest and best horror games ever
+Description: Summary based on headline: Silent Hill f surprises as one of the boldest and best horror games ever
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2Fd3%2Fb941d4a649a282a5c6467d47dfbe%2F0f3d2d05-b686-4cfa-b31c-0c97e4e96674.jpg
+Source: https://www.npr.org/2025/09/22/g-s1-89449/silent-hill-f-review-konami-horror-triumph
+==================================================
+
+Headline: Can you trust AI search results?
+Summary: Summary based on headline: Can you trust AI search results?
+Description: Summary based on headline: Can you trust AI search results?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4998x2811+0+260/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2F9d%2F0e509fd84a4d9a5ab1bbd836dd21%2Fap25263279901842.jpg
+Source: https://www.npr.org/2025/09/22/nx-s1-5546753/can-you-trust-ai-search-results
+==================================================
+
+Headline: Cyberattack disrupts check-in systems at major European airports
+Summary: Summary based on headline: Cyberattack disrupts check-in systems at major European airports
+Description: Summary based on headline: Cyberattack disrupts check-in systems at major European airports
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3417x1921+44+777/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fcd%2F209399834e8c8dd90631c59d8a13%2F20250806-dsc3098.jpg
+Source: https://www.npr.org/2025/09/20/g-s1-89727/cyberattack-european-airports
+==================================================
+
+Headline: Flushable wipes and Iran: Water treatment facility adds cyberattacks to worry list
+Summary: Summary based on headline: Flushable wipes and Iran: Water treatment facility adds cyberattacks to w...
+Description: Summary based on headline: Flushable wipes and Iran: Water treatment facility adds cyberattacks to worry list
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4378x2463+0+456/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2Fa0%2F53439a04485e8649c03e6dffe5f4%2Fap25256560555658.jpg
+Source: https://www.npr.org/2025/09/20/nx-s1-5525957/water-supply-hack
+==================================================
+
+Headline: Social media is shattering America's understanding of Charlie Kirk's death
+Summary: Summary based on headline: Social media is shattering America's understanding of Charlie Kirk's deat...
+Description: Summary based on headline: Social media is shattering America's understanding of Charlie Kirk's death
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x3780+0+350/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2F26%2F5502b8ce4fc79a335498dd0fb1e6%2Fap25094679702854.jpg
+Source: https://www.npr.org/2025/09/20/nx-s1-5542353/charlie-kirk-jimmy-kimmel-social-media
+==================================================
+
+=== CNN - business - 2025-09-24 22:43:34 ===
+
+Headline: ABC says ‘Jimmy Kimmel Live!’ racked up 6.3 million viewers on broadcast in his late-night return
+Summary: Summary based on headline: ABC says ‘Jimmy Kimmel Live!’ racked up 6.3 million viewers on broadcast ...
+Description: Summary based on headline: ABC says ‘Jimmy Kimmel Live!’ racked up 6.3 million viewers on broadcast in his late-night return
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236595247-20250924161124751.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/media/ratings-jimmy-kimmel-return-abc-broadcast
+==================================================
+
+Headline: ABC says ‘Jimmy Kimmel Live!’ racked up 6.3 million viewers on broadcast in his late-night return
+Summary: Summary based on headline: ABC says ‘Jimmy Kimmel Live!’ racked up 6.3 million viewers on broadcast ...
+Description: Summary based on headline: ABC says ‘Jimmy Kimmel Live!’ racked up 6.3 million viewers on broadcast in his late-night return
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236335489-20250924120630013.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/media/ratings-jimmy-kimmel-return-abc-broadcast
+==================================================
+
+Headline: Trump’s new ABC threat proves Jimmy Kimmel right — and his MAGA allies wrong
+Summary: Summary based on headline: Trump’s new ABC threat proves Jimmy Kimmel right — and his MAGA allies wr...
+Description: Summary based on headline: Trump’s new ABC threat proves Jimmy Kimmel right — and his MAGA allies wrong
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1236668881.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/media/trump-abc-threat-jimmy-kimmel-disney
+==================================================
+
+Headline: More than 100 ABC News veterans urge Disney CEO Bob Iger to stand firm against Trump attacks
+Summary: Summary based on headline: More than 100 ABC News veterans urge Disney CEO Bob Iger to stand firm ag...
+Description: Summary based on headline: More than 100 ABC News veterans urge Disney CEO Bob Iger to stand firm against Trump attacks
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1275422782.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/media/disney-bob-iger-abc-trump-free-speech-letter
+==================================================
+
+=== CBC - business - 2025-09-24 22:43:36 ===
+
+Headline: Canada's population growth almost flat in 2nd quarter as number of non-permanent residents declines
+Summary: Summary based on headline: Canada's population growth almost flat in 2nd quarter as number of non-pe...
+Description: Summary based on headline: Canada's population growth almost flat in 2nd quarter as number of non-permanent residents declines
+Image: https://i.cbc.ca/1.6814190.1681837998!/fileImage/httpImage/image.JPEG_gen/derivatives/square_1180/abby-hughes-headshot.JPEG?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Disney+ is raising subscription prices for the 4th year in a row
+Summary: Summary based on headline: Disney+ is raising subscription prices for the 4th year in a row
+Description: Summary based on headline: Disney+ is raising subscription prices for the 4th year in a row
+Image: https://i.cbc.ca/1.5746978.1735339073!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/covid-cda-us-students-20200727.JPG?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Has the Canadian economy dodged a recession?
+Summary: Summary based on headline: Has the Canadian economy dodged a recession?
+Description: Summary based on headline: Has the Canadian economy dodged a recession?
+Image: https://i.cbc.ca/1.3760091.1473784965!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/peter-armstrong.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Toyota recalling over 70,000 vehicles in Canada over instrument panel issue
+Summary: Summary based on headline: Toyota recalling over 70,000 vehicles in Canada over instrument panel iss...
+Description: Summary based on headline: Toyota recalling over 70,000 vehicles in Canada over instrument panel issue
+Image: https://i.cbc.ca/1.7640610.1758576238!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/usa-trump-visa-india.JPG?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: The new, steep price for this U.S. visa could be a blessing for Canadian tech
+Summary: Summary based on headline: The new, steep price for this U.S. visa could be a blessing for Canadian ...
+Description: Summary based on headline: The new, steep price for this U.S. visa could be a blessing for Canadian tech
+Image: https://i.cbc.ca/1.7286585.1722971422!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/jb.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: S&P/TSX composite index reaches record high as energy and base metals sector soars
+Summary: Summary based on headline: S&P/TSX composite index reaches record high as energy and base metals sec...
+Description: Summary based on headline: S&P/TSX composite index reaches record high as energy and base metals sector soars
+Image: https://i.cbc.ca/1.7515202.1745608070!/cpImage/httpImage/image.jpg_gen/derivatives/square_1180/hudsons-bay-ccaa-art-auction-20250421.jpg?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Hudson's Bay wants to go back to original plan to auction off 1670 charter: court filings
+Summary: Summary based on headline: Hudson's Bay wants to go back to original plan to auction off 1670 charte...
+Description: Summary based on headline: Hudson's Bay wants to go back to original plan to auction off 1670 charter: court filings
+Image: https://i.cbc.ca/1.4288292.1561375458!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/canadian-press-logo.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Want a slice of the $500M bread price-fixing settlement? The claims process is now open
+Summary: Summary based on headline: Want a slice of the $500M bread price-fixing settlement? The claims proce...
+Description: Summary based on headline: Want a slice of the $500M bread price-fixing settlement? The claims process is now open
+Image: https://i.cbc.ca/1.6404246.1648755751!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/natalie-stechyson-headshot.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: TD Bank joins Anti-Scam Coalition, but tells customer she's responsible for $10,000 lost in phone scam
+Summary: Summary based on headline: TD Bank joins Anti-Scam Coalition, but tells customer she's responsible f...
+Description: Summary based on headline: TD Bank joins Anti-Scam Coalition, but tells customer she's responsible for $10,000 lost in phone scam
+Image: https://i.cbc.ca/1.7241408.1758135859!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/sophia-harris.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: U.S. regulator sues Ticketmaster and Live Nation, alleging illegal resale tactics
+Summary: Summary based on headline: U.S. regulator sues Ticketmaster and Live Nation, alleging illegal resale...
+Description: Summary based on headline: U.S. regulator sues Ticketmaster and Live Nation, alleging illegal resale tactics
+Image: https://i.cbc.ca/1.5987426.1732755324!/cpImage/httpImage/image.jpg_gen/derivatives/square_1180/cda-oil-prices-20200103.jpg?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-09-24 22:43:41 ===
+
+Headline: Why are so many public schools closing?
+Summary: Summary based on headline: Why are so many public schools closing?
+Description: Summary based on headline: Why are so many public schools closing?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5020x2824+0+262/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F85%2F02%2Fceacd2be4e3d8a6c62bd49128c9f%2Fap25178741983241.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5551077/why-are-so-many-public-schools-closing
+==================================================
+
+Headline: The surprisingly lucrative business of making a list of 500 stocks
+Summary: Summary based on headline: The surprisingly lucrative business of making a list of 500 stocks
+Description: Summary based on headline: The surprisingly lucrative business of making a list of 500 stocks
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fa8%2F35523c5b4f859b10d558a8651bd1%2Fmg-8217.jpg
+Source: https://www.npr.org/sections/planet-money/2025/09/23/g-s1-90054/how-does-the-s-p-500-work
+==================================================
+
+Headline: Americans are crazy for shrimp. Much of it came from India — until now
+Summary: Summary based on headline: Americans are crazy for shrimp. Much of it came from India — until now
+Description: Summary based on headline: Americans are crazy for shrimp. Much of it came from India — until now
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4429x2491+0+231/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F70%2Fd49994234b10a2b650b7720fa658%2Fgettyimages-874683314.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5542367/india-us-trump-tariffs-shrimp-exports
+==================================================
+
+Headline: Did Amazon trick people into paying for Prime? Federal case goes to trial
+Summary: Summary based on headline: Did Amazon trick people into paying for Prime? Federal case goes to trial
+Description: Summary based on headline: Did Amazon trick people into paying for Prime? Federal case goes to trial
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2Fe3%2Fe4548130444480685218f013d15f%2F05148a76-ce5f-4785-8fe9-eebcd603caa4.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5550290/amazon-prime-membership-lawsuit-ftc-fraud-antitrust
+==================================================
+
+Headline: Should 'surveillance pricing' be banned?
+Summary: Summary based on headline: Should 'surveillance pricing' be banned?
+Description: Summary based on headline: Should 'surveillance pricing' be banned?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1687+0+149/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F3b%2F9ddae4f14392a1f54d6f9961824b%2Fgettyimages-1359751205.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5550264/should-surveillance-pricing-be-banned
+==================================================
+
+Headline: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+Summary: Summary based on headline: Deal for TikTok creates U.S. joint venture, and government won't have a s...
+Description: Summary based on headline: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F7c%2Fe0cc55df43d2adbd78b7b5333de2%2F05dd6d0b-1109-4149-8eec-2ced261e6c2a.jpg
+Source: https://www.npr.org/2025/09/22/nx-s1-5550152/tiktok-deal-joint-venture
+==================================================
+
+Headline: Can LA host a 'car-free' Olympics?
+Summary: Summary based on headline: Can LA host a 'car-free' Olympics?
+Description: Summary based on headline: Can LA host a 'car-free' Olympics?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5621x3162+0+293/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F9e%2F5e58bfd9452a91f09c1be1d710fc%2Fap25262759435425.jpg
+Source: https://www.npr.org/2025/09/22/nx-s1-5546850/can-la-host-a-car-free-olympics
+==================================================
+
+Headline: Trump's new $100K fee on H-1B visas will hurt the tech companies trying to woo him
+Summary: Summary based on headline: Trump's new $100K fee on H-1B visas will hurt the tech companies trying t...
+Description: Summary based on headline: Trump's new $100K fee on H-1B visas will hurt the tech companies trying to woo him
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1320x743+0+673/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2F7b%2F439e5c6847bc82928d34b7e2e6e8%2Fwang-breakneck-cover.jpg
+Source: https://www.npr.org/2025/09/20/nx-s1-5548568/h1b-visa-fee-trump-tech
+==================================================
+
+Headline: Lawyers vs. engineers: Dan Wang sees U.S.-China dynamics in a new paradigm
+Summary: Summary based on headline: Lawyers vs. engineers: Dan Wang sees U.S.-China dynamics in a new paradig...
+Description: Summary based on headline: Lawyers vs. engineers: Dan Wang sees U.S.-China dynamics in a new paradigm
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2Ffd%2F2ba1de104f15b3997422aae00b9e%2Fgettyimages-2221448096.jpg
+Source: https://www.npr.org/2025/09/20/g-s1-89568/china-us-lawyers-vs-engineers-dan-wang-book
+==================================================
+
+=== CNN - sport - 2025-09-24 22:43:54 ===
+
+Headline: Jared C. Tilton/Getty Images
+Summary: Summary based on headline: Jared C. Tilton/Getty Images
+Description: Summary based on headline: Jared C. Tilton/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236753007.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/sport/golf-bethpage-black-ryder-cup-tweaks
+==================================================
+
+Headline: Home improvement: How Ryder Cup captains can weaponize the golf course to their advantage
+Summary: Summary based on headline: Home improvement: How Ryder Cup captains can weaponize the golf course to...
+Description: Summary based on headline: Home improvement: How Ryder Cup captains can weaponize the golf course to their advantage
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2230678916.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/sport/golf-bethpage-black-ryder-cup-tweaks
+==================================================
+
+Headline: ‘Whatever backlash comes is OK’: Cubs player Matt Shaw defends missing game to attend Charlie Kirk’s memorial service
+Summary: Summary based on headline: ‘Whatever backlash comes is OK’: Cubs player Matt Shaw defends missing ga...
+Description: Summary based on headline: ‘Whatever backlash comes is OK’: Cubs player Matt Shaw defends missing game to attend Charlie Kirk’s memorial service
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25267019108396.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/sport/baseball-mlb-matt-shaw-charlie-kirk-memorial-cubs-intl
+==================================================
+
+Headline: Cleveland Guardians hitter David Fry taken to hospital after being struck in face by 99 mph pitch
+Summary: Summary based on headline: Cleveland Guardians hitter David Fry taken to hospital after being struck...
+Description: Summary based on headline: Cleveland Guardians hitter David Fry taken to hospital after being struck in face by 99 mph pitch
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-968289558.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/sport/baseball-mlb-david-fry-hospital-intl
+==================================================
+
+Headline: Former NFL and college star Rudi Johnson dead at 45
+Summary: Summary based on headline: Former NFL and college star Rudi Johnson dead at 45
+Description: Summary based on headline: Former NFL and college star Rudi Johnson dead at 45
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25190692577050-20250923181310484.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/23/sport/football-nfl-rudi-johnson-dead
+==================================================
+
+Headline: Robot umpires approved for MLB in 2026 as part of challenge system
+Summary: Summary based on headline: Robot umpires approved for MLB in 2026 as part of challenge system
+Description: Summary based on headline: Robot umpires approved for MLB in 2026 as part of challenge system
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-09-20t014206z-1434549538-mt1usatoday27121105-rtrmadp-3-ncaa-football-tulsa-at-oklahoma-state.JPG?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/23/sport/baseball-mlb-robot-umpires-approved-2026
+==================================================
+
+=== CNN - arts - 2025-09-24 22:44:17 ===
+
+Headline: •For SubscribersFor SubscribersJo Junghoon
+Summary: Summary based on headline: •For SubscribersFor SubscribersJo Junghoon
+Description: Summary based on headline: •For SubscribersFor SubscribersJo Junghoon
+Image: https://media.cnn.com/api/v1/images/stellar/prod/sk-tattoos-12.jpg?c=16x9&q=h_720,w_1280,c_fill
+Source: https://www.cnn.com/2025/09/24/style/south-korea-tattooing-challenges-legalization-intl-hnk-dst
+==================================================
+
+Headline: •For SubscribersFor SubscribersRaids, fines and secrecy: Inside the hidden, illegal world of tattooing in South KoreaSouth Korean tattoo artists have operated in the shadows for decades. But that could soon change as the country’s parliament prepares to vote on a groundbreaking bill that would legalize their tattoo profession.
+Summary: Summary based on headline: •For SubscribersFor SubscribersRaids, fines and secrecy: Inside the hidde...
+Description: Summary based on headline: •For SubscribersFor SubscribersRaids, fines and secrecy: Inside the hidden, illegal world of tattooing in South KoreaSouth Korean tattoo artists have operated in the shadows for decades. But that could soon change as the country’s parliament prepares to vote on a groundbreaking bill that would legalize their tattoo profession.
+Image: https://media.cnn.com/api/v1/images/stellar/prod/amp-studio-portraits-2487-20250708085119413.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/style/south-korea-tattooing-challenges-legalization-intl-hnk-dst
+==================================================
+
+Headline: These artists are racing to save forgotten photos of Lagos life
+Summary: Summary based on headline: These artists are racing to save forgotten photos of Lagos life
+Description: Summary based on headline: These artists are racing to save forgotten photos of Lagos life
+Image: https://media.cnn.com/api/v1/images/stellar/prod/07-life-is-drag-amygdala-from-the-air-bts-03.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/style/lagos-studio-archives-photos-nigeria-spc
+==================================================
+
+Headline: Huge archive of drag culture takes on new urgency in today’s political climateSep 20, 2025
+Summary: Summary based on headline: Huge archive of drag culture takes on new urgency in today’s political cl...
+Description: Summary based on headline: Huge archive of drag culture takes on new urgency in today’s political climateSep 20, 2025
+Image: https://media.cnn.com/api/v1/images/stellar/prod/a-view-of-pauline-karpidas-salon-london-home-2.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/20/style/life-is-drag-rachel-rampleman
+==================================================
+
+Headline: Inside the home of Pauline Karpidas, the art-world ‘grande dame’ who could be the last of her kindSep 19, 2025
+Summary: Summary based on headline: Inside the home of Pauline Karpidas, the art-world ‘grande dame’ who coul...
+Description: Summary based on headline: Inside the home of Pauline Karpidas, the art-world ‘grande dame’ who could be the last of her kindSep 19, 2025
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235472460.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/08/04/style/pauline-karpidas-sothebys-sale-surrealism
+==================================================
+
+Headline: Picasso painting unseen for 80 years up for auctionSep 19, 2025
+Summary: Summary based on headline: Picasso painting unseen for 80 years up for auctionSep 19, 2025
+Description: Summary based on headline: Picasso painting unseen for 80 years up for auctionSep 19, 2025
+Image: https://media.cnn.com/api/v1/images/stellar/prod/the-scourged-back-2018-95-2-crop.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/19/style/unseen-picasso-auction-paris-scli-intl
+==================================================
+
+=== NPR - arts - 2025-09-24 22:44:25 ===
+
+Headline: 28 new movies worth checking out this fall
+Summary: Summary based on headline: 28 new movies worth checking out this fall
+Description: Summary based on headline: 28 new movies worth checking out this fall
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1350+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2F3c%2Fae006a8d4a479307b1db03b979de%2F4-images-horizontal-5.jpg
+Source: https://www.npr.org/2025/09/11/nx-s1-5534140/what-to-watch-new-movies-theaters
+==================================================
+
+Headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Summary: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Description: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6144x3454+0+431/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2F79%2Fddea15dd489c918fac953e904491%2Frev-1-obaa-dus-250113-0050-7-high-res-jpeg.jpeg
+Source: https://www.npr.org/2025/09/17/nx-s1-5534152/what-to-watch-new-tv
+==================================================
+
+Headline: 'One Battle After Another' wants a revolution
+Summary: Summary based on headline: 'One Battle After Another' wants a revolution
+Description: Summary based on headline: 'One Battle After Another' wants a revolution
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5679x3194+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F41%2F7b78c1d6442f9712425d45492519%2Fgettyimages-2236950561.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5550073/one-battle-after-another-review
+==================================================
+
+Headline: A statue of Trump and Epstein holding hands in D.C. is removed as fast as it appeared
+Summary: Summary based on headline: A statue of Trump and Epstein holding hands in D.C. is removed as fast as...
+Description: Summary based on headline: A statue of Trump and Epstein holding hands in D.C. is removed as fast as it appeared
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2Fc6%2F0228ef15410fb220856640e6c9f9%2Fdec83570-7a2f-42fe-906c-9ba07e946b97.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5552505/trump-epstein-statue-removed-national-mall
+==================================================
+
+Headline: The cancer quietly killing young people
+Summary: Summary based on headline: The cancer quietly killing young people
+Description: Summary based on headline: The cancer quietly killing young people
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2498x1405+1+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2Fd7%2Fb3ee9ac9434bad0c74b1718b19ab%2F294ea6e4-04b2-40d3-9e96-9251a914424c.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5551322/the-cancer-quietly-killing-young-people
+==================================================
+
+Headline: In ‘Task’, Mark Ruffalo pursues his quarry
+Summary: Summary based on headline: In ‘Task’, Mark Ruffalo pursues his quarry
+Description: Summary based on headline: In ‘Task’, Mark Ruffalo pursues his quarry
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1400x787+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2Ff1%2F8d625e4747739dadf8cd5c72dd86%2F179178-0765.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5551190/in-task-mark-ruffalo-pursues-his-quarry
+==================================================
+
+Headline: 'We have to speak out,' Jimmy Kimmel says in his late-night return
+Summary: Summary based on headline: 'We have to speak out,' Jimmy Kimmel says in his late-night return
+Description: Summary based on headline: 'We have to speak out,' Jimmy Kimmel says in his late-night return
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1145x644+18+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2Ff8%2Fd6d12f884a35a1e26736e50c0768%2Fbooker.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5551277/jimmy-kimmel-live-abc-back-on-air-glen-powell-fcc-trump
+==================================================
+
+Headline: The Booker shortlist honors authors 'in total command' of their craft
+Summary: Summary based on headline: The Booker shortlist honors authors 'in total command' of their craft
+Description: Summary based on headline: The Booker shortlist honors authors 'in total command' of their craft
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1124+0+47/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F28%2Fd7%2F6b88b48442578896e8f34e68f5b4%2Fdf-07499-r-2000x1333-thumbnail.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5550983/booker-prize-shortlist-2025
+==================================================
+
+Headline: 'A Big Bold Beautiful Journey' opens a magical door ... to nowhere
+Summary: Summary based on headline: 'A Big Bold Beautiful Journey' opens a magical door ... to nowhere
+Description: Summary based on headline: 'A Big Bold Beautiful Journey' opens a magical door ... to nowhere
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/800x450+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Fc7%2Fac8c60ef408e814577598da7e2b0%2Fimage-2025-09-22t163714-263.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5550141/a-big-bold-beautiful-journey-review-colin-farrell-margot-robbie-kogonada
+==================================================
+
+Headline: You can now experience Björk's heartbreak in VR
+Summary: Summary based on headline: You can now experience Björk's heartbreak in VR
+Description: Summary based on headline: You can now experience Björk's heartbreak in VR
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/888x499+198+229/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F5a%2F6e064ff9491689b39ad90ee1ba2d%2Fsamin-nosrat-1-credit-aya-brackett.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5543338/bjork-vr-vulnicura-remastered
+==================================================
+
+=== CNN - science - 2025-09-24 22:44:40 ===
+
+Headline: Ed Whitman/NASA/Johns Hopkins APL/Princeton
+Summary: Summary based on headline: Ed Whitman/NASA/Johns Hopkins APL/Princeton
+Description: Summary based on headline: Ed Whitman/NASA/Johns Hopkins APL/Princeton
+Image: https://media.cnn.com/api/v1/images/stellar/prod/beauty-shot-of-imap-in-chamber-25-large.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/science/heliosphere-spacex-nasa-imap-launch
+==================================================
+
+Headline: What is the heliosphere? A new mission could unravel the mysteries of this complex cosmic environment
+Summary: Summary based on headline: What is the heliosphere? A new mission could unravel the mysteries of thi...
+Description: Summary based on headline: What is the heliosphere? A new mission could unravel the mysteries of this complex cosmic environment
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gptempdownload-5.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/science/heliosphere-spacex-nasa-imap-launch
+==================================================
+
+Headline: First ever recording of leopard sharks mating in the wild reveals ‘threesome’
+Summary: Summary based on headline: First ever recording of leopard sharks mating in the wild reveals ‘threes...
+Description: Summary based on headline: First ever recording of leopard sharks mating in the wild reveals ‘threesome’
+Image: https://media.cnn.com/api/v1/images/stellar/prod/artwork-gw250114main.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/science/leopard-shark-mating-study-scli-intl
+==================================================
+
+Headline: Black hole collision confirms decades-old predictions by Einstein and Hawking
+Summary: Summary based on headline: Black hole collision confirms decades-old predictions by Einstein and Haw...
+Description: Summary based on headline: Black hole collision confirms decades-old predictions by Einstein and Hawking
+Image: https://media.cnn.com/api/v1/images/stellar/prod/vast-haven-1-dragon-hero.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/11/science/black-hole-collision-einstein-hawking
+==================================================
+
+Headline: The world’s first commercial space station is getting closer to launch
+Summary: Summary based on headline: The world’s first commercial space station is getting closer to launch
+Description: Summary based on headline: The world’s first commercial space station is getting closer to launch
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188665069.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/science/vast-worlds-first-commercial-space-station-spc
+==================================================
+
+Headline: Scientists analyzed years of interviews with Taylor Swift to track how dialects evolve
+Summary: Summary based on headline: Scientists analyzed years of interviews with Taylor Swift to track how di...
+Description: Summary based on headline: Scientists analyzed years of interviews with Taylor Swift to track how dialects evolve
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c-screenshot-2025-09-22-at-9-44-56-am.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/23/science/taylor-swift-dialect-study-intl-scli
+==================================================
+
+=== CBC - science - 2025-09-24 22:44:42 ===
+
+Headline: What's it like training for a moon mission? Canadian astronaut Jeremy Hansen gives us the scoop
+Summary: Summary based on headline: What's it like training for a moon mission? Canadian astronaut Jeremy Han...
+Description: Summary based on headline: What's it like training for a moon mission? Canadian astronaut Jeremy Hansen gives us the scoop
+Image: https://i.cbc.ca/1.6483294.1654800694!/fileImage/httpImage/image.jpeg_gen/derivatives/square_1180/nicole-mortillaro.jpeg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Oceans dangerously acidic from carbon emissions, report warns
+Summary: Summary based on headline: Oceans dangerously acidic from carbon emissions, report warns
+Description: Summary based on headline: Oceans dangerously acidic from carbon emissions, report warns
+Image: https://i.cbc.ca/1.7247738.1719436700!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/anand-ram.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Another fire further delays NordSpace's rocket launch
+Summary: Summary based on headline: Another fire further delays NordSpace's rocket launch
+Description: Summary based on headline: Another fire further delays NordSpace's rocket launch
+Image: https://i.cbc.ca/1.6392978.1647947199!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/elizabeth-whitten.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Fat Bear Week is upon us. Which of these big, beautiful chonkers will come out on top?
+Summary: Summary based on headline: Fat Bear Week is upon us. Which of these big, beautiful chonkers will com...
+Description: Summary based on headline: Fat Bear Week is upon us. Which of these big, beautiful chonkers will come out on top?
+Image: https://i.cbc.ca/1.6482181.1659118994!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/sheena-goodyear.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Marineland asks federal government for permission to export remaining belugas
+Summary: Summary based on headline: Marineland asks federal government for permission to export remaining bel...
+Description: Summary based on headline: Marineland asks federal government for permission to export remaining belugas
+Image: https://i.cbc.ca/1.5948149.1615584500!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/carly-thomas.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Ostrich farm behind police tape as CFIA prepares for cull
+Summary: Summary based on headline: Ostrich farm behind police tape as CFIA prepares for cull
+Description: Summary based on headline: Ostrich farm behind police tape as CFIA prepares for cull
+Image: https://i.cbc.ca/1.4654484.1525824147!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/liam-britten.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Ship noise from possible Churchill port expansion could drive belugas away, experts fear
+Summary: Summary based on headline: Ship noise from possible Churchill port expansion could drive belugas awa...
+Description: Summary based on headline: Ship noise from possible Churchill port expansion could drive belugas away, experts fear
+Image: https://i.cbc.ca/1.7179376.1713555997!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/justin-fiacconi.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Discovery Geopark in Bonavista regains UNESCO 'green card'
+Summary: Summary based on headline: Discovery Geopark in Bonavista regains UNESCO 'green card'
+Description: Summary based on headline: Discovery Geopark in Bonavista regains UNESCO 'green card'
+Image: https://i.cbc.ca/1.7282052.1722515705!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/right-whale.jpg?im=
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-09-24 22:44:47 ===
+
+Headline: The cancer quietly killing young people
+Summary: Summary based on headline: The cancer quietly killing young people
+Description: Summary based on headline: The cancer quietly killing young people
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F42%2F7cfb1ca24621922ae2ee05ce317d%2F9-24-25-ep.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5551322/the-cancer-quietly-killing-young-people
+==================================================
+
+Headline: Autism researcher breaks down Trump’s claims on Tylenol
+Summary: Summary based on headline: Autism researcher breaks down Trump’s claims on Tylenol
+Description: Summary based on headline: Autism researcher breaks down Trump’s claims on Tylenol
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5574x3135+0+269/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2Fe4%2F13a2e2c34233824199229ca5b960%2Fgettyimages-2236788598.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5522134/autism-tylenol-trump-research-pain-pregnacy
+==================================================
+
+Headline: When it comes to Tylenol, what are parents to do?
+Summary: Summary based on headline: When it comes to Tylenol, what are parents to do?
+Description: Summary based on headline: When it comes to Tylenol, what are parents to do?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5184x2916+0+270/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2F5d%2F9439bbc849e3b4c38f10e59903d9%2Fap19353628581619.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/09/23/nx-s1-5551228/acetaminophen-tylenol-autism-trump-explainer
+==================================================
+
+Headline: 3 thoughts from an autism researcher on Trump's acetaminophen and vaccine claims
+Summary: Summary based on headline: 3 thoughts from an autism researcher on Trump's acetaminophen and vaccine...
+Description: Summary based on headline: 3 thoughts from an autism researcher on Trump's acetaminophen and vaccine claims
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fc0%2F906369c54b7ca6dcffd85b1300b0%2Fad50e919-41f4-4862-bc31-aeb3853f8810.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5550182/trump-vaccines-tylenol-autism-acetaminophen
+==================================================
+
+Headline: Have a food allergy? Your broken skin barrier might be the cause
+Summary: Summary based on headline: Have a food allergy? Your broken skin barrier might be the cause
+Description: Summary based on headline: Have a food allergy? Your broken skin barrier might be the cause
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x675+0+0/resize/300/quality/85/format/gif/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F84%2F4e%2F9033955147d4ba66a2df5cce3556%2Fleaf-forecast-2025-wide.gif
+Source: https://www.npr.org/2025/09/23/nx-s1-5542216/food-allergy-broken-skin-barrier-eczema
+==================================================
+
+Headline: When will fall foliage peak near you? Here are some leaf-peeping predictions
+Summary: Summary based on headline: When will fall foliage peak near you? Here are some leaf-peeping predicti...
+Description: Summary based on headline: When will fall foliage peak near you? Here are some leaf-peeping predictions
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Fc6%2F372cb4a34ddc9c008189a3f0f42c%2Fgettyimages-2236812064.jpg
+Source: https://www.npr.org/2025/09/22/nx-s1-5550033/fall-leaves-peak-map-2025
+==================================================
+
+Headline: Trump blames Tylenol for autism. Science doesn't back him up
+Summary: Summary based on headline: Trump blames Tylenol for autism. Science doesn't back him up
+Description: Summary based on headline: Trump blames Tylenol for autism. Science doesn't back him up
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3132+0+290/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2Fbf%2F332dc4a74b21adad4b982abe4967%2Fgettyimages-691358990.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/09/22/nx-s1-5550153/trump-rfk-autism-tylenol-leucovorin-pregnancy
+==================================================
+
+Headline: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+Summary: Summary based on headline: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+Description: Summary based on headline: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2F0e%2Fe71c7d56431a9b52733a8d29f7e7%2F06b05e7e-88ea-40ae-861b-fe1ee87f788c.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/09/22/nx-s1-5544463/rheumatoid-arthritis-new-device-nerve-stimulator
+==================================================
+
+Headline: Is red-light therapy worth the hype?
+Summary: Summary based on headline: Is red-light therapy worth the hype?
+Description: Summary based on headline: Is red-light therapy worth the hype?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+351/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2F40%2F42b6f3944b0cb2393134d3bcab3f%2Fimg-4151.jpeg
+Source: https://www.npr.org/2025/09/22/nx-s1-5527867/red-light-therapy-anti-aging-skincare
+==================================================
+
+=== CNN - us - 2025-09-24 22:45:00 ===
+
+Headline: J. Emilio Flores/AP/File
+Summary: Summary based on headline: J. Emilio Flores/AP/File
+Description: Summary based on headline: J. Emilio Flores/AP/File
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25266656346149.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/us/maurice-hastings-wrongful-conviction-settlement
+==================================================
+
+Headline: A California man gets $25 million for wrongful conviction after 38 years in prison
+Summary: Summary based on headline: A California man gets $25 million for wrongful conviction after 38 years ...
+Description: Summary based on headline: A California man gets $25 million for wrongful conviction after 38 years in prison
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25186761887279-20250820180001929.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/us/maurice-hastings-wrongful-conviction-settlement
+==================================================
+
+=== CNN - politics - 2025-09-24 22:45:19 ===
+
+Headline: Anna Moneymaker/Getty Images
+Summary: Summary based on headline: Anna Moneymaker/Getty Images
+Description: Summary based on headline: Anna Moneymaker/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236981711.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/politics/trump-epstein-statue-national-park-service-removal
+==================================================
+
+Headline: National Park Service removes Trump-Epstein statue, raising free speech concerns
+Summary: Summary based on headline: National Park Service removes Trump-Epstein statue, raising free speech c...
+Description: Summary based on headline: National Park Service removes Trump-Epstein statue, raising free speech concerns
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-09-23t152012z-1249781338-rc2rxgaa3m2s-rtrmadp-3-un-assembly-trump.JPG?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/politics/trump-epstein-statue-national-park-service-removal
+==================================================
+
+=== CBC - politics - 2025-09-24 22:45:21 ===
+
+Headline: Alberta justice minister says province will 'oppose' federal gun buyback program
+Summary: Summary based on headline: Alberta justice minister says province will 'oppose' federal gun buyback ...
+Description: Summary based on headline: Alberta justice minister says province will 'oppose' federal gun buyback program
+Image: https://i.cbc.ca/ais/1d4ed258-b7db-4a78-9519-0bea288eef56,1758655905148/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: TikTok failing to keep underage kids off app, privacy commissioners find
+Summary: Summary based on headline: TikTok failing to keep underage kids off app, privacy commissioners find
+Description: Summary based on headline: TikTok failing to keep underage kids off app, privacy commissioners find
+Image: https://i.cbc.ca/ais/d2c6a247-e005-4f96-9dae-598425b262da,1758665727779/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Minister defends gun buyback program after being caught highlighting its flaws
+Summary: Summary based on headline: Minister defends gun buyback program after being caught highlighting its ...
+Description: Summary based on headline: Minister defends gun buyback program after being caught highlighting its flaws
+Image: https://i.cbc.ca/ais/2299e2c1-fca0-4010-a0d9-883d92bedbcc,1758671186887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: What Bob Rae thinks UN critics get right — and wrong
+Summary: Summary based on headline: What Bob Rae thinks UN critics get right — and wrong
+Description: Summary based on headline: What Bob Rae thinks UN critics get right — and wrong
+Image: https://i.cbc.ca/ais/a248ac35-6edb-420e-8817-c5714d472975,1758672029857/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Carney says he has confidence in public safety minister
+Summary: Summary based on headline: Carney says he has confidence in public safety minister
+Description: Summary based on headline: Carney says he has confidence in public safety minister
+Image: https://i.cbc.ca/ais/6c58ed9b-4b3a-4b51-8b85-bebbe797a77b,1758667143245/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: TikTok efforts to protect children ‘inadequate’: Privacy commissioner
+Summary: Summary based on headline: TikTok efforts to protect children ‘inadequate’: Privacy commissioner
+Description: Summary based on headline: TikTok efforts to protect children ‘inadequate’: Privacy commissioner
+Image: https://i.cbc.ca/ais/8deee74d-b140-4c29-ab67-1533000b0a41,1758671291030/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Carney says he had 'very constructive set of discussions' with Chinese premier
+Summary: Summary based on headline: Carney says he had 'very constructive set of discussions' with Chinese pr...
+Description: Summary based on headline: Carney says he had 'very constructive set of discussions' with Chinese premier
+Image: https://i.cbc.ca/ais/3f96ba63-4c25-49b4-8cb1-9387245a9630,1758665121424/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: 'I'm resolved to do my job': Public Safety Minister | Power & Politics
+Summary: Summary based on headline: 'I'm resolved to do my job': Public Safety Minister | Power & Politics
+Description: Summary based on headline: 'I'm resolved to do my job': Public Safety Minister | Power & Politics
+Image: https://i.cbc.ca/ais/90ad482b-e091-4826-91f9-a7759b32e37f,1758673335292/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Carney pays tribute to outgoing UN ambassador Bob Rae
+Summary: Summary based on headline: Carney pays tribute to outgoing UN ambassador Bob Rae
+Description: Summary based on headline: Carney pays tribute to outgoing UN ambassador Bob Rae
+Image: https://i.cbc.ca/ais/a4d4cfe8-dcc6-4acc-b71b-7eb99998d10d,1758654620618/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4337%2C2439%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Conservative leader says Carney should fire public safety minister
+Summary: Summary based on headline: Conservative leader says Carney should fire public safety minister
+Description: Summary based on headline: Conservative leader says Carney should fire public safety minister
+Image: https://i.cbc.ca/ais/43764ad4-b6f2-4e54-b96c-0cc5428a4962,1758652163910/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C156%2C7870%2C4426%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+=== NPR - politics - 2025-09-24 22:45:26 ===
+
+Headline: A statue of Trump and Epstein holding hands in D.C. is removed as fast as it appeared
+Summary: Summary based on headline: A statue of Trump and Epstein holding hands in D.C. is removed as fast as...
+Description: Summary based on headline: A statue of Trump and Epstein holding hands in D.C. is removed as fast as it appeared
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4814x2708+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb2%2Fe7%2Fd476646446ff97903fedf511f0c0%2Fap25267487184305.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5552505/trump-epstein-statue-removed-national-mall
+==================================================
+
+Headline: Ukraine's Zelenskyy issues a stark warning about a global arms race and AI war
+Summary: Summary based on headline: Ukraine's Zelenskyy issues a stark warning about a global arms race and A...
+Description: Summary based on headline: Ukraine's Zelenskyy issues a stark warning about a global arms race and AI war
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F52%2Fd89c4386451d90b5a0772984772b%2Fgettyimages-2236981683.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5552206/ukraine-zelenskyy-un-general-assembly-trump
+==================================================
+
+Headline: Government shutdown odds increase. And, Trump shifts stance on Russia-Ukraine war
+Summary: Summary based on headline: Government shutdown odds increase. And, Trump shifts stance on Russia-Ukr...
+Description: Summary based on headline: Government shutdown odds increase. And, Trump shifts stance on Russia-Ukraine war
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F23%2F672804344f2aa17e7c44b013a0cd%2Fgettyimages-2221890298.jpg
+Source: https://www.npr.org/2025/09/24/g-s1-90292/up-first-newsletter-government-shutdown-unga-russia-ukraine-jimmy-kimmel-returns
+==================================================
+
+Headline: New York City may move its mayoral elections to even years. It'd be part of a trend
+Summary: Summary based on headline: New York City may move its mayoral elections to even years. It'd be part ...
+Description: Summary based on headline: New York City may move its mayoral elections to even years. It'd be part of a trend
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8298x4668+0+430/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F0a%2F30c18edb493b9c63ea7dca194e16%2Fgettyimages-2236813020.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5527104/off-year-elections-consolidate-new-york
+==================================================
+
+Headline: 'We have to speak out,' Jimmy Kimmel says in his late-night return
+Summary: Summary based on headline: 'We have to speak out,' Jimmy Kimmel says in his late-night return
+Description: Summary based on headline: 'We have to speak out,' Jimmy Kimmel says in his late-night return
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1980x1113+0+43/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2Fb5%2F2cfc1e5141f19c568efece068aae%2Fshaare-zion-credit-bebeto-matthewsap.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5551277/jimmy-kimmel-live-abc-back-on-air-glen-powell-fcc-trump
+==================================================
+
+Headline: Trump, in major shift, suggests Ukraine can win back territory long held by Russia
+Summary: Summary based on headline: Trump, in major shift, suggests Ukraine can win back territory long held ...
+Description: Summary based on headline: Trump, in major shift, suggests Ukraine can win back territory long held by Russia
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3777x2125+0+183/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2F71%2Fab2e12e64671babff83ebae80253%2Fgettyimages-2219672318.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5551269/trump-ukraine-territory
+==================================================
+
+Headline: Trump cancels meeting with Democrats as prospects for shutdown increase
+Summary: Summary based on headline: Trump cancels meeting with Democrats as prospects for shutdown increase
+Description: Summary based on headline: Trump cancels meeting with Democrats as prospects for shutdown increase
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6501x3657+0+340/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F26%2Fc0%2Fc021af2249cd8f8ea875a4459da6%2Fgettyimages-2235942449.jpg
+Source: https://www.npr.org/2025/09/23/g-s1-90051/trump-shutdown-democrats
+==================================================
+
+Headline: Former VP Harris endorses Mamdani for NYC Mayor as some Democrats stay silent
+Summary: Summary based on headline: Former VP Harris endorses Mamdani for NYC Mayor as some Democrats stay si...
+Description: Summary based on headline: Former VP Harris endorses Mamdani for NYC Mayor as some Democrats stay silent
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5473x3079+0+513/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F46%2F64854ba34c189630c7e4ae456232%2Fgettyimages-2235369055.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5550952/mamdani-endorsement-harris-hochul-democrats
+==================================================
+
+=== CNN - health - 2025-09-24 22:45:34 ===
+
+Headline: M. Spencer Green/AP
+Summary: Summary based on headline: M. Spencer Green/AP
+Description: Summary based on headline: M. Spencer Green/AP
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap110908067223.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/09/24/health/autism-community-needs-support-not-cure
+==================================================
+
+Headline: As the administration focuses on autism, many in the community say they need support, not a ‘cure’
+Summary: Summary based on headline: As the administration focuses on autism, many in the community say they n...
+Description: Summary based on headline: As the administration focuses on autism, many in the community say they need support, not a ‘cure’
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236812701.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/24/health/autism-community-needs-support-not-cure
+==================================================
+
+Headline: For SubscribersHow Trump blew up his administration’s carefully laid autism announcement plans
+Summary: Summary based on headline: For SubscribersHow Trump blew up his administration’s carefully laid auti...
+Description: Summary based on headline: For SubscribersHow Trump blew up his administration’s carefully laid autism announcement plans
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25265753022768.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/23/politics/trump-off-script-on-tylenol-autism-vaccines
+==================================================
+
+Headline: FDA will advise doctors about link between autism, acetaminophen use during pregnancy, Trump says
+Summary: Summary based on headline: FDA will advise doctors about link between autism, acetaminophen use duri...
+Description: Summary based on headline: FDA will advise doctors about link between autism, acetaminophen use during pregnancy, Trump says
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1739540240.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/22/health/trump-autism-announcement-cause-tylenol
+==================================================
+
+Headline: Trump administration cancels annual hunger report after enacting historic cuts to nation’s safety net
+Summary: Summary based on headline: Trump administration cancels annual hunger report after enacting historic...
+Description: Summary based on headline: Trump administration cancels annual hunger report after enacting historic cuts to nation’s safety net
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1087610046.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/21/health/hunger-reports-usda
+==================================================
+
+Headline: Ob/gyn group advises against cannabis use during pregnancy, recommends universal screening
+Summary: Summary based on headline: Ob/gyn group advises against cannabis use during pregnancy, recommends un...
+Description: Summary based on headline: Ob/gyn group advises against cannabis use during pregnancy, recommends universal screening
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-09-17t141008z-1139685362-rc2qtgarvi6y-rtrmadp-3-usa-health-cdc.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/09/18/health/cannabis-pregnancy-acog-recommendation
+==================================================
+
+=== CBC - health - 2025-09-24 22:45:37 ===
+
+Headline: Researchers are projecting more cancer cases. Is Canada ready?
+Summary: Summary based on headline: Researchers are projecting more cancer cases. Is Canada ready?
+Description: Summary based on headline: Researchers are projecting more cancer cases. Is Canada ready?
+Image: https://i.cbc.ca/1.4702432.1656514831!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/jennifer-yoon.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Health Canada pushes back against Trump's claims about Tylenol in pregnancy
+Summary: Summary based on headline: Health Canada pushes back against Trump's claims about Tylenol in pregnan...
+Description: Summary based on headline: Health Canada pushes back against Trump's claims about Tylenol in pregnancy
+Image: https://i.cbc.ca/1.3819631.1500044567!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/peter-zimonjic.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Trump links autism and Tylenol during pregnancy, without conclusive evidence
+Summary: Summary based on headline: Trump links autism and Tylenol during pregnancy, without conclusive evide...
+Description: Summary based on headline: Trump links autism and Tylenol during pregnancy, without conclusive evidence
+Image: https://i.cbc.ca/1.7139767.1710107923!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/rhianna-schmunk.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Manitoba offers COVID-19 shots for free as some provinces begin charging residents
+Summary: Summary based on headline: Manitoba offers COVID-19 shots for free as some provinces begin charging ...
+Description: Summary based on headline: Manitoba offers COVID-19 shots for free as some provinces begin charging residents
+Image: https://i.cbc.ca/1.7638043.1758285010!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/usa-health-vaccine-martin-kulldorff.JPG?im=
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: 'I'm a problem solver': Meet the mayor whose plan to attract family doctors is turning heads across Canada
+Summary: Summary based on headline: 'I'm a problem solver': Meet the mayor whose plan to attract family docto...
+Description: Summary based on headline: 'I'm a problem solver': Meet the mayor whose plan to attract family doctors is turning heads across Canada
+Image: https://i.cbc.ca/1.4455112.1513632487!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/marcy-cuttler-photo.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: What's the right age to get a smartphone? Kids, parents, experts weigh in
+Summary: Summary based on headline: What's the right age to get a smartphone? Kids, parents, experts weigh in
+Description: Summary based on headline: What's the right age to get a smartphone? Kids, parents, experts weigh in
+Image: https://i.cbc.ca/1.7636793.1758151057!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/103370498.jpg?im=
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Researchers turn to AI for help fighting superbugs
+Summary: Summary based on headline: Researchers turn to AI for help fighting superbugs
+Description: Summary based on headline: Researchers turn to AI for help fighting superbugs
+Image: https://i.cbc.ca/1.6481645.1654707374!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/amina-zafar.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Ontario ombudsman calls out 'unacceptable' living conditions in Neskantaga First Nation
+Summary: Summary based on headline: Ontario ombudsman calls out 'unacceptable' living conditions in Neskantag...
+Description: Summary based on headline: Ontario ombudsman calls out 'unacceptable' living conditions in Neskantaga First Nation
+Image: https://i.cbc.ca/1.7154621.1711381297!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/sarah-law.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Blood donors surprised Canadian plasma products being sold abroad
+Summary: Summary based on headline: Blood donors surprised Canadian plasma products being sold abroad
+Description: Summary based on headline: Blood donors surprised Canadian plasma products being sold abroad
+Image: https://i.cbc.ca/1.7452358.1738864563!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/allyson-mccormack.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-09-24 22:45:42 ===
+
+Headline: Trump admin 'seems to care very little about autistic people,' says advocate
+Summary: Summary based on headline: Trump admin 'seems to care very little about autistic people,' says advoc...
+Description: Summary based on headline: Trump admin 'seems to care very little about autistic people,' says advocate
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2Fc6%2F0228ef15410fb220856640e6c9f9%2Fdec83570-7a2f-42fe-906c-9ba07e946b97.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5551075/trump-autism-acetaminphen-advocate
+==================================================
+
+Headline: The cancer quietly killing young people
+Summary: Summary based on headline: The cancer quietly killing young people
+Description: Summary based on headline: The cancer quietly killing young people
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2949x1659+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2Fe3%2Fce946ce64f6db8fabe79028fd40e%2F0850ad56-4e4e-43a5-bc83-d18b0b55f49b.jpg
+Source: https://www.npr.org/2025/09/24/nx-s1-5551322/the-cancer-quietly-killing-young-people
+==================================================
+
+Headline: Does Trump's plan to get homeless people off the streets violate civil liberties?
+Summary: Summary based on headline: Does Trump's plan to get homeless people off the streets violate civil li...
+Description: Summary based on headline: Does Trump's plan to get homeless people off the streets violate civil liberties?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8298x4668+0+430/resize/400/quality/15/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F0a%2F30c18edb493b9c63ea7dca194e16%2Fgettyimages-2236813020.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5551080/does-trumps-plan-to-get-homeless-people-off-the-streets-violate-civil-liberties
+==================================================
+
+Headline: When it comes to Tylenol, what are parents to do?
+Summary: Summary based on headline: When it comes to Tylenol, what are parents to do?
+Description: Summary based on headline: When it comes to Tylenol, what are parents to do?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3314x1864+0+193/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F6d%2F9adf15ae4445bc9c940cb9110c0f%2Fgettyimages-2236794399.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/09/23/nx-s1-5551228/acetaminophen-tylenol-autism-trump-explainer
+==================================================
+
+Headline: 3 thoughts from an autism researcher on Trump's acetaminophen and vaccine claims
+Summary: Summary based on headline: 3 thoughts from an autism researcher on Trump's acetaminophen and vaccine...
+Description: Summary based on headline: 3 thoughts from an autism researcher on Trump's acetaminophen and vaccine claims
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8667x4875+0+679/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2Fca%2F8a979f75446aac7ae6de0a0085f1%2Fgettyimages-2207032235.jpg
+Source: https://www.npr.org/2025/09/23/nx-s1-5550182/trump-vaccines-tylenol-autism-acetaminophen
+==================================================
+
+Headline: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+Summary: Summary based on headline: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+Description: Summary based on headline: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F63%2Fb5dee3f84df7aec35dcded2b1a59%2Fgettyimages-1730125121.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/09/22/nx-s1-5544463/rheumatoid-arthritis-new-device-nerve-stimulator
+==================================================
+
+Headline: Beauty and health gurus love it. Do claims about sea moss sink or swim?
+Summary: Summary based on headline: Beauty and health gurus love it. Do claims about sea moss sink or swim?
+Description: Summary based on headline: Beauty and health gurus love it. Do claims about sea moss sink or swim?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7500x4219+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2Ff7%2F7f340de947e686a172c84f2db5c0%2Flimerance-over-gary.jpg
+Source: https://www.npr.org/2025/09/22/nx-s1-5539099/sea-moss-supplements-health-nutrition-beauty
+==================================================
+
+=== CNN - travel - 2025-09-24 22:45:52 ===
+
+Headline: Hemis/Alamy Stock Photo
+Summary: Summary based on headline: Hemis/Alamy Stock Photo
+Description: Summary based on headline: Hemis/Alamy Stock Photo
+Image: https://media.cnn.com/api/v1/images/stellar/prod/r7t5tb.jpg?c=16x9&q=h_720,w_1280,c_fill
+Source: https://www.cnn.com/2025/09/24/travel/worlds-coolest-neighborhood-for-2025-named-by-time-out
+==================================================
+
+Headline: ‘World’s coolest’ neighborhood for 2025 named by Time Out
+Summary: Summary based on headline: ‘World’s coolest’ neighborhood for 2025 named by Time Out
+Description: Summary based on headline: ‘World’s coolest’ neighborhood for 2025 named by Time Out
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c7-1.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/2025/09/24/travel/worlds-coolest-neighborhood-for-2025-named-by-time-out
+==================================================
+
+Headline: New York became ‘too crazy’ so she moved to an Italian village, met her husband and started a family
+Summary: Summary based on headline: New York became ‘too crazy’ so she moved to an Italian village, met her h...
+Description: Summary based on headline: New York became ‘too crazy’ so she moved to an Italian village, met her husband and started a family
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1013599776.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/travel/new-yorker-move-to-italian-town-guardia-sanframondi
+==================================================
+
+Headline: Italian tourist town imposes a tax on visiting dogs
+Summary: Summary based on headline: Italian tourist town imposes a tax on visiting dogs
+Description: Summary based on headline: Italian tourist town imposes a tax on visiting dogs
+Image: https://media.cnn.com/api/v1/images/stellar/prod/1-17.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/2025/09/24/travel/italian-tourist-town-imposes-a-tax-on-visiting-dogs
+==================================================
+
+Headline: Babylon was once an ancient wonder. Today it’s a very different story
+Summary: Summary based on headline: Babylon was once an ancient wonder. Today it’s a very different story
+Description: Summary based on headline: Babylon was once an ancient wonder. Today it’s a very different story
+Image: https://media.cnn.com/api/v1/images/stellar/prod/602.png?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/travel/babylon-iraq-ancient-wonder-hanging-gardens
+==================================================

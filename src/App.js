@@ -64,7 +64,7 @@ const AppContent = () => {
       <div className="relative z-10 flex flex-col min-h-screen bg-white/70 dark:bg-gray-900/80 backdrop-blur-sm transition-colors duration-300">
         <header className="sticky top-0 z-50 bg-white dark:bg-gray-800 text-gray-900 dark:text-white p-4 shadow-sm">
           <div className="max-w-7xl mx-auto flex justify-between items-center">
-            <h1 className="text-4xl font-extrabold tracking-tight text-blue-600 dark:text-blue-400">
+            <h1 className="text-4xl font-extrabold tracking-tight text-brand-600 dark:text-brand-400">
               <Link to={isAuthenticated ? "/" : "/signin"}>BRIGHT FEED</Link>
             </h1>
             <div className="flex items-center gap-4">
@@ -187,7 +187,7 @@ const AppContent = () => {
             <div className="flex gap-2">
               <button
                 onClick={() => setShowPositiveModal(true)}
-                className="px-4 py-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-colors"
+                className="px-4 py-2 bg-accent-500 text-white rounded-lg hover:bg-accent-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
                 disabled={!isAuthenticated}
               >
                 Positive Newsletter 💖

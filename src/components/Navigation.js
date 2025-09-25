@@ -7,7 +7,7 @@ const Navigation = ({ next, previous, darkMode }) => {
         onClick={previous}
         className={`px-4 py-2 rounded-lg ${darkMode ? 'bg-neutral-700 text-white hover:bg-neutral-600' : 'bg-neutral-200 text-neutral-800 hover:bg-neutral-300'} flex items-center gap-2 transition-colors`}
       >
-        <span className="text-purple-400">←</span>
+        <span className="text-brand-400">←</span>
         <span>Previous</span>
         
       </button>
@@ -16,7 +16,7 @@ const Navigation = ({ next, previous, darkMode }) => {
         className={`px-4 py-2 rounded-lg ${darkMode ? 'bg-neutral-700 text-white hover:bg-neutral-600' : 'bg-neutral-200 text-neutral-800 hover:bg-neutral-300'} flex items-center gap-2 transition-colors`}
       >
         <span>Next</span>
-        <span className="text-purple-400">→</span>
+        <span className="text-brand-400">→</span>
       </button>
     </div>
   );
