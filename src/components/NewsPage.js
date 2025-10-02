@@ -3,17 +3,17 @@ import { useNavigate, Link } from 'react-router-dom';
 import NewsCard from './NewsCard';
 import Navigation from './Navigation';
 
-const NewsPage = ({ category, darkMode }) => {
+const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   const [articles, setArticles] = useState([]);
-  const [filteredArticles, setFilteredArticles] = useState([]); // For sentiment filtering
+  const [filteredArticles, setFilteredArticles] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [sentimentFilter, setSentimentFilter] = useState(null); // null, 'positive', 'negative', or 'neutral'
+  const [sentimentFilter, setSentimentFilter] = useState(null);
   const navigate = useNavigate();
 
   useEffect(() => {
     const fetchArticles = async () => {
       try {
-        const response = await fetch('http://localhost:5001/api/news');
+        const response = await fetch(`http://localhost:5001/api/news`);
         if (!response.ok) {
           throw new Error(`Fetch failed with status ${response.status}: ${response.statusText}`);
         }
@@ -22,20 +22,23 @@ const NewsPage = ({ category, darkMode }) => {
           article.category.toLowerCase() === category.toLowerCase()
         );
         setArticles(filtered);
-        setFilteredArticles(filtered); // Initially show all articles
+        setFilteredArticles(filtered.filter(article =>
+          article.headline.toLowerCase().includes(searchQuery.toLowerCase())
+        ));
       } catch (error) {
         console.error('NewsPage fetch error:', error.message);
       }
     };
     fetchArticles();
-  }, [category]);
+  }, [category, searchQuery]);
 
-  // Filter articles by sentiment
   const filterBySentiment = (sentimentType) => {
     setSentimentFilter(sentimentType);
-    setCurrentIndex(0); // Reset pagination
+    setCurrentIndex(0);
     if (sentimentType === null) {
-      setFilteredArticles(articles); // Reset to all articles
+      setFilteredArticles(articles.filter(article =>
+        article.headline.toLowerCase().includes(searchQuery.toLowerCase())
+      ));
       return;
     }
 
@@ -45,7 +48,9 @@ const NewsPage = ({ category, darkMode }) => {
       if (sentimentType === 'negative') return compound <= -0.05;
       if (sentimentType === 'neutral') return compound > -0.05 && compound < 0.05;
       return true;
-    });
+    }).filter(article =>
+      article.headline.toLowerCase().includes(searchQuery.toLowerCase())
+    );
     setFilteredArticles(filtered);
   };
 
@@ -57,13 +62,17 @@ const NewsPage = ({ category, darkMode }) => {
     setCurrentIndex((prev) => Math.max(prev - 3, 0));
   };
 
+  const extractTags = (title) => {
+    const words = title.split(' ').filter(w => w.length > 3);
+    return words.slice(0, 3); // Mock tag extraction
+  };
+
   return (
     <div className="max-w-4xl mx-auto py-8 px-4">
       <div className="flex flex-col items-center mb-8">
         <h2 className={`text-3xl font-bold capitalize mb-2 ${darkMode ? 'text-white' : 'text-gray-800'}`}>
           {category === "sport" ? "Sports" : category} News
         </h2>
-        {/* Sentiment Filter Buttons */}
         <div className="flex gap-2 mb-4">
           <button
             onClick={() => filterBySentiment('positive')}
@@ -90,6 +99,12 @@ const NewsPage = ({ category, darkMode }) => {
             All
           </button>
         </div>
+        <button
+          onClick={() => openSentimentGraph(category)}
+          className="px-4 py-2 bg-green-500 text-white rounded-lg hover:bg-green-600 mb-4"
+        >
+          View Sentiment Trends
+        </button>
       </div>
       {filteredArticles.length > 0 ? (
         <div>
@@ -102,7 +117,7 @@ const NewsPage = ({ category, darkMode }) => {
         </div>
       ) : (
         <p className={`text-xl text-center ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-          {sentimentFilter ? `No ${sentimentFilter} ${category} news found.` : `Loading ${category} news...`}
+          {sentimentFilter ? `No ${sentimentFilter} ${category} news found.` : `No ${category} news matching "${searchQuery}"...`}
         </p>
       )}
     </div>

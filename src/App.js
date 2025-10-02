@@ -14,8 +14,9 @@ import LandingPage from "./components/LandingPage";
 import SubscribeModal from "./components/SubscribeModal";
 import PositiveNewsletterModal from "./components/PositiveNewsletterModal";
 import ProfileSettings from "./components/ProfileSettings";
+import SentimentGraph from "./components/SentimentGraph";
 import "./App.css";
-import { FiHome, FiSun, FiMoon, FiUser } from "react-icons/fi";
+import { FiSun, FiMoon, FiUser, FiSearch } from "react-icons/fi";
 
 // Wrapper component to handle navigation
 const AppContent = () => {
@@ -38,10 +39,27 @@ const AppContent = () => {
     !!localStorage.getItem("token")
   );
   const [showProfileDropdown, setShowProfileDropdown] = useState(false);
+  const [searchQuery, setSearchQuery] = useState("");
+  const [liveHeadlines, setLiveHeadlines] = useState([]);
+  const [showSentimentGraph, setShowSentimentGraph] = useState(false);
+  const [sentimentCategory, setSentimentCategory] = useState("all");
 
   useEffect(() => {
     document.documentElement.classList.toggle("dark", darkMode);
     localStorage.setItem("darkMode", darkMode);
+    const fetchHeadlines = async () => {
+      try {
+        const response = await fetch("http://localhost:5001/api/news");
+        const data = await response.json();
+        const headlines = data.map(article => article.headline).slice(0, 5); // Top 5 headlines
+        setLiveHeadlines(headlines);
+      } catch (error) {
+        console.error("Error fetching headlines:", error);
+      }
+    };
+    fetchHeadlines();
+    const interval = setInterval(fetchHeadlines, 60000); // Update every minute
+    return () => clearInterval(interval);
   }, [darkMode]);
 
   const toggleTheme = () => setDarkMode(!darkMode);
@@ -50,6 +68,11 @@ const AppContent = () => {
     localStorage.removeItem("token");
     setIsAuthenticated(false);
     navigate("/signin");
+  };
+
+  const openSentimentGraph = (category) => {
+    setSentimentCategory(category);
+    setShowSentimentGraph(true);
   };
 
   return (
@@ -68,6 +91,16 @@ const AppContent = () => {
               <Link to={isAuthenticated ? "/" : "/signin"}>BRIGHT FEED</Link>
             </h1>
             <div className="flex items-center gap-4">
+              <div className="relative">
+                <input
+                  type="text"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  placeholder="Search news..."
+                  className="w-64 p-2 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white pl-8"
+                />
+                <FiSearch className="absolute left-2 top-2 text-gray-500 dark:text-gray-400" />
+              </div>
               <button
                 onClick={toggleTheme}
                 className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
@@ -130,7 +163,16 @@ const AppContent = () => {
           </div>
         </header>
 
-        <main className="flex-grow">
+        {/* Live Ticker */}
+        <div className="bg-gray-800 text-white p-1 shadow-md">
+          <div className="max-w-7xl mx-auto overflow-hidden">
+            <marquee className="text-sm font-medium" behavior="scroll" direction="left" scrollamount="4">
+              {liveHeadlines.length > 0 ? liveHeadlines.join(" | ") : "Loading latest news..."}
+            </marquee>
+          </div>
+        </div>
+
+        <main className="flex-grow p-6">
           <Routes>
             <Route
               path="/profile-settings"
@@ -151,6 +193,8 @@ const AppContent = () => {
                     darkMode={darkMode}
                     onOpenSubscribeModal={() => setShowSubscribeModal(true)}
                     isAuthenticated={isAuthenticated}
+                    searchQuery={searchQuery}
+                    openSentimentGraph={openSentimentGraph}
                   />
                 ) : (
                   <Navigate to="/signin" />
@@ -163,7 +207,7 @@ const AppContent = () => {
                 path={`/${category}`}
                 element={
                   isAuthenticated ? (
-                    <NewsPage category={category} darkMode={darkMode} />
+                    <NewsPage category={category} darkMode={darkMode} searchQuery={searchQuery} openSentimentGraph={openSentimentGraph} />
                   ) : (
                     <Navigate to="/signin" />
                   )
@@ -178,7 +222,7 @@ const AppContent = () => {
           </Routes>
         </main>
 
-        <footer className="bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 p-4 shadow-inner">
+        <footer className="bg-gray-800 text-gray-300 p-4 shadow-inner">
           <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-2">
             <p className="text-lg font-semibold">BRIGHT FEED © 2025</p>
             <p className="text-sm italic">
@@ -208,6 +252,9 @@ const AppContent = () => {
             onClose={() => setShowPositiveModal(false)}
             darkMode={darkMode}
           />
+        )}
+        {showSentimentGraph && isAuthenticated && (
+          <SentimentGraph category={sentimentCategory} onClose={() => setShowSentimentGraph(false)} />
         )}
       </div>
     </div>

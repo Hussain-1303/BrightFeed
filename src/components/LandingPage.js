@@ -1,10 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const LandingPage = ({ categories, darkMode, onOpenSubscribeModal, isAuthenticated }) => {
-  const username = localStorage.getItem('username') || 'User'; // Fallback if no username
+const LandingPage = ({ categories, darkMode, onOpenSubscribeModal, isAuthenticated, searchQuery, openSentimentGraph }) => {
+  const username = localStorage.getItem('username') || 'User';
 
-  // Helper functions
   const getCategoryBorderColor = (category) => {
     const colors = {
       art: 'border-purple-500',
@@ -31,23 +30,35 @@ const LandingPage = ({ categories, darkMode, onOpenSubscribeModal, isAuthenticat
     return images[category] || '/images/cards/default.png';
   };
 
+  const filteredCategories = categories.filter(cat => 
+    cat.toLowerCase().includes(searchQuery.toLowerCase())
+  );
+
   return (
     <div className="max-w-6xl mx-auto py-8 px-4">
       <section className="mb-12 text-center">
         <h2 className="text-4xl font-bold mb-2 text-gray-800 dark:text-white">{username}'s BrightFeed</h2>
         <h2 className="text-4xl font-bold mb-6 text-blue-600 dark:text-blue-400">LATEST STORIES</h2>
         <p className="text-xl mb-4 text-gray-600 dark:text-gray-300">PICK A CATEGORY AND DIVE IN!</p>
-        <button
-          onClick={onOpenSubscribeModal}
-          className="px-6 py-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-colors"
-          disabled={!isAuthenticated}
-        >
-          Subscribe to Category
-        </button>
+        <div className="flex justify-center gap-4">
+          <button
+            onClick={onOpenSubscribeModal}
+            className="px-6 py-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-colors"
+            disabled={!isAuthenticated}
+          >
+            Subscribe to Category
+          </button>
+          <button
+            onClick={() => openSentimentGraph('all')}
+            className="px-6 py-2 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors"
+          >
+            View Sentiment Trends
+          </button>
+        </div>
       </section>
 
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-        {categories.map((category) => (
+        {filteredCategories.map((category) => (
           <Link
             key={category}
             to={`/${category}`}

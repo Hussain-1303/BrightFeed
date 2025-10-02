@@ -6,36 +6,31 @@ import jwt
 from datetime import datetime, timedelta
 
 app = Flask(__name__)
-# Force CORS to handle all preflight requests with explicit configuration
 CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000", "methods": ["GET", "POST", "OPTIONS"], "allow_headers": ["Content-Type", "Authorization"], "supports_credentials": True}})
 
-# Configure secret key for JWT
-app.config['SECRET_KEY'] = 'your-secret-key-here'  # Change this to a secure, unique key in production
+app.config['SECRET_KEY'] = 'your-secret-key-here'
 
 try:
     client = MongoClient("mongodb://localhost:27017/")
     db = client["NewsScraper"]
     news_collection = db["news"]
     subscriptions_collection = db["subscriptions"]
-    users_collection = db["users"]  # New collection for users
+    users_collection = db["users"]
     print("MongoDB connection successful!")
 except Exception as e:
     print(f"MongoDB connection failed: {e}")
     exit(1)
 
-# Middleware to log all requests for debugging
 @app.before_request
 def log_request():
     print(f"Received {request.method} request for {request.path} from {request.remote_addr}")
 
-# Ensure CORS headers are added to all responses
 @app.after_request
 def apply_cors_headers(response):
-    print(f"Applying CORS headers for {request.path}")  # Debug log
     response.headers.add('Access-Control-Allow-Origin', 'http://localhost:3000')
     response.headers.add('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
     response.headers.add('Access-Control-Allow-Headers', 'Content-Type, Authorization')
-    response.headers.add('Access-Control-Max-Age', '86400')  # Cache preflight for 24 hours
+    response.headers.add('Access-Control-Max-Age', '86400')
     return response
 
 @app.route('/api/news', methods=['GET'])
@@ -52,7 +47,8 @@ def get_news():
                 "image": article["image"],
                 "sourceLink": article["sourceLink"],
                 "date": article["date"],
-                "sentiment": article.get("sentiment", {})  # Include sentiment scores, default to empty dict if missing
+                "sentiment": article.get("sentiment", {"headline": {"compound": 0.3}}), # Mock sentiment
+                "tags": article.get("tags", [word for word in article["headline"].split() if len(word) > 3][:3]) # Mock tags
             } for article in articles
         ]
         print(f"Serving {len(articles_list)} articles")
@@ -83,9 +79,9 @@ def subscribe():
 @app.route('/api/signup', methods=['POST', 'OPTIONS'])
 def signup():
     try:
-        print(f"Processing {request.method} request for /api/signup")  # Debug log
+        print(f"Processing {request.method} request for /api/signup")
         if request.method == 'OPTIONS':
-            print("Returning OPTIONS response for signup")  # Debug log
+            print("Returning OPTIONS response for signup")
             return jsonify({}), 200
 
         data = request.get_json()
@@ -125,7 +121,7 @@ def signin():
         if user and check_password_hash(user['password'], password):
             token = jwt.encode({
                 'email': email,
-                'username': user['username'],  # Add username to token
+                'username': user['username'],
                 'exp': datetime.utcnow() + timedelta(hours=24)
             }, app.config['SECRET_KEY'])
             return jsonify({'message': 'Login successful', 'success': True, 'token': token, 'username': user['username']}), 200
