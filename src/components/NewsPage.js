@@ -8,6 +8,7 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   const [filteredArticles, setFilteredArticles] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [sentimentFilter, setSentimentFilter] = useState(null);
+  const [viewMode, setViewMode] = useState('grid'); // Default to grid
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -54,17 +55,22 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
     setFilteredArticles(filtered);
   };
 
+  const toggleBookmark = (article) => {
+    const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+    const isBookmarked = bookmarks.some(b => b.headline === article.headline);
+    if (isBookmarked) {
+      localStorage.setItem('bookmarks', JSON.stringify(bookmarks.filter(b => b.headline !== article.headline)));
+    } else {
+      localStorage.setItem('bookmarks', JSON.stringify([...bookmarks, article]));
+    }
+  };
+
   const nextArticle = () => {
     setCurrentIndex((prev) => Math.min(prev + 3, filteredArticles.length - 3));
   };
 
   const prevArticle = () => {
     setCurrentIndex((prev) => Math.max(prev - 3, 0));
-  };
-
-  const extractTags = (title) => {
-    const words = title.split(' ').filter(w => w.length > 3);
-    return words.slice(0, 3); // Mock tag extraction
   };
 
   return (
@@ -98,6 +104,20 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
           >
             All
           </button>
+          <div className="ml-4">
+            <button
+              onClick={() => setViewMode('grid')}
+              className={`px-3 py-1 rounded-lg ${viewMode === 'grid' ? 'bg-blue-500 text-white' : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'}`}
+            >
+              Grid
+            </button>
+            <button
+              onClick={() => setViewMode('list')}
+              className={`ml-2 px-3 py-1 rounded-lg ${viewMode === 'list' ? 'bg-blue-500 text-white' : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'}`}
+            >
+              List
+            </button>
+          </div>
         </div>
         <button
           onClick={() => openSentimentGraph(category)}
@@ -108,9 +128,15 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
       </div>
       {filteredArticles.length > 0 ? (
         <div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className={viewMode === 'grid' ? 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6' : 'space-y-4'}>
             {filteredArticles.slice(currentIndex, currentIndex + 3).map((article, index) => (
-              <NewsCard key={index} article={article} darkMode={darkMode} />
+              <NewsCard
+                key={index}
+                article={article}
+                darkMode={darkMode}
+                onBookmark={toggleBookmark}
+                viewMode={viewMode}
+              />
             ))}
           </div>
           <Navigation next={nextArticle} previous={prevArticle} darkMode={darkMode} />

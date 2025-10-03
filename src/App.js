@@ -15,6 +15,8 @@ import SubscribeModal from "./components/SubscribeModal";
 import PositiveNewsletterModal from "./components/PositiveNewsletterModal";
 import ProfileSettings from "./components/ProfileSettings";
 import SentimentGraph from "./components/SentimentGraph";
+import UserPreferences from "./components/UserPreferences";
+import BookmarksPage from "./components/BookmarksPage";
 import "./App.css";
 import { FiSun, FiMoon, FiUser, FiSearch } from "react-icons/fi";
 
@@ -42,25 +44,27 @@ const AppContent = () => {
   const [searchQuery, setSearchQuery] = useState("");
   const [liveHeadlines, setLiveHeadlines] = useState([]);
   const [showSentimentGraph, setShowSentimentGraph] = useState(false);
+  const [userPreferences, setUserPreferences] = useState(() => JSON.parse(localStorage.getItem('preferences') || '{}'));
   const [sentimentCategory, setSentimentCategory] = useState("all");
 
   useEffect(() => {
-    document.documentElement.classList.toggle("dark", darkMode);
-    localStorage.setItem("darkMode", darkMode);
-    const fetchHeadlines = async () => {
-      try {
-        const response = await fetch("http://localhost:5001/api/news");
-        const data = await response.json();
-        const headlines = data.map(article => article.headline).slice(0, 5); // Top 5 headlines
-        setLiveHeadlines(headlines);
-      } catch (error) {
-        console.error("Error fetching headlines:", error);
-      }
-    };
-    fetchHeadlines();
-    const interval = setInterval(fetchHeadlines, 60000); // Update every minute
-    return () => clearInterval(interval);
-  }, [darkMode]);
+  document.documentElement.classList.toggle("dark", darkMode);
+  localStorage.setItem("darkMode", darkMode);
+  localStorage.setItem('preferences', JSON.stringify(userPreferences));
+  const fetchHeadlines = async () => {
+    try {
+      const response = await fetch("http://localhost:5001/api/news");
+      const data = await response.json();
+      const headlines = data.map((article) => article.headline).slice(0, 5); // Top 5 headlines
+      setLiveHeadlines(headlines);
+    } catch (error) {
+      console.error("Error fetching headlines:", error);
+    }
+  };
+  fetchHeadlines();
+  const interval = setInterval(fetchHeadlines, 60000); // Update every minute
+  return () => clearInterval(interval);
+}, [darkMode, userPreferences]);
 
   const toggleTheme = () => setDarkMode(!darkMode);
 
@@ -75,6 +79,10 @@ const AppContent = () => {
     setShowSentimentGraph(true);
   };
 
+  const handlePreferenceChange = (category, priority) => {
+    setUserPreferences((prev) => ({ ...prev, [category]: priority }));
+  };
+
   return (
     <div className="relative min-h-screen">
       <div
@@ -85,7 +93,7 @@ const AppContent = () => {
         }}
       />
       <div className="relative z-10 flex flex-col min-h-screen bg-white/70 dark:bg-gray-900/80 backdrop-blur-sm transition-colors duration-300">
-        <header className="sticky top-0 z-50 bg-white dark:bg-gray-800 text-gray-900 dark:text-white p-4 shadow-sm">
+        {/* <header className="sticky top-0 z-50 bg-white dark:bg-gray-800 text-gray-900 dark:text-white p-4 shadow-sm">
           <div className="max-w-7xl mx-auto flex justify-between items-center">
             <h1 className="text-4xl font-extrabold tracking-tight text-blue-600 dark:text-blue-400">
               <Link to={isAuthenticated ? "/" : "/signin"}>BRIGHT FEED</Link>
@@ -115,9 +123,7 @@ const AppContent = () => {
               {isAuthenticated ? (
                 <div className="relative">
                   <button
-                    onClick={() =>
-                      setShowProfileDropdown(!showProfileDropdown)
-                    }
+                    onClick={() => setShowProfileDropdown(!showProfileDropdown)}
                     className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
                     aria-label="Profile"
                   >
@@ -161,24 +167,116 @@ const AppContent = () => {
               )}
             </div>
           </div>
+        </header> */}
+        <header className="sticky top-0 z-50 bg-white dark:bg-gray-800 text-gray-900 dark:text-white p-4 shadow-sm">
+          <div className="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 className="text-4xl font-extrabold tracking-tight text-blue-600 dark:text-blue-400">
+              <Link to={isAuthenticated ? "/" : "/signin"}>BRIGHT FEED</Link>
+            </h1>
+            <div className="flex items-center gap-4">
+              <div className="relative">
+                <input
+                  type="text"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  placeholder="Search news..."
+                  className="w-64 p-2 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white pl-8"
+                />
+                <FiSearch className="absolute left-2 top-2 text-gray-500 dark:text-gray-400" />
+              </div>
+              <button
+                onClick={toggleTheme}
+                className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                aria-label="Toggle dark mode"
+              >
+                {darkMode ? (
+                  <FiSun className="text-yellow-300" />
+                ) : (
+                  <FiMoon className="text-gray-600" />
+                )}
+              </button>
+              {isAuthenticated ? (
+                <div className="relative">
+                  <button
+                    onClick={() => setShowProfileDropdown(!showProfileDropdown)}
+                    className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                    aria-label="Profile"
+                  >
+                    <FiUser
+                      className={darkMode ? "text-white" : "text-gray-800"}
+                    />
+                  </button>
+                  {showProfileDropdown && (
+                    <div className="absolute right-0 mt-2 w-48 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg z-50">
+                      <button
+                        onClick={handleLogout}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                      >
+                        Logout
+                      </button>
+                      <button
+                        onClick={() => navigate("/profile-settings")}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                      >
+                        Profile Settings
+                      </button>
+                      <button
+                        onClick={() => navigate("/preferences")}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                      >
+                        Preferences
+                      </button>
+                    </div>
+                  )}
+                </div>
+              ) : (
+                <Link
+                  to="/signin"
+                  className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                  aria-label="Sign In"
+                >
+                  <FiUser
+                    className={darkMode ? "text-white" : "text-gray-800"}
+                  />
+                </Link>
+              )}
+            </div>
+          </div>
         </header>
 
         {/* Live Ticker */}
         <div className="bg-gray-800 text-white p-1 shadow-md">
           <div className="max-w-7xl mx-auto overflow-hidden">
-            <marquee className="text-sm font-medium" behavior="scroll" direction="left" scrollamount="4">
-              {liveHeadlines.length > 0 ? liveHeadlines.join(" | ") : "Loading latest news..."}
+            <marquee
+              className="text-sm font-medium"
+              behavior="scroll"
+              direction="left"
+              scrollamount="4"
+            >
+              {liveHeadlines.length > 0
+                ? liveHeadlines.join(" | ")
+                : "Loading latest news..."}
             </marquee>
           </div>
         </div>
 
         <main className="flex-grow p-6">
-          <Routes>
+          {/* <Routes>
             <Route
               path="/profile-settings"
               element={
                 isAuthenticated ? (
                   <ProfileSettings />
+                ) : (
+                  <Navigate to="/signin" />
+                )
+              }
+            />
+            <Route
+              path="/bookmarks"
+              element={
+                isAuthenticated ? (
+                  <BookmarksPage darkMode={darkMode} />
                 ) : (
                   <Navigate to="/signin" />
                 )
@@ -207,13 +305,94 @@ const AppContent = () => {
                 path={`/${category}`}
                 element={
                   isAuthenticated ? (
-                    <NewsPage category={category} darkMode={darkMode} searchQuery={searchQuery} openSentimentGraph={openSentimentGraph} />
+                    <NewsPage
+                      category={category}
+                      darkMode={darkMode}
+                      searchQuery={searchQuery}
+                      openSentimentGraph={openSentimentGraph}
+                    />
                   ) : (
                     <Navigate to="/signin" />
                   )
                 }
               />
             ))}
+            <Route path="/signup" element={<SignUp />} />
+            <Route
+              path="/signin"
+              element={<SignIn setIsAuthenticated={setIsAuthenticated} />}
+            />
+          </Routes> */}
+          <Routes>
+            <Route
+              path="/profile-settings"
+              element={
+                isAuthenticated ? (
+                  <ProfileSettings />
+                ) : (
+                  <Navigate to="/signin" />
+                )
+              }
+            />
+            <Route
+              path="/preferences"
+              element={
+                isAuthenticated ? (
+                  <UserPreferences
+                    categories={categories}
+                    preferences={userPreferences}
+                    onChange={handlePreferenceChange}
+                  />
+                ) : (
+                  <Navigate to="/signin" />
+                )
+              }
+            />
+            <Route
+              path="/"
+              element={
+                isAuthenticated ? (
+                  <LandingPage
+                    categories={categories}
+                    darkMode={darkMode}
+                    onOpenSubscribeModal={() => setShowSubscribeModal(true)}
+                    isAuthenticated={isAuthenticated}
+                    searchQuery={searchQuery}
+                    openSentimentGraph={openSentimentGraph}
+                  />
+                ) : (
+                  <Navigate to="/signin" />
+                )
+              }
+            />
+            {categories.map((category) => (
+              <Route
+                key={category}
+                path={`/${category}`}
+                element={
+                  isAuthenticated ? (
+                    <NewsPage
+                      category={category}
+                      darkMode={darkMode}
+                      searchQuery={searchQuery}
+                      openSentimentGraph={openSentimentGraph}
+                    />
+                  ) : (
+                    <Navigate to="/signin" />
+                  )
+                }
+              />
+            ))}
+            <Route
+              path="/bookmarks"
+              element={
+                isAuthenticated ? (
+                  <BookmarksPage darkMode={darkMode} />
+                ) : (
+                  <Navigate to="/signin" />
+                )
+              }
+            />
             <Route path="/signup" element={<SignUp />} />
             <Route
               path="/signin"
@@ -254,7 +433,10 @@ const AppContent = () => {
           />
         )}
         {showSentimentGraph && isAuthenticated && (
-          <SentimentGraph category={sentimentCategory} onClose={() => setShowSentimentGraph(false)} />
+          <SentimentGraph
+            category={sentimentCategory}
+            onClose={() => setShowSentimentGraph(false)}
+          />
         )}
       </div>
     </div>

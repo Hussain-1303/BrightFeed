@@ -1,77 +1,70 @@
 import React from 'react';
+import { FiBookmark, FiCheckSquare } from 'react-icons/fi';
 
-const NewsCard = ({ article, darkMode }) => {
-  // Format the date with a fallback for invalid dates
-  const formatDate = (dateString) => {
-    const date = new Date(dateString);
-    return date.toString() !== "Invalid Date" ? date.toLocaleDateString() : "Unknown Date";
-  };
-
-  // Determine sentiment emoji based on compound score
-  const getSentimentEmoji = (sentiment) => {
-    const compound = sentiment?.headline?.compound || 0; // Use headline sentiment
-    if (compound >= 0.05) return '😊'; // Positive
-    if (compound <= -0.05) return '😢'; // Negative
-    return '😐'; // Neutral
-  };
+const NewsCard = ({ article, darkMode, onBookmark, viewMode }) => {
+  const isBookmarked = JSON.parse(localStorage.getItem('bookmarks') || '[]').some(b => b.headline === article.headline);
 
   return (
-    <div className={`relative rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:scale-[1.02] 
-      ${darkMode ? 'bg-gray-700' : 'bg-white'} card-hover`}
-    >
-      <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-400 to-purple-500"></div>
-      
-      {article.image ? (
-        <div className="h-48 overflow-hidden">
-          <img
-            src={article.image}
-            alt={article.headline}
-            className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
-          />
-        </div>
+    <div className={`card-hover ${viewMode === 'grid' ? 'rounded-lg p-4' : 'p-4 border-b'} ${darkMode ? 'bg-gray-800 text-white' : 'bg-white text-gray-800'} shadow-md ${viewMode === 'list' ? 'flex items-center' : ''}`}>
+      {viewMode === 'grid' ? (
+        <>
+          {article.image ? (
+            <div className="h-48 overflow-hidden rounded-lg mb-4">
+              <img
+                src={article.image}
+                alt={article.headline}
+                className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
+              />
+            </div>
+          ) : (
+            <div className={`w-full h-48 flex items-center justify-center rounded-lg mb-4 ${darkMode ? 'bg-gray-600' : 'bg-gray-100'}`}>
+              <span className="text-gray-400">No Image Available</span>
+            </div>
+          )}
+          <h3 className="text-lg font-semibold line-clamp-2">{article.headline}</h3>
+          <p className="text-sm text-gray-500 dark:text-gray-400 line-clamp-3 mt-2">{article.summary || 'No summary available.'}</p>
+          <div className="flex justify-between items-center mt-4">
+            <span className="text-xs text-gray-400">{new Date(article.publishedAt).toLocaleDateString()}</span>
+            <button
+              onClick={() => onBookmark(article)}
+              className={`p-2 rounded-full ${isBookmarked ? 'bg-blue-500 text-white' : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'} transition-colors`}
+              aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
+            >
+              {isBookmarked ? <FiCheckSquare /> : <FiBookmark />}
+            </button>
+          </div>
+        </>
       ) : (
-        <div className={`w-full h-48 flex items-center justify-center 
-          ${darkMode ? 'bg-gray-600' : 'bg-gray-100'}`}
-        >
-          <span className="text-gray-400">No Image Available</span>
+        <div className="flex items-center">
+          {article.image ? (
+            <div className="w-32 h-20 overflow-hidden mr-4">
+              <img
+                src={article.image}
+                alt={article.headline}
+                className="w-full h-full object-cover"
+              />
+            </div>
+          ) : (
+            <div className={`w-32 h-20 flex items-center justify-center mr-4 ${darkMode ? 'bg-gray-600' : 'bg-gray-100'}`}>
+              <span className="text-gray-400 text-sm">No Image</span>
+            </div>
+          )}
+          <div className="flex-1">
+            <h3 className="text-lg font-semibold">{article.headline}</h3>
+            <p className="text-sm text-gray-500 dark:text-gray-400 line-clamp-2 mt-1">{article.summary || 'No summary available.'}</p>
+            <div className="flex items-center mt-2">
+              <span className="text-xs text-gray-400 mr-4">{new Date(article.publishedAt).toLocaleDateString()}</span>
+              <button
+                onClick={() => onBookmark(article)}
+                className={`p-2 rounded-full ${isBookmarked ? 'bg-blue-500 text-white' : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'} transition-colors`}
+                aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
+              >
+                {isBookmarked ? <FiCheckSquare /> : <FiBookmark />}
+              </button>
+            </div>
+          </div>
         </div>
       )}
-      
-      <div className="p-6">
-        <div className="flex items-center mb-3">
-          <span className={`px-2 py-1 text-xs font-semibold rounded-full 
-            ${darkMode ? 'bg-gray-600 text-white' : 'bg-blue-100 text-blue-800'}`}
-          >
-            {article.category}
-          </span>
-          <span className="ml-2 text-lg">{getSentimentEmoji(article.sentiment)}</span>
-          <span className="ml-auto text-sm text-gray-500 dark:text-gray-400">
-            {formatDate(article.date)}
-          </span>
-        </div>
-        
-        <h3 className={`text-xl font-bold mb-2 line-clamp-2 
-          ${darkMode ? 'text-white' : 'text-gray-800'}`}
-        >
-          {article.headline}
-        </h3>
-        
-        <p className={`mb-4 line-clamp-3 ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-          {article.summary}
-        </p>
-        
-        <a
-          href={article.sourceLink}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center text-blue-500 hover:text-blue-600 dark:text-blue-400 dark:hover:text-blue-300 font-medium"
-        >
-          Read Full Story
-          <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-          </svg>
-        </a>
-      </div>
     </div>
   );
 };
