@@ -11517,3 +11517,2253 @@ Description: Summary based on headline: More cats than people: The Mediterranean
 Image: https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-14130340a.jpg?c=16x9&q=h_270,w_480,c_fill
 Source: https://www.cnn.com/2025/10/07/travel/tabarca-spain-smallest-inhabited-island
 ==================================================
+
+=== CNN - world - 2025-10-09 11:24:08 ===
+
+=== CBC - world - 2025-10-09 11:24:10 ===
+
+=== NPR - world - 2025-10-09 11:24:15 ===
+
+=== CNN - technology - 2025-10-09 11:24:31 ===
+
+=== NPR - technology - 2025-10-09 11:24:39 ===
+
+=== CNN - business - 2025-10-09 11:24:55 ===
+
+=== CBC - business - 2025-10-09 11:24:58 ===
+
+Headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Summary: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Description: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Image: https://i.cbc.ca/1.5435577.1759755053!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/toyota-air-bag-recall.jpg?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 11:25:06 ===
+
+=== CNN - sport - 2025-10-09 11:25:20 ===
+
+=== CNN - arts - 2025-10-09 11:25:47 ===
+
+=== NPR - arts - 2025-10-09 11:25:55 ===
+
+=== CNN - science - 2025-10-09 11:26:09 ===
+
+=== CBC - science - 2025-10-09 11:26:11 ===
+
+Headline: The Pacific Ocean is overheated, making fall feel like summer
+Summary: Summary based on headline: The Pacific Ocean is overheated, making fall feel like summer
+Description: Summary based on headline: The Pacific Ocean is overheated, making fall feel like summer
+Image: https://i.cbc.ca/1.4958846.1545693417!/fileImage/httpImage/image.jpeg_gen/derivatives/square_1180/inayat-singh-cbc-manitoba-social-editor.jpeg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Animal rights advocates urge Ontario to seize belugas, fearing Marineland may euthanize them
+Summary: Summary based on headline: Animal rights advocates urge Ontario to seize belugas, fearing Marineland...
+Description: Summary based on headline: Animal rights advocates urge Ontario to seize belugas, fearing Marineland may euthanize them
+Image: https://i.cbc.ca/1.6421292.1650132192!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/desmond-brown.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 11:26:18 ===
+
+=== CNN - us - 2025-10-09 11:26:33 ===
+
+=== CNN - politics - 2025-10-09 11:26:57 ===
+
+=== CBC - politics - 2025-10-09 11:27:00 ===
+
+=== NPR - politics - 2025-10-09 11:27:05 ===
+
+=== CNN - health - 2025-10-09 11:27:20 ===
+
+=== CBC - health - 2025-10-09 11:27:23 ===
+
+Headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Summary: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Description: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Image: https://i.cbc.ca/ais/627b9487-8538-4de6-a271-d424e93c2917,1759847408037/full/max/0/default.jpg?im=Crop%2Crect%3D%28281%2C0%2C720%2C720%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Health minister says top priority is getting every New Brunswicker a family doctor
+Summary: Summary based on headline: Health minister says top priority is getting every New Brunswicker a fami...
+Description: Summary based on headline: Health minister says top priority is getting every New Brunswicker a family doctor
+Image: https://i.cbc.ca/1.7509996.1744659381!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/mark-leger.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: 2 nurses fined for moving newborn in handivan, raising questions about ambulance service in rural Manitoba
+Summary: Summary based on headline: 2 nurses fined for moving newborn in handivan, raising questions about am...
+Description: Summary based on headline: 2 nurses fined for moving newborn in handivan, raising questions about ambulance service in rural Manitoba
+Image: https://i.cbc.ca/1.6737483.1675543324!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/josh-crabb.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-10-09 11:27:28 ===
+
+=== CNN - travel - 2025-10-09 11:27:44 ===
+
+=== CNN - world - 2025-10-09 11:38:09 ===
+
+=== CBC - world - 2025-10-09 11:38:12 ===
+
+=== NPR - world - 2025-10-09 11:38:18 ===
+
+=== CNN - technology - 2025-10-09 11:38:32 ===
+
+=== NPR - technology - 2025-10-09 11:38:41 ===
+
+=== CNN - business - 2025-10-09 11:38:58 ===
+
+=== CBC - business - 2025-10-09 11:39:02 ===
+
+Headline: Pressure is building on Donald Trump as tariffs bite deeper into American manufacturing
+Summary: Summary based on headline: Pressure is building on Donald Trump as tariffs bite deeper into American...
+Description: Summary based on headline: Pressure is building on Donald Trump as tariffs bite deeper into American manufacturing
+Image: https://i.cbc.ca/ais/0dcf48e1-2938-4d03-98c3-54aa31f5e9fa,1759949825475/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C800%2C800%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Toronto home prices decline, sales up 8.5% in September
+Summary: Summary based on headline: Toronto home prices decline, sales up 8.5% in September
+Description: Summary based on headline: Toronto home prices decline, sales up 8.5% in September
+Image: https://i.cbc.ca/1.7652470.1759776859!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/shrimp-farmers.jpg?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 11:39:06 ===
+
+=== CNN - sport - 2025-10-09 11:39:18 ===
+
+=== CNN - arts - 2025-10-09 11:39:42 ===
+
+=== NPR - arts - 2025-10-09 11:39:51 ===
+
+=== CNN - science - 2025-10-09 11:40:09 ===
+
+=== CBC - science - 2025-10-09 11:40:12 ===
+
+Headline: Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chemistry
+Summary: Summary based on headline: Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chem...
+Description: Summary based on headline: Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chemistry
+Image: https://i.cbc.ca/ais/8eaf2e9a-cfc1-4f28-bec9-3364a6ae276f,1759922310895/full/max/0/default.jpg?im=Crop%2Crect%3D%28714%2C0%2C2857%2C2857%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 11:40:16 ===
+
+=== CNN - us - 2025-10-09 11:40:30 ===
+
+Headline: Apu Gomes/Getty Images
+Summary: Summary based on headline: Apu Gomes/Getty Images
+Description: Summary based on headline: Apu Gomes/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2192342657.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/08/us/palisades-fire-arrest-california
+==================================================
+
+=== CNN - politics - 2025-10-09 11:40:53 ===
+
+=== CBC - politics - 2025-10-09 11:40:57 ===
+
+=== NPR - politics - 2025-10-09 11:41:02 ===
+
+=== CNN - health - 2025-10-09 11:41:15 ===
+
+=== CBC - health - 2025-10-09 11:41:17 ===
+
+Headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Summary: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Description: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Image: https://i.cbc.ca/1.4045019.1759789366!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/dauphin-hospital.jpg?im=
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Summary: Summary based on headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Description: Summary based on headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Image: https://i.cbc.ca/ais/ad284fa7-078a-4ecc-b484-6e1a67925ef1,1759954221226/full/max/0/default.jpg?im=Crop%2Crect%3D%28538%2C0%2C1080%2C1080%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-10-09 11:41:23 ===
+
+=== CNN - travel - 2025-10-09 11:41:37 ===
+
+=== CNN - world - 2025-10-09 11:52:00 ===
+
+Headline: Menahem Kahana/AFP/Getty Images
+Summary: Summary based on headline: Menahem Kahana/AFP/Getty Images
+Description: Summary based on headline: Menahem Kahana/AFP/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176199935.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/middleeast/hostages-gaza-israel-hamas-ceasefire-intl
+==================================================
+
+=== CBC - world - 2025-10-09 11:52:02 ===
+
+=== NPR - world - 2025-10-09 11:52:08 ===
+
+=== CNN - technology - 2025-10-09 11:52:27 ===
+
+=== NPR - technology - 2025-10-09 11:52:35 ===
+
+=== CNN - business - 2025-10-09 11:52:50 ===
+
+=== CBC - business - 2025-10-09 11:52:54 ===
+
+Headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Summary: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports fallin...
+Description: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Image: https://i.cbc.ca/1.7648355.1759342687!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/fraud-victim-at-crypto-atm.jpg?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Summary: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Description: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Image: https://i.cbc.ca/1.7627515.1757282674!/cpImage/httpImage/image.jpg_gen/derivatives/square_1180/wea-ont-storm-20230303.jpg?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 11:53:01 ===
+
+=== CNN - sport - 2025-10-09 11:53:15 ===
+
+=== CNN - arts - 2025-10-09 11:53:40 ===
+
+=== NPR - arts - 2025-10-09 11:53:50 ===
+
+=== CNN - science - 2025-10-09 11:54:07 ===
+
+=== CBC - science - 2025-10-09 11:54:10 ===
+
+Headline: Rare white beaver wows Ottawa-area wildlife watchers
+Summary: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Description: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Image: https://i.cbc.ca/1.7653022.1759842019!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2239275878.jpg?im=
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 11:54:15 ===
+
+=== CNN - us - 2025-10-09 11:54:28 ===
+
+=== CNN - politics - 2025-10-09 11:54:52 ===
+
+=== CBC - politics - 2025-10-09 11:54:55 ===
+
+=== NPR - politics - 2025-10-09 11:55:00 ===
+
+=== CNN - health - 2025-10-09 11:55:17 ===
+
+=== CBC - health - 2025-10-09 11:55:20 ===
+
+=== NPR - health - 2025-10-09 11:55:26 ===
+
+=== CNN - travel - 2025-10-09 11:55:40 ===
+
+=== CNN - world - 2025-10-09 12:06:06 ===
+
+=== CBC - world - 2025-10-09 12:06:08 ===
+
+=== NPR - world - 2025-10-09 12:06:15 ===
+
+=== CNN - technology - 2025-10-09 12:06:32 ===
+
+Headline: YouTube is letting some previously banned users return. That means you may see videos that violated old rules
+Summary: Summary based on headline: YouTube is letting some previously banned users return. That means you ma...
+Description: Summary based on headline: YouTube is letting some previously banned users return. That means you may see videos that violated old rules
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174856888.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/tech/youtube-banned-users-return-policy-explained
+==================================================
+
+Headline: YouTube is letting some previously banned users return. That means you may see videos that violated old rules
+Summary: Summary based on headline: YouTube is letting some previously banned users return. That means you ma...
+Description: Summary based on headline: YouTube is letting some previously banned users return. That means you may see videos that violated old rules
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-05-13t150806z-1042401118-rc23heap82k4-rtrmadp-3-usa-trump-gulf-investment-20251008162048024.JPG?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/09/tech/youtube-banned-users-return-policy-explained
+==================================================
+
+=== NPR - technology - 2025-10-09 12:06:42 ===
+
+=== CNN - business - 2025-10-09 12:06:58 ===
+
+Headline: YouTube is letting some previously banned users return. That means you may see videos that violated old rules
+Summary: Summary based on headline: YouTube is letting some previously banned users return. That means you ma...
+Description: Summary based on headline: YouTube is letting some previously banned users return. That means you may see videos that violated old rules
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237752227.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/09/tech/youtube-banned-users-return-policy-explained
+==================================================
+
+=== CBC - business - 2025-10-09 12:07:00 ===
+
+=== NPR - business - 2025-10-09 12:07:07 ===
+
+=== CNN - sport - 2025-10-09 12:07:21 ===
+
+=== CNN - arts - 2025-10-09 12:07:47 ===
+
+=== NPR - arts - 2025-10-09 12:07:56 ===
+
+=== CNN - science - 2025-10-09 12:08:10 ===
+
+=== CBC - science - 2025-10-09 12:08:13 ===
+
+Headline: Nobel Prize in Physics awarded to 3 scientists for quantum mechanical tunnelling
+Summary: Summary based on headline: Nobel Prize in Physics awarded to 3 scientists for quantum mechanical tun...
+Description: Summary based on headline: Nobel Prize in Physics awarded to 3 scientists for quantum mechanical tunnelling
+Image: https://i.cbc.ca/ais/cd6f3ede-8b39-4857-9163-353b5003ccf6,1759924999648/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C83%2C1600%2C900%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Rare white beaver wows Ottawa-area wildlife watchers
+Summary: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Description: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Image: https://i.cbc.ca/1.7640789.1758587125!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/marineland-niagara-2025-drone-aerials.JPG?im=
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 12:08:22 ===
+
+=== CNN - us - 2025-10-09 12:08:37 ===
+
+Headline: 8 people charged in connection with clinics accused of providing abortions illegally, Texas attorney general says
+Summary: Summary based on headline: 8 people charged in connection with clinics accused of providing abortion...
+Description: Summary based on headline: 8 people charged in connection with clinics accused of providing abortions illegally, Texas attorney general says
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213276680-20251008122241045.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/08/us/texas-abortion-arrests
+==================================================
+
+=== CNN - politics - 2025-10-09 12:09:01 ===
+
+=== CBC - politics - 2025-10-09 12:09:04 ===
+
+=== NPR - politics - 2025-10-09 12:09:08 ===
+
+=== CNN - health - 2025-10-09 12:09:23 ===
+
+=== CBC - health - 2025-10-09 12:09:25 ===
+
+Headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Summary: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Description: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Image: https://i.cbc.ca/1.7652666.1759784383!/cantoImage/httpImage/image.jpg_gen/derivatives/square_1180/halifax-city-hall.jpg?im=
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-10-09 12:09:29 ===
+
+=== CNN - travel - 2025-10-09 12:09:46 ===
+
+=== CNN - world - 2025-10-09 12:20:10 ===
+
+=== CBC - world - 2025-10-09 12:20:12 ===
+
+=== NPR - world - 2025-10-09 12:20:17 ===
+
+Headline: Israel and Hamas reach initial ceasefire deal. And, National Guard arrive near Chicago
+Summary: Summary based on headline: Israel and Hamas reach initial ceasefire deal. And, National Guard arrive...
+Description: Summary based on headline: Israel and Hamas reach initial ceasefire deal. And, National Guard arrive near Chicago
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3677x2068+0+192/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F13%2Fef2545384569b0d6d66d9b9b865a%2Fgettyimages-2148708407.jpg
+Source: https://www.npr.org/2025/10/09/g-s1-92680/up-first-newsletter-israel-hamas-ceasefire-government-shutdown-chicago-national-guard
+==================================================
+
+=== CNN - technology - 2025-10-09 12:20:33 ===
+
+=== NPR - technology - 2025-10-09 12:20:42 ===
+
+=== CNN - business - 2025-10-09 12:20:58 ===
+
+=== CBC - business - 2025-10-09 12:21:00 ===
+
+Headline: U.S. launches Tesla probe following more crashes involving full self-driving feature
+Summary: Summary based on headline: U.S. launches Tesla probe following more crashes involving full self-driv...
+Description: Summary based on headline: U.S. launches Tesla probe following more crashes involving full self-driving feature
+Image: https://i.cbc.ca/ais/08d0c44d-25d5-4b73-a372-870200761523,1759911776051/full/max/0/default.jpg?im=Crop%2Crect%3D%282032%2C0%2C5759%2C5759%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 12:21:07 ===
+
+=== CNN - sport - 2025-10-09 12:21:21 ===
+
+=== CNN - arts - 2025-10-09 12:21:44 ===
+
+=== NPR - arts - 2025-10-09 12:21:51 ===
+
+=== CNN - science - 2025-10-09 12:22:07 ===
+
+=== CBC - science - 2025-10-09 12:22:09 ===
+
+=== NPR - science - 2025-10-09 12:22:15 ===
+
+=== CNN - us - 2025-10-09 12:22:30 ===
+
+=== CNN - politics - 2025-10-09 12:22:57 ===
+
+=== CBC - politics - 2025-10-09 12:23:01 ===
+
+=== NPR - politics - 2025-10-09 12:23:06 ===
+
+Headline: What to know about the Nobel Peace Prize
+Summary: Summary based on headline: What to know about the Nobel Peace Prize
+Description: Summary based on headline: What to know about the Nobel Peace Prize
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2343x1318+0+113/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F09%2Fd007b60346adbe71940a0d1f6442%2Fsheet-music.jpg
+Source: https://www.npr.org/2025/10/09/nx-s1-5567786/nobel-peace-prize-explained
+==================================================
+
+=== CNN - health - 2025-10-09 12:23:19 ===
+
+=== CBC - health - 2025-10-09 12:23:22 ===
+
+=== NPR - health - 2025-10-09 12:23:27 ===
+
+=== CNN - travel - 2025-10-09 12:23:42 ===
+
+=== CNN - world - 2025-10-09 12:34:04 ===
+
+=== CBC - world - 2025-10-09 12:34:06 ===
+
+Headline: Why this Gaza ceasefire deal could be different from previous ones
+Summary: Summary based on headline: Why this Gaza ceasefire deal could be different from previous ones
+Description: Summary based on headline: Why this Gaza ceasefire deal could be different from previous ones
+Image: https://i.cbc.ca/ais/c4f516e2-63a3-44c6-8455-8df7f9104304,1759954074019/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C87%2C1180%2C663%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: U.S. bill calls for more integration between Canadian, American border agents
+Summary: Summary based on headline: U.S. bill calls for more integration between Canadian, American border ag...
+Description: Summary based on headline: U.S. bill calls for more integration between Canadian, American border agents
+Image: https://i.cbc.ca/1.3912105.1484693236!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/elizabeth-thompson.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 12:34:14 ===
+
+=== CNN - technology - 2025-10-09 12:34:30 ===
+
+=== NPR - technology - 2025-10-09 12:34:39 ===
+
+=== CNN - business - 2025-10-09 12:34:56 ===
+
+=== CBC - business - 2025-10-09 12:34:58 ===
+
+=== NPR - business - 2025-10-09 12:35:03 ===
+
+=== CNN - sport - 2025-10-09 12:35:18 ===
+
+=== CNN - arts - 2025-10-09 12:35:45 ===
+
+=== NPR - arts - 2025-10-09 12:35:53 ===
+
+=== CNN - science - 2025-10-09 12:36:07 ===
+
+=== CBC - science - 2025-10-09 12:36:10 ===
+
+Headline: No more Mr. Nice Bot: Some chatbot users push back against flattery, fluff
+Summary: Summary based on headline: No more Mr. Nice Bot: Some chatbot users push back against flattery, fluf...
+Description: Summary based on headline: No more Mr. Nice Bot: Some chatbot users push back against flattery, fluff
+Image: https://i.cbc.ca/1.7098380.1706562530!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/headshot.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Rare white beaver wows Ottawa-area wildlife watchers
+Summary: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Description: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Image: https://i.cbc.ca/1.7643595.1759544282!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/belugas-marineland.JPG?im=
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 12:36:15 ===
+
+=== CNN - us - 2025-10-09 12:36:31 ===
+
+Headline: New Orleans Police Department
+Summary: Summary based on headline: New Orleans Police Department
+Description: Summary based on headline: New Orleans Police Department
+Image: https://media.cnn.com/api/v1/images/stellar/prod/derrick-groves.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/08/us/derrick-groves-new-orleans-inmate-atlanta
+==================================================
+
+=== CNN - politics - 2025-10-09 12:36:53 ===
+
+=== CBC - politics - 2025-10-09 12:36:56 ===
+
+=== NPR - politics - 2025-10-09 12:37:02 ===
+
+=== CNN - health - 2025-10-09 12:37:18 ===
+
+=== CBC - health - 2025-10-09 12:37:22 ===
+
+=== NPR - health - 2025-10-09 12:37:28 ===
+
+=== CNN - travel - 2025-10-09 12:37:43 ===
+
+=== CNN - world - 2025-10-09 12:48:07 ===
+
+Headline: Live UpdatesIsraeli government to vote on Gaza ceasefire plan
+Summary: Summary based on headline: Live UpdatesIsraeli government to vote on Gaza ceasefire plan
+Description: Summary based on headline: Live UpdatesIsraeli government to vote on Gaza ceasefire plan
+Image: https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-10-08-at-13-22-15.png?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-agreement-10-09-25
+==================================================
+
+Headline: At least 20 killed in Myanmar junta attack as paramotors widen air war
+Summary: Summary based on headline: At least 20 killed in Myanmar junta attack as paramotors widen air war
+Description: Summary based on headline: At least 20 killed in Myanmar junta attack as paramotors widen air war
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239202628.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/08/asia/myanmar-junta-paramotors-attack-intl
+==================================================
+
+=== CBC - world - 2025-10-09 12:48:09 ===
+
+=== NPR - world - 2025-10-09 12:48:15 ===
+
+=== CNN - technology - 2025-10-09 12:48:31 ===
+
+=== NPR - technology - 2025-10-09 12:48:41 ===
+
+=== CNN - business - 2025-10-09 12:48:58 ===
+
+=== CBC - business - 2025-10-09 12:49:01 ===
+
+Headline: Toronto home prices decline, sales up 8.5% in September
+Summary: Summary based on headline: Toronto home prices decline, sales up 8.5% in September
+Description: Summary based on headline: Toronto home prices decline, sales up 8.5% in September
+Image: https://i.cbc.ca/1.7652535.1759789304!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/canada-trump-g7-summit.jpg?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 12:49:07 ===
+
+=== CNN - sport - 2025-10-09 12:49:22 ===
+
+=== CNN - arts - 2025-10-09 12:49:46 ===
+
+=== NPR - arts - 2025-10-09 12:49:55 ===
+
+=== CNN - science - 2025-10-09 12:50:12 ===
+
+=== CBC - science - 2025-10-09 12:50:14 ===
+
+=== NPR - science - 2025-10-09 12:50:19 ===
+
+=== CNN - us - 2025-10-09 12:50:33 ===
+
+=== CNN - politics - 2025-10-09 12:50:57 ===
+
+=== CBC - politics - 2025-10-09 12:50:59 ===
+
+=== NPR - politics - 2025-10-09 12:51:06 ===
+
+=== CNN - health - 2025-10-09 12:51:22 ===
+
+=== CBC - health - 2025-10-09 12:51:25 ===
+
+=== NPR - health - 2025-10-09 12:51:31 ===
+
+=== CNN - travel - 2025-10-09 12:51:45 ===
+
+=== CNN - world - 2025-10-09 13:02:05 ===
+
+=== CBC - world - 2025-10-09 13:02:08 ===
+
+=== NPR - world - 2025-10-09 13:02:13 ===
+
+=== CNN - technology - 2025-10-09 13:02:27 ===
+
+=== NPR - technology - 2025-10-09 13:02:37 ===
+
+=== CNN - business - 2025-10-09 13:02:52 ===
+
+=== CBC - business - 2025-10-09 13:02:54 ===
+
+Headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Summary: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports fallin...
+Description: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Image: https://i.cbc.ca/1.7507326.1744317959!/cantoImage/httpImage/image.jpg_gen/derivatives/square_1180/real-estate-sign-on-budget-day-toronto.jpg?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: What could be the future of GM's Oshawa plant?
+Summary: Summary based on headline: What could be the future of GM's Oshawa plant?
+Description: Summary based on headline: What could be the future of GM's Oshawa plant?
+Image: https://i.cbc.ca/1.7129602.1709227744!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/rochelle-raveendran-headshot.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 13:03:00 ===
+
+=== CNN - sport - 2025-10-09 13:03:14 ===
+
+=== CNN - arts - 2025-10-09 13:03:36 ===
+
+=== NPR - arts - 2025-10-09 13:03:43 ===
+
+Headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Summary: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Description: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3116x1752+1534+938/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2F68%2F734d803943c0852230083b306c17%2Fafter-the-hunt-ath-01033-rc-rgb.jpg
+Source: https://www.npr.org/2025/09/17/nx-s1-5534152/what-to-watch-new-tv
+==================================================
+
+Headline: This #MeToo melodrama isn't great, but Julia Roberts' performance is
+Summary: Summary based on headline: This #MeToo melodrama isn't great, but Julia Roberts' performance is
+Description: Summary based on headline: This #MeToo melodrama isn't great, but Julia Roberts' performance is
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Ffb%2Faf5eddc8422a928266f0d4c43157%2Fb75450a1-90a1-40cd-a787-dce049111e83.jpg
+Source: https://www.npr.org/2025/10/09/nx-s1-5567871/after-the-hunt-julia-roberts
+==================================================
+
+=== CNN - science - 2025-10-09 13:03:58 ===
+
+=== CBC - science - 2025-10-09 13:04:00 ===
+
+=== NPR - science - 2025-10-09 13:04:05 ===
+
+=== CNN - us - 2025-10-09 13:04:21 ===
+
+=== CNN - politics - 2025-10-09 13:04:46 ===
+
+Headline: Pete Hegseth/X
+Summary: Summary based on headline: Pete Hegseth/X
+Description: Summary based on headline: Pete Hegseth/X
+Image: https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-10-03-at-12-49-17-pm.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/colombia-trump-boat-strike-latam
+==================================================
+
+=== CBC - politics - 2025-10-09 13:04:49 ===
+
+=== NPR - politics - 2025-10-09 13:04:54 ===
+
+=== CNN - health - 2025-10-09 13:05:09 ===
+
+=== CBC - health - 2025-10-09 13:05:12 ===
+
+Headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Summary: Summary based on headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Description: Summary based on headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Image: https://i.cbc.ca/ais/ab3ef4c6-f35d-4d0c-af30-68ced7e4ae98,1759950025431/full/max/0/default.jpg?im=Crop%2Crect%3D%28724%2C0%2C3000%2C3000%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Summary: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Description: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Image: https://i.cbc.ca/1.7653158.1759848841!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/2183782530.jpg?im=
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-10-09 13:05:19 ===
+
+=== CNN - travel - 2025-10-09 13:05:34 ===
+
+=== CNN - world - 2025-10-09 13:15:59 ===
+
+=== CBC - world - 2025-10-09 13:16:01 ===
+
+=== NPR - world - 2025-10-09 13:16:06 ===
+
+=== CNN - technology - 2025-10-09 13:16:24 ===
+
+=== NPR - technology - 2025-10-09 13:16:33 ===
+
+=== CNN - business - 2025-10-09 13:16:48 ===
+
+=== CBC - business - 2025-10-09 13:16:52 ===
+
+Headline: Toronto home prices decline, sales up 8.5% in September
+Summary: Summary based on headline: Toronto home prices decline, sales up 8.5% in September
+Description: Summary based on headline: Toronto home prices decline, sales up 8.5% in September
+Image: https://i.cbc.ca/1.7652459.1759776110!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/usa-trump-tariffs-trucks.JPG?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 13:16:57 ===
+
+=== CNN - sport - 2025-10-09 13:17:14 ===
+
+=== CNN - arts - 2025-10-09 13:17:41 ===
+
+=== NPR - arts - 2025-10-09 13:17:51 ===
+
+=== CNN - science - 2025-10-09 13:18:08 ===
+
+=== CBC - science - 2025-10-09 13:18:10 ===
+
+Headline: More evidence of life on Mars but still no life
+Summary: Summary based on headline: More evidence of life on Mars but still no life
+Description: Summary based on headline: More evidence of life on Mars but still no life
+Image: https://i.cbc.ca/1.2714854.1679495394!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/bob-mcdonald-headshot.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 13:18:16 ===
+
+=== CNN - us - 2025-10-09 13:18:31 ===
+
+Headline: Brendan Smialowski/AFP/Getty Images
+Summary: Summary based on headline: Brendan Smialowski/AFP/Getty Images
+Description: Summary based on headline: Brendan Smialowski/AFP/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239432053-20251009160746042.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/us/shutdown-air-traffic-controllers
+==================================================
+
+Headline: As the shutdown wears on, Transportation secretary threatens to fire ‘problem children’ air traffic controllers ‘lashing out’
+Summary: Summary based on headline: As the shutdown wears on, Transportation secretary threatens to fire ‘pro...
+Description: Summary based on headline: As the shutdown wears on, Transportation secretary threatens to fire ‘problem children’ air traffic controllers ‘lashing out’
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239338526.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/us/shutdown-air-traffic-controllers
+==================================================
+
+=== CNN - politics - 2025-10-09 13:18:59 ===
+
+=== CBC - politics - 2025-10-09 13:19:01 ===
+
+=== NPR - politics - 2025-10-09 13:19:08 ===
+
+=== CNN - health - 2025-10-09 13:19:25 ===
+
+=== CBC - health - 2025-10-09 13:19:28 ===
+
+=== NPR - health - 2025-10-09 13:19:33 ===
+
+=== CNN - travel - 2025-10-09 13:19:48 ===
+
+=== CNN - world - 2025-10-09 13:30:15 ===
+
+=== CBC - world - 2025-10-09 13:30:18 ===
+
+=== NPR - world - 2025-10-09 13:30:24 ===
+
+=== CNN - technology - 2025-10-09 13:30:39 ===
+
+=== NPR - technology - 2025-10-09 13:30:45 ===
+
+=== CNN - business - 2025-10-09 13:31:02 ===
+
+=== CBC - business - 2025-10-09 13:31:05 ===
+
+=== NPR - business - 2025-10-09 13:31:09 ===
+
+=== CNN - sport - 2025-10-09 13:31:23 ===
+
+=== CNN - arts - 2025-10-09 13:31:50 ===
+
+=== NPR - arts - 2025-10-09 13:31:59 ===
+
+=== CNN - science - 2025-10-09 13:32:15 ===
+
+=== CBC - science - 2025-10-09 13:32:19 ===
+
+=== NPR - science - 2025-10-09 13:32:24 ===
+
+=== CNN - us - 2025-10-09 13:32:37 ===
+
+=== CNN - politics - 2025-10-09 13:33:02 ===
+
+=== CBC - politics - 2025-10-09 13:33:06 ===
+
+=== NPR - politics - 2025-10-09 13:33:12 ===
+
+=== CNN - health - 2025-10-09 13:33:28 ===
+
+=== CBC - health - 2025-10-09 13:33:32 ===
+
+=== NPR - health - 2025-10-09 13:33:36 ===
+
+=== CNN - travel - 2025-10-09 13:33:52 ===
+
+=== CNN - world - 2025-10-09 13:44:15 ===
+
+=== CBC - world - 2025-10-09 13:44:19 ===
+
+Headline: Live updates: Trump thanks Qatar, Egypt for helping seal 'momentous' Israel-Hamas peace deal
+Summary: Summary based on headline: Live updates: Trump thanks Qatar, Egypt for helping seal 'momentous' Isra...
+Description: Summary based on headline: Live updates: Trump thanks Qatar, Egypt for helping seal 'momentous' Israel-Hamas peace deal
+Image: https://i.cbc.ca/ais/2cca2dd6-5e84-4fa8-bc0f-58d8000de37b,1760031479358/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 13:44:25 ===
+
+=== CNN - technology - 2025-10-09 13:44:41 ===
+
+=== NPR - technology - 2025-10-09 13:44:49 ===
+
+=== CNN - business - 2025-10-09 13:45:03 ===
+
+=== CBC - business - 2025-10-09 13:45:05 ===
+
+=== NPR - business - 2025-10-09 13:45:10 ===
+
+=== CNN - sport - 2025-10-09 13:45:24 ===
+
+=== CNN - arts - 2025-10-09 13:45:51 ===
+
+=== NPR - arts - 2025-10-09 13:45:59 ===
+
+=== CNN - science - 2025-10-09 13:46:15 ===
+
+Headline: Zwicky Transient Facility/Palomar Observatory/California Institute of Technology/Quanzhi Ye
+Summary: Summary based on headline: Zwicky Transient Facility/Palomar Observatory/California Institute of Tec...
+Description: Summary based on headline: Zwicky Transient Facility/Palomar Observatory/California Institute of Technology/Quanzhi Ye
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c2025a6-20251003-ztf.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/science/comet-lemmon-swan-how-to-see
+==================================================
+
+Headline: Two bright comets will swing by Earth this month. Here’s how to see them
+Summary: Summary based on headline: Two bright comets will swing by Earth this month. Here’s how to see them
+Description: Summary based on headline: Two bright comets will swing by Earth this month. Here’s how to see them
+Image: https://media.cnn.com/api/v1/images/stellar/prod/my36-017977-189-0-rgbwpan-browse-site1.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/09/science/comet-lemmon-swan-how-to-see
+==================================================
+
+Headline: The Draconid meteor shower is peaking this week. Here’s what to know
+Summary: Summary based on headline: The Draconid meteor shower is peaking this week. Here’s what to know
+Description: Summary based on headline: The Draconid meteor shower is peaking this week. Here’s what to know
+Image: https://media.cnn.com/api/v1/images/stellar/prod/20251007-nobel-physics-2025.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/08/science/draconid-meteor-shower-peak
+==================================================
+
+=== CBC - science - 2025-10-09 13:46:17 ===
+
+=== NPR - science - 2025-10-09 13:46:24 ===
+
+=== CNN - us - 2025-10-09 13:46:39 ===
+
+=== CNN - politics - 2025-10-09 13:47:03 ===
+
+=== CBC - politics - 2025-10-09 13:47:06 ===
+
+Headline: Poilievre holds news conference in Ottawa
+Summary: Summary based on headline: Poilievre holds news conference in Ottawa
+Description: Summary based on headline: Poilievre holds news conference in Ottawa
+Image: https://i.cbc.ca/ais/33a04ec4-d099-40ed-a326-4e582401a586,1759963331506/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+=== NPR - politics - 2025-10-09 13:47:11 ===
+
+=== CNN - health - 2025-10-09 13:47:27 ===
+
+=== CBC - health - 2025-10-09 13:47:29 ===
+
+=== NPR - health - 2025-10-09 13:47:35 ===
+
+=== CNN - travel - 2025-10-09 13:47:47 ===
+
+=== CNN - world - 2025-10-09 13:58:09 ===
+
+=== CBC - world - 2025-10-09 13:58:11 ===
+
+=== NPR - world - 2025-10-09 13:58:17 ===
+
+=== CNN - technology - 2025-10-09 13:58:33 ===
+
+=== NPR - technology - 2025-10-09 13:58:41 ===
+
+=== CNN - business - 2025-10-09 13:58:55 ===
+
+=== CBC - business - 2025-10-09 13:58:57 ===
+
+Headline: Gold prices hit record high as anxious investors seek safe haven for money
+Summary: Summary based on headline: Gold prices hit record high as anxious investors seek safe haven for mone...
+Description: Summary based on headline: Gold prices hit record high as anxious investors seek safe haven for money
+Image: https://i.cbc.ca/ais/1.7652535,1759789328000/full/max/0/default.jpg?im=Crop%2Crect%3D%28504%2C0%2C2914%2C2914%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 13:59:04 ===
+
+=== CNN - sport - 2025-10-09 13:59:22 ===
+
+=== CNN - arts - 2025-10-09 13:59:48 ===
+
+=== NPR - arts - 2025-10-09 13:59:57 ===
+
+=== CNN - science - 2025-10-09 14:00:12 ===
+
+=== CBC - science - 2025-10-09 14:00:15 ===
+
+=== NPR - science - 2025-10-09 14:00:21 ===
+
+=== CNN - us - 2025-10-09 14:00:36 ===
+
+=== CNN - politics - 2025-10-09 14:01:03 ===
+
+=== CBC - politics - 2025-10-09 14:01:07 ===
+
+=== NPR - politics - 2025-10-09 14:01:14 ===
+
+=== CNN - health - 2025-10-09 14:01:29 ===
+
+=== CBC - health - 2025-10-09 14:01:32 ===
+
+=== NPR - health - 2025-10-09 14:01:38 ===
+
+=== CNN - travel - 2025-10-09 14:01:53 ===
+
+=== CNN - world - 2025-10-09 14:12:19 ===
+
+=== CBC - world - 2025-10-09 14:12:21 ===
+
+=== NPR - world - 2025-10-09 14:12:28 ===
+
+=== CNN - technology - 2025-10-09 14:12:44 ===
+
+=== NPR - technology - 2025-10-09 14:12:52 ===
+
+=== CNN - business - 2025-10-09 14:13:10 ===
+
+=== CBC - business - 2025-10-09 14:13:12 ===
+
+=== NPR - business - 2025-10-09 14:13:19 ===
+
+=== CNN - sport - 2025-10-09 14:13:33 ===
+
+=== CNN - arts - 2025-10-09 14:14:00 ===
+
+=== NPR - arts - 2025-10-09 14:14:09 ===
+
+=== CNN - science - 2025-10-09 14:14:25 ===
+
+=== CBC - science - 2025-10-09 14:14:28 ===
+
+=== NPR - science - 2025-10-09 14:14:34 ===
+
+=== CNN - us - 2025-10-09 14:14:49 ===
+
+=== CNN - politics - 2025-10-09 14:15:14 ===
+
+Headline: Tasos Katopodis/Getty Images for Fair Share America
+Summary: Summary based on headline: Tasos Katopodis/Getty Images for Fair Share America
+Description: Summary based on headline: Tasos Katopodis/Getty Images for Fair Share America
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2238443687.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/obamacare-premiums-government-shutdown-aca-vis
+==================================================
+
+=== CBC - politics - 2025-10-09 14:15:18 ===
+
+=== NPR - politics - 2025-10-09 14:15:23 ===
+
+=== CNN - health - 2025-10-09 14:15:39 ===
+
+=== CBC - health - 2025-10-09 14:15:42 ===
+
+Headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Summary: Summary based on headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Description: Summary based on headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Image: https://i.cbc.ca/ais/1.4045019,1759789383000/full/max/0/default.jpg?im=Crop%2Crect%3D%28420%2C0%2C1079%2C1079%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-10-09 14:15:47 ===
+
+=== CNN - travel - 2025-10-09 14:16:03 ===
+
+=== CNN - world - 2025-10-09 14:26:28 ===
+
+=== CBC - world - 2025-10-09 14:26:31 ===
+
+=== NPR - world - 2025-10-09 14:26:36 ===
+
+=== CNN - technology - 2025-10-09 14:26:55 ===
+
+=== NPR - technology - 2025-10-09 14:27:05 ===
+
+=== CNN - business - 2025-10-09 14:27:20 ===
+
+=== CBC - business - 2025-10-09 14:27:23 ===
+
+Headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Summary: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Description: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Image: https://i.cbc.ca/ais/1.5435577,1759755063000/full/max/0/default.jpg?im=Crop%2Crect%3D%28821%2C0%2C3296%2C3296%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 14:27:30 ===
+
+=== CNN - sport - 2025-10-09 14:27:43 ===
+
+=== CNN - arts - 2025-10-09 14:28:06 ===
+
+=== NPR - arts - 2025-10-09 14:28:14 ===
+
+=== CNN - science - 2025-10-09 14:28:30 ===
+
+=== CBC - science - 2025-10-09 14:28:33 ===
+
+Headline: IN PHOTOS | Scenes of October's supermoon
+Summary: Summary based on headline: IN PHOTOS | Scenes of October's supermoon
+Description: Summary based on headline: IN PHOTOS | Scenes of October's supermoon
+Image: https://i.cbc.ca/ais/1.7652977,1759837937000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C284%2C5500%2C3093%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Nobel Prize in Physics awarded to 3 scientists for quantum mechanical tunnelling
+Summary: Summary based on headline: Nobel Prize in Physics awarded to 3 scientists for quantum mechanical tun...
+Description: Summary based on headline: Nobel Prize in Physics awarded to 3 scientists for quantum mechanical tunnelling
+Image: https://i.cbc.ca/ais/1.7652769,1759801475000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8314%2C4676%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 14:28:39 ===
+
+=== CNN - us - 2025-10-09 14:28:54 ===
+
+=== CNN - politics - 2025-10-09 14:29:18 ===
+
+=== CBC - politics - 2025-10-09 14:29:21 ===
+
+=== NPR - politics - 2025-10-09 14:29:27 ===
+
+=== CNN - health - 2025-10-09 14:29:41 ===
+
+=== CBC - health - 2025-10-09 14:29:44 ===
+
+=== NPR - health - 2025-10-09 14:29:52 ===
+
+=== CNN - travel - 2025-10-09 14:30:04 ===
+
+=== CNN - world - 2025-10-09 14:40:29 ===
+
+=== CBC - world - 2025-10-09 14:40:32 ===
+
+=== NPR - world - 2025-10-09 14:40:37 ===
+
+=== CNN - technology - 2025-10-09 14:40:53 ===
+
+=== NPR - technology - 2025-10-09 14:41:04 ===
+
+=== CNN - business - 2025-10-09 14:41:17 ===
+
+=== CBC - business - 2025-10-09 14:41:20 ===
+
+Headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Summary: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports fallin...
+Description: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Image: https://i.cbc.ca/ais/1.7652459,1759776164000/full/max/0/default.jpg?im=Crop%2Crect%3D%281066%2C0%2C4264%2C4264%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Summary: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Description: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Image: https://i.cbc.ca/1.7649481.1759426783!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/gm.JPG?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 14:41:26 ===
+
+=== CNN - sport - 2025-10-09 14:41:41 ===
+
+=== CNN - arts - 2025-10-09 14:42:07 ===
+
+=== NPR - arts - 2025-10-09 14:42:17 ===
+
+=== CNN - science - 2025-10-09 14:42:32 ===
+
+=== CBC - science - 2025-10-09 14:42:35 ===
+
+Headline: Rare white beaver wows Ottawa-area wildlife watchers
+Summary: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Description: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Image: https://i.cbc.ca/ais/0a8a54cc-8501-403d-9b1f-9da8a9892200,1759956358632/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C86%2C7008%2C3942%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 14:42:42 ===
+
+=== CNN - us - 2025-10-09 14:42:56 ===
+
+=== CNN - politics - 2025-10-09 14:43:21 ===
+
+=== CBC - politics - 2025-10-09 14:43:23 ===
+
+=== NPR - politics - 2025-10-09 14:43:29 ===
+
+=== CNN - health - 2025-10-09 14:43:41 ===
+
+=== CBC - health - 2025-10-09 14:43:44 ===
+
+=== NPR - health - 2025-10-09 14:43:52 ===
+
+=== CNN - travel - 2025-10-09 14:44:08 ===
+
+=== CNN - world - 2025-10-09 14:54:32 ===
+
+=== CBC - world - 2025-10-09 14:54:34 ===
+
+Headline: What does Gaza look like after 2 years of war?
+Summary: Summary based on headline: What does Gaza look like after 2 years of war?
+Description: Summary based on headline: What does Gaza look like after 2 years of war?
+Image: https://i.cbc.ca/ais/b6800414-da26-41c8-8ce1-8b7eb5094ca9,1760031193244/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C816%2C7862%2C4422%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Trump wants to be 5th U.S. president to win the Nobel Peace Prize. There are obstacles
+Summary: Summary based on headline: Trump wants to be 5th U.S. president to win the Nobel Peace Prize. There ...
+Description: Summary based on headline: Trump wants to be 5th U.S. president to win the Nobel Peace Prize. There are obstacles
+Image: https://i.cbc.ca/1.7080748.1704995709!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/chris-iorfida.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 14:54:40 ===
+
+=== CNN - technology - 2025-10-09 14:54:55 ===
+
+=== NPR - technology - 2025-10-09 14:55:05 ===
+
+=== CNN - business - 2025-10-09 14:55:20 ===
+
+Headline: YouTube is letting some previously banned users return. That means you may see videos that violated old rules
+Summary: Summary based on headline: YouTube is letting some previously banned users return. That means you ma...
+Description: Summary based on headline: YouTube is letting some previously banned users return. That means you may see videos that violated old rules
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2199670255.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/tech/youtube-banned-users-return-policy-explained
+==================================================
+
+Headline: Silver just hit $50 an ounce, the highest price in four decades
+Summary: Summary based on headline: Silver just hit $50 an ounce, the highest price in four decades
+Description: Summary based on headline: Silver just hit $50 an ounce, the highest price in four decades
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174856888.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/09/investing/silver-record-high
+==================================================
+
+=== CBC - business - 2025-10-09 14:55:22 ===
+
+=== NPR - business - 2025-10-09 14:55:29 ===
+
+=== CNN - sport - 2025-10-09 14:55:43 ===
+
+=== CNN - arts - 2025-10-09 14:56:13 ===
+
+Headline: Lol Crawley/A24
+Summary: Summary based on headline: Lol Crawley/A24
+Description: Summary based on headline: Lol Crawley/A24
+Image: https://media.cnn.com/api/v1/images/stellar/prod/tbr-lp-rec709-uhd-flat-3840x2160-20-pm-20240911-00-24-22-06-still048-cropedit-20241216161115200.jpg?c=16x9&q=h_720,w_1280,c_fill
+Source: https://www.cnn.com/2024/12/19/style/the-brutalist-adrien-brody-judy-becker-interview/index.html
+==================================================
+
+Headline: How ‘The Brutalist’ built architect László Tóth — inside and outThe tortured architect in Brady Corbet’s film required a powerhouse performance from Adrien Brody. The Oscar winning actor and production designer Judy Becker share how they crafted the character – and his creations.
+Summary: Summary based on headline: How ‘The Brutalist’ built architect László Tóth — inside and outThe tortu...
+Description: Summary based on headline: How ‘The Brutalist’ built architect László Tóth — inside and outThe tortured architect in Brady Corbet’s film required a powerhouse performance from Adrien Brody. The Oscar winning actor and production designer Judy Becker share how they crafted the character – and his creations.
+Image: https://media.cnn.com/api/v1/images/stellar/prod/lkp-t2-00089436-1.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2024/12/19/style/the-brutalist-adrien-brody-judy-becker-interview/index.html
+==================================================
+
+Headline: Barry Jenkins on why ‘Mufasa’ contains the ‘voice of Africa’
+Summary: Summary based on headline: Barry Jenkins on why ‘Mufasa’ contains the ‘voice of Africa’
+Description: Summary based on headline: Barry Jenkins on why ‘Mufasa’ contains the ‘voice of Africa’
+Image: https://media.cnn.com/api/v1/images/stellar/prod/n11543-d44wd-t1-05.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/style/mufasa-barry-jenkins-voice-of-africa-spc/index.html
+==================================================
+
+Headline: Oldest stone tablet inscribed with Bible’s Ten Commandments sells for $5 millionDec 18, 2024
+Summary: Summary based on headline: Oldest stone tablet inscribed with Bible’s Ten Commandments sells for $5 ...
+Description: Summary based on headline: Oldest stone tablet inscribed with Bible’s Ten Commandments sells for $5 millionDec 18, 2024
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ce-cursed-10-aiw-322.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2024/11/13/style/oldest-tablet-10-commandments-sold-scli-intl/index.html
+==================================================
+
+Headline: The artist making unsettling AI images of the human bodyDec 18, 2024
+Summary: Summary based on headline: The artist making unsettling AI images of the human bodyDec 18, 2024
+Description: Summary based on headline: The artist making unsettling AI images of the human bodyDec 18, 2024
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2024-12-04t143954z-36452169-mt1aap000ahrng8-rtrmadp-3-ladies-lounge-mona.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2024/12/18/style/cursed-charlie-engman-ai-photographs/index.html
+==================================================
+
+Headline: Controversial women-only art installation reopens, allowing some men to enter for ‘reparations’Dec 18, 2024
+Summary: Summary based on headline: Controversial women-only art installation reopens, allowing some men to e...
+Description: Summary based on headline: Controversial women-only art installation reopens, allowing some men to enter for ‘reparations’Dec 18, 2024
+Image: https://media.cnn.com/api/v1/images/stellar/prod/210209-ogrady-0027-by-lelani-foster.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2024/12/17/style/australia-mona-museum-women-art-installation-reopens-tan/index.html
+==================================================
+
+=== NPR - arts - 2025-10-09 14:56:22 ===
+
+=== CNN - science - 2025-10-09 14:56:37 ===
+
+=== CBC - science - 2025-10-09 14:56:41 ===
+
+=== NPR - science - 2025-10-09 14:56:47 ===
+
+=== CNN - us - 2025-10-09 14:57:01 ===
+
+=== CNN - politics - 2025-10-09 14:57:24 ===
+
+Headline: Anna Moneymaker/Getty Images
+Summary: Summary based on headline: Anna Moneymaker/Getty Images
+Description: Summary based on headline: Anna Moneymaker/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2240136359.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/trump-nobel-prize-analysis
+==================================================
+
+=== CBC - politics - 2025-10-09 14:57:27 ===
+
+=== NPR - politics - 2025-10-09 14:57:32 ===
+
+=== CNN - health - 2025-10-09 14:57:49 ===
+
+=== CBC - health - 2025-10-09 14:57:51 ===
+
+=== NPR - health - 2025-10-09 14:57:55 ===
+
+=== CNN - travel - 2025-10-09 14:58:11 ===
+
+=== CNN - world - 2025-10-09 15:08:37 ===
+
+=== CBC - world - 2025-10-09 15:08:39 ===
+
+=== NPR - world - 2025-10-09 15:08:46 ===
+
+=== CNN - technology - 2025-10-09 15:09:04 ===
+
+=== NPR - technology - 2025-10-09 15:09:13 ===
+
+=== CNN - business - 2025-10-09 15:09:27 ===
+
+=== CBC - business - 2025-10-09 15:09:30 ===
+
+=== NPR - business - 2025-10-09 15:09:36 ===
+
+=== CNN - sport - 2025-10-09 15:09:50 ===
+
+=== CNN - arts - 2025-10-09 15:10:16 ===
+
+=== NPR - arts - 2025-10-09 15:10:27 ===
+
+=== CNN - science - 2025-10-09 15:10:42 ===
+
+=== CBC - science - 2025-10-09 15:10:45 ===
+
+Headline: Rare white beaver wows Ottawa-area wildlife watchers
+Summary: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Description: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Image: https://i.cbc.ca/ais/1.7653022,1759842020000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C422%2C6000%2C3375%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 15:10:51 ===
+
+=== CNN - us - 2025-10-09 15:11:04 ===
+
+=== CNN - politics - 2025-10-09 15:11:30 ===
+
+=== CBC - politics - 2025-10-09 15:11:33 ===
+
+=== NPR - politics - 2025-10-09 15:11:38 ===
+
+=== CNN - health - 2025-10-09 15:11:53 ===
+
+=== CBC - health - 2025-10-09 15:11:55 ===
+
+=== NPR - health - 2025-10-09 15:12:01 ===
+
+=== CNN - travel - 2025-10-09 15:12:15 ===
+
+=== CNN - world - 2025-10-09 15:22:37 ===
+
+=== CBC - world - 2025-10-09 15:22:41 ===
+
+=== NPR - world - 2025-10-09 15:22:46 ===
+
+=== CNN - technology - 2025-10-09 15:23:01 ===
+
+=== NPR - technology - 2025-10-09 15:23:09 ===
+
+=== CNN - business - 2025-10-09 15:23:24 ===
+
+=== CBC - business - 2025-10-09 15:23:26 ===
+
+=== NPR - business - 2025-10-09 15:23:33 ===
+
+=== CNN - sport - 2025-10-09 15:23:48 ===
+
+=== CNN - arts - 2025-10-09 15:24:10 ===
+
+=== NPR - arts - 2025-10-09 15:24:17 ===
+
+=== CNN - science - 2025-10-09 15:24:31 ===
+
+=== CBC - science - 2025-10-09 15:24:35 ===
+
+=== NPR - science - 2025-10-09 15:24:41 ===
+
+=== CNN - us - 2025-10-09 15:24:58 ===
+
+=== CNN - politics - 2025-10-09 15:25:21 ===
+
+Headline: Stephen Maturen/Getty Images/File
+Summary: Summary based on headline: Stephen Maturen/Getty Images/File
+Description: Summary based on headline: Stephen Maturen/Getty Images/File
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242291376-20251009143507957.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/dominion-voting-systems-bought-election-ballots
+==================================================
+
+=== CBC - politics - 2025-10-09 15:25:24 ===
+
+=== NPR - politics - 2025-10-09 15:25:30 ===
+
+=== CNN - health - 2025-10-09 15:25:45 ===
+
+=== CBC - health - 2025-10-09 15:25:48 ===
+
+=== NPR - health - 2025-10-09 15:25:53 ===
+
+=== CNN - travel - 2025-10-09 15:26:09 ===
+
+=== CNN - world - 2025-10-09 15:36:33 ===
+
+=== CBC - world - 2025-10-09 15:36:36 ===
+
+=== NPR - world - 2025-10-09 15:36:41 ===
+
+=== CNN - technology - 2025-10-09 15:36:59 ===
+
+=== NPR - technology - 2025-10-09 15:37:09 ===
+
+=== CNN - business - 2025-10-09 15:37:23 ===
+
+=== CBC - business - 2025-10-09 15:37:25 ===
+
+=== NPR - business - 2025-10-09 15:37:30 ===
+
+=== CNN - sport - 2025-10-09 15:37:46 ===
+
+=== CNN - arts - 2025-10-09 15:38:12 ===
+
+=== NPR - arts - 2025-10-09 15:38:21 ===
+
+=== CNN - science - 2025-10-09 15:38:35 ===
+
+=== CBC - science - 2025-10-09 15:38:39 ===
+
+Headline: Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chemistry
+Summary: Summary based on headline: Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chem...
+Description: Summary based on headline: Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chemistry
+Image: https://i.cbc.ca/ais/1.7649813,1759440191000/full/max/0/default.jpg?im=Crop%2Crect%3D%281034%2C0%2C1960%2C1960%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 15:38:44 ===
+
+=== CNN - us - 2025-10-09 15:38:58 ===
+
+=== CNN - politics - 2025-10-09 15:39:21 ===
+
+=== CBC - politics - 2025-10-09 15:39:24 ===
+
+=== NPR - politics - 2025-10-09 15:39:31 ===
+
+=== CNN - health - 2025-10-09 15:39:46 ===
+
+=== CBC - health - 2025-10-09 15:39:49 ===
+
+=== NPR - health - 2025-10-09 15:39:54 ===
+
+=== CNN - travel - 2025-10-09 15:40:11 ===
+
+=== CNN - world - 2025-10-09 15:50:33 ===
+
+=== CBC - world - 2025-10-09 15:50:35 ===
+
+=== NPR - world - 2025-10-09 15:50:40 ===
+
+Headline: A Deal Emerges for Peace in Gaza and the Release of Hostages
+Summary: Summary based on headline: A Deal Emerges for Peace in Gaza and the Release of Hostages
+Description: Summary based on headline: A Deal Emerges for Peace in Gaza and the Release of Hostages
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7535x4238+0+392/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F20%2F4dae2161455abf52494616a23c9d%2Fgettyimages-2173737057.jpg
+Source: https://www.npr.org/2025/10/09/nx-s1-5569493/a-deal-emerges-for-peace-in-gaza-and-the-release-of-hostages
+==================================================
+
+Headline: China curbs rare earth exports, raising stakes before Trump-Xi talks
+Summary: Summary based on headline: China curbs rare earth exports, raising stakes before Trump-Xi talks
+Description: Summary based on headline: China curbs rare earth exports, raising stakes before Trump-Xi talks
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x3510+0+325/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fe8%2F1b89978548f4a2f373fa9363c9ec%2Fgettyimages-2239448010.jpg
+Source: https://www.npr.org/2025/10/09/g-s1-92685/china-curbs-rare-earth-exports-raising-stakes-before-trump-xi-talks
+==================================================
+
+=== CNN - technology - 2025-10-09 15:50:58 ===
+
+=== NPR - technology - 2025-10-09 15:51:05 ===
+
+=== CNN - business - 2025-10-09 15:51:18 ===
+
+Headline: Bessent says US purchased pesos and finalized framework for $20 billion lifeline for Argentina
+Summary: Summary based on headline: Bessent says US purchased pesos and finalized framework for $20 billion l...
+Description: Summary based on headline: Bessent says US purchased pesos and finalized framework for $20 billion lifeline for Argentina
+Image: https://media.cnn.com/api/v1/images/stellar/prod/breaking-news-1-5x.png?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/economy/bessent-peso-argentina
+==================================================
+
+Headline: Bessent says US purchased pesos and finalized framework for $20 billion lifeline for Argentina
+Summary: Summary based on headline: Bessent says US purchased pesos and finalized framework for $20 billion l...
+Description: Summary based on headline: Bessent says US purchased pesos and finalized framework for $20 billion lifeline for Argentina
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2199670255.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/09/economy/bessent-peso-argentina
+==================================================
+
+=== CBC - business - 2025-10-09 15:51:20 ===
+
+=== NPR - business - 2025-10-09 15:51:27 ===
+
+=== CNN - sport - 2025-10-09 15:51:41 ===
+
+=== CNN - arts - 2025-10-09 15:52:08 ===
+
+=== NPR - arts - 2025-10-09 15:52:14 ===
+
+=== CNN - science - 2025-10-09 15:52:30 ===
+
+=== CBC - science - 2025-10-09 15:52:33 ===
+
+=== NPR - science - 2025-10-09 15:52:41 ===
+
+=== CNN - us - 2025-10-09 15:52:54 ===
+
+=== CNN - politics - 2025-10-09 15:53:24 ===
+
+Headline: Roy Rochlin/Getty Images for TIME/File
+Summary: Summary based on headline: Roy Rochlin/Getty Images for TIME/File
+Description: Summary based on headline: Roy Rochlin/Getty Images for TIME/File
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2150064613.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/tom-steyer-california-redistricting
+==================================================
+
+=== CBC - politics - 2025-10-09 15:53:27 ===
+
+=== NPR - politics - 2025-10-09 15:53:34 ===
+
+=== CNN - health - 2025-10-09 15:53:49 ===
+
+=== CBC - health - 2025-10-09 15:53:52 ===
+
+=== NPR - health - 2025-10-09 15:53:57 ===
+
+=== CNN - travel - 2025-10-09 15:54:11 ===
+
+=== CNN - world - 2025-10-09 16:04:36 ===
+
+Headline: Live UpdatesTrump says hostages likely to be released early next week as Israeli government votes on Gaza ceasefire
+Summary: Summary based on headline: Live UpdatesTrump says hostages likely to be released early next week as ...
+Description: Summary based on headline: Live UpdatesTrump says hostages likely to be released early next week as Israeli government votes on Gaza ceasefire
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2545012.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/world/live-news/israel-hamas-gaza-ceasefire-agreement-10-09-25
+==================================================
+
+=== CBC - world - 2025-10-09 16:04:40 ===
+
+=== NPR - world - 2025-10-09 16:04:46 ===
+
+Headline: Once the Gaza ceasefire goes into effect, what happens next? Here's what to know
+Summary: Summary based on headline: Once the Gaza ceasefire goes into effect, what happens next? Here's what ...
+Description: Summary based on headline: Once the Gaza ceasefire goes into effect, what happens next? Here's what to know
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4204x2365+0+219/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2Fe9%2Ff88846d24521952613a55a6745e4%2F2b454654-6853-45cb-8ddf-287edbfe0607.jpg
+Source: https://www.npr.org/2025/10/09/g-s1-92729/gaza-ceasefire-israel-hamas-next-steps
+==================================================
+
+Headline: What to know about the Nobel Peace Prize
+Summary: Summary based on headline: What to know about the Nobel Peace Prize
+Description: Summary based on headline: What to know about the Nobel Peace Prize
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F65%2Fd0eeed394b039e3e1493396f978c%2Fgettyimages-2210032597.jpg
+Source: https://www.npr.org/2025/10/09/nx-s1-5567786/nobel-peace-prize-explained
+==================================================
+
+=== CNN - technology - 2025-10-09 16:05:03 ===
+
+=== NPR - technology - 2025-10-09 16:05:11 ===
+
+=== CNN - business - 2025-10-09 16:05:26 ===
+
+=== CBC - business - 2025-10-09 16:05:29 ===
+
+=== NPR - business - 2025-10-09 16:05:36 ===
+
+=== CNN - sport - 2025-10-09 16:05:52 ===
+
+=== CNN - arts - 2025-10-09 16:06:17 ===
+
+=== NPR - arts - 2025-10-09 16:06:26 ===
+
+=== CNN - science - 2025-10-09 16:06:43 ===
+
+=== CBC - science - 2025-10-09 16:06:46 ===
+
+=== NPR - science - 2025-10-09 16:06:51 ===
+
+=== CNN - us - 2025-10-09 16:07:02 ===
+
+=== CNN - politics - 2025-10-09 16:07:27 ===
+
+=== CBC - politics - 2025-10-09 16:07:29 ===
+
+=== NPR - politics - 2025-10-09 16:07:35 ===
+
+=== CNN - health - 2025-10-09 16:07:51 ===
+
+=== CBC - health - 2025-10-09 16:07:54 ===
+
+=== NPR - health - 2025-10-09 16:08:00 ===
+
+=== CNN - travel - 2025-10-09 16:08:14 ===
+
+=== CNN - world - 2025-10-09 16:18:35 ===
+
+=== CBC - world - 2025-10-09 16:18:39 ===
+
+=== NPR - world - 2025-10-09 16:18:44 ===
+
+=== CNN - technology - 2025-10-09 16:19:00 ===
+
+=== NPR - technology - 2025-10-09 16:19:08 ===
+
+=== CNN - business - 2025-10-09 16:19:23 ===
+
+=== CBC - business - 2025-10-09 16:19:26 ===
+
+Headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Summary: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Description: Summary based on headline: Medium-, heavy-duty trucks to face 25% tariff as of Nov. 1, Trump says
+Image: https://i.cbc.ca/1.6050510.1721146483!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/keystone-xl.JPG?im=
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 16:19:32 ===
+
+=== CNN - sport - 2025-10-09 16:19:47 ===
+
+=== CNN - arts - 2025-10-09 16:20:16 ===
+
+=== NPR - arts - 2025-10-09 16:20:23 ===
+
+=== CNN - science - 2025-10-09 16:20:39 ===
+
+=== CBC - science - 2025-10-09 16:20:42 ===
+
+=== NPR - science - 2025-10-09 16:20:46 ===
+
+=== CNN - us - 2025-10-09 16:21:01 ===
+
+=== CNN - politics - 2025-10-09 16:21:27 ===
+
+=== CBC - politics - 2025-10-09 16:21:29 ===
+
+=== NPR - politics - 2025-10-09 16:21:35 ===
+
+=== CNN - health - 2025-10-09 16:21:51 ===
+
+=== CBC - health - 2025-10-09 16:21:54 ===
+
+=== NPR - health - 2025-10-09 16:21:59 ===
+
+=== CNN - travel - 2025-10-09 16:22:14 ===
+
+=== CNN - world - 2025-10-09 16:32:37 ===
+
+=== CBC - world - 2025-10-09 16:32:41 ===
+
+=== NPR - world - 2025-10-09 16:32:46 ===
+
+=== CNN - technology - 2025-10-09 16:33:00 ===
+
+=== NPR - technology - 2025-10-09 16:33:08 ===
+
+=== CNN - business - 2025-10-09 16:33:25 ===
+
+=== CBC - business - 2025-10-09 16:33:27 ===
+
+Headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Summary: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports fallin...
+Description: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Image: https://i.cbc.ca/ais/1.7648277,1759358258000/full/max/0/default.jpg?im=Crop%2Crect%3D%28302%2C0%2C688%2C688%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: After losing billions of dollars on Keystone XL and tank cars, Alberta is pursuing another pipeline
+Summary: Summary based on headline: After losing billions of dollars on Keystone XL and tank cars, Alberta is...
+Description: Summary based on headline: After losing billions of dollars on Keystone XL and tank cars, Alberta is pursuing another pipeline
+Image: https://i.cbc.ca/1.2928807.1421968466!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/kyle-bakx.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 16:33:33 ===
+
+=== CNN - sport - 2025-10-09 16:33:45 ===
+
+=== CNN - arts - 2025-10-09 16:34:12 ===
+
+=== NPR - arts - 2025-10-09 16:34:20 ===
+
+=== CNN - science - 2025-10-09 16:34:35 ===
+
+=== CBC - science - 2025-10-09 16:34:37 ===
+
+Headline: IN PHOTOS | Scenes of October's supermoon
+Summary: Summary based on headline: IN PHOTOS | Scenes of October's supermoon
+Description: Summary based on headline: IN PHOTOS | Scenes of October's supermoon
+Image: https://i.cbc.ca/ais/1.7652977,1759837937000/full/max/0/default.jpg?im=Crop%2Crect%3D%28916%2C0%2C3666%2C3666%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: American, Japanese scientists win Nobel prize in medicine for immune system discoveries
+Summary: Summary based on headline: American, Japanese scientists win Nobel prize in medicine for immune syst...
+Description: Summary based on headline: American, Japanese scientists win Nobel prize in medicine for immune system discoveries
+Image: https://i.cbc.ca/ais/1.7650899,1759534046000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C170%2C2048%2C1152%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 16:34:44 ===
+
+=== CNN - us - 2025-10-09 16:35:00 ===
+
+=== CNN - politics - 2025-10-09 16:35:23 ===
+
+Headline: Michael M. Santiago/Getty Images/File
+Summary: Summary based on headline: Michael M. Santiago/Getty Images/File
+Description: Summary based on headline: Michael M. Santiago/Getty Images/File
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2016269562-20251009202749698.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/letitia-james-grand-jury-trump-indictment
+==================================================
+
+=== CBC - politics - 2025-10-09 16:35:26 ===
+
+=== NPR - politics - 2025-10-09 16:35:31 ===
+
+=== CNN - health - 2025-10-09 16:35:52 ===
+
+=== CBC - health - 2025-10-09 16:35:55 ===
+
+=== NPR - health - 2025-10-09 16:36:02 ===
+
+=== CNN - travel - 2025-10-09 16:36:15 ===
+
+=== CNN - world - 2025-10-09 16:46:38 ===
+
+=== CBC - world - 2025-10-09 16:46:40 ===
+
+=== NPR - world - 2025-10-09 16:46:48 ===
+
+=== CNN - technology - 2025-10-09 16:47:02 ===
+
+=== NPR - technology - 2025-10-09 16:47:12 ===
+
+=== CNN - business - 2025-10-09 16:47:27 ===
+
+Headline: Bessent says US purchased pesos and finalized framework for $20 billion lifeline for Argentina
+Summary: Summary based on headline: Bessent says US purchased pesos and finalized framework for $20 billion l...
+Description: Summary based on headline: Bessent says US purchased pesos and finalized framework for $20 billion lifeline for Argentina
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209145189.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/economy/bessent-peso-argentina
+==================================================
+
+=== CBC - business - 2025-10-09 16:47:29 ===
+
+=== NPR - business - 2025-10-09 16:47:35 ===
+
+=== CNN - sport - 2025-10-09 16:47:50 ===
+
+=== CNN - arts - 2025-10-09 16:48:13 ===
+
+=== NPR - arts - 2025-10-09 16:48:22 ===
+
+=== CNN - science - 2025-10-09 16:48:39 ===
+
+=== CBC - science - 2025-10-09 16:48:43 ===
+
+=== NPR - science - 2025-10-09 16:48:49 ===
+
+=== CNN - us - 2025-10-09 16:49:02 ===
+
+=== CNN - politics - 2025-10-09 16:49:27 ===
+
+=== CBC - politics - 2025-10-09 16:49:31 ===
+
+=== NPR - politics - 2025-10-09 16:49:37 ===
+
+=== CNN - health - 2025-10-09 16:49:52 ===
+
+=== CBC - health - 2025-10-09 16:49:55 ===
+
+Headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Summary: Summary based on headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Description: Summary based on headline: Deaf Nova Scotia wrestler helps bring interpreters to events
+Image: https://i.cbc.ca/ais/09ae66fe-e7ea-444f-a064-a91d1fc4cac0,1760031314297/full/max/0/default.jpg?im=Crop%2Crect%3D%28288%2C0%2C1152%2C1152%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: High-risk Alberta newborns to start getting new RSV shot next month amid calls for wider coverage
+Summary: Summary based on headline: High-risk Alberta newborns to start getting new RSV shot next month amid ...
+Description: Summary based on headline: High-risk Alberta newborns to start getting new RSV shot next month amid calls for wider coverage
+Image: https://i.cbc.ca/1.4692736.1528224228!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/jennifer-lee.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Summary: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Description: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Image: https://i.cbc.ca/1.7598635.1756490590!/fileImage/httpImage/image.JPEG_gen/derivatives/square_1180/keith-wong-parents-essay-contest.JPEG?im=
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-10-09 16:50:02 ===
+
+=== CNN - travel - 2025-10-09 16:50:16 ===
+
+=== CNN - world - 2025-10-09 17:00:39 ===
+
+=== CBC - world - 2025-10-09 17:00:42 ===
+
+Headline: Live updates: Israeli ministers meet to ratify deal to end war in Gaza
+Summary: Summary based on headline: Live updates: Israeli ministers meet to ratify deal to end war in Gaza
+Description: Summary based on headline: Live updates: Israeli ministers meet to ratify deal to end war in Gaza
+Image: https://i.cbc.ca/ais/b128041c-9397-4206-93f4-43d65ce746aa,1760015988651/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C6000%2C3375%29%3BResize%3D780
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 17:00:47 ===
+
+=== CNN - technology - 2025-10-09 17:01:04 ===
+
+=== NPR - technology - 2025-10-09 17:01:13 ===
+
+=== CNN - business - 2025-10-09 17:01:28 ===
+
+Headline: IRS makes changes that will affect your taxes this year and next
+Summary: Summary based on headline: IRS makes changes that will affect your taxes this year and next
+Description: Summary based on headline: IRS makes changes that will affect your taxes this year and next
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1367439555.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/business/irs-inflation-tax-brackets-standard-deduction
+==================================================
+
+Headline: IRS makes changes that will affect your taxes this year and next
+Summary: Summary based on headline: IRS makes changes that will affect your taxes this year and next
+Description: Summary based on headline: IRS makes changes that will affect your taxes this year and next
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209145189.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/09/business/irs-inflation-tax-brackets-standard-deduction
+==================================================
+
+=== CBC - business - 2025-10-09 17:01:30 ===
+
+=== NPR - business - 2025-10-09 17:01:37 ===
+
+=== CNN - sport - 2025-10-09 17:01:52 ===
+
+=== CNN - arts - 2025-10-09 17:02:13 ===
+
+=== NPR - arts - 2025-10-09 17:02:22 ===
+
+=== CNN - science - 2025-10-09 17:02:37 ===
+
+=== CBC - science - 2025-10-09 17:02:40 ===
+
+Headline: Rare white beaver wows Ottawa-area wildlife watchers
+Summary: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Description: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Image: https://i.cbc.ca/ais/1.7653022,1759842020000/full/max/0/default.jpg?im=Crop%2Crect%3D%281016%2C0%2C4000%2C4000%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 17:02:46 ===
+
+=== CNN - us - 2025-10-09 17:03:00 ===
+
+=== CNN - politics - 2025-10-09 17:03:24 ===
+
+Headline: Alex Brandon/AP
+Summary: Summary based on headline: Alex Brandon/AP
+Description: Summary based on headline: Alex Brandon/AP
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25282706123888.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/trump-icebreakers-arctic
+==================================================
+
+=== CBC - politics - 2025-10-09 17:03:28 ===
+
+=== NPR - politics - 2025-10-09 17:03:35 ===
+
+=== CNN - health - 2025-10-09 17:03:49 ===
+
+=== CBC - health - 2025-10-09 17:03:51 ===
+
+=== NPR - health - 2025-10-09 17:03:58 ===
+
+=== CNN - travel - 2025-10-09 17:04:13 ===
+
+=== CNN - world - 2025-10-09 17:14:38 ===
+
+=== CBC - world - 2025-10-09 17:14:41 ===
+
+Headline: Live updates: Israeli ministers meet to ratify deal to end war in Gaza
+Summary: Summary based on headline: Live updates: Israeli ministers meet to ratify deal to end war in Gaza
+Description: Summary based on headline: Live updates: Israeli ministers meet to ratify deal to end war in Gaza
+Image: https://i.cbc.ca/ais/efd24a1b-163d-4ebf-a22d-0d6bd8534a13,1760033686504/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 17:14:47 ===
+
+=== CNN - technology - 2025-10-09 17:15:07 ===
+
+=== NPR - technology - 2025-10-09 17:15:16 ===
+
+=== CNN - business - 2025-10-09 17:15:30 ===
+
+Headline: Taylor Swift’s new album is her novelty Oreo play
+Summary: Summary based on headline: Taylor Swift’s new album is her novelty Oreo play
+Description: Summary based on headline: Taylor Swift’s new album is her novelty Oreo play
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181106719.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/business/taylor-swift-new-album-business-nightcap
+==================================================
+
+Headline: Taylor Swift’s new album is her novelty Oreo play
+Summary: Summary based on headline: Taylor Swift’s new album is her novelty Oreo play
+Description: Summary based on headline: Taylor Swift’s new album is her novelty Oreo play
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1367439555.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/09/business/taylor-swift-new-album-business-nightcap
+==================================================
+
+=== CBC - business - 2025-10-09 17:15:32 ===
+
+=== NPR - business - 2025-10-09 17:15:37 ===
+
+=== CNN - sport - 2025-10-09 17:15:50 ===
+
+=== CNN - arts - 2025-10-09 17:16:14 ===
+
+=== NPR - arts - 2025-10-09 17:16:23 ===
+
+=== CNN - science - 2025-10-09 17:16:40 ===
+
+=== CBC - science - 2025-10-09 17:16:44 ===
+
+=== NPR - science - 2025-10-09 17:16:47 ===
+
+=== CNN - us - 2025-10-09 17:17:03 ===
+
+Headline: Daniel Karmann/DPA/Picture Alliance/Getty Images/File
+Summary: Summary based on headline: Daniel Karmann/DPA/Picture Alliance/Getty Images/File
+Description: Summary based on headline: Daniel Karmann/DPA/Picture Alliance/Getty Images/File
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1241887873-20251008180259511.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/us/5-things-pm-oct-9-trnd
+==================================================
+
+Headline: Shutdown impacts, serial bridesmaid, a foodie’s delicacy: Catch up on the day’s stories
+Summary: Summary based on headline: Shutdown impacts, serial bridesmaid, a foodie’s delicacy: Catch up on the...
+Description: Summary based on headline: Shutdown impacts, serial bridesmaid, a foodie’s delicacy: Catch up on the day’s stories
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25280665815461-20251008101703586.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/us/5-things-pm-oct-9-trnd
+==================================================
+
+=== CNN - politics - 2025-10-09 17:17:27 ===
+
+Headline: •For SubscribersFor SubscribersAmy O'Kruk, CNN
+Summary: Summary based on headline: •For SubscribersFor SubscribersAmy O'Kruk, CNN
+Description: Summary based on headline: •For SubscribersFor SubscribersAmy O'Kruk, CNN
+Image: https://media.cnn.com/api/v1/images/stellar/prod/trump-ret-8-largetease.png?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/08/30/politics/retaliation-tracker-trump-vis
+==================================================
+
+=== CBC - politics - 2025-10-09 17:17:30 ===
+
+=== NPR - politics - 2025-10-09 17:17:38 ===
+
+Headline: Letitia James, who prosecuted Trump in N.Y., is indicted on one count of bank fraud
+Summary: Summary based on headline: Letitia James, who prosecuted Trump in N.Y., is indicted on one count of ...
+Description: Summary based on headline: Letitia James, who prosecuted Trump in N.Y., is indicted on one count of bank fraud
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7535x4238+0+392/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F20%2F4dae2161455abf52494616a23c9d%2Fgettyimages-2173737057.jpg
+Source: https://www.npr.org/2025/10/09/nx-s1-5569792/letitia-james-indictment-trump
+==================================================
+
+=== CNN - health - 2025-10-09 17:17:55 ===
+
+=== CBC - health - 2025-10-09 17:17:59 ===
+
+=== NPR - health - 2025-10-09 17:18:04 ===
+
+=== CNN - travel - 2025-10-09 17:18:20 ===
+
+=== CNN - world - 2025-10-09 17:28:45 ===
+
+=== CBC - world - 2025-10-09 17:28:47 ===
+
+=== NPR - world - 2025-10-09 17:28:53 ===
+
+=== CNN - technology - 2025-10-09 17:29:07 ===
+
+=== NPR - technology - 2025-10-09 17:29:16 ===
+
+=== CNN - business - 2025-10-09 17:29:33 ===
+
+=== CBC - business - 2025-10-09 17:29:36 ===
+
+Headline: Gold prices hit record high as anxious investors seek safe haven for money
+Summary: Summary based on headline: Gold prices hit record high as anxious investors seek safe haven for mone...
+Description: Summary based on headline: Gold prices hit record high as anxious investors seek safe haven for money
+Image: https://i.cbc.ca/ais/1.7648355,1759342870000/full/max/0/default.jpg?im=Crop%2Crect%3D%28320%2C0%2C1078%2C1078%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 17:29:42 ===
+
+=== CNN - sport - 2025-10-09 17:29:57 ===
+
+=== CNN - arts - 2025-10-09 17:30:23 ===
+
+=== NPR - arts - 2025-10-09 17:30:33 ===
+
+=== CNN - science - 2025-10-09 17:30:47 ===
+
+=== CBC - science - 2025-10-09 17:30:50 ===
+
+Headline: Rare white beaver wows Ottawa-area wildlife watchers
+Summary: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Description: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Image: https://i.cbc.ca/ais/1.7643595,1759544288000/full/max/0/default.jpg?im=Crop%2Crect%3D%28896%2C0%2C2303%2C2303%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 17:30:54 ===
+
+=== CNN - us - 2025-10-09 17:31:09 ===
+
+=== CNN - politics - 2025-10-09 17:31:32 ===
+
+=== CBC - politics - 2025-10-09 17:31:34 ===
+
+=== NPR - politics - 2025-10-09 17:31:39 ===
+
+=== CNN - health - 2025-10-09 17:31:50 ===
+
+=== CBC - health - 2025-10-09 17:31:54 ===
+
+=== NPR - health - 2025-10-09 17:31:58 ===
+
+=== CNN - travel - 2025-10-09 17:32:11 ===
+
+=== CNN - world - 2025-10-09 17:42:37 ===
+
+=== CBC - world - 2025-10-09 17:42:39 ===
+
+=== NPR - world - 2025-10-09 17:42:45 ===
+
+=== CNN - technology - 2025-10-09 17:43:01 ===
+
+=== NPR - technology - 2025-10-09 17:43:08 ===
+
+=== CNN - business - 2025-10-09 17:43:22 ===
+
+=== CBC - business - 2025-10-09 17:43:25 ===
+
+Headline: Gold prices hit record high as anxious investors seek safe haven for money
+Summary: Summary based on headline: Gold prices hit record high as anxious investors seek safe haven for mone...
+Description: Summary based on headline: Gold prices hit record high as anxious investors seek safe haven for money
+Image: https://i.cbc.ca/ais/1.7652470,1759776945000/full/max/0/default.jpg?im=Crop%2Crect%3D%28997%2C0%2C2380%2C2380%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 17:43:30 ===
+
+=== CNN - sport - 2025-10-09 17:43:45 ===
+
+=== CNN - arts - 2025-10-09 17:44:10 ===
+
+=== NPR - arts - 2025-10-09 17:44:19 ===
+
+=== CNN - science - 2025-10-09 17:44:34 ===
+
+=== CBC - science - 2025-10-09 17:44:37 ===
+
+=== NPR - science - 2025-10-09 17:44:45 ===
+
+=== CNN - us - 2025-10-09 17:44:57 ===
+
+=== CNN - politics - 2025-10-09 17:45:21 ===
+
+=== CBC - politics - 2025-10-09 17:45:25 ===
+
+=== NPR - politics - 2025-10-09 17:45:31 ===
+
+Headline: Dominion, the voting tech company at the center of false 2020 claims, is sold
+Summary: Summary based on headline: Dominion, the voting tech company at the center of false 2020 claims, is ...
+Description: Summary based on headline: Dominion, the voting tech company at the center of false 2020 claims, is sold
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5602x3151+0+291/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2F52%2Fac7980374c7b8c591fca3c2f4c7f%2Fgettyimages-21929875081.jpg
+Source: https://www.npr.org/2025/10/09/nx-s1-5569817/dominion-voting-liberty-vote-false-claims
+==================================================
+
+=== CNN - health - 2025-10-09 17:45:45 ===
+
+=== CBC - health - 2025-10-09 17:45:49 ===
+
+=== NPR - health - 2025-10-09 17:45:56 ===
+
+=== CNN - travel - 2025-10-09 17:46:10 ===
+
+=== CNN - world - 2025-10-09 17:56:31 ===
+
+=== CBC - world - 2025-10-09 17:56:34 ===
+
+=== NPR - world - 2025-10-09 17:56:40 ===
+
+Headline: Will a ceasefire deal move forward after two years of war between Israel and Hamas?
+Summary: Summary based on headline: Will a ceasefire deal move forward after two years of war between Israel ...
+Description: Summary based on headline: Will a ceasefire deal move forward after two years of war between Israel and Hamas?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5866x3300+0+306/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2Fb7%2F31dc5db24adcbad365880cd079cc%2Fap25282439274053.jpg
+Source: https://www.npr.org/2025/10/09/nx-s1-5567902/will-a-ceasefire-deal-move-forward-after-two-years-of-war-between-israel-and-hamas
+==================================================
+
+=== CNN - technology - 2025-10-09 17:56:55 ===
+
+=== NPR - technology - 2025-10-09 17:57:04 ===
+
+=== CNN - business - 2025-10-09 17:57:21 ===
+
+=== CBC - business - 2025-10-09 17:57:25 ===
+
+=== NPR - business - 2025-10-09 17:57:29 ===
+
+=== CNN - sport - 2025-10-09 17:57:41 ===
+
+=== CNN - arts - 2025-10-09 17:58:07 ===
+
+=== NPR - arts - 2025-10-09 17:58:15 ===
+
+=== CNN - science - 2025-10-09 17:58:32 ===
+
+=== CBC - science - 2025-10-09 17:58:34 ===
+
+=== NPR - science - 2025-10-09 17:58:41 ===
+
+=== CNN - us - 2025-10-09 17:58:58 ===
+
+=== CNN - politics - 2025-10-09 17:59:22 ===
+
+=== CBC - politics - 2025-10-09 17:59:26 ===
+
+=== NPR - politics - 2025-10-09 17:59:34 ===
+
+Headline: What to know about the Nobel Peace Prize
+Summary: Summary based on headline: What to know about the Nobel Peace Prize
+Description: Summary based on headline: What to know about the Nobel Peace Prize
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5753x3236+0+343/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2F87%2F17972496413593e1669e64b43f52%2Fgettyimages-2238010054.jpg
+Source: https://www.npr.org/2025/10/09/nx-s1-5567786/nobel-peace-prize-explained
+==================================================
+
+=== CNN - health - 2025-10-09 17:59:48 ===
+
+=== CBC - health - 2025-10-09 17:59:50 ===
+
+=== NPR - health - 2025-10-09 17:59:55 ===
+
+=== CNN - travel - 2025-10-09 18:00:08 ===
+
+=== CNN - world - 2025-10-09 18:10:34 ===
+
+=== CBC - world - 2025-10-09 18:10:37 ===
+
+=== NPR - world - 2025-10-09 18:10:41 ===
+
+=== CNN - technology - 2025-10-09 18:10:58 ===
+
+=== NPR - technology - 2025-10-09 18:11:06 ===
+
+=== CNN - business - 2025-10-09 18:11:19 ===
+
+=== CBC - business - 2025-10-09 18:11:22 ===
+
+=== NPR - business - 2025-10-09 18:11:27 ===
+
+=== CNN - sport - 2025-10-09 18:11:42 ===
+
+=== CNN - arts - 2025-10-09 18:12:05 ===
+
+=== NPR - arts - 2025-10-09 18:12:13 ===
+
+=== CNN - science - 2025-10-09 18:12:27 ===
+
+=== CBC - science - 2025-10-09 18:12:30 ===
+
+=== NPR - science - 2025-10-09 18:12:38 ===
+
+=== CNN - us - 2025-10-09 18:12:54 ===
+
+=== CNN - politics - 2025-10-09 18:13:17 ===
+
+=== CBC - politics - 2025-10-09 18:13:21 ===
+
+=== NPR - politics - 2025-10-09 18:13:26 ===
+
+=== CNN - health - 2025-10-09 18:13:44 ===
+
+=== CBC - health - 2025-10-09 18:13:46 ===
+
+=== NPR - health - 2025-10-09 18:13:52 ===
+
+=== CNN - travel - 2025-10-09 18:14:08 ===
+
+=== CNN - world - 2025-10-09 18:24:34 ===
+
+=== CBC - world - 2025-10-09 18:24:36 ===
+
+=== NPR - world - 2025-10-09 18:24:43 ===
+
+=== CNN - technology - 2025-10-09 18:25:00 ===
+
+=== NPR - technology - 2025-10-09 18:25:07 ===
+
+=== CNN - business - 2025-10-09 18:25:22 ===
+
+=== CBC - business - 2025-10-09 18:25:25 ===
+
+=== NPR - business - 2025-10-09 18:25:29 ===
+
+=== CNN - sport - 2025-10-09 18:25:43 ===
+
+=== CNN - arts - 2025-10-09 18:26:09 ===
+
+=== NPR - arts - 2025-10-09 18:26:17 ===
+
+=== CNN - science - 2025-10-09 18:26:34 ===
+
+=== CBC - science - 2025-10-09 18:26:38 ===
+
+Headline: Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chemistry
+Summary: Summary based on headline: Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chem...
+Description: Summary based on headline: Scientists based in Australia, Japan and U.S. awarded Nobel Prize in Chemistry
+Image: https://i.cbc.ca/ais/cd6f3ede-8b39-4857-9163-353b5003ccf6,1759924999648/full/max/0/default.jpg?im=Crop%2Crect%3D%28266%2C0%2C1067%2C1067%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 18:26:44 ===
+
+=== CNN - us - 2025-10-09 18:27:00 ===
+
+=== CNN - politics - 2025-10-09 18:27:25 ===
+
+Headline: Jim Watson/AFP/Getty Images
+Summary: Summary based on headline: Jim Watson/AFP/Getty Images
+Description: Summary based on headline: Jim Watson/AFP/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239565492.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/health-trump-semi-annual-exam
+==================================================
+
+=== CBC - politics - 2025-10-09 18:27:29 ===
+
+=== NPR - politics - 2025-10-09 18:27:35 ===
+
+=== CNN - health - 2025-10-09 18:27:49 ===
+
+=== CBC - health - 2025-10-09 18:27:52 ===
+
+=== NPR - health - 2025-10-09 18:27:58 ===
+
+=== CNN - travel - 2025-10-09 18:28:12 ===
+
+=== CNN - world - 2025-10-09 18:38:37 ===
+
+=== CBC - world - 2025-10-09 18:38:40 ===
+
+=== NPR - world - 2025-10-09 18:38:46 ===
+
+=== CNN - technology - 2025-10-09 18:39:02 ===
+
+=== NPR - technology - 2025-10-09 18:39:12 ===
+
+=== CNN - business - 2025-10-09 18:39:28 ===
+
+=== CBC - business - 2025-10-09 18:39:31 ===
+
+Headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Summary: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports fallin...
+Description: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Image: https://i.cbc.ca/ais/1.7645386,1758924685000/full/max/0/default.jpg?im=Crop%2Crect%3D%28810%2C0%2C3240%2C3240%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-09 18:39:36 ===
+
+=== CNN - sport - 2025-10-09 18:39:50 ===
+
+=== CNN - arts - 2025-10-09 18:40:15 ===
+
+=== NPR - arts - 2025-10-09 18:40:22 ===
+
+=== CNN - science - 2025-10-09 18:40:36 ===
+
+=== CBC - science - 2025-10-09 18:40:39 ===
+
+=== NPR - science - 2025-10-09 18:40:45 ===
+
+=== CNN - us - 2025-10-09 18:41:00 ===
+
+=== CNN - politics - 2025-10-09 18:41:26 ===
+
+Headline: Allison Robbert/AP
+Summary: Summary based on headline: Allison Robbert/AP
+Description: Summary based on headline: Allison Robbert/AP
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25282596032225.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/gop-is-springing-leaks-in-its-shutdown-strategy
+==================================================
+
+=== CBC - politics - 2025-10-09 18:41:29 ===
+
+=== NPR - politics - 2025-10-09 18:41:35 ===
+
+=== CNN - health - 2025-10-09 18:41:50 ===
+
+=== CBC - health - 2025-10-09 18:41:52 ===
+
+=== NPR - health - 2025-10-09 18:41:57 ===
+
+=== CNN - travel - 2025-10-09 18:42:14 ===
+
+=== CNN - world - 2025-10-09 18:52:36 ===
+
+=== CBC - world - 2025-10-09 18:52:38 ===
+
+Headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest case against Trump foe
+Summary: Summary based on headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest ca...
+Description: Summary based on headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest case against Trump foe
+Image: https://i.cbc.ca/ais/16a248a7-ac8b-42ef-9f24-a8350be5dd22,1759949258281/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C83%2C1600%2C900%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 18:52:44 ===
+
+=== CNN - technology - 2025-10-09 18:52:59 ===
+
+=== NPR - technology - 2025-10-09 18:53:07 ===
+
+=== CNN - business - 2025-10-09 18:53:21 ===
+
+=== CBC - business - 2025-10-09 18:53:25 ===
+
+=== NPR - business - 2025-10-09 18:53:30 ===
+
+=== CNN - sport - 2025-10-09 18:53:44 ===
+
+=== CNN - arts - 2025-10-09 18:54:11 ===
+
+=== NPR - arts - 2025-10-09 18:54:19 ===
+
+=== CNN - science - 2025-10-09 18:54:35 ===
+
+=== CBC - science - 2025-10-09 18:54:38 ===
+
+=== NPR - science - 2025-10-09 18:54:44 ===
+
+=== CNN - us - 2025-10-09 18:54:58 ===
+
+=== CNN - politics - 2025-10-09 18:55:23 ===
+
+=== CBC - politics - 2025-10-09 18:55:25 ===
+
+=== NPR - politics - 2025-10-09 18:55:32 ===
+
+=== CNN - health - 2025-10-09 18:55:45 ===
+
+=== CBC - health - 2025-10-09 18:55:47 ===
+
+=== NPR - health - 2025-10-09 18:55:53 ===
+
+=== CNN - travel - 2025-10-09 18:56:10 ===
