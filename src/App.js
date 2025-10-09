@@ -14,6 +14,8 @@ import LandingPage from "./components/LandingPage";
 import SubscribeModal from "./components/SubscribeModal";
 import PositiveNewsletterModal from "./components/PositiveNewsletterModal";
 import ProfileSettings from "./components/ProfileSettings";
+import UserPreferences from "./components/UserPreferences";
+import { PreferencesProvider } from "./contexts/PreferencesContext";
 import "./App.css";
 import { FiHome, FiSun, FiMoon, FiUser } from "react-icons/fi";
 
@@ -107,10 +109,10 @@ const AppContent = () => {
                         Profile Settings
                       </button>
                       <button
-                        disabled
-                        className="w-full text-left px-4 py-2 text-gray-500 dark:text-gray-400 cursor-not-allowed"
+                        onClick={() => navigate("/preferences")}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
                       >
-                        Preferences (Coming Soon)
+                        Preferences
                       </button>
                     </div>
                   )}
@@ -137,6 +139,16 @@ const AppContent = () => {
               element={
                 isAuthenticated ? (
                   <ProfileSettings />
+                ) : (
+                  <Navigate to="/signin" />
+                )
+              }
+            />
+            <Route
+              path="/preferences"
+              element={
+                isAuthenticated ? (
+                  <UserPreferences darkMode={darkMode} />
                 ) : (
                   <Navigate to="/signin" />
                 )
@@ -214,11 +226,13 @@ const AppContent = () => {
   );
 };
 
-// Wrap App with Router
+// Wrap App with Router and Preferences Provider
 const App = () => {
   return (
     <Router>
-      <AppContent />
+      <PreferencesProvider>
+        <AppContent />
+      </PreferencesProvider>
     </Router>
   );
 };
