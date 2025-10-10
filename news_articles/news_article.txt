@@ -13767,3 +13767,1127 @@ Source: https://www.cbc.ca/news/world
 === NPR - health - 2025-10-09 18:55:53 ===
 
 === CNN - travel - 2025-10-09 18:56:10 ===
+
+=== CNN - world - 2025-10-09 19:06:31 ===
+
+=== CBC - world - 2025-10-09 19:06:34 ===
+
+=== NPR - world - 2025-10-09 19:06:42 ===
+
+=== CNN - technology - 2025-10-09 19:06:59 ===
+
+=== NPR - technology - 2025-10-09 19:07:08 ===
+
+=== CNN - business - 2025-10-09 19:07:22 ===
+
+Headline: Latest inflation data to be released this month despite government shutdown
+Summary: Summary based on headline: Latest inflation data to be released this month despite government shutdo...
+Description: Summary based on headline: Latest inflation data to be released this month despite government shutdown
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2234085681.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/business/cpi-inflation-data-government-shutdown
+==================================================
+
+Headline: With Social Security’s COLA on the line, the Trump administration plans to release inflation data delayed by the shutdown
+Summary: Summary based on headline: With Social Security’s COLA on the line, the Trump administration plans t...
+Description: Summary based on headline: With Social Security’s COLA on the line, the Trump administration plans to release inflation data delayed by the shutdown
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181106719.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/09/business/cpi-inflation-data-government-shutdown
+==================================================
+
+=== CBC - business - 2025-10-09 19:07:25 ===
+
+=== NPR - business - 2025-10-09 19:07:32 ===
+
+=== CNN - sport - 2025-10-09 19:07:47 ===
+
+=== CNN - arts - 2025-10-09 19:08:13 ===
+
+=== NPR - arts - 2025-10-09 19:08:23 ===
+
+=== CNN - science - 2025-10-09 19:08:41 ===
+
+=== CBC - science - 2025-10-09 19:08:44 ===
+
+=== NPR - science - 2025-10-09 19:08:49 ===
+
+=== CNN - us - 2025-10-09 19:09:02 ===
+
+=== CNN - politics - 2025-10-09 19:09:29 ===
+
+=== CBC - politics - 2025-10-09 19:09:32 ===
+
+=== NPR - politics - 2025-10-09 19:09:38 ===
+
+=== CNN - health - 2025-10-09 19:09:52 ===
+
+=== CBC - health - 2025-10-09 19:09:54 ===
+
+=== NPR - health - 2025-10-09 19:10:00 ===
+
+=== CNN - travel - 2025-10-09 19:10:16 ===
+
+=== CNN - world - 2025-10-09 19:20:40 ===
+
+=== CBC - world - 2025-10-09 19:20:42 ===
+
+=== NPR - world - 2025-10-09 19:20:48 ===
+
+=== CNN - technology - 2025-10-09 19:21:07 ===
+
+=== NPR - technology - 2025-10-09 19:21:16 ===
+
+=== CNN - business - 2025-10-09 19:21:34 ===
+
+=== CBC - business - 2025-10-09 19:21:37 ===
+
+=== NPR - business - 2025-10-09 19:21:43 ===
+
+=== CNN - sport - 2025-10-09 19:21:58 ===
+
+=== CNN - arts - 2025-10-09 19:22:22 ===
+
+=== NPR - arts - 2025-10-09 19:22:28 ===
+
+=== CNN - science - 2025-10-09 19:22:44 ===
+
+=== CBC - science - 2025-10-09 19:22:46 ===
+
+=== NPR - science - 2025-10-09 19:22:52 ===
+
+=== CNN - us - 2025-10-09 19:23:07 ===
+
+=== CNN - politics - 2025-10-09 19:23:32 ===
+
+=== CBC - politics - 2025-10-09 19:23:34 ===
+
+=== NPR - politics - 2025-10-09 19:23:41 ===
+
+=== CNN - health - 2025-10-09 19:24:03 ===
+
+=== CBC - health - 2025-10-09 19:24:07 ===
+
+Headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Summary: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Description: Summary based on headline: Ebola outbreak in Congo shows signs of containment, WHO says
+Image: https://i.cbc.ca/ais/1c2153ab-17d3-4e7d-a36d-601bcb93101e,1760038067207/full/max/0/default.jpg?im=Crop%2Crect%3D%28918%2C0%2C5311%2C5311%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-10-09 19:24:13 ===
+
+=== CNN - travel - 2025-10-09 19:24:26 ===
+
+=== CNN - world - 2025-10-09 19:34:51 ===
+
+=== CBC - world - 2025-10-09 19:34:53 ===
+
+Headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest case against Trump foe
+Summary: Summary based on headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest ca...
+Description: Summary based on headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest case against Trump foe
+Image: https://i.cbc.ca/ais/52a0591d-8c3a-48c4-b92d-a050c373014f,1759955406117/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 19:34:59 ===
+
+=== CNN - technology - 2025-10-09 19:35:16 ===
+
+=== NPR - technology - 2025-10-09 19:35:23 ===
+
+=== CNN - business - 2025-10-09 19:35:37 ===
+
+=== CBC - business - 2025-10-09 19:35:41 ===
+
+=== NPR - business - 2025-10-09 19:35:45 ===
+
+=== CNN - sport - 2025-10-09 19:35:59 ===
+
+=== CNN - arts - 2025-10-09 19:36:23 ===
+
+=== NPR - arts - 2025-10-09 19:36:31 ===
+
+=== CNN - science - 2025-10-09 19:36:47 ===
+
+=== CBC - science - 2025-10-09 19:36:49 ===
+
+=== NPR - science - 2025-10-09 19:36:53 ===
+
+=== CNN - us - 2025-10-09 19:37:08 ===
+
+=== CNN - politics - 2025-10-09 19:37:36 ===
+
+=== CBC - politics - 2025-10-09 19:37:39 ===
+
+=== NPR - politics - 2025-10-09 19:37:44 ===
+
+=== CNN - health - 2025-10-09 19:37:59 ===
+
+=== CBC - health - 2025-10-09 19:38:03 ===
+
+=== NPR - health - 2025-10-09 19:38:09 ===
+
+=== CNN - travel - 2025-10-09 19:38:22 ===
+
+=== CNN - world - 2025-10-09 19:48:46 ===
+
+=== CBC - world - 2025-10-09 19:48:50 ===
+
+=== NPR - world - 2025-10-09 19:48:56 ===
+
+=== CNN - technology - 2025-10-09 19:49:09 ===
+
+=== NPR - technology - 2025-10-09 19:49:15 ===
+
+=== CNN - business - 2025-10-09 19:49:31 ===
+
+=== CBC - business - 2025-10-09 19:49:35 ===
+
+=== NPR - business - 2025-10-09 19:49:42 ===
+
+=== CNN - sport - 2025-10-09 19:49:58 ===
+
+=== CNN - arts - 2025-10-09 19:50:22 ===
+
+=== NPR - arts - 2025-10-09 19:50:30 ===
+
+=== CNN - science - 2025-10-09 19:50:47 ===
+
+=== CBC - science - 2025-10-09 19:50:50 ===
+
+=== NPR - science - 2025-10-09 19:50:54 ===
+
+=== CNN - us - 2025-10-09 19:51:09 ===
+
+=== CNN - politics - 2025-10-09 19:51:32 ===
+
+=== CBC - politics - 2025-10-09 19:51:36 ===
+
+=== NPR - politics - 2025-10-09 19:51:41 ===
+
+=== CNN - health - 2025-10-09 19:51:56 ===
+
+=== CBC - health - 2025-10-09 19:51:59 ===
+
+=== NPR - health - 2025-10-09 19:52:06 ===
+
+=== CNN - travel - 2025-10-09 19:52:22 ===
+
+=== CNN - world - 2025-10-09 20:02:47 ===
+
+=== CBC - world - 2025-10-09 20:02:50 ===
+
+Headline: Trump has promised 'eternal peace' in Gaza. But current ceasefire ignores key issues
+Summary: Summary based on headline: Trump has promised 'eternal peace' in Gaza. But current ceasefire ignores...
+Description: Summary based on headline: Trump has promised 'eternal peace' in Gaza. But current ceasefire ignores key issues
+Image: https://i.cbc.ca/ais/e6d708fb-6dc1-47d7-a8cb-6f9450f3ba4a,1760050986553/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest case against Trump foe
+Summary: Summary based on headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest ca...
+Description: Summary based on headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest case against Trump foe
+Image: https://i.cbc.ca/ais/4c8a576d-dc5e-4ffa-a8d6-8325d523a484,1760024958246/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C385%2C7398%2C4161%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 20:02:56 ===
+
+=== CNN - technology - 2025-10-09 20:03:12 ===
+
+=== NPR - technology - 2025-10-09 20:03:21 ===
+
+=== CNN - business - 2025-10-09 20:03:34 ===
+
+=== CBC - business - 2025-10-09 20:03:36 ===
+
+=== NPR - business - 2025-10-09 20:03:43 ===
+
+=== CNN - sport - 2025-10-09 20:04:00 ===
+
+=== CNN - arts - 2025-10-09 20:04:28 ===
+
+=== NPR - arts - 2025-10-09 20:04:35 ===
+
+=== CNN - science - 2025-10-09 20:04:51 ===
+
+=== CBC - science - 2025-10-09 20:04:54 ===
+
+=== NPR - science - 2025-10-09 20:05:01 ===
+
+=== CNN - us - 2025-10-09 20:05:15 ===
+
+=== CNN - politics - 2025-10-09 20:05:42 ===
+
+=== CBC - politics - 2025-10-09 20:05:44 ===
+
+=== NPR - politics - 2025-10-09 20:05:50 ===
+
+=== CNN - health - 2025-10-09 20:06:07 ===
+
+=== CBC - health - 2025-10-09 20:06:10 ===
+
+=== NPR - health - 2025-10-09 20:06:17 ===
+
+=== CNN - travel - 2025-10-09 20:06:33 ===
+
+=== CNN - world - 2025-10-09 20:17:00 ===
+
+=== CBC - world - 2025-10-09 20:17:02 ===
+
+=== NPR - world - 2025-10-09 20:17:08 ===
+
+=== CNN - technology - 2025-10-09 20:17:25 ===
+
+=== NPR - technology - 2025-10-09 20:17:34 ===
+
+=== CNN - business - 2025-10-09 20:17:47 ===
+
+=== CBC - business - 2025-10-09 20:17:50 ===
+
+=== NPR - business - 2025-10-09 20:17:57 ===
+
+=== CNN - sport - 2025-10-09 20:18:11 ===
+
+=== CNN - arts - 2025-10-09 20:18:39 ===
+
+=== NPR - arts - 2025-10-09 20:18:48 ===
+
+=== CNN - science - 2025-10-09 20:19:02 ===
+
+=== CBC - science - 2025-10-09 20:19:06 ===
+
+=== NPR - science - 2025-10-09 20:19:10 ===
+
+=== CNN - us - 2025-10-09 20:19:27 ===
+
+=== CNN - politics - 2025-10-09 20:19:53 ===
+
+=== CBC - politics - 2025-10-09 20:19:56 ===
+
+=== NPR - politics - 2025-10-09 20:20:03 ===
+
+=== CNN - health - 2025-10-09 20:20:19 ===
+
+=== CBC - health - 2025-10-09 20:20:24 ===
+
+=== NPR - health - 2025-10-09 20:20:31 ===
+
+=== CNN - travel - 2025-10-09 20:20:45 ===
+
+=== CNN - world - 2025-10-09 20:31:09 ===
+
+=== CBC - world - 2025-10-09 20:31:12 ===
+
+=== NPR - world - 2025-10-09 20:31:17 ===
+
+=== CNN - technology - 2025-10-09 20:31:31 ===
+
+=== NPR - technology - 2025-10-09 20:31:38 ===
+
+=== CNN - business - 2025-10-09 20:31:55 ===
+
+=== CBC - business - 2025-10-09 20:31:58 ===
+
+=== NPR - business - 2025-10-09 20:32:03 ===
+
+=== CNN - sport - 2025-10-09 20:32:19 ===
+
+=== CNN - arts - 2025-10-09 20:32:45 ===
+
+=== NPR - arts - 2025-10-09 20:32:54 ===
+
+=== CNN - science - 2025-10-09 20:33:10 ===
+
+=== CBC - science - 2025-10-09 20:33:13 ===
+
+=== NPR - science - 2025-10-09 20:33:19 ===
+
+=== CNN - us - 2025-10-09 20:33:34 ===
+
+Headline: Clipped From Video
+Summary: Summary based on headline: Clipped From Video
+Description: Summary based on headline: Clipped From Video
+Image: https://media.cnn.com/api/v1/images/stellar/videothumbnails/54500855-80831639-generated-thumbnail.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/us/kristi-noem-tsa-video
+==================================================
+
+=== CNN - politics - 2025-10-09 20:34:02 ===
+
+=== CBC - politics - 2025-10-09 20:34:06 ===
+
+=== NPR - politics - 2025-10-09 20:34:12 ===
+
+=== CNN - health - 2025-10-09 20:34:28 ===
+
+=== CBC - health - 2025-10-09 20:34:30 ===
+
+=== NPR - health - 2025-10-09 20:34:36 ===
+
+=== CNN - travel - 2025-10-09 20:34:51 ===
+
+=== CNN - world - 2025-10-09 20:45:16 ===
+
+Headline: KCNA/Reuters
+Summary: Summary based on headline: KCNA/Reuters
+Description: Summary based on headline: KCNA/Reuters
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-09-21t222844z-1901863432-rc2lwga8kl24-rtrmadp-3-northkorea-nuclear.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/08/asia/north-korea-80-anniversary-parade-intl-hnk
+==================================================
+
+=== CBC - world - 2025-10-09 20:45:19 ===
+
+Headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest case against Trump foe
+Summary: Summary based on headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest ca...
+Description: Summary based on headline: N.Y. Attorney General Letitia James indicted on fraud charge in latest case against Trump foe
+Image: https://i.cbc.ca/ais/ca5b3a1f-ce22-469f-a141-ef6bedf30639,1760051641013/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C322%2C3500%2C1968%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 20:45:26 ===
+
+=== CNN - technology - 2025-10-09 20:45:43 ===
+
+=== NPR - technology - 2025-10-09 20:45:49 ===
+
+=== CNN - business - 2025-10-09 20:46:05 ===
+
+=== CBC - business - 2025-10-09 20:46:07 ===
+
+=== NPR - business - 2025-10-09 20:46:14 ===
+
+=== CNN - sport - 2025-10-09 20:46:33 ===
+
+=== CNN - arts - 2025-10-09 20:46:54 ===
+
+=== NPR - arts - 2025-10-09 20:47:04 ===
+
+=== CNN - science - 2025-10-09 20:47:20 ===
+
+=== CBC - science - 2025-10-09 20:47:22 ===
+
+Headline: Rare white beaver wows Ottawa-area wildlife watchers
+Summary: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Description: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Image: https://i.cbc.ca/ais/1.7640789,1758587140000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 20:47:28 ===
+
+=== CNN - us - 2025-10-09 20:47:42 ===
+
+=== CNN - politics - 2025-10-09 20:48:08 ===
+
+=== CBC - politics - 2025-10-09 20:48:11 ===
+
+=== NPR - politics - 2025-10-09 20:48:15 ===
+
+=== CNN - health - 2025-10-09 20:48:30 ===
+
+=== CBC - health - 2025-10-09 20:48:34 ===
+
+=== NPR - health - 2025-10-09 20:48:41 ===
+
+=== CNN - travel - 2025-10-09 20:48:55 ===
+
+=== CNN - world - 2025-10-09 20:59:22 ===
+
+Headline: Ukraine says ‘massive’ Russian attack underway targeting energy infrastructure
+Summary: Summary based on headline: Ukraine says ‘massive’ Russian attack underway targeting energy infrastru...
+Description: Summary based on headline: Ukraine says ‘massive’ Russian attack underway targeting energy infrastructure
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25276312389973.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/europe/russia-ukraine-infrastructure-attack-hnk-intl
+==================================================
+
+Headline: Manchester synagogue attacker pledged allegiance to ISIS, police say
+Summary: Summary based on headline: Manchester synagogue attacker pledged allegiance to ISIS, police say
+Description: Summary based on headline: Manchester synagogue attacker pledged allegiance to ISIS, police say
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-10-06t102626z-326860622-rc216haomajm-rtrmadp-3-thailand-festival-buffalo.JPG?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/08/uk/machester-synagogue-stabbing-attacker-isis-latam-intl
+==================================================
+
+=== CBC - world - 2025-10-09 20:59:25 ===
+
+=== NPR - world - 2025-10-09 20:59:32 ===
+
+=== CNN - technology - 2025-10-09 20:59:49 ===
+
+=== NPR - technology - 2025-10-09 20:59:59 ===
+
+=== CNN - business - 2025-10-09 21:00:15 ===
+
+=== CBC - business - 2025-10-09 21:00:18 ===
+
+=== NPR - business - 2025-10-09 21:00:23 ===
+
+=== CNN - sport - 2025-10-09 21:00:37 ===
+
+=== CNN - arts - 2025-10-09 21:01:03 ===
+
+=== NPR - arts - 2025-10-09 21:01:12 ===
+
+=== CNN - science - 2025-10-09 21:01:26 ===
+
+=== CBC - science - 2025-10-09 21:01:29 ===
+
+=== NPR - science - 2025-10-09 21:01:35 ===
+
+=== CNN - us - 2025-10-09 21:01:50 ===
+
+=== CNN - politics - 2025-10-09 21:02:13 ===
+
+=== CBC - politics - 2025-10-09 21:02:16 ===
+
+=== NPR - politics - 2025-10-09 21:02:21 ===
+
+=== CNN - health - 2025-10-09 21:02:38 ===
+
+=== CBC - health - 2025-10-09 21:02:40 ===
+
+=== NPR - health - 2025-10-09 21:02:46 ===
+
+=== CNN - travel - 2025-10-09 21:03:01 ===
+
+=== CNN - world - 2025-10-09 21:13:27 ===
+
+=== CBC - world - 2025-10-09 21:13:30 ===
+
+=== NPR - world - 2025-10-09 21:13:35 ===
+
+=== CNN - technology - 2025-10-09 21:13:49 ===
+
+=== NPR - technology - 2025-10-09 21:13:58 ===
+
+=== CNN - business - 2025-10-09 21:14:14 ===
+
+=== CBC - business - 2025-10-09 21:14:17 ===
+
+=== NPR - business - 2025-10-09 21:14:24 ===
+
+=== CNN - sport - 2025-10-09 21:14:39 ===
+
+=== CNN - arts - 2025-10-09 21:15:04 ===
+
+=== NPR - arts - 2025-10-09 21:15:12 ===
+
+=== CNN - science - 2025-10-09 21:15:27 ===
+
+=== CBC - science - 2025-10-09 21:15:30 ===
+
+=== NPR - science - 2025-10-09 21:15:36 ===
+
+=== CNN - us - 2025-10-09 21:15:50 ===
+
+=== CNN - politics - 2025-10-09 21:16:18 ===
+
+Headline: Artur Widak/NurPhoto/Getty Images/File
+Summary: Summary based on headline: Artur Widak/NurPhoto/Getty Images/File
+Description: Summary based on headline: Artur Widak/NurPhoto/Getty Images/File
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2234931369.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/army-million-dollar-donation-conference-government-shutdown
+==================================================
+
+=== CBC - politics - 2025-10-09 21:16:21 ===
+
+=== NPR - politics - 2025-10-09 21:16:26 ===
+
+=== CNN - health - 2025-10-09 21:16:43 ===
+
+=== CBC - health - 2025-10-09 21:16:46 ===
+
+=== NPR - health - 2025-10-09 21:16:52 ===
+
+=== CNN - travel - 2025-10-09 21:17:06 ===
+
+=== CNN - world - 2025-10-09 21:27:32 ===
+
+=== CBC - world - 2025-10-09 21:27:34 ===
+
+Headline: Israeli approval of deal clears the way for ceasefire, release of hostages
+Summary: Summary based on headline: Israeli approval of deal clears the way for ceasefire, release of hostage...
+Description: Summary based on headline: Israeli approval of deal clears the way for ceasefire, release of hostages
+Image: https://i.cbc.ca/ais/8640aa8f-2a8a-445e-ac35-f0c7011a4cb8,1760052395533/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C5472%2C3078%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-09 21:27:41 ===
+
+=== CNN - technology - 2025-10-09 21:27:59 ===
+
+=== NPR - technology - 2025-10-09 21:28:08 ===
+
+=== CNN - business - 2025-10-09 21:28:25 ===
+
+=== CBC - business - 2025-10-09 21:28:27 ===
+
+=== NPR - business - 2025-10-09 21:28:34 ===
+
+=== CNN - sport - 2025-10-09 21:28:48 ===
+
+=== CNN - arts - 2025-10-09 21:29:13 ===
+
+=== NPR - arts - 2025-10-09 21:29:21 ===
+
+=== CNN - science - 2025-10-09 21:29:37 ===
+
+=== CBC - science - 2025-10-09 21:29:40 ===
+
+=== NPR - science - 2025-10-09 21:29:46 ===
+
+=== CNN - us - 2025-10-09 21:30:00 ===
+
+=== CNN - politics - 2025-10-09 21:30:24 ===
+
+Headline: Getty Images
+Summary: Summary based on headline: Getty Images
+Description: Summary based on headline: Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/vagubdebatesplit-20251009200648335.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/politics/virginia-governor-debate-takeaways
+==================================================
+
+=== CBC - politics - 2025-10-09 21:30:26 ===
+
+=== NPR - politics - 2025-10-09 21:30:32 ===
+
+=== CNN - health - 2025-10-09 21:30:52 ===
+
+=== CBC - health - 2025-10-09 21:30:55 ===
+
+=== NPR - health - 2025-10-09 21:31:01 ===
+
+=== CNN - travel - 2025-10-09 21:31:15 ===
+
+=== CNN - world - 2025-10-09 21:41:39 ===
+
+=== CBC - world - 2025-10-09 21:41:42 ===
+
+=== NPR - world - 2025-10-09 21:41:50 ===
+
+=== CNN - technology - 2025-10-09 21:42:05 ===
+
+=== NPR - technology - 2025-10-09 21:42:12 ===
+
+=== CNN - business - 2025-10-09 21:42:27 ===
+
+=== CBC - business - 2025-10-09 21:42:30 ===
+
+=== NPR - business - 2025-10-09 21:42:36 ===
+
+=== CNN - sport - 2025-10-09 21:42:49 ===
+
+=== CNN - arts - 2025-10-09 21:43:14 ===
+
+=== NPR - arts - 2025-10-09 21:43:22 ===
+
+=== CNN - science - 2025-10-09 21:43:36 ===
+
+=== CBC - science - 2025-10-09 21:43:40 ===
+
+=== NPR - science - 2025-10-09 21:43:46 ===
+
+=== CNN - us - 2025-10-09 21:44:02 ===
+
+Headline: Scott Olson/Getty Images
+Summary: Summary based on headline: Scott Olson/Getty Images
+Description: Summary based on headline: Scott Olson/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239839655.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/us/court-national-guard-chicago-portland
+==================================================
+
+Headline: Court battles over National Guard troops deliver win to Chicago while Portland awaits a decision. Get the key takeaways
+Summary: Summary based on headline: Court battles over National Guard troops deliver win to Chicago while Por...
+Description: Summary based on headline: Court battles over National Guard troops deliver win to Chicago while Portland awaits a decision. Get the key takeaways
+Image: https://media.cnn.com/api/v1/images/stellar/prod/img-1436.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/us/court-national-guard-chicago-portland
+==================================================
+
+=== CNN - politics - 2025-10-09 21:44:28 ===
+
+=== CBC - politics - 2025-10-09 21:44:31 ===
+
+=== NPR - politics - 2025-10-09 21:44:37 ===
+
+=== CNN - health - 2025-10-09 21:44:51 ===
+
+=== CBC - health - 2025-10-09 21:44:53 ===
+
+=== NPR - health - 2025-10-09 21:44:57 ===
+
+=== CNN - travel - 2025-10-09 21:45:11 ===
+
+=== CNN - world - 2025-10-09 21:55:33 ===
+
+=== CBC - world - 2025-10-09 21:55:35 ===
+
+=== NPR - world - 2025-10-09 21:55:42 ===
+
+=== CNN - technology - 2025-10-09 21:55:57 ===
+
+=== NPR - technology - 2025-10-09 21:56:06 ===
+
+=== CNN - business - 2025-10-09 21:56:22 ===
+
+=== CBC - business - 2025-10-09 21:56:24 ===
+
+=== NPR - business - 2025-10-09 21:56:31 ===
+
+=== CNN - sport - 2025-10-09 21:56:46 ===
+
+=== CNN - arts - 2025-10-09 21:57:11 ===
+
+=== NPR - arts - 2025-10-09 21:57:21 ===
+
+=== CNN - science - 2025-10-09 21:57:36 ===
+
+=== CBC - science - 2025-10-09 21:57:38 ===
+
+=== NPR - science - 2025-10-09 21:57:42 ===
+
+=== CNN - us - 2025-10-09 21:57:56 ===
+
+=== CNN - politics - 2025-10-09 21:58:20 ===
+
+=== CBC - politics - 2025-10-09 21:58:23 ===
+
+=== NPR - politics - 2025-10-09 21:58:29 ===
+
+=== CNN - health - 2025-10-09 21:58:43 ===
+
+=== CBC - health - 2025-10-09 21:58:45 ===
+
+=== NPR - health - 2025-10-09 21:58:51 ===
+
+=== CNN - travel - 2025-10-09 21:59:05 ===
+
+=== CNN - world - 2025-10-09 22:09:29 ===
+
+=== CBC - world - 2025-10-09 22:09:32 ===
+
+=== NPR - world - 2025-10-09 22:09:38 ===
+
+=== CNN - technology - 2025-10-09 22:09:56 ===
+
+=== NPR - technology - 2025-10-09 22:10:05 ===
+
+=== CNN - business - 2025-10-09 22:10:18 ===
+
+=== CBC - business - 2025-10-09 22:10:20 ===
+
+=== NPR - business - 2025-10-09 22:10:26 ===
+
+=== CNN - sport - 2025-10-09 22:10:41 ===
+
+=== CNN - arts - 2025-10-09 22:11:05 ===
+
+=== NPR - arts - 2025-10-09 22:11:15 ===
+
+=== CNN - science - 2025-10-09 22:11:31 ===
+
+=== CBC - science - 2025-10-09 22:11:34 ===
+
+=== NPR - science - 2025-10-09 22:11:39 ===
+
+=== CNN - us - 2025-10-09 22:11:55 ===
+
+=== CNN - politics - 2025-10-09 22:12:20 ===
+
+=== CBC - politics - 2025-10-09 22:12:23 ===
+
+=== NPR - politics - 2025-10-09 22:12:29 ===
+
+=== CNN - health - 2025-10-09 22:12:46 ===
+
+=== CBC - health - 2025-10-09 22:12:48 ===
+
+=== NPR - health - 2025-10-09 22:12:54 ===
+
+=== CNN - travel - 2025-10-09 22:13:09 ===
+
+=== CNN - world - 2025-10-09 22:23:33 ===
+
+=== CBC - world - 2025-10-09 22:23:35 ===
+
+=== CNN - technology - 2025-10-09 22:24:42 ===
+
+=== CNN - business - 2025-10-09 22:25:49 ===
+
+=== CBC - business - 2025-10-09 22:25:53 ===
+
+=== NPR - business - 2025-10-09 22:26:15 ===
+
+=== CNN - sport - 2025-10-09 22:26:28 ===
+
+=== CNN - arts - 2025-10-09 22:27:32 ===
+
+=== NPR - arts - 2025-10-09 22:27:40 ===
+
+=== CNN - science - 2025-10-09 22:27:57 ===
+
+=== CBC - science - 2025-10-09 22:27:59 ===
+
+=== NPR - science - 2025-10-09 22:28:08 ===
+
+=== CNN - us - 2025-10-09 22:28:24 ===
+
+=== CNN - politics - 2025-10-09 22:29:35 ===
+
+=== CBC - politics - 2025-10-09 22:29:37 ===
+
+=== CNN - health - 2025-10-09 22:30:43 ===
+
+=== CBC - health - 2025-10-09 22:30:46 ===
+
+=== NPR - health - 2025-10-09 22:30:53 ===
+
+=== CNN - travel - 2025-10-09 22:31:10 ===
+
+=== CNN - world - 2025-10-09 22:42:24 ===
+
+Headline: 7.4 magnitude earthquake hits southeast Philippines, tsunami advisory issued
+Summary: Summary based on headline: 7.4 magnitude earthquake hits southeast Philippines, tsunami advisory iss...
+Description: Summary based on headline: 7.4 magnitude earthquake hits southeast Philippines, tsunami advisory issued
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap24099383332485.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/asia/philippines-earthquake-mindanao-intl-hnk
+==================================================
+
+Headline: Egyptian satirist Bassem Youssef makes comeback to state TV after more than a decade in exile
+Summary: Summary based on headline: Egyptian satirist Bassem Youssef makes comeback to state TV after more th...
+Description: Summary based on headline: Egyptian satirist Bassem Youssef makes comeback to state TV after more than a decade in exile
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2024-10-16t095056z-917438502-rc2vg0a2rsu0-rtrmadp-3-canada-india-bishnoi-copy.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/08/middleeast/bassem-youssef-egypt-satirist-tv-comeback-intl
+==================================================
+
+=== CBC - world - 2025-10-09 22:42:26 ===
+
+=== CNN - technology - 2025-10-09 22:43:36 ===
+
+=== CNN - business - 2025-10-09 22:44:44 ===
+
+=== CBC - business - 2025-10-09 22:44:46 ===
+
+Headline: WestJet hikes checked bag fee for 2nd time in 2 years. Will Air Canada be next?
+Summary: Summary based on headline: WestJet hikes checked bag fee for 2nd time in 2 years. Will Air Canada be...
+Description: Summary based on headline: WestJet hikes checked bag fee for 2nd time in 2 years. Will Air Canada be next?
+Image: https://i.cbc.ca/ais/1.7241408,1758135875000/full/max/0/default.jpg?im=Crop%2Crect%3D%2877%2C295%2C1051%2C1051%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== CNN - sport - 2025-10-09 22:45:54 ===
+
+=== CNN - arts - 2025-10-09 22:46:54 ===
+
+=== NPR - arts - 2025-10-09 22:47:03 ===
+
+=== CNN - science - 2025-10-09 22:47:19 ===
+
+=== CBC - science - 2025-10-09 22:47:22 ===
+
+=== NPR - science - 2025-10-09 22:47:55 ===
+
+=== CNN - us - 2025-10-09 22:48:08 ===
+
+=== CNN - politics - 2025-10-09 22:49:20 ===
+
+=== CBC - politics - 2025-10-09 22:49:23 ===
+
+=== CNN - health - 2025-10-09 22:50:32 ===
+
+=== CBC - health - 2025-10-09 22:50:34 ===
+
+=== NPR - health - 2025-10-09 22:50:40 ===
+
+=== CNN - travel - 2025-10-09 22:50:56 ===
+
+=== CNN - world - 2025-10-09 23:01:58 ===
+
+Headline: Sergei Supinsky/AFP/Getty Images
+Summary: Summary based on headline: Sergei Supinsky/AFP/Getty Images
+Description: Summary based on headline: Sergei Supinsky/AFP/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239618410.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/europe/russia-ukraine-infrastructure-attack-hnk-intl
+==================================================
+
+=== CBC - world - 2025-10-09 23:02:00 ===
+
+=== CNN - technology - 2025-10-09 23:03:09 ===
+
+=== CNN - business - 2025-10-09 23:04:19 ===
+
+=== CBC - business - 2025-10-09 23:04:21 ===
+
+=== CNN - sport - 2025-10-09 23:05:30 ===
+
+=== CNN - arts - 2025-10-09 23:06:44 ===
+
+=== NPR - arts - 2025-10-09 23:07:06 ===
+
+=== CNN - science - 2025-10-09 23:07:19 ===
+
+=== CBC - science - 2025-10-09 23:07:21 ===
+
+=== NPR - science - 2025-10-09 23:07:27 ===
+
+=== CNN - us - 2025-10-09 23:07:41 ===
+
+=== CNN - politics - 2025-10-09 23:08:49 ===
+
+=== CBC - politics - 2025-10-09 23:08:52 ===
+
+=== NPR - politics - 2025-10-09 23:09:36 ===
+
+=== CNN - health - 2025-10-09 23:09:51 ===
+
+=== CBC - health - 2025-10-09 23:09:53 ===
+
+=== NPR - health - 2025-10-09 23:10:26 ===
+
+=== CNN - travel - 2025-10-09 23:10:40 ===
+
+=== CNN - world - 2025-10-09 23:21:50 ===
+
+=== CBC - world - 2025-10-09 23:21:54 ===
+
+=== CNN - technology - 2025-10-09 23:23:03 ===
+
+=== NPR - technology - 2025-10-09 23:23:23 ===
+
+=== CNN - business - 2025-10-09 23:23:39 ===
+
+=== CBC - business - 2025-10-09 23:23:41 ===
+
+Headline: How the U.S. trade war uncorked a surprising boom for wineries across Canada
+Summary: Summary based on headline: How the U.S. trade war uncorked a surprising boom for wineries across Can...
+Description: Summary based on headline: How the U.S. trade war uncorked a surprising boom for wineries across Canada
+Image: https://i.cbc.ca/1.6807882.1726755218!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/catherine-zhu.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== CNN - sport - 2025-10-09 23:24:52 ===
+
+=== CNN - arts - 2025-10-09 23:26:05 ===
+
+=== NPR - arts - 2025-10-09 23:26:12 ===
+
+=== CNN - science - 2025-10-09 23:26:28 ===
+
+=== CBC - science - 2025-10-09 23:26:30 ===
+
+=== NPR - science - 2025-10-09 23:26:43 ===
+
+=== CNN - us - 2025-10-09 23:26:57 ===
+
+=== CNN - politics - 2025-10-09 23:28:07 ===
+
+=== CBC - politics - 2025-10-09 23:28:10 ===
+
+=== CNN - health - 2025-10-09 23:29:23 ===
+
+=== CBC - health - 2025-10-09 23:29:26 ===
+
+=== NPR - health - 2025-10-09 23:30:10 ===
+
+=== CNN - travel - 2025-10-09 23:30:25 ===
+
+=== CNN - world - 2025-10-09 23:41:35 ===
+
+=== CBC - world - 2025-10-09 23:41:38 ===
+
+=== NPR - world - 2025-10-09 23:41:44 ===
+
+=== CNN - technology - 2025-10-09 23:42:03 ===
+
+=== NPR - technology - 2025-10-09 23:42:12 ===
+
+=== CNN - business - 2025-10-09 23:42:30 ===
+
+=== CBC - business - 2025-10-09 23:42:32 ===
+
+=== NPR - business - 2025-10-09 23:42:38 ===
+
+=== CNN - sport - 2025-10-09 23:42:52 ===
+
+=== CNN - arts - 2025-10-09 23:43:18 ===
+
+=== NPR - arts - 2025-10-09 23:43:26 ===
+
+=== CNN - science - 2025-10-09 23:43:42 ===
+
+=== CBC - science - 2025-10-09 23:43:45 ===
+
+Headline: Rare white beaver wows Ottawa-area wildlife watchers
+Summary: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Description: Summary based on headline: Rare white beaver wows Ottawa-area wildlife watchers
+Image: https://i.cbc.ca/ais/1.7651908,1759743946000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7411%2C4168%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-09 23:43:52 ===
+
+=== CNN - us - 2025-10-09 23:44:07 ===
+
+=== CNN - politics - 2025-10-09 23:44:32 ===
+
+=== CBC - politics - 2025-10-09 23:44:34 ===
+
+=== NPR - politics - 2025-10-09 23:44:40 ===
+
+=== CNN - health - 2025-10-09 23:44:54 ===
+
+=== CBC - health - 2025-10-09 23:44:57 ===
+
+=== NPR - health - 2025-10-09 23:45:02 ===
+
+Headline: 1 in 5 high schoolers has had a romantic AI relationship, or knows someone who has
+Summary: Summary based on headline: 1 in 5 high schoolers has had a romantic AI relationship, or knows someon...
+Description: Summary based on headline: 1 in 5 high schoolers has had a romantic AI relationship, or knows someone who has
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5465x3074+0+0/resize/400/quality/15/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2Fc7%2F77ad72e74febb152a4b13848f613%2Fgettyimages-2234566483.jpg
+Source: https://www.npr.org/2025/10/08/nx-s1-5561981/ai-students-schools-teachers
+==================================================
+
+=== CNN - travel - 2025-10-09 23:45:16 ===
+
+=== CNN - world - 2025-10-09 23:55:38 ===
+
+Headline: Bobbie Alota/AFP/Getty Images
+Summary: Summary based on headline: Bobbie Alota/AFP/Getty Images
+Description: Summary based on headline: Bobbie Alota/AFP/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239625379.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/09/asia/philippines-earthquake-mindanao-intl-hnk
+==================================================
+
+=== CBC - world - 2025-10-09 23:55:41 ===
+
+=== NPR - world - 2025-10-09 23:55:46 ===
+
+=== CNN - technology - 2025-10-09 23:56:00 ===
+
+=== NPR - technology - 2025-10-09 23:56:09 ===
+
+=== CNN - business - 2025-10-09 23:56:25 ===
+
+=== CBC - business - 2025-10-09 23:56:28 ===
+
+=== NPR - business - 2025-10-09 23:56:33 ===
+
+=== CNN - sport - 2025-10-09 23:56:47 ===
+
+=== CNN - arts - 2025-10-09 23:57:09 ===
+
+=== NPR - arts - 2025-10-09 23:57:17 ===
+
+=== CNN - science - 2025-10-09 23:57:33 ===
+
+=== CBC - science - 2025-10-09 23:57:35 ===
+
+=== NPR - science - 2025-10-09 23:57:41 ===
+
+=== CNN - us - 2025-10-09 23:57:57 ===
+
+=== CNN - politics - 2025-10-09 23:58:23 ===
+
+=== CBC - politics - 2025-10-09 23:58:26 ===
+
+=== NPR - politics - 2025-10-09 23:58:33 ===
+
+=== CNN - health - 2025-10-09 23:58:52 ===
+
+=== CBC - health - 2025-10-09 23:58:55 ===
+
+=== NPR - health - 2025-10-09 23:58:59 ===
+
+=== CNN - travel - 2025-10-09 23:59:14 ===
+
+=== CNN - world - 2025-10-10 00:09:36 ===
+
+=== CBC - world - 2025-10-10 00:09:38 ===
+
+=== NPR - world - 2025-10-10 00:09:44 ===
+
+=== CNN - technology - 2025-10-10 00:09:59 ===
+
+=== NPR - technology - 2025-10-10 00:10:06 ===
+
+=== CNN - business - 2025-10-10 00:10:21 ===
+
+=== CBC - business - 2025-10-10 00:10:24 ===
+
+=== NPR - business - 2025-10-10 00:10:30 ===
+
+=== CNN - sport - 2025-10-10 00:10:43 ===
+
+=== CNN - arts - 2025-10-10 00:11:12 ===
+
+=== NPR - arts - 2025-10-10 00:11:21 ===
+
+=== CNN - science - 2025-10-10 00:11:35 ===
+
+=== CBC - science - 2025-10-10 00:11:39 ===
+
+=== NPR - science - 2025-10-10 00:11:43 ===
+
+=== CNN - us - 2025-10-10 00:11:57 ===
+
+=== CNN - politics - 2025-10-10 00:12:21 ===
+
+=== CBC - politics - 2025-10-10 00:12:24 ===
+
+=== NPR - politics - 2025-10-10 00:12:29 ===
+
+=== CNN - health - 2025-10-10 00:12:46 ===
+
+=== CBC - health - 2025-10-10 00:12:49 ===
+
+=== NPR - health - 2025-10-10 00:12:54 ===
+
+=== CNN - travel - 2025-10-10 00:13:09 ===
+
+=== CNN - world - 2025-10-10 00:23:33 ===
+
+=== CBC - world - 2025-10-10 00:23:36 ===
+
+=== NPR - world - 2025-10-10 00:23:41 ===
+
+=== CNN - technology - 2025-10-10 00:23:57 ===
+
+=== NPR - technology - 2025-10-10 00:24:06 ===
+
+=== CNN - business - 2025-10-10 00:24:22 ===
+
+=== CBC - business - 2025-10-10 00:24:25 ===
+
+Headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Summary: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports fallin...
+Description: Summary based on headline: Canada's merchandise trade deficit widened in August, with exports falling faster than imports rose
+Image: https://i.cbc.ca/ais/1.7648719,1759434987000/full/max/0/default.jpg?im=Crop%2Crect%3D%281025%2C0%2C4102%2C4102%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-10 00:24:31 ===
+
+=== CNN - sport - 2025-10-10 00:24:46 ===
+
+=== CNN - arts - 2025-10-10 00:25:12 ===
+
+=== NPR - arts - 2025-10-10 00:25:19 ===
+
+=== CNN - science - 2025-10-10 00:25:36 ===
+
+=== CBC - science - 2025-10-10 00:25:38 ===
+
+=== NPR - science - 2025-10-10 00:25:43 ===
+
+=== CNN - us - 2025-10-10 00:25:58 ===
+
+=== CNN - politics - 2025-10-10 00:26:24 ===
+
+=== CBC - politics - 2025-10-10 00:26:27 ===
+
+=== NPR - politics - 2025-10-10 00:26:33 ===
+
+=== CNN - health - 2025-10-10 00:26:48 ===
+
+=== CBC - health - 2025-10-10 00:26:49 ===
+
+=== NPR - health - 2025-10-10 00:26:54 ===
+
+=== CNN - travel - 2025-10-10 00:27:11 ===
