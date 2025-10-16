@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import NewsCard from './NewsCard';
 import Navigation from './Navigation';
+import API_URL from './config';
 
 const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   const [articles, setArticles] = useState([]);
@@ -10,11 +11,12 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   const [sentimentFilter, setSentimentFilter] = useState(null);
   const [viewMode, setViewMode] = useState('grid'); // Default to grid
   const navigate = useNavigate();
+ 
 
   useEffect(() => {
     const fetchArticles = async () => {
       try {
-        const response = await fetch(`http://localhost:5001/api/news`);
+        const response = await fetch(`${API_URL}/api/news`);
         if (!response.ok) {
           throw new Error(`Fetch failed with status ${response.status}: ${response.statusText}`);
         }

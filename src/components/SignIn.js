@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate, Link } from 'react-router-dom';
-
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001';
+import API_URL from './config';
 
 const SignIn = ({ setIsAuthenticated }) => {
   const [formData, setFormData] = useState({ email: '', password: '' });
@@ -18,14 +17,22 @@ const SignIn = ({ setIsAuthenticated }) => {
     e.preventDefault();
     setLoading(true);
     try {
-      const response = await axios.post(`${API_URL}/api/signin`, formData);
-      if (response.data.success) {
-        localStorage.setItem('token', response.data.token);
-        localStorage.setItem('username', response.data.username);
+      const response = await fetch(`${API_URL}/api/signin`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData),
+      });
+      if (response.ok) {
+        const data = await response.json();
+        localStorage.setItem('token', data.token);
+        localStorage.setItem('username', data.username);
         setIsAuthenticated(true);
         navigate('/');
       } else {
-        setError(response.data.message || 'Sign-in failed');
+        const data = await response.json();
+        setError(data.message || 'Sign-in failed');
       }
     } catch (err) {
       setError(err.response?.data?.message || 'An error occurred during sign-in');

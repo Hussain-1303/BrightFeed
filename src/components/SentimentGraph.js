@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import API_URL from './config';
 
 const SentimentGraph = ({ category, onClose }) => {
   const [sentiments, setSentiments] = useState({ positive: 0, neutral: 0, negative: 0 });
@@ -7,7 +8,7 @@ const SentimentGraph = ({ category, onClose }) => {
   useEffect(() => {
     const fetchSentiment = async () => {
       try {
-        const response = await fetch(`http://localhost:5001/api/news`);
+        const response = await fetch(`${API_URL}/api/news`);
         const data = await response.json();
         const filtered = data.filter(article => category === 'all' || article.category.toLowerCase() === category.toLowerCase());
         const sentimentTotals = filtered.reduce((acc, article) => {

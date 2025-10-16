@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate, Link } from 'react-router-dom';
+import API_URL from './config';
 
 const SignUp = () => {
   const [formData, setFormData] = useState({ username: '', email: '', password: '' });
@@ -14,7 +15,7 @@ const SignUp = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:5001/api/signup', formData, {
+      const response = await fetch(`${API_URL}/api/signup`, {
         headers: { 'Content-Type': 'application/json' },
         withCredentials: false,
       });
