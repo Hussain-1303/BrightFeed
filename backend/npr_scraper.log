@@ -3971,3 +3971,26 @@
 2025-10-02 11:28:51,067 - INFO - Inserted 1 new articles
 2025-10-02 11:28:51,068 - INFO - Waiting 30 minutes before next scan...
 2025-10-02 13:58:41,130 - INFO - Scraper stopped by user
+2025-10-16 19:41:31,481 - ERROR - ❌ MongoDB connection failed: ac-5uj8mfd-shard-00-00.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028),ac-5uj8mfd-shard-00-02.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028),ac-5uj8mfd-shard-00-01.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028), Timeout: 5.0s, Topology Description: <TopologyDescription id: 68f182a6e64ac523152ddd06, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-5uj8mfd-shard-00-00.3wrgn5c.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-5uj8mfd-shard-00-00.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')>, <ServerDescription ('ac-5uj8mfd-shard-00-01.3wrgn5c.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-5uj8mfd-shard-00-01.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')>, <ServerDescription ('ac-5uj8mfd-shard-00-02.3wrgn5c.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-5uj8mfd-shard-00-02.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')>]>
+2025-10-16 19:49:10,435 - INFO - ✅ MongoDB connection successful
+2025-10-16 19:49:10,436 - INFO - 🚀 NPR Scraper started - will run every 4 hours
+2025-10-16 19:49:10,436 - INFO - ⏱️ Starting scrape cycle at 2025-10-16 19:49:10
+2025-10-16 19:49:10,436 - INFO - 🔍 Scraping art: https://www.npr.org/sections/arts
+2025-10-16 19:49:12,124 - INFO - ✅ Scraped 15 articles from art
+2025-10-16 19:49:14,561 - INFO - 🔍 Scraping tech: https://www.npr.org/sections/technology
+2025-10-16 19:49:16,230 - INFO - ✅ Scraped 15 articles from tech
+2025-10-16 19:49:18,402 - INFO - 🔍 Scraping science: https://www.npr.org/sections/science
+2025-10-16 19:49:20,464 - INFO - ✅ Scraped 15 articles from science
+2025-10-16 19:49:21,889 - INFO - 🔍 Scraping world: https://www.npr.org/sections/world
+2025-10-16 19:49:23,621 - INFO - ✅ Scraped 15 articles from world
+2025-10-16 19:49:25,174 - INFO - 🔍 Scraping gaming: https://www.npr.org/sections/technology
+2025-10-16 19:49:26,875 - INFO - ✅ Scraped 15 articles from gaming
+2025-10-16 19:49:28,599 - INFO - 🔍 Scraping sport: https://www.npr.org/sections/sports
+2025-10-16 19:49:30,670 - INFO - ✅ Scraped 15 articles from sport
+2025-10-16 19:49:32,616 - INFO - 🔍 Scraping business: https://www.npr.org/sections/business
+2025-10-16 19:49:34,207 - INFO - ✅ Scraped 15 articles from business
+2025-10-16 19:49:45,245 - INFO - ✅ Inserted 105 new articles
+2025-10-16 19:49:45,245 - INFO - ✅ Scrape cycle complete
+2025-10-16 19:49:45,245 - INFO - ⏰ Next scrape in 4 hours...
+2025-10-16 20:01:36,654 - INFO - 🛑 Scraper stopped by user
+2025-10-16 20:01:36,760 - INFO - 🔌 MongoDB connection closed

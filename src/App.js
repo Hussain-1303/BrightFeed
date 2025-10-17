@@ -19,7 +19,7 @@ import UserPreferences from "./components/UserPreferences";
 import BookmarksPage from "./components/BookmarksPage";
 import "./App.css";
 import { FiSun, FiMoon, FiUser, FiSearch } from "react-icons/fi";
-import API_URL from './config';
+import API_URL from '../config';
 
 
 // Wrapper component to handle navigation

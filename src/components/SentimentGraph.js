@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import API_URL from './config';
+import API_URL from '../config';
 
 const SentimentGraph = ({ category, onClose }) => {
   const [sentiments, setSentiments] = useState({ positive: 0, neutral: 0, negative: 0 });
