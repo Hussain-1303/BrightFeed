@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import NewsCard from './NewsCard';
 import Navigation from './Navigation';
-import API_URL from './config';
+import API_URL from '../config';
 
 const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   const [articles, setArticles] = useState([]);

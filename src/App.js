@@ -19,8 +19,9 @@ import UserPreferences from "./components/UserPreferences";
 import BookmarksPage from "./components/BookmarksPage";
 import "./App.css";
 import { FiSun, FiMoon, FiUser, FiSearch } from "react-icons/fi";
-import API_URL from '../config';
 
+// API Configuration
+const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001';
 
 // Wrapper component to handle navigation
 const AppContent = () => {
@@ -241,6 +242,7 @@ const AppContent = () => {
               <Route
                 key={category}
                 path={`/${category}`}
+                className="capitalize"
                 element={
                   isAuthenticated ? (
                     <NewsPage
