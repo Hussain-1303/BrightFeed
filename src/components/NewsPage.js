@@ -2,23 +2,25 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import NewsCard from './NewsCard';
 import Navigation from './Navigation';
-import API_URL from '../config';
+
+const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001';
 
 const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   const [articles, setArticles] = useState([]);
   const [filteredArticles, setFilteredArticles] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [sentimentFilter, setSentimentFilter] = useState(null);
-  const [viewMode, setViewMode] = useState('grid'); // Default to grid
+  const [viewMode, setViewMode] = useState('grid');
+  const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
- 
 
   useEffect(() => {
     const fetchArticles = async () => {
       try {
+        setLoading(true);
         const response = await fetch(`${API_URL}/api/news`);
         if (!response.ok) {
-          throw new Error(`Fetch failed with status ${response.status}: ${response.statusText}`);
+          throw new Error(`Fetch failed with status ${response.status}`);
         }
         const data = await response.json();
         const filtered = data.filter((article) =>
@@ -30,6 +32,10 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
         ));
       } catch (error) {
         console.error('NewsPage fetch error:', error.message);
+        setArticles([]);
+        setFilteredArticles([]);
+      } finally {
+        setLoading(false);
       }
     };
     fetchArticles();
@@ -58,13 +64,9 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   };
 
   const toggleBookmark = (article) => {
-    const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
-    const isBookmarked = bookmarks.some(b => b.headline === article.headline);
-    if (isBookmarked) {
-      localStorage.setItem('bookmarks', JSON.stringify(bookmarks.filter(b => b.headline !== article.headline)));
-    } else {
-      localStorage.setItem('bookmarks', JSON.stringify([...bookmarks, article]));
-    }
+    // This will trigger the NewsCard's internal bookmark logic
+    const event = new CustomEvent('bookmarksChanged');
+    window.dispatchEvent(event);
   };
 
   const nextArticle = () => {
@@ -75,65 +77,85 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
     setCurrentIndex((prev) => Math.max(prev - 3, 0));
   };
 
+  if (loading) {
+    return (
+      <div className="max-w-6xl mx-auto py-8 px-4 text-center">
+        <p className={`text-xl ${darkMode ? 'text-white' : 'text-gray-800'}`}>
+          Loading articles...
+        </p>
+      </div>
+    );
+  }
+
   return (
-    <div className="max-w-4xl mx-auto py-8 px-4">
-      <div className="flex flex-col items-center mb-8">
-        <h2 className={`text-3xl font-bold capitalize mb-2 ${darkMode ? 'text-white' : 'text-gray-800'}`}>
+    <div className="max-w-6xl mx-auto py-4 px-4">
+      {/* Compact header - single row */}
+      <div className="flex flex-col items-center mb-6">
+        <h2 className={`text-3xl font-bold capitalize mb-3 ${darkMode ? 'text-white' : 'text-gray-800'}`}>
           {category === "sport" ? "Sports" : category} News
         </h2>
-        <div className="flex gap-2 mb-4">
+        
+        {/* Filters in one compact row */}
+        <div className="flex flex-wrap gap-2 items-center justify-center mb-3">
+          {/* Sentiment filters */}
           <button
             onClick={() => filterBySentiment('positive')}
-            className={`px-3 py-1 rounded-lg ${sentimentFilter === 'positive' ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
+            className={`px-3 py-1 rounded-lg text-sm ${sentimentFilter === 'positive' ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
           >
             😊 Positive
           </button>
           <button
             onClick={() => filterBySentiment('negative')}
-            className={`px-3 py-1 rounded-lg ${sentimentFilter === 'negative' ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
+            className={`px-3 py-1 rounded-lg text-sm ${sentimentFilter === 'negative' ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
           >
             😢 Negative
           </button>
           <button
             onClick={() => filterBySentiment('neutral')}
-            className={`px-3 py-1 rounded-lg ${sentimentFilter === 'neutral' ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
+            className={`px-3 py-1 rounded-lg text-sm ${sentimentFilter === 'neutral' ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
           >
             😐 Neutral
           </button>
           <button
             onClick={() => filterBySentiment(null)}
-            className={`px-3 py-1 rounded-lg ${sentimentFilter === null ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
+            className={`px-3 py-1 rounded-lg text-sm ${sentimentFilter === null ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
           >
             All
           </button>
-          <div className="ml-4">
+          
+          {/* View mode */}
+          <div className="flex gap-1 ml-2">
             <button
               onClick={() => setViewMode('grid')}
-              className={`px-3 py-1 rounded-lg ${viewMode === 'grid' ? 'bg-blue-500 text-white' : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'}`}
+              className={`px-3 py-1 rounded-lg text-sm ${viewMode === 'grid' ? 'bg-blue-500 text-white' : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'}`}
             >
               Grid
             </button>
             <button
               onClick={() => setViewMode('list')}
-              className={`ml-2 px-3 py-1 rounded-lg ${viewMode === 'list' ? 'bg-blue-500 text-white' : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'}`}
+              className={`px-3 py-1 rounded-lg text-sm ${viewMode === 'list' ? 'bg-blue-500 text-white' : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'}`}
             >
               List
             </button>
           </div>
+          
+          {/* Sentiment trends button */}
+          <button
+            onClick={() => openSentimentGraph(category)}
+            className="px-3 py-1 bg-green-500 text-white rounded-lg hover:bg-green-600 text-sm ml-2"
+          >
+            📊 Trends
+          </button>
         </div>
-        <button
-          onClick={() => openSentimentGraph(category)}
-          className="px-4 py-2 bg-green-500 text-white rounded-lg hover:bg-green-600 mb-4"
-        >
-          View Sentiment Trends
-        </button>
       </div>
+
+      {/* Articles grid/list */}
       {filteredArticles.length > 0 ? (
         <div>
           <div className={viewMode === 'grid' ? 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6' : 'space-y-4'}>
             {filteredArticles.slice(currentIndex, currentIndex + 3).map((article, index) => (
               <NewsCard
-                key={index}
+                key={`${article.headline}-${index}`}
                 article={article}
                 darkMode={darkMode}
                 onBookmark={toggleBookmark}
@@ -144,7 +166,7 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
           <Navigation next={nextArticle} previous={prevArticle} darkMode={darkMode} />
         </div>
       ) : (
-        <p className={`text-xl text-center ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
+        <p className={`text-xl text-center py-12 ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
           {sentimentFilter ? `No ${sentimentFilter} ${category} news found.` : `No ${category} news matching "${searchQuery}"...`}
         </p>
       )}
