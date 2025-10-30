@@ -1,0 +1,50 @@
+
+> brightfeed@0.1.0 start
+> react-scripts start
+
+Browserslist: browsers data (caniuse-lite) is 8 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+(node:55680) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:55680) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+[eslint] 
+src\App.js
+  Line 20:10:  'FiHome' is defined but never used  no-unused-vars
+
+src\components\CommentsSection.js
+  Line 11:10:  'loading' is assigned a value but never used     no-unused-vars
+  Line 11:19:  'setLoading' is assigned a value but never used  no-unused-vars
+
+src\components\LikeButton.js
+  Line 14:9:  'getSizeClasses' is assigned a value but never used  no-unused-vars
+
+src\components\NewsPage.js
+  Line 2:23:  'Link' is defined but never used               no-unused-vars
+  Line 11:9:  'navigate' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+[1m[33mWARNING[39m[22m in [1m[eslint] 
+src\App.js
+  Line 20:10:  'FiHome' is defined but never used  no-unused-vars
+
+src\components\CommentsSection.js
+  Line 11:10:  'loading' is assigned a value but never used     no-unused-vars
+  Line 11:19:  'setLoading' is assigned a value but never used  no-unused-vars
+
+src\components\LikeButton.js
+  Line 14:9:  'getSizeClasses' is assigned a value but never used  no-unused-vars
+
+src\components\NewsPage.js
+  Line 2:23:  'Link' is defined but never used               no-unused-vars
+  Line 11:9:  'navigate' is assigned a value but never used  no-unused-vars
+
+[39m[22m
+
+webpack compiled with [1m[33m1 warning[39m[22m

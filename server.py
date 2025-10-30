@@ -18,18 +18,30 @@ except Exception as e:
 def get_news():
     try:
         articles = collection.find()
-        articles_list = [
-            {
-                "category": article["category"],
-                "source": article["source"],
-                "headline": article["headline"],
-                "summary": article["summary"],
-                "description": article["description"],
-                "image": article["image"],
-                "sourceLink": article["url"],
-                "timestamp": article["timestamp"].isoformat()
-            } for article in articles
-        ]
+        articles_list = []
+        for article in articles:
+            try:
+                # Handle different field name variations and missing fields
+                source_link = article.get("sourceLink") or article.get("url") or ""
+                image_url = article.get("image") or ""
+                date = article.get("date") or article.get("timestamp", "")
+                
+                article_data = {
+                    "category": article.get("category", ""),
+                    "source": article.get("source", ""),
+                    "headline": article.get("headline", ""),
+                    "summary": article.get("summary", ""),
+                    "description": article.get("description", ""),
+                    "image": image_url,
+                    "sourceLink": source_link,
+                    "date": date,
+                    "sentiment": article.get("sentiment", {})
+                }
+                articles_list.append(article_data)
+            except Exception as article_error:
+                print(f"Error processing individual article: {article_error}")
+                continue
+        
         print(f"Serving {len(articles_list)} articles")
         return jsonify(articles_list)
     except Exception as e:

@@ -1,6 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
+import CommentsSection from './CommentsSection';
 
 const NewsCard = ({ article, darkMode }) => {
+  const [showComments, setShowComments] = useState(false);
+  
   // Format the date with a fallback for invalid dates
   const formatDate = (dateString) => {
     const date = new Date(dateString);
@@ -60,18 +63,45 @@ const NewsCard = ({ article, darkMode }) => {
           {article.summary}
         </p>
         
-        <a
-          href={article.sourceLink}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center text-brand-500 hover:text-brand-600 dark:text-brand-400 dark:hover:text-brand-300 font-medium"
-        >
-          Read Full Story
-          <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-          </svg>
-        </a>
+        <div className="flex items-center justify-between">
+          <a
+            href={article.sourceLink}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center text-brand-500 hover:text-brand-600 dark:text-brand-400 dark:hover:text-brand-300 font-medium"
+          >
+            Read Full Story
+            <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
+          </a>
+          
+          <button
+            onClick={() => setShowComments(!showComments)}
+            className={`flex items-center gap-2 px-3 py-1.5 rounded-lg transition-all duration-200 hover:scale-105 font-medium
+              ${darkMode 
+                ? 'text-neutral-300 hover:text-white hover:bg-neutral-600' 
+                : 'text-neutral-600 hover:text-neutral-800 hover:bg-neutral-100'
+              }
+            `}
+          >
+            <span className="text-lg">💬</span>
+            <span className="text-sm">Comments</span>
+          </button>
+        </div>
       </div>
+      
+      {/* Comments Section */}
+      {showComments && (
+        <div className="px-6 pb-6" data-testid="comments-section">
+          <div className="pt-4 border-t border-neutral-200 dark:border-neutral-600">
+            <CommentsSection 
+              articleId={article.headline} // Using headline as unique ID for demo
+              darkMode={darkMode}
+            />
+          </div>
+        </div>
+      )}
     </div>
   );
 };
