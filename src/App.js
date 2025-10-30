@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import {
   BrowserRouter as Router,
   Route,
@@ -21,11 +21,12 @@ import "./App.css";
 import { FiSun, FiMoon, FiUser, FiSearch } from "react-icons/fi";
 
 // API Configuration
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001';
+const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5001";
 
 // Wrapper component to handle navigation
 const AppContent = () => {
   const navigate = useNavigate();
+  const dropdownRef = useRef(null);
   const categories = [
     "art",
     "tech",
@@ -47,14 +48,16 @@ const AppContent = () => {
   const [searchQuery, setSearchQuery] = useState("");
   const [liveHeadlines, setLiveHeadlines] = useState([]);
   const [showSentimentGraph, setShowSentimentGraph] = useState(false);
-  const [userPreferences, setUserPreferences] = useState(() => JSON.parse(localStorage.getItem('preferences') || '{}'));
+  const [userPreferences, setUserPreferences] = useState(() =>
+    JSON.parse(localStorage.getItem("preferences") || "{}")
+  );
   const [sentimentCategory, setSentimentCategory] = useState("all");
 
   useEffect(() => {
     document.documentElement.classList.toggle("dark", darkMode);
     localStorage.setItem("darkMode", darkMode);
-    localStorage.setItem('preferences', JSON.stringify(userPreferences));
-    
+    localStorage.setItem("preferences", JSON.stringify(userPreferences));
+
     const fetchHeadlines = async () => {
       try {
         const response = await fetch(`${API_URL}/api/news`);
@@ -66,14 +69,33 @@ const AppContent = () => {
         setLiveHeadlines(headlines);
       } catch (error) {
         console.error("Error fetching headlines:", error);
-        setLiveHeadlines(["Unable to load headlines. Check backend connection."]);
+        setLiveHeadlines([
+          "Unable to load headlines. Check backend connection.",
+        ]);
       }
     };
-    
+
     fetchHeadlines();
     const interval = setInterval(fetchHeadlines, 60000);
     return () => clearInterval(interval);
   }, [darkMode, userPreferences]);
+
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
+        setShowProfileDropdown(false);
+      }
+    };
+
+    if (showProfileDropdown) {
+      document.addEventListener("mousedown", handleClickOutside);
+    }
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [showProfileDropdown]);
 
   const toggleTheme = () => setDarkMode(!darkMode);
 
@@ -81,6 +103,7 @@ const AppContent = () => {
     localStorage.removeItem("token");
     localStorage.removeItem("username");
     setIsAuthenticated(false);
+    setShowProfileDropdown(false);
     navigate("/signin");
   };
 
@@ -91,6 +114,11 @@ const AppContent = () => {
 
   const handlePreferenceChange = (category, priority) => {
     setUserPreferences((prev) => ({ ...prev, [category]: priority }));
+  };
+
+  const handleMenuItemClick = (action) => {
+    setShowProfileDropdown(false);
+    action();
   };
 
   return (
@@ -131,7 +159,7 @@ const AppContent = () => {
                 )}
               </button>
               {isAuthenticated ? (
-                <div className="relative">
+                <div className="relative" ref={dropdownRef}>
                   <button
                     onClick={() => setShowProfileDropdown(!showProfileDropdown)}
                     className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
@@ -144,22 +172,28 @@ const AppContent = () => {
                   {showProfileDropdown && (
                     <div className="absolute right-0 mt-2 w-48 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg z-50">
                       <button
+                        onClick={() => handleMenuItemClick(() => navigate("/bookmarks"))}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-t-lg"
+                      >
+                        📖 My Bookmarks
+                      </button>
+                      <button
+                        onClick={() => handleMenuItemClick(() => navigate("/profile-settings"))}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                      >
+                        ⚙️ Profile Settings
+                      </button>
+                      <button
+                        onClick={() => handleMenuItemClick(() => navigate("/preferences"))}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                      >
+                        🎯 Preferences
+                      </button>
+                      <button
                         onClick={handleLogout}
-                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 border-t border-gray-200 dark:border-gray-700 rounded-b-lg"
                       >
-                        Logout
-                      </button>
-                      <button
-                        onClick={() => navigate("/profile-settings")}
-                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
-                      >
-                        Profile Settings
-                      </button>
-                      <button
-                        onClick={() => navigate("/preferences")}
-                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
-                      >
-                        Preferences
+                        🚪 Logout
                       </button>
                     </div>
                   )}
@@ -242,7 +276,6 @@ const AppContent = () => {
               <Route
                 key={category}
                 path={`/${category}`}
-                className="capitalize"
                 element={
                   isAuthenticated ? (
                     <NewsPage
