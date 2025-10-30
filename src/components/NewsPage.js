@@ -88,15 +88,15 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   }
 
   return (
-    <div className="max-w-6xl mx-auto py-4 px-4">
-      {/* Compact header - single row */}
-      <div className="flex flex-col items-center mb-6">
-        <h2 className={`text-3xl font-bold capitalize mb-3 ${darkMode ? 'text-white' : 'text-gray-800'}`}>
+    <div className="max-w-6xl mx-auto py-2 px-4">
+      {/* Ultra-compact header - everything in one line */}
+      <div className="flex flex-col md:flex-row items-center justify-between mb-4 gap-3">
+        <h2 className={`text-2xl font-bold capitalize ${darkMode ? 'text-white' : 'text-gray-800'}`}>
           {category === "sport" ? "Sports" : category} News
         </h2>
         
         {/* Filters in one compact row */}
-        <div className="flex flex-wrap gap-2 items-center justify-center mb-3">
+        <div className="flex flex-wrap gap-2 items-center justify-center">
           {/* Sentiment filters */}
           <button
             onClick={() => filterBySentiment('positive')}
