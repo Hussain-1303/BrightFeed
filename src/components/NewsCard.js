@@ -4,7 +4,6 @@ import { FiBookmark, FiCheckSquare } from 'react-icons/fi';
 const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
   const [isBookmarked, setIsBookmarked] = useState(false);
 
-  // Function to check if article is bookmarked
   const checkIfBookmarked = () => {
     try {
       const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
@@ -20,24 +19,13 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
     }
   };
 
-  // Check on mount and when article changes
   useEffect(() => {
     checkIfBookmarked();
-  }, [article.headline, article.sourceLink]);
-
-  // Listen for bookmark changes from other components
-  useEffect(() => {
-    const handleBookmarkChange = () => {
-      checkIfBookmarked();
-    };
-
-    // Listen for custom bookmark events
+    
+    const handleBookmarkChange = () => checkIfBookmarked();
+    
     window.addEventListener('bookmarksChanged', handleBookmarkChange);
-    
-    // Listen for storage events (changes in other tabs/windows)
     window.addEventListener('storage', handleBookmarkChange);
-    
-    // Listen for focus events (when user returns to page)
     window.addEventListener('focus', handleBookmarkChange);
 
     return () => {
@@ -48,63 +36,68 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
   }, [article.headline, article.sourceLink]);
 
   const handleBookmarkClick = (e) => {
+    // CRITICAL: Stop all event propagation
     e.stopPropagation();
     e.preventDefault();
+    e.nativeEvent.stopImmediatePropagation();
+    
+    console.log('Bookmark button clicked!', article.headline);
     
     try {
       const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
       const bookmarkIndex = bookmarks.findIndex(b => 
-        b.headline === article.headline || 
-        b.sourceLink === article.sourceLink
+        b.headline === article.headline
       );
       
       let newBookmarks;
       if (bookmarkIndex > -1) {
-        // Remove bookmark
         newBookmarks = bookmarks.filter((_, index) => index !== bookmarkIndex);
         setIsBookmarked(false);
-        console.log('Removed bookmark:', article.headline);
+        console.log('✅ Removed bookmark:', article.headline);
       } else {
-        // Add bookmark with all necessary data
         const bookmarkData = {
-          ...article,
+          headline: article.headline,
+          summary: article.summary || article.description,
+          description: article.description,
+          image: article.image,
+          sourceLink: article.sourceLink,
+          publishedAt: article.publishedAt || article.date,
+          category: article.category,
+          source: article.source,
+          sentiment: article.sentiment,
           bookmarkedAt: new Date().toISOString(),
         };
         newBookmarks = [...bookmarks, bookmarkData];
         setIsBookmarked(true);
-        console.log('Added bookmark:', article.headline);
+        console.log('✅ Added bookmark:', article.headline);
       }
       
-      // Save to localStorage
       localStorage.setItem('bookmarks', JSON.stringify(newBookmarks));
+      console.log('📊 Total bookmarks:', newBookmarks.length);
       
-      // Trigger callback
       if (onBookmark) {
         onBookmark(article);
       }
       
-      // Dispatch event to update other components
       window.dispatchEvent(new CustomEvent('bookmarksChanged', { 
         detail: { bookmarks: newBookmarks } 
       }));
       
+      // Force a small delay to ensure state updates
+      setTimeout(() => checkIfBookmarked(), 100);
+      
     } catch (error) {
-      console.error('Error toggling bookmark:', error);
+      console.error('❌ Error toggling bookmark:', error);
     }
   };
 
-  const handleNewsClick = (e) => {
-    // Don't open link if clicking on bookmark button
-    if (e.target.closest('button')) {
-      return;
-    }
-    
+  const handleNewsClick = () => {
     if (article.sourceLink) {
+      console.log('Opening article:', article.sourceLink);
       window.open(article.sourceLink, '_blank', 'noopener,noreferrer');
     }
   };
 
-  // Get proper date field
   const articleDate = article.publishedAt || article.date || new Date().toISOString();
 
   return (
@@ -113,6 +106,7 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
     >
       {viewMode === 'grid' ? (
         <>
+          {/* Image and content - clickable to open article */}
           <div onClick={handleNewsClick} className="cursor-pointer">
             {article.image ? (
               <div className="h-48 overflow-hidden rounded-lg mb-4">
@@ -122,7 +116,6 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                   onError={(e) => {
                     e.target.style.display = 'none';
-                    e.target.parentElement.innerHTML = '<div class="w-full h-full flex items-center justify-center bg-gray-200 dark:bg-gray-600"><span class="text-gray-400">No Image</span></div>';
                   }}
                 />
               </div>
@@ -136,15 +129,20 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
               {article.summary || article.description || 'No summary available.'}
             </p>
           </div>
+          
+          {/* Bottom bar with date and bookmark - NOT clickable for article */}
           <div className="flex justify-between items-center mt-4">
             <span className="text-xs text-gray-400">
               {new Date(articleDate).toLocaleDateString()}
             </span>
             <button
+              type="button"
               onClick={handleBookmarkClick}
-              className={`p-2 rounded-full transition-all ${
+              onMouseDown={(e) => e.stopPropagation()}
+              onTouchStart={(e) => e.stopPropagation()}
+              className={`p-2 rounded-full transition-all z-10 relative ${
                 isBookmarked 
-                  ? 'bg-blue-500 text-white hover:bg-blue-600 scale-110' 
+                  ? 'bg-blue-500 text-white hover:bg-blue-600' 
                   : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'
               }`}
               aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
@@ -156,6 +154,7 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
         </>
       ) : (
         <div className="flex items-center w-full gap-4">
+          {/* Content - clickable to open article */}
           <div onClick={handleNewsClick} className="cursor-pointer flex items-center gap-4 flex-1">
             {article.image ? (
               <div className="w-32 h-20 overflow-hidden rounded flex-shrink-0">
@@ -163,9 +162,7 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
                   src={article.image}
                   alt={article.headline}
                   className="w-full h-full object-cover"
-                  onError={(e) => {
-                    e.target.style.display = 'none';
-                  }}
+                  onError={(e) => e.target.style.display = 'none'}
                 />
               </div>
             ) : (
@@ -183,11 +180,16 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
               </span>
             </div>
           </div>
+          
+          {/* Bookmark button - separate from clickable content */}
           <button
+            type="button"
             onClick={handleBookmarkClick}
-            className={`p-2 rounded-full transition-all flex-shrink-0 ${
+            onMouseDown={(e) => e.stopPropagation()}
+            onTouchStart={(e) => e.stopPropagation()}
+            className={`p-2 rounded-full transition-all flex-shrink-0 z-10 relative ${
               isBookmarked 
-                ? 'bg-blue-500 text-white hover:bg-blue-600 scale-110' 
+                ? 'bg-blue-500 text-white hover:bg-blue-600' 
                 : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'
             }`}
             aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
