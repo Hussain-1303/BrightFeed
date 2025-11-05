@@ -59,28 +59,31 @@ const CommentItem = ({ comment, onLike, onReplyLike, darkMode = false, isReply =
             <div className="relative">
               <button
                 onClick={() => setShowOptions(!showOptions)}
-                className={`p-1 rounded-full transition-colors duration-200 hover:bg-neutral-100 dark:hover:bg-neutral-700
-                  ${darkMode ? 'text-neutral-400 hover:text-white' : 'text-neutral-500 hover:text-neutral-700'}
-                `}
+                className={`p-2 rounded-lg transition-colors duration-200
+                  ${darkMode 
+                    ? 'text-neutral-400 hover:text-white hover:bg-neutral-700' 
+                    : 'text-neutral-500 hover:text-neutral-700 hover:bg-neutral-100'
+                  }`}
+                aria-label="More options"
               >
                 ⋯
               </button>
 
               {showOptions && (
-                <div className={`absolute right-0 mt-1 w-32 rounded-lg shadow-lg border z-10
+                <div className={`absolute right-0 mt-2 w-40 rounded-lg shadow-lg border z-10
                   ${darkMode 
                     ? 'bg-neutral-800 border-neutral-700' 
                     : 'bg-white border-neutral-200'
                   }
                 `}>
-                  <button className={`w-full text-left px-3 py-2 text-sm flex items-center gap-2 transition-colors duration-200
+                  <button className={`w-full text-left px-4 py-3 text-sm flex items-center gap-2 transition-colors duration-200 font-medium
                     ${darkMode 
-                      ? 'text-neutral-300 hover:bg-neutral-700' 
-                      : 'text-neutral-600 hover:bg-neutral-100'
+                      ? 'text-error-400 hover:bg-neutral-700 first:rounded-t-lg' 
+                      : 'text-error-600 hover:bg-neutral-50 first:rounded-t-lg'
                     }
                   `}>
                     🚩
-                    Report
+                    Report Comment
                   </button>
                 </div>
               )}

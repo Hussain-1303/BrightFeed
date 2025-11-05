@@ -29031,3 +29031,2827 @@ Description: Summary based on headline: A skeptic spent the night hunting for Ci
 Image: https://media.cnn.com/api/v1/images/stellar/prod/alison-tuck-now-which-direction-is-my-nest.jpg?c=16x9&q=h_270,w_480,c_fill
 Source: https://www.cnn.com/2025/10/23/travel/mcraven-house-ghost-hunt-mississippi
 ==================================================
+
+=== CNN - world - 2025-10-29 20:37:03 ===
+
+=== CBC - world - 2025-10-29 20:37:06 ===
+
+=== NPR - world - 2025-10-29 20:37:11 ===
+
+=== CNN - technology - 2025-10-29 20:37:27 ===
+
+=== NPR - technology - 2025-10-29 20:37:37 ===
+
+=== CNN - business - 2025-10-29 20:37:53 ===
+
+=== CBC - business - 2025-10-29 20:37:55 ===
+
+Headline: U.S. Federal Reserve cuts interest rates for 2nd time this year to boost growth, hiring
+Summary: Summary based on headline: U.S. Federal Reserve cuts interest rates for 2nd time this year to boost ...
+Description: Summary based on headline: U.S. Federal Reserve cuts interest rates for 2nd time this year to boost growth, hiring
+Image: https://i.cbc.ca/ais/c8125a85-b360-442e-8690-f4a658c69022,1761681152332/full/max/0/default.jpg?im=Crop%2Crect%3D%28997%2C0%2C2003%2C2003%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Bodycams worn by Toronto FreshCo employees raise questions about safety and privacy
+Summary: Summary based on headline: Bodycams worn by Toronto FreshCo employees raise questions about safety a...
+Description: Summary based on headline: Bodycams worn by Toronto FreshCo employees raise questions about safety and privacy
+Image: https://i.cbc.ca/1.6231206.1635548594!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/tylercheese.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-29 20:38:00 ===
+
+Headline: The remittance mystery
+Summary: Summary based on headline: The remittance mystery
+Description: Summary based on headline: The remittance mystery
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Ff4%2F461c943d4137bbb178179d2eeaeb%2F71ed744a-3960-469d-97d1-742294d86699.jpg
+Source: https://www.npr.org/2025/10/29/nx-s1-5590256/remittances-surge-central-america-immigration
+==================================================
+
+Headline: Trump says he's confident of a deal ahead of Xi meeting
+Summary: Summary based on headline: Trump says he's confident of a deal ahead of Xi meeting
+Description: Summary based on headline: Trump says he's confident of a deal ahead of Xi meeting
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5061x2847+0+323/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F38%2F937a92d5474e8ba59b109e87da54%2Fgettyimages-2222093457-1.jpg
+Source: https://www.npr.org/2025/10/29/nx-s1-5589729/trump-xi-deal-south-korea-apec
+==================================================
+
+=== CNN - sport - 2025-10-29 20:38:17 ===
+
+Headline: Photo Illustration by Ian Berry/CNN/Getty Images/Adobe Stock
+Summary: Summary based on headline: Photo Illustration by Ian Berry/CNN/Getty Images/Adobe Stock
+Description: Summary based on headline: Photo Illustration by Ian Berry/CNN/Getty Images/Adobe Stock
+Image: https://media.cnn.com/api/v1/images/stellar/prod/20251028-ucl-baseball-gfx-02.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/29/sport/baseball-youth-ucl-injury-crisis-intl
+==================================================
+
+Headline: This injury has plagued MLB for most of the last century, but a new phenomenon is emerging
+Summary: Summary based on headline: This injury has plagued MLB for most of the last century, but a new pheno...
+Description: Summary based on headline: This injury has plagued MLB for most of the last century, but a new phenomenon is emerging
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239435973-1.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/29/sport/baseball-youth-ucl-injury-crisis-intl
+==================================================
+
+Headline: Michael Jordan disapproves of ‘load management’ in today’s basketball and 3 things you missed from Tuesday’s NBA action
+Summary: Summary based on headline: Michael Jordan disapproves of ‘load management’ in today’s basketball and...
+Description: Summary based on headline: Michael Jordan disapproves of ‘load management’ in today’s basketball and 3 things you missed from Tuesday’s NBA action
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-10-29t010327z-1171229687-mt1usatoday27440817-rtrmadp-3-mlb-world-series-toronto-blue-jays-at-los-angeles-dodgers.JPG?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/29/sport/basketball-nba-michael-jordan-load-management-intl
+==================================================
+
+Headline: Vladimir Guerrero’s Jr. 2-run HR off Shohei Ohtani helps Blue Jays even World Series at 2-2 against Dodgers
+Summary: Summary based on headline: Vladimir Guerrero’s Jr. 2-run HR off Shohei Ohtani helps Blue Jays even W...
+Description: Summary based on headline: Vladimir Guerrero’s Jr. 2-run HR off Shohei Ohtani helps Blue Jays even World Series at 2-2 against Dodgers
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1730242333.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/28/sport/baseball-mlb-world-series-game-four-blue-jays-dodgers
+==================================================
+
+Headline: NCAA delays rule change permitting college athletes to bet on professional sports
+Summary: Summary based on headline: NCAA delays rule change permitting college athletes to bet on professiona...
+Description: Summary based on headline: NCAA delays rule change permitting college athletes to bet on professional sports
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2196273419.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/28/sport/ncaa-delays-athlete-gambling-rule-change
+==================================================
+
+Headline: President Trump’s granddaughter gets exemption to LPGA tournament
+Summary: Summary based on headline: President Trump’s granddaughter gets exemption to LPGA tournament
+Description: Summary based on headline: President Trump’s granddaughter gets exemption to LPGA tournament
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243192497.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/28/sport/golf-lpga-kai-trump-exemption
+==================================================
+
+=== CNN - arts - 2025-10-29 20:38:43 ===
+
+=== NPR - arts - 2025-10-29 20:38:52 ===
+
+=== CNN - science - 2025-10-29 20:39:08 ===
+
+=== CBC - science - 2025-10-29 20:39:10 ===
+
+Headline: Hurricane Melissa: a case study in a changing hurricane era
+Summary: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Description: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Image: https://i.cbc.ca/ais/ea0cbe6e-c0a0-421f-9523-5da61f4a7d0d,1761657542415/full/max/0/default.jpg?im=Crop%2Crect%3D%281000%2C0%2C2000%2C2000%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: B.C. man dies weeks after rescuing himself from the jaws of a grizzly bear
+Summary: Summary based on headline: B.C. man dies weeks after rescuing himself from the jaws of a grizzly bea...
+Description: Summary based on headline: B.C. man dies weeks after rescuing himself from the jaws of a grizzly bear
+Image: https://i.cbc.ca/ais/0392318d-30f0-4e1f-a538-db198d343022,1761145522809/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C4608%2C2592%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-29 20:39:15 ===
+
+=== CNN - us - 2025-10-29 20:39:31 ===
+
+=== CNN - politics - 2025-10-29 20:39:55 ===
+
+=== CBC - politics - 2025-10-29 20:39:58 ===
+
+=== NPR - politics - 2025-10-29 20:40:04 ===
+
+=== CNN - health - 2025-10-29 20:40:21 ===
+
+=== CBC - health - 2025-10-29 20:40:25 ===
+
+Headline: More Alberta parents pushing back against vitamin K injection for newborns, some doctors say
+Summary: Summary based on headline: More Alberta parents pushing back against vitamin K injection for newborn...
+Description: Summary based on headline: More Alberta parents pushing back against vitamin K injection for newborns, some doctors say
+Image: https://i.cbc.ca/1.4692736.1528224228!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/jennifer-lee.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-10-29 20:40:30 ===
+
+=== CNN - travel - 2025-10-29 20:40:43 ===
+
+=== CNN - world - 2025-10-29 20:51:07 ===
+
+=== CBC - world - 2025-10-29 20:51:11 ===
+
+=== NPR - world - 2025-10-29 20:51:17 ===
+
+=== CNN - technology - 2025-10-29 20:51:35 ===
+
+=== NPR - technology - 2025-10-29 20:51:42 ===
+
+=== CNN - business - 2025-10-29 20:51:55 ===
+
+=== CBC - business - 2025-10-29 20:51:57 ===
+
+=== NPR - business - 2025-10-29 20:52:01 ===
+
+=== CNN - sport - 2025-10-29 20:52:14 ===
+
+=== CNN - arts - 2025-10-29 20:52:37 ===
+
+=== NPR - arts - 2025-10-29 20:52:44 ===
+
+=== CNN - science - 2025-10-29 20:53:01 ===
+
+=== CBC - science - 2025-10-29 20:53:03 ===
+
+Headline: Hurricane Melissa: a case study in a changing hurricane era
+Summary: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Description: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Image: https://i.cbc.ca/ais/1968962a-1bbb-4472-a960-7725480ea1f3,1761086362346/full/max/0/default.jpg?im=Crop%2Crect%3D%281000%2C0%2C4000%2C4000%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Faulty culverts are harming or killing fish. N.S. environmentalists want that to change
+Summary: Summary based on headline: Faulty culverts are harming or killing fish. N.S. environmentalists want ...
+Description: Summary based on headline: Faulty culverts are harming or killing fish. N.S. environmentalists want that to change
+Image: https://i.cbc.ca/ais/1.7495992,1743172311000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C797%2C5464%2C5464%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-29 20:53:09 ===
+
+=== CNN - us - 2025-10-29 20:53:23 ===
+
+=== CNN - politics - 2025-10-29 20:53:50 ===
+
+=== CBC - politics - 2025-10-29 20:53:52 ===
+
+=== NPR - politics - 2025-10-29 20:53:57 ===
+
+=== CNN - health - 2025-10-29 20:54:14 ===
+
+=== CBC - health - 2025-10-29 20:54:16 ===
+
+=== NPR - health - 2025-10-29 20:54:23 ===
+
+=== CNN - travel - 2025-10-29 20:54:36 ===
+
+=== CNN - world - 2025-10-29 21:04:59 ===
+
+=== CBC - world - 2025-10-29 21:05:02 ===
+
+=== NPR - world - 2025-10-29 21:05:08 ===
+
+Headline: As Darfur's last city falls, fears grow 'there will be no one left to save'
+Summary: Summary based on headline: As Darfur's last city falls, fears grow 'there will be no one left to sav...
+Description: Summary based on headline: As Darfur's last city falls, fears grow 'there will be no one left to save'
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+503/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb8%2Fcd%2F949202494e49aefe132b85d499f7%2Fap25302691980636.jpg
+Source: https://www.npr.org/2025/10/29/nx-s1-5588638/el-fasher-falls-darfur-sudan
+==================================================
+
+=== CNN - technology - 2025-10-29 21:05:24 ===
+
+=== NPR - technology - 2025-10-29 21:05:31 ===
+
+=== CNN - business - 2025-10-29 21:05:47 ===
+
+=== CBC - business - 2025-10-29 21:05:50 ===
+
+Headline: Nvidia rides AI boom to become the first company to reach $5-trillion valuation
+Summary: Summary based on headline: Nvidia rides AI boom to become the first company to reach $5-trillion val...
+Description: Summary based on headline: Nvidia rides AI boom to become the first company to reach $5-trillion valuation
+Image: https://i.cbc.ca/ais/1.7489997,1742577704000/full/max/0/default.jpg?im=Crop%2Crect%3D%28167%2C0%2C112%2C112%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-29 21:05:55 ===
+
+=== CNN - sport - 2025-10-29 21:06:11 ===
+
+=== CNN - arts - 2025-10-29 21:06:37 ===
+
+=== NPR - arts - 2025-10-29 21:06:45 ===
+
+=== CNN - science - 2025-10-29 21:07:01 ===
+
+=== CBC - science - 2025-10-29 21:07:03 ===
+
+=== NPR - science - 2025-10-29 21:07:09 ===
+
+=== CNN - us - 2025-10-29 21:07:24 ===
+
+=== CNN - politics - 2025-10-29 21:07:50 ===
+
+=== CBC - politics - 2025-10-29 21:07:52 ===
+
+=== NPR - politics - 2025-10-29 21:08:00 ===
+
+=== CNN - health - 2025-10-29 21:08:17 ===
+
+=== CBC - health - 2025-10-29 21:08:19 ===
+
+=== NPR - health - 2025-10-29 21:08:24 ===
+
+=== CNN - travel - 2025-10-29 21:08:39 ===
+
+=== CNN - world - 2025-10-29 21:19:03 ===
+
+=== CBC - world - 2025-10-29 21:19:06 ===
+
+=== NPR - world - 2025-10-29 21:19:11 ===
+
+=== CNN - technology - 2025-10-29 21:19:27 ===
+
+=== NPR - technology - 2025-10-29 21:19:36 ===
+
+=== CNN - business - 2025-10-29 21:19:50 ===
+
+=== CBC - business - 2025-10-29 21:19:53 ===
+
+=== NPR - business - 2025-10-29 21:20:00 ===
+
+=== CNN - sport - 2025-10-29 21:20:14 ===
+
+=== CNN - arts - 2025-10-29 21:20:36 ===
+
+=== NPR - arts - 2025-10-29 21:20:44 ===
+
+=== CNN - science - 2025-10-29 21:20:58 ===
+
+=== CBC - science - 2025-10-29 21:21:00 ===
+
+Headline: Hurricane Melissa: a case study in a changing hurricane era
+Summary: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Description: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Image: https://i.cbc.ca/ais/b8c445e5-2e1f-468b-9e11-a97b5745faa6,1761248933901/full/max/0/default.jpg?im=Crop%2Crect%3D%281196%2C0%2C3080%2C3080%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-29 21:21:05 ===
+
+=== CNN - us - 2025-10-29 21:21:20 ===
+
+=== CNN - politics - 2025-10-29 21:21:47 ===
+
+=== CBC - politics - 2025-10-29 21:21:50 ===
+
+=== NPR - politics - 2025-10-29 21:21:56 ===
+
+=== CNN - health - 2025-10-29 21:22:09 ===
+
+=== CBC - health - 2025-10-29 21:22:12 ===
+
+=== NPR - health - 2025-10-29 21:22:17 ===
+
+=== CNN - travel - 2025-10-29 21:22:32 ===
+
+=== CNN - world - 2025-10-29 21:32:57 ===
+
+=== CBC - world - 2025-10-29 21:32:59 ===
+
+=== NPR - world - 2025-10-29 21:33:04 ===
+
+Headline: Nigerian Nobel winner Wole Soyinka says U.S. revoked his visa after Trump criticism
+Summary: Summary based on headline: Nigerian Nobel winner Wole Soyinka says U.S. revoked his visa after Trump...
+Description: Summary based on headline: Nigerian Nobel winner Wole Soyinka says U.S. revoked his visa after Trump criticism
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+183/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2F53%2F6d60a07749adaf8f166eae967d28%2Fgettyimages-2243455207.jpg
+Source: https://www.npr.org/2025/10/29/g-s1-95710/nigerian-nobel-winner-wole-soyinka-visa-trump-criticism
+==================================================
+
+Headline: The Humanitarian Crisis in Sudan Deepens
+Summary: Summary based on headline: The Humanitarian Crisis in Sudan Deepens
+Description: Summary based on headline: The Humanitarian Crisis in Sudan Deepens
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2Fc1%2Fc72c7f6445028787f62e77c84503%2Fap25302214800081.jpg
+Source: https://www.npr.org/2025/10/29/nx-s1-5590181/the-humanitarian-crisis-in-sudan-deepens
+==================================================
+
+=== CNN - technology - 2025-10-29 21:33:21 ===
+
+=== NPR - technology - 2025-10-29 21:33:28 ===
+
+=== CNN - business - 2025-10-29 21:33:46 ===
+
+=== CBC - business - 2025-10-29 21:33:48 ===
+
+=== NPR - business - 2025-10-29 21:33:55 ===
+
+=== CNN - sport - 2025-10-29 21:34:07 ===
+
+=== CNN - arts - 2025-10-29 21:34:33 ===
+
+=== NPR - arts - 2025-10-29 21:34:40 ===
+
+Headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Summary: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Description: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5184x2916+0+270/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2F51%2F9bc2f2a24a7f893c260ab7bbb00b%2Fap25302358805875.jpg
+Source: https://www.npr.org/2025/09/17/nx-s1-5534152/what-to-watch-new-tv
+==================================================
+
+Headline: Nigerian Nobel winner Wole Soyinka says U.S. revoked his visa after Trump criticism
+Summary: Summary based on headline: Nigerian Nobel winner Wole Soyinka says U.S. revoked his visa after Trump...
+Description: Summary based on headline: Nigerian Nobel winner Wole Soyinka says U.S. revoked his visa after Trump criticism
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1695x954+1147+677/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff9%2F39%2F5a6746064c88ae3bc7b3b50fd059%2Fhedda-hedd-2025-fg-00005012-still001rc-rgb.jpg
+Source: https://www.npr.org/2025/10/29/g-s1-95710/nigerian-nobel-winner-wole-soyinka-visa-trump-criticism
+==================================================
+
+=== CNN - science - 2025-10-29 21:34:55 ===
+
+=== CBC - science - 2025-10-29 21:34:57 ===
+
+=== NPR - science - 2025-10-29 21:35:02 ===
+
+=== CNN - us - 2025-10-29 21:35:15 ===
+
+=== CNN - politics - 2025-10-29 21:35:40 ===
+
+=== CBC - politics - 2025-10-29 21:35:44 ===
+
+=== NPR - politics - 2025-10-29 21:35:49 ===
+
+=== CNN - health - 2025-10-29 21:36:05 ===
+
+=== CBC - health - 2025-10-29 21:36:07 ===
+
+=== NPR - health - 2025-10-29 21:36:11 ===
+
+=== CNN - travel - 2025-10-29 21:36:26 ===
+
+=== CNN - world - 2025-10-29 21:46:48 ===
+
+=== CBC - world - 2025-10-29 21:46:50 ===
+
+=== NPR - world - 2025-10-29 21:46:56 ===
+
+=== CNN - technology - 2025-10-29 21:47:10 ===
+
+=== NPR - technology - 2025-10-29 21:47:19 ===
+
+=== CNN - business - 2025-10-29 21:47:34 ===
+
+=== CBC - business - 2025-10-29 21:47:37 ===
+
+=== NPR - business - 2025-10-29 21:47:41 ===
+
+=== CNN - sport - 2025-10-29 21:48:00 ===
+
+=== CNN - arts - 2025-10-29 21:48:23 ===
+
+=== NPR - arts - 2025-10-29 21:48:31 ===
+
+=== CNN - science - 2025-10-29 21:48:46 ===
+
+=== CBC - science - 2025-10-29 21:48:48 ===
+
+Headline: Hurricane Melissa: a case study in a changing hurricane era
+Summary: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Description: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Image: https://i.cbc.ca/ais/1.7543087,1761529741437/full/max/0/default.jpg?im=Crop%2Crect%3D%28520%2C0%2C2082%2C2082%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-29 21:48:53 ===
+
+=== CNN - us - 2025-10-29 21:49:09 ===
+
+=== CNN - politics - 2025-10-29 21:49:32 ===
+
+Headline: Sgt. Andrea Notter/101st Airborne Division/DVIDS
+Summary: Summary based on headline: Sgt. Andrea Notter/101st Airborne Division/DVIDS
+Description: Summary based on headline: Sgt. Andrea Notter/101st Airborne Division/DVIDS
+Image: https://media.cnn.com/api/v1/images/stellar/prod/7924721.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/29/politics/three-star-pushed-out-by-hegseth-caine-over-tensions
+==================================================
+
+=== CBC - politics - 2025-10-29 21:49:35 ===
+
+=== NPR - politics - 2025-10-29 21:49:41 ===
+
+=== CNN - health - 2025-10-29 21:49:57 ===
+
+=== CBC - health - 2025-10-29 21:50:00 ===
+
+Headline: Avian flu strikes farms in B.C.'s Fraser Valley, with 7 outbreaks this month
+Summary: Summary based on headline: Avian flu strikes farms in B.C.'s Fraser Valley, with 7 outbreaks this mo...
+Description: Summary based on headline: Avian flu strikes farms in B.C.'s Fraser Valley, with 7 outbreaks this month
+Image: https://i.cbc.ca/ais/1.7531874,1746835068000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C1200%2C1200%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-10-29 21:50:05 ===
+
+=== CNN - travel - 2025-10-29 21:50:18 ===
+
+=== CNN - world - 2025-10-29 22:00:40 ===
+
+=== CBC - world - 2025-10-29 22:00:43 ===
+
+Headline: Canadian in Jamaica describes aftermath of Hurricane Melissa
+Summary: Summary based on headline: Canadian in Jamaica describes aftermath of Hurricane Melissa
+Description: Summary based on headline: Canadian in Jamaica describes aftermath of Hurricane Melissa
+Image: https://i.cbc.ca/ais/0912df97-58ea-424a-b490-d83d666cee2d,1761787403748/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C5205%2C2927%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-10-29 22:00:48 ===
+
+=== CNN - technology - 2025-10-29 22:01:04 ===
+
+=== NPR - technology - 2025-10-29 22:01:14 ===
+
+=== CNN - business - 2025-10-29 22:01:31 ===
+
+=== CBC - business - 2025-10-29 22:01:33 ===
+
+=== NPR - business - 2025-10-29 22:01:39 ===
+
+=== CNN - sport - 2025-10-29 22:01:54 ===
+
+=== CNN - arts - 2025-10-29 22:02:20 ===
+
+=== NPR - arts - 2025-10-29 22:02:30 ===
+
+=== CNN - science - 2025-10-29 22:02:44 ===
+
+=== CBC - science - 2025-10-29 22:02:47 ===
+
+Headline: Hurricane Melissa: a case study in a changing hurricane era
+Summary: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Description: Summary based on headline: Hurricane Melissa: a case study in a changing hurricane era
+Image: https://i.cbc.ca/ais/99b54ca4-c920-476b-94be-369cbeed5df1,1761574767073/full/max/0/default.jpg?im=Crop%2Crect%3D%28275%2C0%2C630%2C630%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: B.C. man dies weeks after rescuing himself from the jaws of a grizzly bear
+Summary: Summary based on headline: B.C. man dies weeks after rescuing himself from the jaws of a grizzly bea...
+Description: Summary based on headline: B.C. man dies weeks after rescuing himself from the jaws of a grizzly bear
+Image: https://i.cbc.ca/ais/1.7543087,1761529741437/full/max/0/default.jpg?im=Crop%2Crect%3D%28495%2C360%2C2381%2C1339%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-10-29 22:02:53 ===
+
+=== CNN - us - 2025-10-29 22:03:08 ===
+
+=== CNN - politics - 2025-10-29 22:03:32 ===
+
+=== CBC - politics - 2025-10-29 22:03:36 ===
+
+=== NPR - politics - 2025-10-29 22:03:42 ===
+
+=== CNN - health - 2025-10-29 22:03:56 ===
+
+=== CBC - health - 2025-10-29 22:03:58 ===
+
+=== NPR - health - 2025-10-29 22:04:04 ===
+
+=== CNN - travel - 2025-10-29 22:04:25 ===
+
+=== CNN - world - 2025-10-29 22:14:49 ===
+
+Headline: Getty Images
+Summary: Summary based on headline: Getty Images
+Description: Summary based on headline: Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/xitrump-20251028211543034.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/29/asia/us-china-trump-xi-meet-south-korea-intl-hnk
+==================================================
+
+Headline: Trump and Xi meet for first time in six years as world watches where crippling trade war will go next
+Summary: Summary based on headline: Trump and Xi meet for first time in six years as world watches where crip...
+Description: Summary based on headline: Trump and Xi meet for first time in six years as world watches where crippling trade war will go next
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-06-18t164935z-1651184736-rc2z4fang5x6-rtrmadp-3-iran-nuclear-israel-missile.JPG?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/29/asia/us-china-trump-xi-meet-south-korea-intl-hnk
+==================================================
+
+Headline: Western intelligence says Iran is rearming despite UN sanctions, with China’s help
+Summary: Summary based on headline: Western intelligence says Iran is rearming despite UN sanctions, with Chi...
+Description: Summary based on headline: Western intelligence says Iran is rearming despite UN sanctions, with China’s help
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2239332583.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/29/middleeast/iran-rebuilding-ballistic-weapons-program-intl
+==================================================
+
+=== CBC - world - 2025-10-29 22:14:52 ===
+
+=== NPR - world - 2025-10-29 22:14:58 ===
+
+=== CNN - technology - 2025-10-29 22:15:13 ===
+
+=== NPR - technology - 2025-10-29 22:15:19 ===
+
+=== CNN - business - 2025-10-29 22:15:35 ===
+
+=== CBC - business - 2025-10-29 22:15:37 ===
+
+Headline: U.S. Federal Reserve cuts interest rates for 2nd time this year to boost growth, hiring
+Summary: Summary based on headline: U.S. Federal Reserve cuts interest rates for 2nd time this year to boost ...
+Description: Summary based on headline: U.S. Federal Reserve cuts interest rates for 2nd time this year to boost growth, hiring
+Image: https://i.cbc.ca/ais/653e5abc-ded3-464b-8ebf-123438e1cccf,1761749258895/full/max/0/default.jpg?im=Crop%2Crect%3D%28475%2C0%2C2001%2C2001%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with U.S. government
+Summary: Summary based on headline: Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with ...
+Description: Summary based on headline: Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with U.S. government
+Image: https://i.cbc.ca/ais/d59c1050-d86a-4a64-b6cd-e943109d115d,1761691157994/full/max/0/default.jpg?im=Crop%2Crect%3D%281238%2C0%2C4640%2C4640%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-10-29 22:15:45 ===
+
+=== CNN - sport - 2025-10-29 22:16:01 ===
+
+=== CNN - arts - 2025-10-29 22:16:27 ===
+
+=== NPR - arts - 2025-10-29 22:16:36 ===
+
+=== CNN - science - 2025-10-29 22:16:52 ===
+
+=== CBC - science - 2025-10-29 22:16:55 ===
+
+=== NPR - science - 2025-10-29 22:17:00 ===
+
+=== CNN - us - 2025-10-29 22:17:15 ===
+
+=== CNN - politics - 2025-10-29 22:17:40 ===
+
+=== CBC - politics - 2025-10-29 22:17:42 ===
+
+=== NPR - politics - 2025-10-29 22:17:49 ===
+
+=== CNN - health - 2025-10-29 22:18:03 ===
+
+=== CBC - health - 2025-10-29 22:18:07 ===
+
+=== NPR - health - 2025-10-29 22:18:13 ===
+
+=== CNN - travel - 2025-10-29 22:18:28 ===
+
+=== CNN - world - 2025-10-29 22:28:55 ===
+
+=== CBC - world - 2025-10-29 22:28:57 ===
+
+=== NPR - world - 2025-10-29 22:29:03 ===
+
+=== CNN - technology - 2025-10-29 22:29:21 ===
+
+=== NPR - technology - 2025-10-29 22:29:28 ===
+
+=== CNN - business - 2025-10-29 22:29:40 ===
+
+=== CBC - business - 2025-10-29 22:29:43 ===
+
+=== NPR - business - 2025-10-29 22:29:49 ===
+
+=== CNN - sport - 2025-10-29 22:30:02 ===
+
+=== CNN - arts - 2025-10-29 22:30:30 ===
+
+=== NPR - arts - 2025-10-29 22:30:39 ===
+
+=== CNN - science - 2025-10-29 22:30:54 ===
+
+=== CBC - science - 2025-10-29 22:30:57 ===
+
+=== NPR - science - 2025-10-29 22:31:04 ===
+
+=== CNN - us - 2025-10-29 22:31:19 ===
+
+=== CNN - politics - 2025-10-29 22:31:44 ===
+
+=== CBC - politics - 2025-10-29 22:31:46 ===
+
+=== NPR - politics - 2025-10-29 22:31:54 ===
+
+=== CNN - health - 2025-10-29 22:32:12 ===
+
+=== CBC - health - 2025-10-29 22:32:16 ===
+
+=== NPR - health - 2025-10-29 22:32:20 ===
+
+=== CNN - travel - 2025-10-29 22:32:35 ===
+
+=== CNN - world - 2025-10-29 22:42:58 ===
+
+=== CBC - world - 2025-10-29 22:43:01 ===
+
+=== NPR - world - 2025-10-29 22:43:05 ===
+
+=== CNN - technology - 2025-10-29 22:43:20 ===
+
+=== NPR - technology - 2025-10-29 22:43:27 ===
+
+=== CNN - business - 2025-10-29 22:43:43 ===
+
+=== CBC - business - 2025-10-29 22:43:46 ===
+
+=== NPR - business - 2025-10-29 22:43:52 ===
+
+=== CNN - sport - 2025-10-29 22:44:06 ===
+
+=== CNN - arts - 2025-10-29 22:44:32 ===
+
+=== NPR - arts - 2025-10-29 22:44:41 ===
+
+=== CNN - science - 2025-10-29 22:44:55 ===
+
+=== CBC - science - 2025-10-29 22:44:57 ===
+
+=== NPR - science - 2025-10-29 22:45:03 ===
+
+=== CNN - us - 2025-10-29 22:45:16 ===
+
+=== CNN - politics - 2025-10-29 22:45:40 ===
+
+Headline: CNN
+Summary: Summary based on headline: CNN
+Description: Summary based on headline: CNN
+Image: https://media.cnn.com/api/v1/images/stellar/prod/150318130028-breaking-news-t1.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/29/politics/us-strikes-another-boat-pacific
+==================================================
+
+=== CBC - politics - 2025-10-29 22:45:43 ===
+
+=== NPR - politics - 2025-10-29 22:45:48 ===
+
+=== CNN - health - 2025-10-29 22:46:06 ===
+
+=== CBC - health - 2025-10-29 22:46:08 ===
+
+=== NPR - health - 2025-10-29 22:46:14 ===
+
+=== CNN - travel - 2025-10-29 22:46:29 ===
+
+=== CNN - world - 2025-11-04 19:21:03 ===
+
+Headline: Yves Herman/Reuters
+Summary: Summary based on headline: Yves Herman/Reuters
+Description: Summary based on headline: Yves Herman/Reuters
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c-2025-11-04t213516z-738958578-rc2xphaijhpf-rtrmadp-3-belgium-security-airport.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/europe/drones-close-brussels-liege-airports-latam-intl
+==================================================
+
+Headline: Drone sightings close Brussels, Liege airports
+Summary: Summary based on headline: Drone sightings close Brussels, Liege airports
+Description: Summary based on headline: Drone sightings close Brussels, Liege airports
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244297832.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/europe/drones-close-brussels-liege-airports-latam-intl
+==================================================
+
+Headline: Deadly quake rocks Afghanistan leaving iconic Blue Mosque surrounded by rubble
+Summary: Summary based on headline: Deadly quake rocks Afghanistan leaving iconic Blue Mosque surrounded by r...
+Description: Summary based on headline: Deadly quake rocks Afghanistan leaving iconic Blue Mosque surrounded by rubble
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237905914.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/02/asia/northern-afghanistan-earthquake-latam-intl
+==================================================
+
+=== CBC - world - 2025-11-04 19:21:05 ===
+
+Headline: Key state, local elections unfolding across U.S., with Trump factor looming
+Summary: Summary based on headline: Key state, local elections unfolding across U.S., with Trump factor loomi...
+Description: Summary based on headline: Key state, local elections unfolding across U.S., with Trump factor looming
+Image: https://i.cbc.ca/ais/e1531ff7-0512-49b4-aa1f-765ce8608ace,1762300581345/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C190%2C3649%2C2052%29%3BResize%3D780
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Could New York's mayoral front-runner be the saviour of the Democratic Party?
+Summary: Summary based on headline: Could New York's mayoral front-runner be the saviour of the Democratic Pa...
+Description: Summary based on headline: Could New York's mayoral front-runner be the saviour of the Democratic Party?
+Image: https://i.cbc.ca/ais/0f6713bc-9fe6-448a-894e-0ce85d246f66,1762269509261/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7179%2C4038%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Win or lose at the Supreme Court, Trump has other tariff tools at his disposal
+Summary: Summary based on headline: Win or lose at the Supreme Court, Trump has other tariff tools at his dis...
+Description: Summary based on headline: Win or lose at the Supreme Court, Trump has other tariff tools at his disposal
+Image: https://i.cbc.ca/ais/aaf7d8ab-805d-4c9d-be76-81f709bbba26,1762296260909/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C95%2C4500%2C2531%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: German probe of suspected fraud and money-laundering extends to Canada
+Summary: Summary based on headline: German probe of suspected fraud and money-laundering extends to Canada
+Description: Summary based on headline: German probe of suspected fraud and money-laundering extends to Canada
+Image: https://i.cbc.ca/ais/f03eab10-506e-4cbd-b7b5-bec96d94d564,1762217012625/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1468%2C825%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: China’s spy joke with South Korea that sounded like a warning | About That
+Summary: Summary based on headline: China’s spy joke with South Korea that sounded like a warning | About Tha...
+Description: Summary based on headline: China’s spy joke with South Korea that sounded like a warning | About That
+Image: https://i.cbc.ca/ais/1.7628034,1757353429000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C73%2C2000%2C2000%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Sydney Sweeney says she put her phone away during the American Eagle jeans ad controversy
+Summary: Summary based on headline: Sydney Sweeney says she put her phone away during the American Eagle jean...
+Description: Summary based on headline: Sydney Sweeney says she put her phone away during the American Eagle jeans ad controversy
+Image: https://i.cbc.ca/ais/1.6814190,1681838324000/full/max/0/default.jpg?im=Crop%2Crect%3D%2850%2C197%2C1417%2C1417%29%3BResize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-04 19:21:10 ===
+
+Headline: The Story of Three Defiant Nuns in Austria
+Summary: Summary based on headline: The Story of Three Defiant Nuns in Austria
+Description: Summary based on headline: The Story of Three Defiant Nuns in Austria
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3739x2103+0+80/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F8f%2Fc6598a644ba7adc17c3a99829502%2Fgettyimages-1415300334.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5598458/the-story-of-three-defiant-nuns-in-austria
+==================================================
+
+Headline: Former Vice President Dick Cheney dies. And, Election Day races to watch
+Summary: Summary based on headline: Former Vice President Dick Cheney dies. And, Election Day races to watch
+Description: Summary based on headline: Former Vice President Dick Cheney dies. And, Election Day races to watch
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7289x4100+0+396/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F0e%2F73d99fff47bc95f263284432a78d%2Fgettyimages-2235988566.jpg
+Source: https://www.npr.org/2025/11/04/g-s1-96433/up-first-briefing-former-vp-dick-cheney-dies-election-day-races
+==================================================
+
+Headline: Meet the Austrian nuns who fled a care home to break into their old convent
+Summary: Summary based on headline: Meet the Austrian nuns who fled a care home to break into their old conve...
+Description: Summary based on headline: Meet the Austrian nuns who fled a care home to break into their old convent
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F64%2Fc36177d04afd81b003abdd977420%2Fmg-6361.JPG
+Source: https://www.npr.org/2025/11/04/g-s1-95178/austria-nuns-flee
+==================================================
+
+Headline: The Dalai Lama created a Tibetan capital in exile in India. It's shrinking
+Summary: Summary based on headline: The Dalai Lama created a Tibetan capital in exile in India. It's shrinkin...
+Description: Summary based on headline: The Dalai Lama created a Tibetan capital in exile in India. It's shrinking
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6478x3644+0+337/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fc2%2F570fd1c748bf8d83ffe3e10eebf8%2Fap25306666118273.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5576353/tibetans-exile-india-dharamshala-tibet
+==================================================
+
+Headline: Israel rocked by scandal as top military lawyer is thrown into jail
+Summary: Summary based on headline: Israel rocked by scandal as top military lawyer is thrown into jail
+Description: Summary based on headline: Israel rocked by scandal as top military lawyer is thrown into jail
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F45%2F1774d8d1494f95d545edd56f2179%2Fdate-farm-10.JPG
+Source: https://www.npr.org/2025/11/04/g-s1-96413/israel-scandal-top-military-lawyer-thrown-into-jail
+==================================================
+
+Headline: An Annual Ritual in the West Bank Now Under Threat
+Summary: Summary based on headline: An Annual Ritual in the West Bank Now Under Threat
+Description: Summary based on headline: An Annual Ritual in the West Bank Now Under Threat
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5912x3326+0+308/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2Fd9%2F48598bce44f991923537002e2cf4%2Fap25303447504729.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5597017/an-annual-ritual-in-the-west-bank-now-under-threat
+==================================================
+
+Headline: Tanzanian opposition decries 'sham' elections, alleges hundreds of deaths
+Summary: Summary based on headline: Tanzanian opposition decries 'sham' elections, alleges hundreds of deaths
+Description: Summary based on headline: Tanzanian opposition decries 'sham' elections, alleges hundreds of deaths
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+6/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2Fdf%2F61af7775427cb00ce6d466b8b694%2Fap25307474903508.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5594858/tanzanian-opposition-decries-sham-elections-alleges-hundreds-of-deaths
+==================================================
+
+Headline: Nearly 400,000 people are starving in Sudan, a new report finds
+Summary: Summary based on headline: Nearly 400,000 people are starving in Sudan, a new report finds
+Description: Summary based on headline: Nearly 400,000 people are starving in Sudan, a new report finds
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+47/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Fe1%2F6d019ef847468a3eee882c75c922%2F5577668-kuhn-9.JPG
+Source: https://www.npr.org/2025/11/03/g-s1-96318/famine-spreads-to-two-more-areas-in-sudan-global-hunger-authority-says
+==================================================
+
+Headline: Rigid gender roles are prompting women to leave rural Japan
+Summary: Summary based on headline: Rigid gender roles are prompting women to leave rural Japan
+Description: Summary based on headline: Rigid gender roles are prompting women to leave rural Japan
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F63%2Fe2fa7a3f419ea92a787a34f28614%2Flbn-npr-diegoibarra-020.jpg
+Source: https://www.npr.org/2025/11/03/g-s1-95310/japan-population-decline-gender-inequality
+==================================================
+
+Headline: Despite a ceasefire, Israel has demolished villages in southern Lebanon
+Summary: Summary based on headline: Despite a ceasefire, Israel has demolished villages in southern Lebanon
+Description: Summary based on headline: Despite a ceasefire, Israel has demolished villages in southern Lebanon
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7263x4085+0+378/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2Fae%2F20f132c641bfabcd550fe46a85d6%2Fap25306740000305.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5566124/israel-south-lebanon-villages
+==================================================
+
+=== CNN - technology - 2025-11-04 19:21:29 ===
+
+Headline: SNAP isn’t just a moral imperative. It’s good for business, too
+Summary: Summary based on headline: SNAP isn’t just a moral imperative. It’s good for business, too
+Description: Summary based on headline: SNAP isn’t just a moral imperative. It’s good for business, too
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ai-tennis-thumb-still001.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/business/snap-hunger-business
+==================================================
+
+Headline: VideoNo tennis coach? No problem thanks to AI boom3:27
+Summary: Summary based on headline: VideoNo tennis coach? No problem thanks to AI boom3:27
+Description: Summary based on headline: VideoNo tennis coach? No problem thanks to AI boom3:27
+Image: https://media.cnn.com/api/v1/images/stellar/prod/20251104-ai-ceo-clone-final.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/business/video/tennis-ai-coaching-creators-digvid
+==================================================
+
+Headline: Want to get ahead? Talk to your (AI) CEO
+Summary: Summary based on headline: Want to get ahead? Talk to your (AI) CEO
+Description: Summary based on headline: Want to get ahead? Talk to your (AI) CEO
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243473224.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/tech/ai-ceo-company-chatbot-persona
+==================================================
+
+Headline: Saudi Arabia is making a massive bet on becoming a global AI powerhouse
+Summary: Summary based on headline: Saudi Arabia is making a massive bet on becoming a global AI powerhouse
+Description: Summary based on headline: Saudi Arabia is making a massive bet on becoming a global AI powerhouse
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243425532.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/02/tech/saudi-arabia-ai-powerhouse
+==================================================
+
+=== NPR - technology - 2025-11-04 19:21:38 ===
+
+Headline: How one tech startup is giving cash to SNAP recipients
+Summary: Summary based on headline: How one tech startup is giving cash to SNAP recipients
+Description: Summary based on headline: How one tech startup is giving cash to SNAP recipients
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2144x1206+0+0/resize/800/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F35%2F910e6d7c44919c5095a5ce8ff71b%2Fscreenshot-2025-10-29-at-3-11-06-pm.png
+Source: https://www.npr.org/2025/11/04/nx-s1-5587728/snap-shutdown-propel-tech-startup-cash-donations
+==================================================
+
+Headline: What Wikipedia and Grokipedia are saying about each other
+Summary: Summary based on headline: What Wikipedia and Grokipedia are saying about each other
+Description: Summary based on headline: What Wikipedia and Grokipedia are saying about each other
+Image: https://media.npr.org/assets/img/2023/03/08/gettyimages-1281549030_wide-3405a9bbed4a952bc298ffcbdfb64664465fddd2.jpg?s=800&c=85&f=jpeg
+Source: https://www.npr.org/2025/10/29/nx-s1-5588695/wikipedia-grokipedia-comparison
+==================================================
+
+Headline: Want to opt out of AI? State labeling laws might help
+Summary: Summary based on headline: Want to opt out of AI? State labeling laws might help
+Description: Summary based on headline: Want to opt out of AI? State labeling laws might help
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7513x4226+0+196/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2Fe9%2F728516b84386b59fb25294c94367%2Fgettyimages-1678079594.jpg
+Source: https://www.npr.org/2025/10/28/nx-s1-5575748/some-states-want-labels-ai-opt-out
+==================================================
+
+Headline: Amazon lays off thousands of corporate workers as it spends big on AI
+Summary: Summary based on headline: Amazon lays off thousands of corporate workers as it spends big on AI
+Description: Summary based on headline: Amazon lays off thousands of corporate workers as it spends big on AI
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+155/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F65%2Fe98916c14fb18c528ca57022839c%2Fgettyimages-88589748.jpg
+Source: https://www.npr.org/2025/10/28/nx-s1-5588545/amazon-layoffs-corporate-workers-ai
+==================================================
+
+Headline: Your favorite band has a new single? It might be AI
+Summary: Summary based on headline: Your favorite band has a new single? It might be AI
+Description: Summary based on headline: Your favorite band has a new single? It might be AI
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+22/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2F2e%2F416c9dc747d5840ed96e7c1b4910%2Fap25050809506210.jpg
+Source: https://www.npr.org/2025/10/27/nx-s1-5587852/spotify-ai-music-fakes
+==================================================
+
+Headline: Tech CEOs say the era of 'code by AI' is here. Some software engineers are skeptical
+Summary: Summary based on headline: Tech CEOs say the era of 'code by AI' is here. Some software engineers ar...
+Description: Summary based on headline: Tech CEOs say the era of 'code by AI' is here. Some software engineers are skeptical
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x3402+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F31%2F4873900c4d468705cbe2722901e6%2Fgettyimages-1808363793.jpg
+Source: https://www.npr.org/2025/10/21/nx-s1-5506141/ai-code-software-productivity-claims
+==================================================
+
+Headline: Outage at Amazon Web Services disrupts websites across the internet
+Summary: Summary based on headline: Outage at Amazon Web Services disrupts websites across the internet
+Description: Summary based on headline: Outage at Amazon Web Services disrupts websites across the internet
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+150/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F9c%2Fd3c31ef24ae794cab8533bfc0c13%2Fsoraaidiptych.jpg
+Source: https://www.npr.org/2025/10/20/nx-s1-5580312/aws-outage
+==================================================
+
+Headline: Hollywood pushes OpenAI for consent
+Summary: Summary based on headline: Hollywood pushes OpenAI for consent
+Description: Summary based on headline: Hollywood pushes OpenAI for consent
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2843x1599+0+153/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F31%2Fe42620414216985d478b18cc28ac%2Fgettyimages-1400867517.jpg
+Source: https://www.npr.org/2025/10/20/nx-s1-5567119/sora-2-openai-hollywood
+==================================================
+
+Headline: Trump's fake video featured 'Danger Zone.' Musician Kenny Loggins wants it scrubbed
+Summary: Summary based on headline: Trump's fake video featured 'Danger Zone.' Musician Kenny Loggins wants i...
+Description: Summary based on headline: Trump's fake video featured 'Danger Zone.' Musician Kenny Loggins wants it scrubbed
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F1d%2Ff6c6ab47418fa961c3bb55535c86%2F28a04d70-8a4b-4470-b966-9537e6b39dac.jpg
+Source: https://www.npr.org/2025/10/20/nx-s1-5580328/kenny-loggins-donald-trump-ai-video
+==================================================
+
+Headline: Why the internet sucks (and keeps getting worse)
+Summary: Summary based on headline: Why the internet sucks (and keeps getting worse)
+Description: Summary based on headline: Why the internet sucks (and keeps getting worse)
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2Ff8%2F37b2d7944de78ca57d5120918fd4%2Fschumeraiad.jpg
+Source: https://www.npr.org/2025/10/20/nx-s1-5578206/internet-worse-enshittification
+==================================================
+
+=== CNN - business - 2025-11-04 19:21:55 ===
+
+Headline: SNAP isn’t just a moral imperative. It’s good for business, too
+Summary: Summary based on headline: SNAP isn’t just a moral imperative. It’s good for business, too
+Description: Summary based on headline: SNAP isn’t just a moral imperative. It’s good for business, too
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25307572227820.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/business/snap-hunger-business
+==================================================
+
+Headline: SNAP isn’t just a moral imperative. It’s good for business, too
+Summary: Summary based on headline: SNAP isn’t just a moral imperative. It’s good for business, too
+Description: Summary based on headline: SNAP isn’t just a moral imperative. It’s good for business, too
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25308575777517.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/business/snap-hunger-business
+==================================================
+
+Headline: Ultra-fast fashion and ‘childlike’ sex dolls: Why Shein isn’t winning friends in France
+Summary: Summary based on headline: Ultra-fast fashion and ‘childlike’ sex dolls: Why Shein isn’t winning fri...
+Description: Summary based on headline: Ultra-fast fashion and ‘childlike’ sex dolls: Why Shein isn’t winning friends in France
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2207732906.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/business/shein-fast-fashion-sex-dolls-france-intl
+==================================================
+
+Headline: Stellantis recalls 375,000 Jeep SUVs over fire risks, urges owners to park outside
+Summary: Summary based on headline: Stellantis recalls 375,000 Jeep SUVs over fire risks, urges owners to par...
+Description: Summary based on headline: Stellantis recalls 375,000 Jeep SUVs over fire risks, urges owners to park outside
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2199677294.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/business/jeep-recall-hybrids-fire
+==================================================
+
+=== CBC - business - 2025-11-04 19:21:59 ===
+
+Headline: Carney's 1st budget calls for billions in new spending to prop up tariff-hit economy
+Summary: Summary based on headline: Carney's 1st budget calls for billions in new spending to prop up tariff-...
+Description: Summary based on headline: Carney's 1st budget calls for billions in new spending to prop up tariff-hit economy
+Image: https://i.cbc.ca/ais/1.7125854,1708969479000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C610%2C610%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Young people are facing a crisis of high unemployment. Here’s how the budget addresses that
+Summary: Summary based on headline: Young people are facing a crisis of high unemployment. Here’s how the bud...
+Description: Summary based on headline: Young people are facing a crisis of high unemployment. Here’s how the budget addresses that
+Image: https://i.cbc.ca/ais/1.7286585,1722971443000/full/max/0/default.jpg?im=Crop%2Crect%3D%28179%2C0%2C3127%2C3127%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Chrysler recalling 20,000 Jeep vehicles in Canada due to faulty battery that can catch fire
+Summary: Summary based on headline: Chrysler recalling 20,000 Jeep vehicles in Canada due to faulty battery t...
+Description: Summary based on headline: Chrysler recalling 20,000 Jeep vehicles in Canada due to faulty battery that can catch fire
+Image: https://i.cbc.ca/ais/c366512f-61ef-4f58-bb66-38ff18926b82,1761937876580/full/max/0/default.jpg?im=Crop%2Crect%3D%28750%2C0%2C3000%2C3000%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Why some airline travellers are opting for a seat upgrade, despite the big price tag
+Summary: Summary based on headline: Why some airline travellers are opting for a seat upgrade, despite the bi...
+Description: Summary based on headline: Why some airline travellers are opting for a seat upgrade, despite the big price tag
+Image: https://i.cbc.ca/ais/1.7635434,1758051706000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C288%2C288%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with U.S. government
+Summary: Summary based on headline: Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with ...
+Description: Summary based on headline: Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with U.S. government
+Image: https://i.cbc.ca/ais/3688665c-b984-4733-aa87-4ac53445e517,1762191806698/full/max/0/default.jpg?im=Crop%2Crect%3D%281155%2C0%2C2970%2C2970%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Canada will start dispute resolution process over Stellantis jobs lost to U.S., Joly says
+Summary: Summary based on headline: Canada will start dispute resolution process over Stellantis jobs lost to...
+Description: Summary based on headline: Canada will start dispute resolution process over Stellantis jobs lost to U.S., Joly says
+Image: https://i.cbc.ca/1.4288279.1505333487!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/sc.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Canada's economy shrank by 0.3% in August
+Summary: Summary based on headline: Canada's economy shrank by 0.3% in August
+Description: Summary based on headline: Canada's economy shrank by 0.3% in August
+Image: https://i.cbc.ca/ais/df92ae09-fc32-4a5e-8510-65b4694b9737,1761487688842/full/max/0/default.jpg?im=Crop%2Crect%3D%28779%2C0%2C3118%2C3118%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: The case for spending $500M on a single Toronto Blue Jay
+Summary: Summary based on headline: The case for spending $500M on a single Toronto Blue Jay
+Description: Summary based on headline: The case for spending $500M on a single Toronto Blue Jay
+Image: https://i.cbc.ca/ais/1.7411885,1734383354000/full/max/0/default.jpg?im=Crop%2Crect%3D%28756%2C16%2C716%2C716%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: This Alberta mountain town plays a big role in the fitness watch craze
+Summary: Summary based on headline: This Alberta mountain town plays a big role in the fitness watch craze
+Description: Summary based on headline: This Alberta mountain town plays a big role in the fitness watch craze
+Image: https://i.cbc.ca/ais/1.7391428,1732314529000/full/max/0/default.jpg?im=Crop%2Crect%3D%28467%2C0%2C1200%2C1200%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-04 19:22:05 ===
+
+Headline: Tariffs are going to the Supreme Court. What's at stake?
+Summary: Summary based on headline: Tariffs are going to the Supreme Court. What's at stake?
+Description: Summary based on headline: Tariffs are going to the Supreme Court. What's at stake?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2814+0+439/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F5e%2F03e4809a42a4bd37b0cedc9bdb81%2Fgettyimages-2236600701.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5597886/tariffs-are-going-to-the-supreme-court-whats-at-stake
+==================================================
+
+Headline: 'Teen Vogue' is moving under Vogue.com — and staffers are being laid off
+Summary: Summary based on headline: 'Teen Vogue' is moving under Vogue.com — and staffers are being laid off
+Description: Summary based on headline: 'Teen Vogue' is moving under Vogue.com — and staffers are being laid off
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+159/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F4d%2F952d3e024eb980183d35fe429221%2Fap24327847666171.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5598290/teen-vogue-layoffs
+==================================================
+
+Headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25
+Summary: Summary based on headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes ...
+Description: Summary based on headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1505x847+0+144/resize/300/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2Fc3%2Fea402c3d488a8dca882bb194fa66%2Fgettyimages-2168815200.png
+Source: https://www.npr.org/2025/11/04/nx-s1-5598279/listeria-outbreak-prepared-pasta
+==================================================
+
+Headline: A Planet Money Guide To Five Fascinating Economic Studies
+Summary: Summary based on headline: A Planet Money Guide To Five Fascinating Economic Studies
+Description: Summary based on headline: A Planet Money Guide To Five Fascinating Economic Studies
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3397x1911+0+320/resize/300/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Fc8%2F444ba5ad49dbaae206d571f5e908%2Fjimmy-npr.png
+Source: https://www.npr.org/sections/planet-money/2025/11/04/g-s1-96043/a-planet-money-guide-to-five-fascinating-economic-studies
+==================================================
+
+Headline: How one tech startup is giving cash to SNAP recipients
+Summary: Summary based on headline: How one tech startup is giving cash to SNAP recipients
+Description: Summary based on headline: How one tech startup is giving cash to SNAP recipients
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2Fbe%2F8ac0f0ed4050a654f8bc2132ac84%2Fa52fccd1-2cf5-4d91-826d-6e44a750bfc4.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5587728/snap-shutdown-propel-tech-startup-cash-donations
+==================================================
+
+Headline: How Apple's market power blocked ICEBlock
+Summary: Summary based on headline: How Apple's market power blocked ICEBlock
+Description: Summary based on headline: How Apple's market power blocked ICEBlock
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1350+0+122/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2Ff0%2F17fde0aa4369a439c26a51576bed%2Fgettyimages-1089049142.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5596969/how-apples-market-power-blocked-iceblock
+==================================================
+
+Headline: Public workers could be denied loan forgiveness if cities defy Trump, lawsuit alleges
+Summary: Summary based on headline: Public workers could be denied loan forgiveness if cities defy Trump, law...
+Description: Summary based on headline: Public workers could be denied loan forgiveness if cities defy Trump, lawsuit alleges
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+197/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fd4%2F1e5e56a8463b8cc4e21b2fec3885%2Fgettyimages-469708156.jpeg
+Source: https://www.npr.org/2025/11/03/nx-s1-5591157/trump-pslf-teachers-loan-forgiveness
+==================================================
+
+Headline: Huggies maker Kimberly-Clark is buying Tylenol maker Kenvue
+Summary: Summary based on headline: Huggies maker Kimberly-Clark is buying Tylenol maker Kenvue
+Description: Summary based on headline: Huggies maker Kimberly-Clark is buying Tylenol maker Kenvue
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F70%2F5e5bef4b4dea9f4f4ab29c1bd732%2Ffc5caa83-d13f-4d30-b093-6984b60a540d.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5595923/kimberly-clark-huggies-buying-kenvue-tylenol
+==================================================
+
+Headline: When AI is your job interviewer
+Summary: Summary based on headline: When AI is your job interviewer
+Description: Summary based on headline: When AI is your job interviewer
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2F88%2Fef53cc1549bcb7e92191c65c70e6%2Fc8347a1d-586c-4bfa-a34e-52b2fd6ed7da.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5593168/when-ai-is-your-job-interviewer
+==================================================
+
+Headline: Why this episode wouldn't work in print
+Summary: Summary based on headline: Why this episode wouldn't work in print
+Description: Summary based on headline: Why this episode wouldn't work in print
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2F73%2F53cc43ee487fa7cda3a9757b4e4c%2Fplanet-money-wide-image.jpg
+Source: https://www.npr.org/2025/11/01/nx-s1-5594201/why-this-episode-wouldnt-work-in-print
+==================================================
+
+=== CNN - sport - 2025-11-04 19:22:21 ===
+
+Headline: Eric Thayer/Los Angeles Times/Getty Images
+Summary: Summary based on headline: Eric Thayer/Los Angeles Times/Getty Images
+Description: Summary based on headline: Eric Thayer/Los Angeles Times/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244382578.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/03/sport/baseball-mlb-los-angeles-dodgers-world-series-parade
+==================================================
+
+Headline: Dodgers celebrate back-to-back World Series wins with parade through Los Angeles
+Summary: Summary based on headline: Dodgers celebrate back-to-back World Series wins with parade through Los ...
+Description: Summary based on headline: Dodgers celebrate back-to-back World Series wins with parade through Los Angeles
+Image: https://media.cnn.com/api/v1/images/stellar/prod/20251104-sabalenka-kyrgios.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/03/sport/baseball-mlb-los-angeles-dodgers-world-series-parade
+==================================================
+
+Headline: Aryna Sabalenka to play Nick Kyrgios in ‘Battle of the Sexes’ exhibition match
+Summary: Summary based on headline: Aryna Sabalenka to play Nick Kyrgios in ‘Battle of the Sexes’ exhibition ...
+Description: Summary based on headline: Aryna Sabalenka to play Nick Kyrgios in ‘Battle of the Sexes’ exhibition match
+Image: https://media.cnn.com/api/v1/images/stellar/prod/07-gettyimages-2244690006.JPG?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/sport/tennis-sabalenka-kyrgios-battle-of-the-sexes-match
+==================================================
+
+Headline: A wild finish in Cincy, a star player’s gruesome injury and multiple games come down to the final seconds in NFL’s Week 9
+Summary: Summary based on headline: A wild finish in Cincy, a star player’s gruesome injury and multiple game...
+Description: Summary based on headline: A wild finish in Cincy, a star player’s gruesome injury and multiple games come down to the final seconds in NFL’s Week 9
+Image: https://media.cnn.com/api/v1/images/stellar/prod/08-gettyimages-2244680255.JPG?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/03/sport/nfl-wrap-week-9
+==================================================
+
+Headline: Why there are so many long field goals in the NFL this season, including a record-setter
+Summary: Summary based on headline: Why there are so many long field goals in the NFL this season, including ...
+Description: Summary based on headline: Why there are so many long field goals in the NFL this season, including a record-setter
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25306161274714.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/03/sport/why-there-are-so-many-long-field-goals-in-the-nfl-this-season-including-a-new-record-setter
+==================================================
+
+Headline: Yoshinobu Yamamoto etches himself into World Series lore with gutsy performance in Game 7
+Summary: Summary based on headline: Yoshinobu Yamamoto etches himself into World Series lore with gutsy perfo...
+Description: Summary based on headline: Yoshinobu Yamamoto etches himself into World Series lore with gutsy performance in Game 7
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244522430.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/02/sport/baseball-mlb-yoshinobu-yamamoto-world-series-mvp
+==================================================
+
+=== CNN - arts - 2025-11-04 19:22:44 ===
+
+Headline: Timothy Norris/Getty Images
+Summary: Summary based on headline: Timothy Norris/Getty Images
+Description: Summary based on headline: Timothy Norris/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2211270836.jpg?c=16x9&q=h_720,w_1280,c_fill
+Source: https://www.cnn.com/2025/11/04/style/amaarae-music-black-star-album
+==================================================
+
+Headline: Rising ‘Black Star’ singer Amaarae takes center stageThe up-and-coming artist talks touring, her favorite fashion show of the year, and the problem with being a pop star today.
+Summary: Summary based on headline: Rising ‘Black Star’ singer Amaarae takes center stageThe up-and-coming ar...
+Description: Summary based on headline: Rising ‘Black Star’ singer Amaarae takes center stageThe up-and-coming artist talks touring, her favorite fashion show of the year, and the problem with being a pop star today.
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c2-maurizio-cattelan-america-2016-courtesy-sotheby-s.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/style/amaarae-music-black-star-album
+==================================================
+
+Headline: How much would you pay for an infamous gold toilet?
+Summary: Summary based on headline: How much would you pay for an infamous gold toilet?
+Description: Summary based on headline: How much would you pay for an infamous gold toilet?
+Image: https://media.cnn.com/api/v1/images/stellar/prod/02-fondation-beyeler-mark-niedermann-20251031031522609.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/31/style/maurizio-cattelan-america-gold-toilet-sothebys
+==================================================
+
+Headline: Swiss art museum appoints first-ever botanical curator, backed by Chanel Culture FundOct 31, 2025
+Summary: Summary based on headline: Swiss art museum appoints first-ever botanical curator, backed by Chanel ...
+Description: Summary based on headline: Swiss art museum appoints first-ever botanical curator, backed by Chanel Culture FundOct 31, 2025
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25303739191430.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/31/style/fondation-beyeler-chanel-culture-fund
+==================================================
+
+Headline: Over 1,000 items stolen from California museum’s collection in early morning heistOct 31, 2025
+Summary: Summary based on headline: Over 1,000 items stolen from California museum’s collection in early morn...
+Description: Summary based on headline: Over 1,000 items stolen from California museum’s collection in early morning heistOct 31, 2025
+Image: https://media.cnn.com/api/v1/images/stellar/prod/3-drake-descendants.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/30/style/oakland-california-museum-theft
+==================================================
+
+Headline: In historic move, MFA Boston returns works by 19th-century enslaved artist David Drake to his heirsOct 30, 2025
+Summary: Summary based on headline: In historic move, MFA Boston returns works by 19th-century enslaved artis...
+Description: Summary based on headline: In historic move, MFA Boston returns works by 19th-century enslaved artist David Drake to his heirsOct 30, 2025
+Image: https://media.cnn.com/api/v1/images/stellar/prod/02-n-green-insteadispinfantasies.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/30/style/david-drake-mfa-boston-tan
+==================================================
+
+=== NPR - arts - 2025-11-04 19:22:53 ===
+
+Headline: 28 new movies worth checking out this fall
+Summary: Summary based on headline: 28 new movies worth checking out this fall
+Description: Summary based on headline: 28 new movies worth checking out this fall
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1350+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2F3c%2Fae006a8d4a479307b1db03b979de%2F4-images-horizontal-5.jpg
+Source: https://www.npr.org/2025/09/11/nx-s1-5534140/what-to-watch-new-movies-theaters
+==================================================
+
+Headline: 'Teen Vogue' is moving under Vogue.com — and staffers are being laid off
+Summary: Summary based on headline: 'Teen Vogue' is moving under Vogue.com — and staffers are being laid off
+Description: Summary based on headline: 'Teen Vogue' is moving under Vogue.com — and staffers are being laid off
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+159/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F4d%2F952d3e024eb980183d35fe429221%2Fap24327847666171.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5598290/teen-vogue-layoffs
+==================================================
+
+Headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25
+Summary: Summary based on headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes ...
+Description: Summary based on headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+0/resize/300/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F0b%2F6b4c5e054fdf883ba01c67b04796%2Fcopy-of-6-book-covers.png
+Source: https://www.npr.org/2025/11/04/nx-s1-5598279/listeria-outbreak-prepared-pasta
+==================================================
+
+Headline: Some heavy hitters — John Irving and Salman Rushdie among them — have new books out
+Summary: Summary based on headline: Some heavy hitters — John Irving and Salman Rushdie among them — have new...
+Description: Summary based on headline: Some heavy hitters — John Irving and Salman Rushdie among them — have new books out
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2999x1687+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F5b%2Ff85763594beabca529a9af6f4d57%2Fab569711-1a5e-4cad-9478-e5468dc10e35.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5592061/new-books-this-week-irving-rushdie
+==================================================
+
+Headline: In 'Hedda,' Tessa Thompson is an agent of chaos we love to see
+Summary: Summary based on headline: In 'Hedda,' Tessa Thompson is an agent of chaos we love to see
+Description: Summary based on headline: In 'Hedda,' Tessa Thompson is an agent of chaos we love to see
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6258x3521+0+565/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2Fd2%2F2940b40c42bb861b262c326ef131%2Fgettyimages-2234215238.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5595821/in-hedda-tessa-thompson-is-an-agent-of-chaos-we-love-to-see
+==================================================
+
+Headline: 'I love living inside a project for a long time,' says Richard Linklater
+Summary: Summary based on headline: 'I love living inside a project for a long time,' says Richard Linklater
+Description: Summary based on headline: 'I love living inside a project for a long time,' says Richard Linklater
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/449x252+533+341/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F8a%2Fefcc9fdd435f92646ce389d9fe87%2F71x-wlt2tjl-sl1500.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5592936/richard-linklater-nouvelle-vague-jean-luc-godard-blue-moon
+==================================================
+
+Headline: Lily King's new novel constructs an erotically charged love triangle
+Summary: Summary based on headline: Lily King's new novel constructs an erotically charged love triangle
+Description: Summary based on headline: Lily King's new novel constructs an erotically charged love triangle
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1406+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F51%2F4cdfb7e24752b44e11d9512ff443%2Fc48579cc-288a-4868-bd5f-08b1644f2d17.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5592934/heart-the-lover-lily-king-book-review
+==================================================
+
+Headline: A new generation is down to clown in ‘IT: Welcome to Derry’
+Summary: Summary based on headline: A new generation is down to clown in ‘IT: Welcome to Derry’
+Description: Summary based on headline: A new generation is down to clown in ‘IT: Welcome to Derry’
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fc4%2Ffa96de42487e8c35f65fdc4659bf%2F77f1d9f2-b4fa-4c64-9e64-03bfcd4a00e1.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5591373/a-new-generation-is-down-to-clown-in-it-welcome-to-derry
+==================================================
+
+Headline: How 'Socialism' got sexy
+Summary: Summary based on headline: How 'Socialism' got sexy
+Description: Summary based on headline: How 'Socialism' got sexy
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1596x898+4+0/resize/300/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F8f%2Fca1e53a24969869cf702bd488493%2Fsunday-puzzle-hi-res.png
+Source: https://www.npr.org/2025/11/03/nx-s1-5592052/how-socialism-got-sexy
+==================================================
+
+=== CNN - science - 2025-11-04 19:23:09 ===
+
+Headline: Filippo Bertozzo/iScience
+Summary: Summary based on headline: Filippo Bertozzo/iScience
+Description: Summary based on headline: Filippo Bertozzo/iScience
+Image: https://media.cnn.com/api/v1/images/stellar/prod/bones.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/science/dinosaur-hadrosaur-tail-injuries-sex
+==================================================
+
+Headline: Mating injuries may lead scientists to identify dinosaurs’ sex
+Summary: Summary based on headline: Mating injuries may lead scientists to identify dinosaurs’ sex
+Description: Summary based on headline: Mating injuries may lead scientists to identify dinosaurs’ sex
+Image: https://media.cnn.com/api/v1/images/stellar/prod/3b48h4g.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/science/dinosaur-hadrosaur-tail-injuries-sex
+==================================================
+
+Headline: NASA may be quietly gutting an iconic campus with what it calls strategic closures, workers fear
+Summary: Summary based on headline: NASA may be quietly gutting an iconic campus with what it calls strategic...
+Description: Summary based on headline: NASA may be quietly gutting an iconic campus with what it calls strategic closures, workers fear
+Image: https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-11-03-at-7-11-48-am.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/science/nasa-goddard-building-closures-government-shutdown
+==================================================
+
+Headline: Orcas seen hunting great white sharks to eat their livers in drone footage recorded in Mexico
+Summary: Summary based on headline: Orcas seen hunting great white sharks to eat their livers in drone footag...
+Description: Summary based on headline: Orcas seen hunting great white sharks to eat their livers in drone footage recorded in Mexico
+Image: https://media.cnn.com/api/v1/images/stellar/prod/03-two-stage-lunar-lander-concept.JPG?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/science/orcas-white-sharks-gulf-of-california-scli-intl
+==================================================
+
+Headline: Inside NASA’s scramble to find a backup moon plan — and the wild ideas companies are pitching
+Summary: Summary based on headline: Inside NASA’s scramble to find a backup moon plan — and the wild ideas co...
+Description: Summary based on headline: Inside NASA’s scramble to find a backup moon plan — and the wild ideas companies are pitching
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap930917346740.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/01/science/nasa-moon-lunar-lander-options
+==================================================
+
+Headline: Scientists are one step closer to testing ancient skeletons for pregnancy
+Summary: Summary based on headline: Scientists are one step closer to testing ancient skeletons for pregnancy
+Description: Summary based on headline: Scientists are one step closer to testing ancient skeletons for pregnancy
+Image: https://media.cnn.com/api/v1/images/stellar/prod/stsci-01k1x6xdr76zd4fyj9vtwn1erb.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/10/31/science/pregnancy-hormones-test-human-remains-scli-intl
+==================================================
+
+=== CBC - science - 2025-11-04 19:23:11 ===
+
+Headline: Researchers find gaps in environmental impact assessments of Canadian mining projects
+Summary: Summary based on headline: Researchers find gaps in environmental impact assessments of Canadian min...
+Description: Summary based on headline: Researchers find gaps in environmental impact assessments of Canadian mining projects
+Image: https://i.cbc.ca/1.4288292.1561375458!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/canadian-press-logo.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: McMaster research targets menstrual cup ‘mess’ with absorbent tablets to tackle period stigma
+Summary: Summary based on headline: McMaster research targets menstrual cup ‘mess’ with absorbent tablets to ...
+Description: Summary based on headline: McMaster research targets menstrual cup ‘mess’ with absorbent tablets to tackle period stigma
+Image: https://i.cbc.ca/ais/1.7509871,1744654344000/full/max/0/default.jpg?im=Crop%2Crect%3D%28948%2C0%2C3543%2C3543%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Researchers, hunters study how oilsands noise might impact moose hunting
+Summary: Summary based on headline: Researchers, hunters study how oilsands noise might impact moose hunting
+Description: Summary based on headline: Researchers, hunters study how oilsands noise might impact moose hunting
+Image: https://i.cbc.ca/ais/1.7590475,1753133455000/full/max/0/default.jpg?im=Crop%2Crect%3D%281331%2C0%2C5343%2C5343%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Is the world back to testing nuclear weapons? Here are the facts
+Summary: Summary based on headline: Is the world back to testing nuclear weapons? Here are the facts
+Description: Summary based on headline: Is the world back to testing nuclear weapons? Here are the facts
+Image: https://i.cbc.ca/ais/1.7512340,1747328169000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C11%2C500%2C500%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: P.E.I. researchers turn sawdust into a solution for dirty water
+Summary: Summary based on headline: P.E.I. researchers turn sawdust into a solution for dirty water
+Description: Summary based on headline: P.E.I. researchers turn sawdust into a solution for dirty water
+Image: https://i.cbc.ca/ais/1.7529696,1746713833000/full/max/0/default.jpg?im=Crop%2Crect%3D%28507%2C0%2C3026%2C3026%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Alberta researcher pitches Australian-made beehives as new alternative for Canadian beekeepers
+Summary: Summary based on headline: Alberta researcher pitches Australian-made beehives as new alternative fo...
+Description: Summary based on headline: Alberta researcher pitches Australian-made beehives as new alternative for Canadian beekeepers
+Image: https://i.cbc.ca/ais/1.7595790,1753824987000/full/max/0/default.jpg?im=Crop%2Crect%3D%28169%2C71%2C434%2C434%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: A monkey that escaped from an overturned truck has been fatally shot by Mississippi mom
+Summary: Summary based on headline: A monkey that escaped from an overturned truck has been fatally shot by M...
+Description: Summary based on headline: A monkey that escaped from an overturned truck has been fatally shot by Mississippi mom
+Image: https://i.cbc.ca/ais/21433598-f4d5-4030-8e73-2a4ce48fb9e1,1762159950669/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C53%2C1024%2C576%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Summary: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Description: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Image: https://i.cbc.ca/ais/ea0cbe6e-c0a0-421f-9523-5da61f4a7d0d,1761657542415/full/max/0/default.jpg?im=Crop%2Crect%3D%28222%2C0%2C3555%2C1999%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Arctic fossil is northern-most rhino species ever found
+Summary: Summary based on headline: Arctic fossil is northern-most rhino species ever found
+Description: Summary based on headline: Arctic fossil is northern-most rhino species ever found
+Image: https://i.cbc.ca/ais/1.7254520,1720118769000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3156%2C3156%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: How much of a role did climate change play with Hurricane Melissa?
+Summary: Summary based on headline: How much of a role did climate change play with Hurricane Melissa?
+Description: Summary based on headline: How much of a role did climate change play with Hurricane Melissa?
+Image: https://i.cbc.ca/1.6483294.1654800694!/fileImage/httpImage/image.jpeg_gen/derivatives/square_1180/nicole-mortillaro.jpeg?im=Resize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-11-04 19:23:18 ===
+
+Headline: What secrets everyday rocks share about human history
+Summary: Summary based on headline: What secrets everyday rocks share about human history
+Description: Summary based on headline: What secrets everyday rocks share about human history
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F6e%2Fff29e42b42928a6fb72828bbfac7%2Fd081a719-ad99-44d8-98ba-dfafd3bd231f.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5545701/rocks-stories-human-geology-indigenous
+==================================================
+
+Headline: The voting system we use can determine the election winner. Here's how
+Summary: Summary based on headline: The voting system we use can determine the election winner. Here's how
+Description: Summary based on headline: The voting system we use can determine the election winner. Here's how
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2190x1232+0+137/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F47%2Ff99afb5748efa619ff4320ca32e2%2Fgettyimages-2156050645.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5593111/voting-system-election-ballot
+==================================================
+
+Headline: Too many rats? Birth control is one city's answer
+Summary: Summary based on headline: Too many rats? Birth control is one city's answer
+Description: Summary based on headline: Too many rats? Birth control is one city's answer
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4050x2278+0+380/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4b%2F8b%2F94d41cfd467fb5c8ea1002b3ca72%2F05-crest-scales-w-hand-img-8015.jpg
+Source: https://www.npr.org/2025/11/01/nx-s1-5584119/rats-birth-control-rodents
+==================================================
+
+Headline: How a great-grandmother helped researchers unravel a dinosaur mummy mystery
+Summary: Summary based on headline: How a great-grandmother helped researchers unravel a dinosaur mummy myste...
+Description: Summary based on headline: How a great-grandmother helped researchers unravel a dinosaur mummy mystery
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F8d%2F322f58664ceb9a3de087e6ddb973%2Fljohnson-getting-to-school.jpg
+Source: https://www.npr.org/2025/11/01/nx-s1-5590944/duck-billed-hooved-dinosaur-discovery
+==================================================
+
+Headline: Fewer students are missing school. These state policies may have helped
+Summary: Summary based on headline: Fewer students are missing school. These state policies may have helped
+Description: Summary based on headline: Fewer students are missing school. These state policies may have helped
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2Fb3%2F8aee5df64c08b232e49319cbea17%2Ff9c879a9-a2e9-448d-ba31-b83ecc2a5809.jpg
+Source: https://www.npr.org/2025/11/01/nx-s1-5576453/schools-absenteeism-states-pandemic
+==================================================
+
+Headline: This week in science: spiders, TV pixels and storytelling
+Summary: Summary based on headline: This week in science: spiders, TV pixels and storytelling
+Description: Summary based on headline: This week in science: spiders, TV pixels and storytelling
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2236x1258+0+264/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F2d%2F0a199b3a46e89bcda16c784d04a6%2Fap25219608701321.jpg
+Source: https://www.npr.org/2025/10/31/nx-s1-5591184/spiders-tv-halloween-web-brain
+==================================================
+
+Headline: Why an interstellar comet has scientists excited
+Summary: Summary based on headline: Why an interstellar comet has scientists excited
+Description: Summary based on headline: Why an interstellar comet has scientists excited
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8965x5043+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fb9%2Fe95005f34fba821b707074a8632e%2Fnanotyrannus-final-art-flipped.jpg
+Source: https://www.npr.org/2025/10/30/nx-s1-5591378/3i-atlas-comet-nickel-space
+==================================================
+
+Headline: Scientists thought this fossil was a teen T. rex. Turns out it's a new tyrannosaur
+Summary: Summary based on headline: Scientists thought this fossil was a teen T. rex. Turns out it's a new ty...
+Description: Summary based on headline: Scientists thought this fossil was a teen T. rex. Turns out it's a new tyrannosaur
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+500/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2F74%2Fe7620a1c4c579944dad6e118cc48%2Fgettyimages-2151864565.jpg
+Source: https://www.npr.org/2025/10/30/nx-s1-5589172/tyrannosaurus-rex-dueling-dinosaurs-fossil-new-species
+==================================================
+
+Headline: An Alzheimer's pill appears to protect some in a high-risk population
+Summary: Summary based on headline: An Alzheimer's pill appears to protect some in a high-risk population
+Description: Summary based on headline: An Alzheimer's pill appears to protect some in a high-risk population
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F1b%2F9fa96c8f48beacdf769b9fd199ad%2F5e1e70ee-e4ca-4d9e-ae04-f6ad0e65b420.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/10/29/nx-s1-5575561/alzheimers-pill-apoe4-high-risk-lecanemab-donanemab
+==================================================
+
+Headline: Why do we like haunted houses? The science behind why people pursue fear
+Summary: Summary based on headline: Why do we like haunted houses? The science behind why people pursue fear
+Description: Summary based on headline: Why do we like haunted houses? The science behind why people pursue fear
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F3e%2F414dd5fb4858a9cd21b79815f2d9%2F049fe0ac-2b90-482d-a7a1-04ace5669f2e.jpg
+Source: https://www.npr.org/2025/10/29/nx-s1-5566696/halloween-costume-scary-science-fear
+==================================================
+
+=== CNN - us - 2025-11-04 19:23:33 ===
+
+Headline: WAVE
+Summary: Summary based on headline: WAVE
+Description: Summary based on headline: WAVE
+Image: https://media.cnn.com/api/v1/images/stellar/prod/still-22091599-598817-2899999999-still.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/us/ups-plane-crash-louisville-airport
+==================================================
+
+Headline: A UPS plane with 3 crew members crashed near the Louisville airport
+Summary: Summary based on headline: A UPS plane with 3 crew members crashed near the Louisville airport
+Description: Summary based on headline: A UPS plane with 3 crew members crashed near the Louisville airport
+Image: https://media.cnn.com/api/v1/images/stellar/prod/sara-ellis.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/us/ups-plane-crash-louisville-airport
+==================================================
+
+=== CNN - politics - 2025-11-04 19:23:59 ===
+
+Headline: Damian Dovarganes/AP
+Summary: Summary based on headline: Damian Dovarganes/AP
+Description: Summary based on headline: Damian Dovarganes/AP
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c-ap25304848697615.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/politics/snap-benefits-trump-threat
+==================================================
+
+Headline: White House says it will partially fund SNAP benefits after Trump threatens to withhold them until shutdown ends
+Summary: Summary based on headline: White House says it will partially fund SNAP benefits after Trump threate...
+Description: Summary based on headline: White House says it will partially fund SNAP benefits after Trump threatens to withhold them until shutdown ends
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap081024014797.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/politics/snap-benefits-trump-threat
+==================================================
+
+=== CBC - politics - 2025-11-04 19:24:03 ===
+
+Headline: A first look at the 2025 federal budget
+Summary: Summary based on headline: A first look at the 2025 federal budget
+Description: Summary based on headline: A first look at the 2025 federal budget
+Image: https://i.cbc.ca/ais/e9224ec0-5f19-4750-843d-c7e7dc0195b0,1762296767927/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C8%2C6753%2C3798%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: FULL SPEECH: Finance minister tables Carney government’s 1st budget
+Summary: Summary based on headline: FULL SPEECH: Finance minister tables Carney government’s 1st budget
+Description: Summary based on headline: FULL SPEECH: Finance minister tables Carney government’s 1st budget
+Image: https://i.cbc.ca/ais/a4e44e23-e06a-490a-808f-ba1eacdd73a5,1762297477679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Poilievre: ‘We Conservatives cannot support this costly Liberal budget’
+Summary: Summary based on headline: Poilievre: ‘We Conservatives cannot support this costly Liberal budget’
+Description: Summary based on headline: Poilievre: ‘We Conservatives cannot support this costly Liberal budget’
+Image: https://i.cbc.ca/ais/39492b27-f806-4576-b433-282d0db93fe8,1762293963400/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Bloc leader says he can 'hardly see' how his caucus will vote for Liberal budget
+Summary: Summary based on headline: Bloc leader says he can 'hardly see' how his caucus will vote for Liberal...
+Description: Summary based on headline: Bloc leader says he can 'hardly see' how his caucus will vote for Liberal budget
+Image: https://i.cbc.ca/ais/4271799d-18c9-4db5-bef5-53fb482a65de,1762294630031/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Davies says NDP is ‘going to take the time to study this budget’
+Summary: Summary based on headline: Davies says NDP is ‘going to take the time to study this budget’
+Description: Summary based on headline: Davies says NDP is ‘going to take the time to study this budget’
+Image: https://i.cbc.ca/ais/e2ca01e2-f8b7-456c-b22e-f28ab21a77a0,1762287282966/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: What do students want from the federal budget?
+Summary: Summary based on headline: What do students want from the federal budget?
+Description: Summary based on headline: What do students want from the federal budget?
+Image: https://i.cbc.ca/ais/6bfefc7d-fa8b-45f4-9b1f-d267608a9891,1762289294864/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Why should you care about the federal deficit?
+Summary: Summary based on headline: Why should you care about the federal deficit?
+Description: Summary based on headline: Why should you care about the federal deficit?
+Image: https://i.cbc.ca/ais/23762cc6-82dd-4d68-834b-ed4c003aa97f,1762213862732/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: B.C. to not run anti-tariff ads in U.S. with goal of getting lumber deal | Power & Politics
+Summary: Summary based on headline: B.C. to not run anti-tariff ads in U.S. with goal of getting lumber deal ...
+Description: Summary based on headline: B.C. to not run anti-tariff ads in U.S. with goal of getting lumber deal | Power & Politics
+Image: https://i.cbc.ca/ais/cc1a5919-4feb-4b67-a32a-eba8ca74d58c,1762212592702/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: P.E.I. calls for Carney to meet with the premiers amid U.S. uncertainty
+Summary: Summary based on headline: P.E.I. calls for Carney to meet with the premiers amid U.S. uncertainty
+Description: Summary based on headline: P.E.I. calls for Carney to meet with the premiers amid U.S. uncertainty
+Image: https://i.cbc.ca/ais/cf848894-fb46-49da-be0d-5a346ac3c796,1762212045878/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: What are the expectations for Carney's first budget? | Power & Politics
+Summary: Summary based on headline: What are the expectations for Carney's first budget? | Power & Politics
+Description: Summary based on headline: What are the expectations for Carney's first budget? | Power & Politics
+Image: https://i.cbc.ca/ais/e7dc9ea4-71c7-4b48-958b-c773c865e218,1762190171626/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+=== NPR - politics - 2025-11-04 19:24:07 ===
+
+Headline: Dick Cheney, one of the most powerful vice presidents in American history, dies at 84
+Summary: Summary based on headline: Dick Cheney, one of the most powerful vice presidents in American history...
+Description: Summary based on headline: Dick Cheney, one of the most powerful vice presidents in American history, dies at 84
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5611x3156+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F9a%2F4ac8f4fd4922a1b7c6deb1875775%2F20251101-5.jpg
+Source: https://www.npr.org/2025/11/04/123987715/dick-cheney-former-vice-president-dies
+==================================================
+
+Headline: When SNAP benefits will arrive is still in flux. Here's what communities are doing to fill the gap
+Summary: Summary based on headline: When SNAP benefits will arrive is still in flux. Here's what communities ...
+Description: Summary based on headline: When SNAP benefits will arrive is still in flux. Here's what communities are doing to fill the gap
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2530+0+361/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F0d%2F9badb1d8423988d4709e804172f7%2F2025-calif-redistrict.jpg
+Source: https://www.npr.org/2025/11/04/g-s1-96372/snap-benefits-november-government-shutdown
+==================================================
+
+Headline: How one tech startup is giving cash to SNAP recipients
+Summary: Summary based on headline: How one tech startup is giving cash to SNAP recipients
+Description: Summary based on headline: How one tech startup is giving cash to SNAP recipients
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Fea%2Fcf7255ac4d1e90c2fec04504afad%2Fgettyimages-2244348263.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5587728/snap-shutdown-propel-tech-startup-cash-donations
+==================================================
+
+Headline: As SNAP funding lapsed, a top official called the program 'corrupt'
+Summary: Summary based on headline: As SNAP funding lapsed, a top official called the program 'corrupt'
+Description: Summary based on headline: As SNAP funding lapsed, a top official called the program 'corrupt'
+Image: https://media.npr.org/assets/img/2024/02/24/state-va_wide-9955f1de0202bbe5c77037919676ab64d0fb51ee.png?s=300&c=85&f=png
+Source: https://www.npr.org/2025/11/04/nx-s1-5595920/snap-usda-rollins-fraud
+==================================================
+
+Headline: Here are the results in Virginia's governor race
+Summary: Summary based on headline: Here are the results in Virginia's governor race
+Description: Summary based on headline: Here are the results in Virginia's governor race
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/300/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2Fab%2Fd01c56ba4eb6b76e80550df2983b%2Fstate-co.png
+Source: https://www.npr.org/2025/11/04/nx-s1-5580350/va-governor-earle-sears-spanberger
+==================================================
+
+Headline: Here are the results in Colorado's ballot initiatives on school meals and SNAP
+Summary: Summary based on headline: Here are the results in Colorado's ballot initiatives on school meals and...
+Description: Summary based on headline: Here are the results in Colorado's ballot initiatives on school meals and SNAP
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/300/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2Fa2%2F70b9abff498c8b619f31d121f4e4%2Fcity-nyc.png
+Source: https://www.npr.org/2025/11/04/nx-s1-5580357/colorado-election-schools-food-assistance
+==================================================
+
+Headline: Here are the results in New York City's mayoral race
+Summary: Summary based on headline: Here are the results in New York City's mayoral race
+Description: Summary based on headline: Here are the results in New York City's mayoral race
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/300/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fe6%2F7f6caa4d4f4d888c6b42a77c4a0f%2Fstate-nj.png
+Source: https://www.npr.org/2025/11/04/nx-s1-5580354/nyc-mayor-election-cuomo-mamdani-sliwa
+==================================================
+
+Headline: Here are the results in New Jersey's governor race
+Summary: Summary based on headline: Here are the results in New Jersey's governor race
+Description: Summary based on headline: Here are the results in New Jersey's governor race
+Image: https://media.npr.org/assets/img/2024/02/24/state-ca_wide-d28e5b26c0714cbcfa0b6efc8e1b36725c5f83b2.png?s=300&c=85&f=png
+Source: https://www.npr.org/2025/11/04/nx-s1-5580352/nj-governor-ciattarelli-sherrill
+==================================================
+
+Headline: Here are the results on California's Proposition 50, a redistricting ballot initiative
+Summary: Summary based on headline: Here are the results on California's Proposition 50, a redistricting ball...
+Description: Summary based on headline: Here are the results on California's Proposition 50, a redistricting ballot initiative
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3504x1971+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F8f%2F248efebc489ca7447edf07fae947%2Fap23058583953031.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5580356/california-prop-50-redistricting
+==================================================
+
+=== CNN - health - 2025-11-04 19:24:22 ===
+
+Headline: Courtesy Fractyl Health
+Summary: Summary based on headline: Courtesy Fractyl Health
+Description: Summary based on headline: Courtesy Fractyl Health
+Image: https://media.cnn.com/api/v1/images/stellar/prod/image-from-ios-2-20251104142916130.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/health/obesity-glp1-gene-therapy-research
+==================================================
+
+Headline: The race is on to turn your body into a GLP-1 factory
+Summary: Summary based on headline: The race is on to turn your body into a GLP-1 factory
+Description: Summary based on headline: The race is on to turn your body into a GLP-1 factory
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c-ap25304848697615.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/health/obesity-glp1-gene-therapy-research
+==================================================
+
+Headline: Trump threatens to withhold SNAP benefits despite court order
+Summary: Summary based on headline: Trump threatens to withhold SNAP benefits despite court order
+Description: Summary based on headline: Trump threatens to withhold SNAP benefits despite court order
+Image: https://media.cnn.com/api/v1/images/stellar/prod/still-22044948-4297-796-still.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/politics/snap-benefits-trump-threat
+==================================================
+
+Headline: VideoLeucovorin, touted by Trump as a new autism treatment, sparks hope and debate5:03
+Summary: Summary based on headline: VideoLeucovorin, touted by Trump as a new autism treatment, sparks hope a...
+Description: Summary based on headline: VideoLeucovorin, touted by Trump as a new autism treatment, sparks hope and debate5:03
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25127557159239.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/31/health/video/gupta-leucovorin-autism-jk-me-nk
+==================================================
+
+Headline: FDA moves to restrict fluoride supplements as part of MAHA agenda
+Summary: Summary based on headline: FDA moves to restrict fluoride supplements as part of MAHA agenda
+Description: Summary based on headline: FDA moves to restrict fluoride supplements as part of MAHA agenda
+Image: https://media.cnn.com/api/v1/images/stellar/prod/marketside-linguine-usda-pha-9252025-1.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/31/health/fluoride-supplement-restrictions-fda
+==================================================
+
+Headline: More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide
+Summary: Summary based on headline: More illnesses, deaths reported in listeria outbreak tied to recalled pas...
+Description: Summary based on headline: More illnesses, deaths reported in listeria outbreak tied to recalled pasta salads, meals sold nationwide
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1322499124.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/30/health/listeria-outbreak-prepared-meals
+==================================================
+
+=== CBC - health - 2025-11-04 19:24:24 ===
+
+Headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Summary: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to r...
+Description: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Image: https://i.cbc.ca/ais/1.7032953,1753733843000/full/max/0/default.jpg?im=Crop%2Crect%3D%28654%2C0%2C2849%2C2849%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: A new opioid has been found in Toronto's drug supply and users may not even know it
+Summary: Summary based on headline: A new opioid has been found in Toronto's drug supply and users may not ev...
+Description: Summary based on headline: A new opioid has been found in Toronto's drug supply and users may not even know it
+Image: https://i.cbc.ca/ais/1.6325508,1643046305000/full/max/0/default.jpg?im=Crop%2Crect%3D%28504%2C0%2C2016%2C2016%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: 'I find it quite insulting': Nova Scotia seniors fight back against ageism
+Summary: Summary based on headline: 'I find it quite insulting': Nova Scotia seniors fight back against ageis...
+Description: Summary based on headline: 'I find it quite insulting': Nova Scotia seniors fight back against ageism
+Image: https://i.cbc.ca/1.5816034.1606330802!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/vernon-ramesar.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Nova Scotia Health says hope on horizon for suspended overnight detox service in Sydney
+Summary: Summary based on headline: Nova Scotia Health says hope on horizon for suspended overnight detox ser...
+Description: Summary based on headline: Nova Scotia Health says hope on horizon for suspended overnight detox service in Sydney
+Image: https://i.cbc.ca/ais/1.6233068,1745438130000/full/max/0/default.jpg?im=Crop%2Crect%3D%281162%2C0%2C3365%2C3365%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Ladder falls a big cause of workplace injuries. Here's how an Ontario man climbed back from a head injury
+Summary: Summary based on headline: Ladder falls a big cause of workplace injuries. Here's how an Ontario man...
+Description: Summary based on headline: Ladder falls a big cause of workplace injuries. Here's how an Ontario man climbed back from a head injury
+Image: https://i.cbc.ca/1.3963220.1486045975!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/andrew-lupton.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: B.C. orders Island Health to reinstate mental health supports for youth
+Summary: Summary based on headline: B.C. orders Island Health to reinstate mental health supports for youth
+Description: Summary based on headline: B.C. orders Island Health to reinstate mental health supports for youth
+Image: https://i.cbc.ca/ais/1.7516627,1757712835000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C107%2C2066%2C2066%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Inquest exposed inmate health-care failures in Ontario jails that staff, advocates say are widespread
+Summary: Summary based on headline: Inquest exposed inmate health-care failures in Ontario jails that staff, ...
+Description: Summary based on headline: Inquest exposed inmate health-care failures in Ontario jails that staff, advocates say are widespread
+Image: https://i.cbc.ca/ais/1.7642675,1758741968000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3342%2C3342%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Can IV cocktails cure hangovers or boost immunity?
+Summary: Summary based on headline: Can IV cocktails cure hangovers or boost immunity?
+Description: Summary based on headline: Can IV cocktails cure hangovers or boost immunity?
+Image: https://i.cbc.ca/ais/1.7248361,1719500676000/full/max/0/default.jpg?im=Crop%2Crect%3D%28349%2C142%2C2714%2C2714%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Here's why sleep experts think we should abolish daylight saving time
+Summary: Summary based on headline: Here's why sleep experts think we should abolish daylight saving time
+Description: Summary based on headline: Here's why sleep experts think we should abolish daylight saving time
+Image: https://i.cbc.ca/1.5165938.1559868357!/fileImage/httpImage/image.jpeg_gen/derivatives/square_1180/sameer-chhabra.jpeg?im=Resize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-11-04 19:24:31 ===
+
+Headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25
+Summary: Summary based on headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes ...
+Description: Summary based on headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4333x2437+0+238/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2Fd1%2Fe931785e45d89094f47e391634a0%2Fdrbenjaminapha2025openingsession.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5598279/listeria-outbreak-prepared-pasta
+==================================================
+
+Headline: Public health defends its time-tested approach against the rise of MAHA
+Summary: Summary based on headline: Public health defends its time-tested approach against the rise of MAHA
+Description: Summary based on headline: Public health defends its time-tested approach against the rise of MAHA
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7060x3971+0+367/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2Fdf%2F24e0a21744e09bc39c92351d11af%2Fap23182605491494.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/04/nx-s1-5597970/apha-maha-american-public-health-association
+==================================================
+
+Headline: Searching 'weight' can bring up Ozempic in results. It's a drug advertising loophole
+Summary: Summary based on headline: Searching 'weight' can bring up Ozempic in results. It's a drug advertisi...
+Description: Summary based on headline: Searching 'weight' can bring up Ozempic in results. It's a drug advertising loophole
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+159/resize/400/quality/15/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F4d%2F952d3e024eb980183d35fe429221%2Fap24327847666171.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/04/nx-s1-5593462/sponsored-search-results-weight-ozempic-drug-advertising
+==================================================
+
+Headline: Dilbert creator taps Trump to get cancer drug. Others wish they could, too
+Summary: Summary based on headline: Dilbert creator taps Trump to get cancer drug. Others wish they could, to...
+Description: Summary based on headline: Dilbert creator taps Trump to get cancer drug. Others wish they could, too
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2Fac%2F61cf44774c9bb6e3ffd56b4a38c8%2Fgettyimages-2232528860.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/03/nx-s1-5596478/dilbert-trump-cancer-drug-rfk-jr
+==================================================
+
+Headline: A gun violence 'action plan' calls for a new emphasis on prevention
+Summary: Summary based on headline: A gun violence 'action plan' calls for a new emphasis on prevention
+Description: Summary based on headline: A gun violence 'action plan' calls for a new emphasis on prevention
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2Fb2%2Fa49eb36743e69e53ccc4cae98e29%2F20251031-food-pantry-park-hill-snap-shutdown-recession-hwv-20-1.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/03/nx-s1-5597013/gun-violence-prevention
+==================================================
+
+Headline: Nearly 400,000 people are starving in Sudan, a new report finds
+Summary: Summary based on headline: Nearly 400,000 people are starving in Sudan, a new report finds
+Description: Summary based on headline: Nearly 400,000 people are starving in Sudan, a new report finds
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F6a%2Fe2235bc84334b0e5ded89b178a25%2Fgettyimages-2208501063.jpg
+Source: https://www.npr.org/2025/11/03/g-s1-96318/famine-spreads-to-two-more-areas-in-sudan-global-hunger-authority-says
+==================================================
+
+Headline: To optimize health, sync your habits with your body clock. Here's how
+Summary: Summary based on headline: To optimize health, sync your habits with your body clock. Here's how
+Description: Summary based on headline: To optimize health, sync your habits with your body clock. Here's how
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5308x2986+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F77%2Fcefad80b42caaaab07b855d816b4%2Ftriptych-16x9.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5590198/health-habits-circadian-rhythms-body-clock
+==================================================
+
+Headline: They were promised a lifeline to 'graduate' from poverty. Then it was taken away
+Summary: Summary based on headline: They were promised a lifeline to 'graduate' from poverty. Then it was tak...
+Description: Summary based on headline: They were promised a lifeline to 'graduate' from poverty. Then it was taken away
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2Ffb%2F8d1e261e4eb6a5cd8c26bce9120b%2Fgettyimages-2180033276.jpg
+Source: https://www.npr.org/sections/goats-and-soda/2025/11/02/g-s1-95400/poverty-aid-usaid-uganda-south-sudan-refugees
+==================================================
+
+=== CNN - travel - 2025-11-04 19:24:45 ===
+
+Headline: •For SubscribersFor SubscribersKyodo News/Getty Images
+Summary: Summary based on headline: •For SubscribersFor SubscribersKyodo News/Getty Images
+Description: Summary based on headline: •For SubscribersFor SubscribersKyodo News/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2240869785.jpg?c=16x9&q=h_720,w_1280,c_fill
+Source: https://www.cnn.com/travel/asia-overtourism-issues-tourist-hotspots-intl-hnk-dst
+==================================================
+
+Headline: •For SubscribersFor SubscribersBad behavior, overcrowded streets: In Asia’s travel hot spots, overtourism is creating European-style problems
+Summary: Summary based on headline: •For SubscribersFor SubscribersBad behavior, overcrowded streets: In Asia...
+Description: Summary based on headline: •For SubscribersFor SubscribersBad behavior, overcrowded streets: In Asia’s travel hot spots, overtourism is creating European-style problems
+Image: https://media.cnn.com/api/v1/images/stellar/prod/fujimoto-tasting-kinmemai-premium.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/travel/asia-overtourism-issues-tourist-hotspots-intl-hnk-dst
+==================================================
+
+Headline: From hunger to luxury: The story behind the world’s most expensive rice
+Summary: Summary based on headline: From hunger to luxury: The story behind the world’s most expensive rice
+Description: Summary based on headline: From hunger to luxury: The story behind the world’s most expensive rice
+Image: https://media.cnn.com/api/v1/images/stellar/prod/04-bees.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/travel/japan-expensive-rice-kinmemai-premium-intl-hnk-dst
+==================================================
+
+Headline: This rare ‘mad honey’ is only found in two places in the world. It’s strong enough to fell bears and soldiers
+Summary: Summary based on headline: This rare ‘mad honey’ is only found in two places in the world. It’s stro...
+Description: Summary based on headline: This rare ‘mad honey’ is only found in two places in the world. It’s strong enough to fell bears and soldiers
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187235224.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/travel/mad-honey-deli-bal-turkey-black-sea
+==================================================
+
+Headline: It’s time to plan holiday trips
+Summary: Summary based on headline: It’s time to plan holiday trips
+Description: Summary based on headline: It’s time to plan holiday trips
+Image: https://media.cnn.com/api/v1/images/stellar/prod/114799-pardonedwitches-clean-00-00-01-05-still004.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/2025/11/01/travel/travel-news-holiday-travel-season-planning
+==================================================
+
+Headline: ‘It wasn’t right then, and it’s not right now’: New movement pushes for historic witch trial pardons in Britain3:47
+Summary: Summary based on headline: ‘It wasn’t right then, and it’s not right now’: New movement pushes for h...
+Description: Summary based on headline: ‘It wasn’t right then, and it’s not right now’: New movement pushes for historic witch trial pardons in Britain3:47
+Image: https://media.cnn.com/api/v1/images/stellar/prod/01-rosewood-hong-kong-1.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/2025/10/31/travel/video/british-witches-england-pardon-movement-digvid
+==================================================
+
+=== CNN - world - 2025-11-04 19:35:10 ===
+
+=== CBC - world - 2025-11-04 19:35:13 ===
+
+Headline: German probe of suspected fraud and money-laundering extends to Canada
+Summary: Summary based on headline: German probe of suspected fraud and money-laundering extends to Canada
+Description: Summary based on headline: German probe of suspected fraud and money-laundering extends to Canada
+Image: https://i.cbc.ca/ais/1.7628034,1757353429000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C57%2C2000%2C1125%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: U.S. government begins prosecuting case against man who threw sandwich at federal agent
+Summary: Summary based on headline: U.S. government begins prosecuting case against man who threw sandwich at...
+Description: Summary based on headline: U.S. government begins prosecuting case against man who threw sandwich at federal agent
+Image: https://i.cbc.ca/ais/87024bf6-37df-4235-8bb8-c1c2b0172f71,1762291331279/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C504%2C3024%2C3024%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-04 19:35:19 ===
+
+=== CNN - technology - 2025-11-04 19:35:35 ===
+
+=== NPR - technology - 2025-11-04 19:35:44 ===
+
+=== CNN - business - 2025-11-04 19:35:58 ===
+
+=== CBC - business - 2025-11-04 19:36:01 ===
+
+Headline: Can the federal budget reset Canada's economy?
+Summary: Summary based on headline: Can the federal budget reset Canada's economy?
+Description: Summary based on headline: Can the federal budget reset Canada's economy?
+Image: https://i.cbc.ca/ais/0dcf48e1-2938-4d03-98c3-54aa31f5e9fa,1759949825475/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C800%2C800%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with U.S. government
+Summary: Summary based on headline: Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with ...
+Description: Summary based on headline: Canadian firms Cameco, Brookfield sign $80B US nuclear reactor deal with U.S. government
+Image: https://i.cbc.ca/ais/c8754fc4-04b2-4f21-ac7c-ebaf5b404e59,1761759719188/full/max/0/default.jpg?im=Crop%2Crect%3D%28864%2C0%2C3456%2C3456%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-04 19:36:07 ===
+
+=== CNN - sport - 2025-11-04 19:36:21 ===
+
+=== CNN - arts - 2025-11-04 19:36:46 ===
+
+=== NPR - arts - 2025-11-04 19:36:53 ===
+
+=== CNN - science - 2025-11-04 19:37:09 ===
+
+=== CBC - science - 2025-11-04 19:37:11 ===
+
+Headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Summary: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Description: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Image: https://i.cbc.ca/ais/c82500e6-8095-44b2-9103-64f13ad86533,1761935968691/full/max/0/default.jpg?im=Crop%2Crect%3D%28212%2C0%2C1080%2C1080%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: A monkey that escaped from an overturned truck has been fatally shot by Mississippi mom
+Summary: Summary based on headline: A monkey that escaped from an overturned truck has been fatally shot by M...
+Description: Summary based on headline: A monkey that escaped from an overturned truck has been fatally shot by Mississippi mom
+Image: https://i.cbc.ca/ais/3dbd7ff7-680b-4844-9e29-f32565cc2b27,1761840436145/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C745%2C3024%2C3024%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Italian winemakers look to new technologies with old grape varieties to adapt to a changing climate
+Summary: Summary based on headline: Italian winemakers look to new technologies with old grape varieties to a...
+Description: Summary based on headline: Italian winemakers look to new technologies with old grape varieties to adapt to a changing climate
+Image: https://i.cbc.ca/ais/1.5267348,1689349467000/full/max/0/default.jpg?im=Crop%2Crect%3D%28294%2C98%2C2074%2C2074%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-11-04 19:37:18 ===
+
+=== CNN - us - 2025-11-04 19:37:32 ===
+
+=== CNN - politics - 2025-11-04 19:37:58 ===
+
+=== CBC - politics - 2025-11-04 19:38:01 ===
+
+=== NPR - politics - 2025-11-04 19:38:08 ===
+
+=== CNN - health - 2025-11-04 19:38:25 ===
+
+=== CBC - health - 2025-11-04 19:38:28 ===
+
+=== NPR - health - 2025-11-04 19:38:35 ===
+
+=== CNN - travel - 2025-11-04 19:38:50 ===
+
+=== CNN - world - 2025-11-04 19:49:15 ===
+
+=== CBC - world - 2025-11-04 19:49:19 ===
+
+=== NPR - world - 2025-11-04 19:49:25 ===
+
+=== CNN - technology - 2025-11-04 19:49:42 ===
+
+=== NPR - technology - 2025-11-04 19:49:51 ===
+
+=== CNN - business - 2025-11-04 19:50:05 ===
+
+=== CBC - business - 2025-11-04 19:50:07 ===
+
+Headline: O Canada! Summer tourism numbers hit all-time high
+Summary: Summary based on headline: O Canada! Summer tourism numbers hit all-time high
+Description: Summary based on headline: O Canada! Summer tourism numbers hit all-time high
+Image: https://i.cbc.ca/1.2928807.1421968466!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/kyle-bakx.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Are you being tricked by your treats? Some Halloween candy multipacks have shrunk in size, but not in price
+Summary: Summary based on headline: Are you being tricked by your treats? Some Halloween candy multipacks hav...
+Description: Summary based on headline: Are you being tricked by your treats? Some Halloween candy multipacks have shrunk in size, but not in price
+Image: https://i.cbc.ca/ais/1.7241408,1758135875000/full/max/0/default.jpg?im=Crop%2Crect%3D%2877%2C295%2C1051%2C1051%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-04 19:50:14 ===
+
+=== CNN - sport - 2025-11-04 19:50:29 ===
+
+=== CNN - arts - 2025-11-04 19:50:56 ===
+
+=== NPR - arts - 2025-11-04 19:51:03 ===
+
+=== CNN - science - 2025-11-04 19:51:19 ===
+
+=== CBC - science - 2025-11-04 19:51:22 ===
+
+Headline: A monkey that escaped from an overturned truck has been fatally shot by Mississippi mom
+Summary: Summary based on headline: A monkey that escaped from an overturned truck has been fatally shot by M...
+Description: Summary based on headline: A monkey that escaped from an overturned truck has been fatally shot by Mississippi mom
+Image: https://i.cbc.ca/ais/8590ac61-0154-464c-8e99-ce851404310c,1761938541767/full/max/0/default.jpg?im=Crop%2Crect%3D%281812%2C681%2C2612%2C2612%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Summary: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Description: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Image: https://i.cbc.ca/ais/3dbd7ff7-680b-4844-9e29-f32565cc2b27,1761840436145/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C808%2C3024%2C1701%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-11-04 19:51:27 ===
+
+=== CNN - us - 2025-11-04 19:51:42 ===
+
+=== CNN - politics - 2025-11-04 19:52:07 ===
+
+Headline: Samuel Corum/Sipa USA/AP
+Summary: Summary based on headline: Samuel Corum/Sipa USA/AP
+Description: Summary based on headline: Samuel Corum/Sipa USA/AP
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25308638680229.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/politics/exit-polls-nyc-nj-virginia-california-elections
+==================================================
+
+=== CBC - politics - 2025-11-04 19:52:10 ===
+
+=== NPR - politics - 2025-11-04 19:52:15 ===
+
+=== CNN - health - 2025-11-04 19:52:30 ===
+
+=== CBC - health - 2025-11-04 19:52:33 ===
+
+=== NPR - health - 2025-11-04 19:52:39 ===
+
+=== CNN - travel - 2025-11-04 19:52:54 ===
+
+=== CNN - world - 2025-11-04 20:03:16 ===
+
+=== CBC - world - 2025-11-04 20:03:20 ===
+
+Headline: U.S. government begins prosecuting case against man who threw sandwich at federal agent
+Summary: Summary based on headline: U.S. government begins prosecuting case against man who threw sandwich at...
+Description: Summary based on headline: U.S. government begins prosecuting case against man who threw sandwich at federal agent
+Image: https://i.cbc.ca/ais/f03eab10-506e-4cbd-b7b5-bec96d94d564,1762217012625/full/max/0/default.jpg?im=Crop%2Crect%3D%28478%2C61%2C282%2C282%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-04 20:03:25 ===
+
+=== CNN - technology - 2025-11-04 20:03:42 ===
+
+=== NPR - technology - 2025-11-04 20:03:50 ===
+
+=== CNN - business - 2025-11-04 20:04:08 ===
+
+=== CBC - business - 2025-11-04 20:04:10 ===
+
+=== NPR - business - 2025-11-04 20:04:16 ===
+
+=== CNN - sport - 2025-11-04 20:04:29 ===
+
+=== CNN - arts - 2025-11-04 20:04:51 ===
+
+=== NPR - arts - 2025-11-04 20:05:00 ===
+
+=== CNN - science - 2025-11-04 20:05:16 ===
+
+=== CBC - science - 2025-11-04 20:05:18 ===
+
+=== NPR - science - 2025-11-04 20:05:23 ===
+
+=== CNN - us - 2025-11-04 20:05:39 ===
+
+=== CNN - politics - 2025-11-04 20:06:04 ===
+
+Headline: Kevin Dietsch/Getty Images
+Summary: Summary based on headline: Kevin Dietsch/Getty Images
+Description: Summary based on headline: Kevin Dietsch/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209403704.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/politics/jared-isaacman-nasa-trump-nomination-withdrawal
+==================================================
+
+=== CBC - politics - 2025-11-04 20:06:07 ===
+
+=== NPR - politics - 2025-11-04 20:06:12 ===
+
+Headline: Democrat Spanberger wins Virginia governor race with message on DOGE, cost of living
+Summary: Summary based on headline: Democrat Spanberger wins Virginia governor race with message on DOGE, cos...
+Description: Summary based on headline: Democrat Spanberger wins Virginia governor race with message on DOGE, cost of living
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+87/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2Fb9%2F6704a2f5437492ac368778c630c3%2Fap03013104906.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5589144/election-results-virginia-governor-spanberger
+==================================================
+
+=== CNN - health - 2025-11-04 20:06:27 ===
+
+=== CBC - health - 2025-11-04 20:06:30 ===
+
+=== NPR - health - 2025-11-04 20:06:35 ===
+
+=== CNN - travel - 2025-11-04 20:06:49 ===
+
+Headline: •For SubscribersFor SubscribersBad behavior, overcrowded streets: In Asia’s travel hot spots, overtourism is creating European-style problems
+Summary: Summary based on headline: •For SubscribersFor SubscribersBad behavior, overcrowded streets: In Asia...
+Description: Summary based on headline: •For SubscribersFor SubscribersBad behavior, overcrowded streets: In Asia’s travel hot spots, overtourism is creating European-style problems
+Image: https://media.cnn.com/api/v1/images/stellar/prod/sipausa-11-447367153-318416113.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/travel/asia-overtourism-issues-tourist-hotspots-intl-hnk-dst
+==================================================
+
+=== CNN - world - 2025-11-04 20:17:15 ===
+
+=== CBC - world - 2025-11-04 20:17:18 ===
+
+Headline: China’s spy joke with South Korea that sounded like a warning | About That
+Summary: Summary based on headline: China’s spy joke with South Korea that sounded like a warning | About Tha...
+Description: Summary based on headline: China’s spy joke with South Korea that sounded like a warning | About That
+Image: https://i.cbc.ca/ais/553f6f83-ef87-4502-a9b3-c49a382a752b,1762279254976/full/max/0/default.jpg?im=Crop%2Crect%3D%28916%2C0%2C3667%2C3667%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-04 20:17:23 ===
+
+=== CNN - technology - 2025-11-04 20:17:39 ===
+
+=== NPR - technology - 2025-11-04 20:17:48 ===
+
+=== CNN - business - 2025-11-04 20:18:04 ===
+
+=== CBC - business - 2025-11-04 20:18:08 ===
+
+=== NPR - business - 2025-11-04 20:18:15 ===
+
+=== CNN - sport - 2025-11-04 20:18:31 ===
+
+=== CNN - arts - 2025-11-04 20:18:51 ===
+
+=== NPR - arts - 2025-11-04 20:19:01 ===
+
+=== CNN - science - 2025-11-04 20:19:15 ===
+
+=== CBC - science - 2025-11-04 20:19:18 ===
+
+Headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Summary: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Description: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Image: https://i.cbc.ca/ais/ea0cbe6e-c0a0-421f-9523-5da61f4a7d0d,1761657542415/full/max/0/default.jpg?im=Crop%2Crect%3D%281000%2C0%2C2000%2C2000%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: A monkey that escaped from an overturned truck has been fatally shot by Mississippi mom
+Summary: Summary based on headline: A monkey that escaped from an overturned truck has been fatally shot by M...
+Description: Summary based on headline: A monkey that escaped from an overturned truck has been fatally shot by Mississippi mom
+Image: https://i.cbc.ca/ais/fa41c082-3508-4705-b172-cf746f756752,1761854107929/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C186%2C2805%2C1577%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-11-04 20:19:23 ===
+
+=== CNN - us - 2025-11-04 20:19:39 ===
+
+=== CNN - politics - 2025-11-04 20:20:06 ===
+
+=== CBC - politics - 2025-11-04 20:20:08 ===
+
+=== NPR - politics - 2025-11-04 20:20:12 ===
+
+=== CNN - health - 2025-11-04 20:20:26 ===
+
+=== CBC - health - 2025-11-04 20:20:28 ===
+
+=== NPR - health - 2025-11-04 20:20:34 ===
+
+=== CNN - travel - 2025-11-04 20:20:49 ===
+
+=== CNN - world - 2025-11-04 20:31:11 ===
+
+=== CBC - world - 2025-11-04 20:31:14 ===
+
+=== NPR - world - 2025-11-04 20:31:20 ===
+
+=== CNN - technology - 2025-11-04 20:31:42 ===
+
+=== NPR - technology - 2025-11-04 20:31:51 ===
+
+=== CNN - business - 2025-11-04 20:32:07 ===
+
+=== CBC - business - 2025-11-04 20:32:09 ===
+
+=== NPR - business - 2025-11-04 20:32:16 ===
+
+=== CNN - sport - 2025-11-04 20:32:30 ===
+
+=== CNN - arts - 2025-11-04 20:32:59 ===
+
+=== NPR - arts - 2025-11-04 20:33:05 ===
+
+=== CNN - science - 2025-11-04 20:33:21 ===
+
+=== CBC - science - 2025-11-04 20:33:25 ===
+
+Headline: Hunter mauled by grizzly bear west of Calgary
+Summary: Summary based on headline: Hunter mauled by grizzly bear west of Calgary
+Description: Summary based on headline: Hunter mauled by grizzly bear west of Calgary
+Image: https://i.cbc.ca/ais/1.7523853,1746117722000/full/max/0/default.jpg?im=Crop%2Crect%3D%282%2C0%2C1623%2C1623%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-11-04 20:33:31 ===
+
+=== CNN - us - 2025-11-04 20:33:48 ===
+
+=== CNN - politics - 2025-11-04 20:34:15 ===
+
+=== CBC - politics - 2025-11-04 20:34:18 ===
+
+Headline: Finance minister sells budget as 'pivotal change in our nation's history'
+Summary: Summary based on headline: Finance minister sells budget as 'pivotal change in our nation's history'
+Description: Summary based on headline: Finance minister sells budget as 'pivotal change in our nation's history'
+Image: https://i.cbc.ca/ais/9416755e-e980-4b4d-8bc7-4fd8224aa2f3,1762300358295/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Opposition parties react to federal budget
+Summary: Summary based on headline: Opposition parties react to federal budget
+Description: Summary based on headline: Opposition parties react to federal budget
+Image: https://i.cbc.ca/ais/a50d0b1e-f5b0-4e64-b6a3-ae449030d69d,1762295392712/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7110%2C3999%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+=== NPR - politics - 2025-11-04 20:34:24 ===
+
+=== CNN - health - 2025-11-04 20:34:39 ===
+
+=== CBC - health - 2025-11-04 20:34:43 ===
+
+=== NPR - health - 2025-11-04 20:34:49 ===
+
+=== CNN - travel - 2025-11-04 20:35:04 ===
+
+=== CNN - world - 2025-11-04 20:45:32 ===
+
+=== CBC - world - 2025-11-04 20:45:34 ===
+
+=== NPR - world - 2025-11-04 20:45:40 ===
+
+=== CNN - technology - 2025-11-04 20:45:55 ===
+
+=== NPR - technology - 2025-11-04 20:46:04 ===
+
+=== CNN - business - 2025-11-04 20:46:19 ===
+
+=== CBC - business - 2025-11-04 20:46:21 ===
+
+Headline: Some employers are paying for egg freezing. Is that about helping you build a family or something else?
+Summary: Summary based on headline: Some employers are paying for egg freezing. Is that about helping you bui...
+Description: Summary based on headline: Some employers are paying for egg freezing. Is that about helping you build a family or something else?
+Image: https://i.cbc.ca/ais/5b7cb030-d049-4f9e-8e0e-03d86b3bd007,1761685685503/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C244%2C1868%2C1868%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-04 20:46:25 ===
+
+=== CNN - sport - 2025-11-04 20:46:42 ===
+
+=== CNN - arts - 2025-11-04 20:47:04 ===
+
+=== NPR - arts - 2025-11-04 20:47:12 ===
+
+=== CNN - science - 2025-11-04 20:47:29 ===
+
+=== CBC - science - 2025-11-04 20:47:31 ===
+
+=== NPR - science - 2025-11-04 20:47:37 ===
+
+=== CNN - us - 2025-11-04 20:47:50 ===
+
+=== CNN - politics - 2025-11-04 20:48:14 ===
+
+Headline: Win McNamee/Getty Images
+Summary: Summary based on headline: Win McNamee/Getty Images
+Description: Summary based on headline: Win McNamee/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2245054107.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/politics/virginia-governor-abigail-spanberger-wins
+==================================================
+
+=== CBC - politics - 2025-11-04 20:48:17 ===
+
+=== NPR - politics - 2025-11-04 20:48:24 ===
+
+=== CNN - health - 2025-11-04 20:48:38 ===
+
+=== CBC - health - 2025-11-04 20:48:41 ===
+
+=== NPR - health - 2025-11-04 20:48:45 ===
+
+=== CNN - travel - 2025-11-04 20:49:01 ===
+
+=== CNN - world - 2025-11-04 20:59:25 ===
+
+=== CBC - world - 2025-11-04 20:59:26 ===
+
+Headline: 7 climbers presumed dead after avalanche in Nepal
+Summary: Summary based on headline: 7 climbers presumed dead after avalanche in Nepal
+Description: Summary based on headline: 7 climbers presumed dead after avalanche in Nepal
+Image: https://i.cbc.ca/ais/7f42a938-0899-445b-86e6-ee80529b1f8f,1762290368104/full/max/0/default.jpg?im=Crop%2Crect%3D%28258%2C0%2C664%2C664%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Illegal crossings drop, but U.S. agents fear migrants 'will continue to lose their lives'
+Summary: Summary based on headline: Illegal crossings drop, but U.S. agents fear migrants 'will continue to l...
+Description: Summary based on headline: Illegal crossings drop, but U.S. agents fear migrants 'will continue to lose their lives'
+Image: https://i.cbc.ca/ais/1.6787209,1750966035000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4000%2C4000%29%3BResize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: U.S. government begins prosecuting case against man who threw sandwich at federal agent
+Summary: Summary based on headline: U.S. government begins prosecuting case against man who threw sandwich at...
+Description: Summary based on headline: U.S. government begins prosecuting case against man who threw sandwich at federal agent
+Image: https://i.cbc.ca/ais/17d59cfe-b750-45fd-81e9-29c9957cb66b,1762198559954/full/max/0/default.jpg?im=Crop%2Crect%3D%28923%2C0%2C4154%2C4154%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Trump administration will partially restore food benefit funding after judges’ ruling
+Summary: Summary based on headline: Trump administration will partially restore food benefit funding after ju...
+Description: Summary based on headline: Trump administration will partially restore food benefit funding after judges’ ruling
+Image: https://i.cbc.ca/ais/19f0e0b7-17b3-4435-b6a0-48b097a7398f,1762212646458/full/max/0/default.jpg?im=Crop%2Crect%3D%28832%2C0%2C3324%2C3324%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: New Yorkers will elect a new mayor today. Here's what you need to know
+Summary: Summary based on headline: New Yorkers will elect a new mayor today. Here's what you need to know
+Description: Summary based on headline: New Yorkers will elect a new mayor today. Here's what you need to know
+Image: https://i.cbc.ca/ais/046ce0c4-35e6-4b99-aab2-24e4890e123e,1718302454414/full/max/0/default.jpg?im=Crop%2Crect%3D%28420%2C0%2C1080%2C1080%29%3BResize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-04 20:59:32 ===
+
+=== CNN - technology - 2025-11-04 20:59:47 ===
+
+=== NPR - technology - 2025-11-04 20:59:55 ===
+
+=== CNN - business - 2025-11-04 21:00:09 ===
+
+=== CBC - business - 2025-11-04 21:00:12 ===
+
+=== NPR - business - 2025-11-04 21:00:19 ===
+
+=== CNN - sport - 2025-11-04 21:00:33 ===
+
+=== CNN - arts - 2025-11-04 21:01:01 ===
+
+=== NPR - arts - 2025-11-04 21:01:08 ===
+
+=== CNN - science - 2025-11-04 21:01:22 ===
+
+=== CBC - science - 2025-11-04 21:01:25 ===
+
+=== NPR - science - 2025-11-04 21:01:32 ===
+
+=== CNN - us - 2025-11-04 21:01:45 ===
+
+=== CNN - politics - 2025-11-04 21:02:10 ===
+
+=== CBC - politics - 2025-11-04 21:02:12 ===
+
+=== NPR - politics - 2025-11-04 21:02:18 ===
+
+=== CNN - health - 2025-11-04 21:02:31 ===
+
+=== CBC - health - 2025-11-04 21:02:34 ===
+
+=== NPR - health - 2025-11-04 21:02:39 ===
+
+=== CNN - travel - 2025-11-04 21:02:54 ===
+
+=== CNN - world - 2025-11-05 11:56:16 ===
+
+Headline: Maxim Shipenkov/AFP/Getty Images
+Summary: Summary based on headline: Maxim Shipenkov/AFP/Getty Images
+Description: Summary based on headline: Maxim Shipenkov/AFP/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244502483.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/europe/putin-nuclear-weapons-test-russia-intl
+==================================================
+
+Headline: Putin floats the possibility of fresh nuclear tests following Trump comments
+Summary: Summary based on headline: Putin floats the possibility of fresh nuclear tests following Trump comme...
+Description: Summary based on headline: Putin floats the possibility of fresh nuclear tests following Trump comments
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-11-04t191146z-1415416943-rc24dea96ezx-rtrmadp-3-iran-france-prisoners.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/europe/putin-nuclear-weapons-test-russia-intl
+==================================================
+
+Headline: Two French nationals freed from Iranian prison after more than 3 years in detention
+Summary: Summary based on headline: Two French nationals freed from Iranian prison after more than 3 years in...
+Description: Summary based on headline: Two French nationals freed from Iranian prison after more than 3 years in detention
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25307828422655.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/world/2-french-nationals-freed-from-iranian-prison-latam-intl
+==================================================
+
+=== CBC - world - 2025-11-05 11:56:21 ===
+
+Headline: U.S. Supreme Court weighs Trump's tariffs in test of presidential power
+Summary: Summary based on headline: U.S. Supreme Court weighs Trump's tariffs in test of presidential power
+Description: Summary based on headline: U.S. Supreme Court weighs Trump's tariffs in test of presidential power
+Image: https://i.cbc.ca/ais/1b9e5d08-e8e4-4928-a625-cf5641e61c26,1762292458441/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C334%2C4032%2C2268%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: This Texas county turned Republican for 1st time in over a century. A year on, voters say they have no regrets
+Summary: Summary based on headline: This Texas county turned Republican for 1st time in over a century. A yea...
+Description: Summary based on headline: This Texas county turned Republican for 1st time in over a century. A year on, voters say they have no regrets
+Image: https://i.cbc.ca/1.5133930.1557767275!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/katie-simpson.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Aid groups call for urgent access of shelter, food items into Gaza as winter nears
+Summary: Summary based on headline: Aid groups call for urgent access of shelter, food items into Gaza as win...
+Description: Summary based on headline: Aid groups call for urgent access of shelter, food items into Gaza as winter nears
+Image: https://i.cbc.ca/1.5498920.1660233234!/fileImage/httpImage/image.jpg_gen/derivatives/square_1180/sj.jpg?im=Resize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Japan sends in the military to deal with surge in bear attacks
+Summary: Summary based on headline: Japan sends in the military to deal with surge in bear attacks
+Description: Summary based on headline: Japan sends in the military to deal with surge in bear attacks
+Image: https://i.cbc.ca/ais/6bcacd57-a1f1-4c2d-b096-f6abc5736d4b,1762280409465/full/max/0/default.jpg?im=Crop%2Crect%3D%281169%2C335%2C3319%2C3319%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Trump's claims of Christian persecution in Nigeria bump up against facts
+Summary: Summary based on headline: Trump's claims of Christian persecution in Nigeria bump up against facts
+Description: Summary based on headline: Trump's claims of Christian persecution in Nigeria bump up against facts
+Image: https://i.cbc.ca/1.3963279.1486048382!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/mike-crawley.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Democratic candidates win key governor races as California voters approve redistricting
+Summary: Summary based on headline: Democratic candidates win key governor races as California voters approve...
+Description: Summary based on headline: Democratic candidates win key governor races as California voters approve redistricting
+Image: https://i.cbc.ca/ais/aaf7d8ab-805d-4c9d-be76-81f709bbba26,1762296260909/full/max/0/default.jpg?im=Crop%2Crect%3D%28512%2C0%2C2879%2C2879%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-05 11:56:27 ===
+
+Headline: Greetings from Johannesburg, South Africa, where spring bursts with jacaranda blooms
+Summary: Summary based on headline: Greetings from Johannesburg, South Africa, where spring bursts with jacar...
+Description: Summary based on headline: Greetings from Johannesburg, South Africa, where spring bursts with jacaranda blooms
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1089x613+0+57/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F5d%2F9c7fd9824a8a97bea7e31746f5b1%2Fap25309207669092.jpg
+Source: https://www.npr.org/2025/11/05/g-s1-95193/jacaranda-trees-south-africa-johannesburg
+==================================================
+
+Headline: Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams
+Summary: Summary based on headline: Prosecutors seize yachts, luxury cars from man accused of running Cambodi...
+Description: Summary based on headline: Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+210/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2Fd1%2Fd6c1121543dfb47a6dc1d836f187%2Fap25308209553368.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5599032/prosecutors-seize-yachts-luxury-cars-from-man-accused-of-running-cambodia-cyberscams
+==================================================
+
+Headline: Trump administration announces 16th deadly strike on an alleged drug boat
+Summary: Summary based on headline: Trump administration announces 16th deadly strike on an alleged drug boat
+Description: Summary based on headline: Trump administration announces 16th deadly strike on an alleged drug boat
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4644x2612+0+265/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F2b%2F487a62d8434eb8646a41d5fad455%2F13192389-0228-4e80-9256-07b6610a6448.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5599008/trump-administration-16th-strike-drug-boat
+==================================================
+
+Headline: The Story of Three Defiant Nuns in Austria
+Summary: Summary based on headline: The Story of Three Defiant Nuns in Austria
+Description: Summary based on headline: The Story of Three Defiant Nuns in Austria
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3739x2103+0+80/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F8f%2Fc6598a644ba7adc17c3a99829502%2Fgettyimages-1415300334.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5598458/the-story-of-three-defiant-nuns-in-austria
+==================================================
+
+Headline: Former Vice President Dick Cheney dies. And, Election Day races to watch
+Summary: Summary based on headline: Former Vice President Dick Cheney dies. And, Election Day races to watch
+Description: Summary based on headline: Former Vice President Dick Cheney dies. And, Election Day races to watch
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7289x4100+0+396/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F0e%2F73d99fff47bc95f263284432a78d%2Fgettyimages-2235988566.jpg
+Source: https://www.npr.org/2025/11/04/g-s1-96433/up-first-briefing-former-vp-dick-cheney-dies-election-day-races
+==================================================
+
+=== CNN - technology - 2025-11-05 11:56:40 ===
+
+=== NPR - technology - 2025-11-05 11:56:49 ===
+
+=== CNN - business - 2025-11-05 11:57:04 ===
+
+Headline: Shein to be suspended in France following uproar over sales of ‘childlike’ sex dolls
+Summary: Summary based on headline: Shein to be suspended in France following uproar over sales of ‘childlike...
+Description: Summary based on headline: Shein to be suspended in France following uproar over sales of ‘childlike’ sex dolls
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25308575777517.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/business/shein-fast-fashion-sex-dolls-france-intl
+==================================================
+
+Headline: Shein to be suspended in France following uproar over sales of ‘childlike’ sex dolls
+Summary: Summary based on headline: Shein to be suspended in France following uproar over sales of ‘childlike...
+Description: Summary based on headline: Shein to be suspended in France following uproar over sales of ‘childlike’ sex dolls
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25309018820621.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/04/business/shein-fast-fashion-sex-dolls-france-intl
+==================================================
+
+Headline: Why UPS was still flying the 34-year-old MD-11 plane that crashed
+Summary: Summary based on headline: Why UPS was still flying the 34-year-old MD-11 plane that crashed
+Description: Summary based on headline: Why UPS was still flying the 34-year-old MD-11 plane that crashed
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239023922.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/05/business/ups-crash-old-jet
+==================================================
+
+Headline: The US economy added 42,000 private-sector jobs last month, more than expected
+Summary: Summary based on headline: The US economy added 42,000 private-sector jobs last month, more than exp...
+Description: Summary based on headline: The US economy added 42,000 private-sector jobs last month, more than expected
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25179142507436.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/05/economy/us-jobs-private-sector-adp-october
+==================================================
+
+=== CBC - business - 2025-11-05 11:57:07 ===
+
+Headline: As soaring AI stocks take a turn, investors say not to panic yet
+Summary: Summary based on headline: As soaring AI stocks take a turn, investors say not to panic yet
+Description: Summary based on headline: As soaring AI stocks take a turn, investors say not to panic yet
+Image: https://i.cbc.ca/ais/1.7489997,1742577704000/full/max/0/default.jpg?im=Crop%2Crect%3D%28167%2C0%2C112%2C112%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-05 11:57:14 ===
+
+Headline: Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams
+Summary: Summary based on headline: Prosecutors seize yachts, luxury cars from man accused of running Cambodi...
+Description: Summary based on headline: Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+266/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F78%2F77%2F1cb1c3a24954ba5ca9c17f7650d7%2Fgettyimages-2208184612-1.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5599032/prosecutors-seize-yachts-luxury-cars-from-man-accused-of-running-cambodia-cyberscams
+==================================================
+
+Headline: Yes, Trump's tariffs are raising billions -- but at a steep economic cost
+Summary: Summary based on headline: Yes, Trump's tariffs are raising billions -- but at a steep economic cost
+Description: Summary based on headline: Yes, Trump's tariffs are raising billions -- but at a steep economic cost
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/10417x5859+0+292/resize/800/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F21%2Fc71d7e094d658a8582a44db6bf0e%2Fgettyimages-2228559366.png
+Source: https://www.npr.org/2025/11/05/nx-s1-5596488/tariffs-trump-economy-inflation
+==================================================
+
+Headline: Here are 6 'Beautiful Bill' tax changes that will benefit wealthy Americans
+Summary: Summary based on headline: Here are 6 'Beautiful Bill' tax changes that will benefit wealthy America...
+Description: Summary based on headline: Here are 6 'Beautiful Bill' tax changes that will benefit wealthy Americans
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F1e%2F225d1f8f4641b719667f79436fde%2F287c3109-d140-4a0f-becf-d5b84d7870fa.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5590112/trump-beautiful-bill-taxes-republican-rich-wealthy
+==================================================
+
+Headline: Everything’s more expensive!! Pet Care!! Concert Tickets!! (Two Indicators)
+Summary: Summary based on headline: Everything’s more expensive!! Pet Care!! Concert Tickets!! (Two Indicator...
+Description: Summary based on headline: Everything’s more expensive!! Pet Care!! Concert Tickets!! (Two Indicators)
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2Fee%2F3ee5c1754babbc07741920c1c798%2Fbc5fe43e-87ec-489f-83c9-f7a2a6c05407.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5598476/everythings-more-expensive-pet-care-concert-tickets-two-indicators
+==================================================
+
+Headline: Who's propping up Russian oil?
+Summary: Summary based on headline: Who's propping up Russian oil?
+Description: Summary based on headline: Who's propping up Russian oil?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2949x1659+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fe4%2F69c3d9024e5e900b64305ca9aabf%2F4a2de69d-da65-4d5b-8eca-6f638835f18f.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5596398/whos-propping-up-russian-oil
+==================================================
+
+Headline: Tariffs are going to the Supreme Court. What's at stake?
+Summary: Summary based on headline: Tariffs are going to the Supreme Court. What's at stake?
+Description: Summary based on headline: Tariffs are going to the Supreme Court. What's at stake?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2814+0+439/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F5e%2F03e4809a42a4bd37b0cedc9bdb81%2Fgettyimages-2236600701.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5597886/tariffs-are-going-to-the-supreme-court-whats-at-stake
+==================================================
+
+=== CNN - sport - 2025-11-05 11:57:28 ===
+
+=== CNN - arts - 2025-11-05 11:57:51 ===
+
+=== NPR - arts - 2025-11-05 11:57:58 ===
+
+Headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Summary: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Description: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2Fcf%2F6ebc52554dacb42412ba4d3bc852%2Fec7e4637-4c9c-405c-b489-1b51a484f6c0.jpg
+Source: https://www.npr.org/2025/09/17/nx-s1-5534152/what-to-watch-new-tv
+==================================================
+
+Headline: Lily King's new novel constructs an erotically charged love triangle
+Summary: Summary based on headline: Lily King's new novel constructs an erotically charged love triangle
+Description: Summary based on headline: Lily King's new novel constructs an erotically charged love triangle
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1334x750+0+86/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F21%2F0abd995645f2aa3dbb02dd8d470b%2Fnite-yun-photo-2-credit-andria-lo-2.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5592934/heart-the-lover-lily-king-book-review
+==================================================
+
+=== CNN - science - 2025-11-05 11:58:14 ===
+
+Headline: Allen J. Schaben/Los Angeles Times/Getty Images
+Summary: Summary based on headline: Allen J. Schaben/Los Angeles Times/Getty Images
+Description: Summary based on headline: Allen J. Schaben/Los Angeles Times/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184092159.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/science/full-moon-southern-taurid-meteor-shower
+==================================================
+
+Headline: Fireballs and a full moon. Here’s how to see two celestial events this week
+Summary: Summary based on headline: Fireballs and a full moon. Here’s how to see two celestial events this we...
+Description: Summary based on headline: Fireballs and a full moon. Here’s how to see two celestial events this week
+Image: https://media.cnn.com/api/v1/images/stellar/prod/bones.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/05/science/full-moon-southern-taurid-meteor-shower
+==================================================
+
+Headline: Inside NASA’s scramble to find a backup moon plan — and the wild ideas companies are pitching
+Summary: Summary based on headline: Inside NASA’s scramble to find a backup moon plan — and the wild ideas co...
+Description: Summary based on headline: Inside NASA’s scramble to find a backup moon plan — and the wild ideas companies are pitching
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap930917346740.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/01/science/nasa-moon-lunar-lander-options
+==================================================
+
+=== CBC - science - 2025-11-05 11:58:17 ===
+
+Headline: Drought could threaten salmon returning to N.S. rivers to spawn, say conservationists
+Summary: Summary based on headline: Drought could threaten salmon returning to N.S. rivers to spawn, say cons...
+Description: Summary based on headline: Drought could threaten salmon returning to N.S. rivers to spawn, say conservationists
+Image: https://i.cbc.ca/ais/1.7495992,1743172311000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C797%2C5464%2C5464%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Federal budget dedicates over $1B to boost Canadian AI and quantum computing
+Summary: Summary based on headline: Federal budget dedicates over $1B to boost Canadian AI and quantum comput...
+Description: Summary based on headline: Federal budget dedicates over $1B to boost Canadian AI and quantum computing
+Image: https://i.cbc.ca/ais/1.7439280,1737760843000/full/max/0/default.jpg?im=Crop%2Crect%3D%28526%2C171%2C2842%2C2842%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+Headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Summary: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Description: Summary based on headline: Deadly 6.3-magnitude earthquake hits northern Afghanistan
+Image: https://i.cbc.ca/ais/c9ea39dd-80f2-41e1-bbf1-f7015f57f40b,1762123626466/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C142%2C2719%2C1529%29%3B
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-11-05 11:58:23 ===
+
+Headline: FEMA promised funds to tsunami-proof an Oregon hospital. That money is MIA
+Summary: Summary based on headline: FEMA promised funds to tsunami-proof an Oregon hospital. That money is MI...
+Description: Summary based on headline: FEMA promised funds to tsunami-proof an Oregon hospital. That money is MIA
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5104x2871+0+266/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fdb%2Fb10580aa478aada598eecd8e6689%2Fap25309041619050.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5596414/hospital-fema-tsunami-earthquake-bric-cascadia-shutdown
+==================================================
+
+Headline: Trump once again nominates tech space traveler Jared Isaacman to serve as NASA administrator
+Summary: Summary based on headline: Trump once again nominates tech space traveler Jared Isaacman to serve as...
+Description: Summary based on headline: Trump once again nominates tech space traveler Jared Isaacman to serve as NASA administrator
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2Fd7%2F86ab589d4099b5a8fa3d6cd8fa3e%2Fef5f99eb-45a3-48e6-bba3-0b92c821ff4a.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5599010/trump-nominates-tech-space-jared-isaacman-nasa-administrator
+==================================================
+
+Headline: How did these species survive mass extinction events?
+Summary: Summary based on headline: How did these species survive mass extinction events?
+Description: Summary based on headline: How did these species survive mass extinction events?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F9d%2Ff9e7f4cb484fa0edf057260b1532%2F8e44b53f-3b8f-4226-a061-51badafadd0c.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5585194/mass-extinction-mystery-clams-brachiopods-climate-change
+==================================================
+
+Headline: What secrets everyday rocks share about human history
+Summary: Summary based on headline: What secrets everyday rocks share about human history
+Description: Summary based on headline: What secrets everyday rocks share about human history
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F6e%2Fff29e42b42928a6fb72828bbfac7%2Fd081a719-ad99-44d8-98ba-dfafd3bd231f.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5545701/rocks-stories-human-geology-indigenous
+==================================================
+
+Headline: The voting system we use can determine the election winner. Here's how
+Summary: Summary based on headline: The voting system we use can determine the election winner. Here's how
+Description: Summary based on headline: The voting system we use can determine the election winner. Here's how
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2190x1232+0+137/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F47%2Ff99afb5748efa619ff4320ca32e2%2Fgettyimages-2156050645.jpg
+Source: https://www.npr.org/2025/11/03/nx-s1-5593111/voting-system-election-ballot
+==================================================
+
+=== CNN - us - 2025-11-05 11:58:38 ===
+
+Headline: Pool
+Summary: Summary based on headline: Pool
+Description: Summary based on headline: Pool
+Image: https://media.cnn.com/api/v1/images/stellar/prod/still-22086756-1806446-still.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/us/teacher-shot-abby-zwerner-lawsui
+==================================================
+
+Headline: Closing arguments are set for today in lawsuit filed by Virginia teacher shot by 6-year-old student
+Summary: Summary based on headline: Closing arguments are set for today in lawsuit filed by Virginia teacher ...
+Description: Summary based on headline: Closing arguments are set for today in lawsuit filed by Virginia teacher shot by 6-year-old student
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-10-28t160833z-1035144782-rc24lhac1jwk-rtrmadp-3-usa-shutdown-travel.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/us/teacher-shot-abby-zwerner-lawsui
+==================================================
+
+=== CNN - politics - 2025-11-05 11:59:03 ===
+
+Headline: AP/Getty Images
+Summary: Summary based on headline: AP/Getty Images
+Description: Summary based on headline: AP/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/20251104-abigailspanbergermikiesherrillsplit02.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/politics/spanberger-sherrill-roommates-similar-paths-to-office
+==================================================
+
+Headline: Spanberger and Sherrill were roommates on Capitol Hill. They’re now making history in their states
+Summary: Summary based on headline: Spanberger and Sherrill were roommates on Capitol Hill. They’re now makin...
+Description: Summary based on headline: Spanberger and Sherrill were roommates on Capitol Hill. They’re now making history in their states
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2244546813.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/politics/spanberger-sherrill-roommates-similar-paths-to-office
+==================================================
+
+=== CBC - politics - 2025-11-05 11:59:05 ===
+
+Headline: N.S. MP who left Conservatives explains why he joined Liberals
+Summary: Summary based on headline: N.S. MP who left Conservatives explains why he joined Liberals
+Description: Summary based on headline: N.S. MP who left Conservatives explains why he joined Liberals
+Image: https://i.cbc.ca/ais/ab674009-8dac-4624-9e9b-a8dd07e57f31,1762355722115/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: PM says he admires Nova Scotia MP for crossing aisle from Conservatives
+Summary: Summary based on headline: PM says he admires Nova Scotia MP for crossing aisle from Conservatives
+Description: Summary based on headline: PM says he admires Nova Scotia MP for crossing aisle from Conservatives
+Image: https://i.cbc.ca/ais/8801a1b9-102b-494d-8f81-d7a52e1edc9a,1762351729326/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Liberal budget built to address uncertainty as global trade system gets 'rewired': Carney says
+Summary: Summary based on headline: Liberal budget built to address uncertainty as global trade system gets '...
+Description: Summary based on headline: Liberal budget built to address uncertainty as global trade system gets 'rewired': Carney says
+Image: https://i.cbc.ca/ais/d84110e2-ae98-4f57-b5ef-3a80608111ff,1762342840567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: At Issue | Will Carney's budget kickstart Canada's economy?
+Summary: Summary based on headline: At Issue | Will Carney's budget kickstart Canada's economy?
+Description: Summary based on headline: At Issue | Will Carney's budget kickstart Canada's economy?
+Image: https://i.cbc.ca/ais/9a55a25b-662a-4c00-94ff-c5946aca4e3f,1762302814069/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Conservative MP resigns from caucus to join Liberals
+Summary: Summary based on headline: Conservative MP resigns from caucus to join Liberals
+Description: Summary based on headline: Conservative MP resigns from caucus to join Liberals
+Image: https://i.cbc.ca/ais/441dc501-fa12-448b-8809-28be805b9e03,1762304164915/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Carney unveils budget focused on strengthening Canada's finances
+Summary: Summary based on headline: Carney unveils budget focused on strengthening Canada's finances
+Description: Summary based on headline: Carney unveils budget focused on strengthening Canada's finances
+Image: https://i.cbc.ca/ais/6029bb8f-e8fb-48e4-bec2-971ad64e02af,1762346928656/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Federal Budget 2025: What makes this one different?
+Summary: Summary based on headline: Federal Budget 2025: What makes this one different?
+Description: Summary based on headline: Federal Budget 2025: What makes this one different?
+Image: https://i.cbc.ca/ais/70a59f52-1164-4fca-b90d-f9b86c90d542,1762302654212/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+=== NPR - politics - 2025-11-05 11:59:11 ===
+
+Headline: Democrats' 2025 election wins go beyond big races to places like Georgia, Pennsylvania
+Summary: Summary based on headline: Democrats' 2025 election wins go beyond big races to places like Georgia,...
+Description: Summary based on headline: Democrats' 2025 election wins go beyond big races to places like Georgia, Pennsylvania
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5493x3090+0+70/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2Fee%2Fefc8566a4112805283395ce380af%2Fgettyimages-2245026086.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5599185/2025-election-results-georgia-pennsylvania-democrats-win
+==================================================
+
+Headline: 5 takeaways from the 2025 elections. And, the shutdown now the longest in U.S. history
+Summary: Summary based on headline: 5 takeaways from the 2025 elections. And, the shutdown now the longest in...
+Description: Summary based on headline: 5 takeaways from the 2025 elections. And, the shutdown now the longest in U.S. history
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4777x2687+0+249/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F86%2F3ec9d9784263946255c9b7e22ca7%2Fgettyimages-22407918631.jpg
+Source: https://www.npr.org/2025/11/05/g-s1-96591/up-first-newsletter-election-day-takeaways-government-shutdown-trump-tariffs-israel-top-military-lawyer
+==================================================
+
+Headline: How an enduring debate over healthcare sparked a now record-long shutdown
+Summary: Summary based on headline: How an enduring debate over healthcare sparked a now record-long shutdown
+Description: Summary based on headline: How an enduring debate over healthcare sparked a now record-long shutdown
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F87%2Fc36a5f8b4a94ab1b1f6cba2852cb%2Fgettyimages-2239492516.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5596472/government-shutdown-record-health-care-subsidies
+==================================================
+
+Headline: Supreme Court enters the lion's den on Trump tariffs
+Summary: Summary based on headline: Supreme Court enters the lion's den on Trump tariffs
+Description: Summary based on headline: Supreme Court enters the lion's den on Trump tariffs
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5729x3223+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F3e%2Fba82a40e45c1a38bfaeeef30737b%2Fgettyimages-2245026085.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5592338/trump-tariffs-supreme-court
+==================================================
+
+Headline: Democrats had a big night. Here are 5 takeaways from the 2025 elections
+Summary: Summary based on headline: Democrats had a big night. Here are 5 takeaways from the 2025 elections
+Description: Summary based on headline: Democrats had a big night. Here are 5 takeaways from the 2025 elections
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/300/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F17%2Fcbeb3eb44e06a5e4baadb8acdbc6%2Fshutdown-durations.png
+Source: https://www.npr.org/2025/11/05/nx-s1-5598418/2025-election-prop-50-zohran-mamdani-nyc-virginia-new-jersey
+==================================================
+
+Headline: The government shutdown is now the longest in U.S. history. See how it compares
+Summary: Summary based on headline: The government shutdown is now the longest in U.S. history. See how it co...
+Description: Summary based on headline: The government shutdown is now the longest in U.S. history. See how it compares
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+210/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2Fd1%2Fd6c1121543dfb47a6dc1d836f187%2Fap25308209553368.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5598315/government-shutdown-longest-history
+==================================================
+
+Headline: Trump administration announces 16th deadly strike on an alleged drug boat
+Summary: Summary based on headline: Trump administration announces 16th deadly strike on an alleged drug boat
+Description: Summary based on headline: Trump administration announces 16th deadly strike on an alleged drug boat
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4042x2274+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F71%2F8d4971614eb0b698f7074cac65e0%2Fap25305862977576.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5599008/trump-administration-16th-strike-drug-boat
+==================================================
+
+Headline: California voters OK new congressional lines, boosting Democrats ahead of midterms
+Summary: Summary based on headline: California voters OK new congressional lines, boosting Democrats ahead of...
+Description: Summary based on headline: California voters OK new congressional lines, boosting Democrats ahead of midterms
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6585x3702+2216+1900/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F71%2F852ce7e04ccd8d36ad47c0ffee13%2F20251104-mamdanielectionnight-kc-37.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5587742/election-results-california-proposition-50-redistricting
+==================================================
+
+Headline: Mamdani wins New York City mayoral race, in a historic victory for progressives
+Summary: Summary based on headline: Mamdani wins New York City mayoral race, in a historic victory for progre...
+Description: Summary based on headline: Mamdani wins New York City mayoral race, in a historic victory for progressives
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F15%2F53d5644444b28f9e018192cafc70%2Fgettyimages-2244535359.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5597788/election-results-zohran-mamdani-new-york-city-mayor
+==================================================
+
+Headline: Rep. Mikie Sherrill wins N.J. governor in Tuesday's second victory for Democrats
+Summary: Summary based on headline: Rep. Mikie Sherrill wins N.J. governor in Tuesday's second victory for De...
+Description: Summary based on headline: Rep. Mikie Sherrill wins N.J. governor in Tuesday's second victory for Democrats
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5370x3021+0+280/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2Fb1%2F70dd71d047478cd6064782d9c229%2F20251101-elex-dems-obama-sa1-8135-1.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5590033/election-results-new-jersey-governor-sherrill
+==================================================
+
+=== CNN - health - 2025-11-05 11:59:27 ===
+
+Headline: Dhiraj Singh/Bloomberg/Getty Images
+Summary: Summary based on headline: Dhiraj Singh/Bloomberg/Getty Images
+Description: Summary based on headline: Dhiraj Singh/Bloomberg/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2221165815.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/politics/obesity-drugs-trump-pharmaceutical-companies
+==================================================
+
+Headline: FDA moves to restrict fluoride supplements as part of MAHA agenda
+Summary: Summary based on headline: FDA moves to restrict fluoride supplements as part of MAHA agenda
+Description: Summary based on headline: FDA moves to restrict fluoride supplements as part of MAHA agenda
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1297572018.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/10/31/health/fluoride-supplement-restrictions-fda
+==================================================
+
+=== CBC - health - 2025-11-05 11:59:30 ===
+
+Headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Summary: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to r...
+Description: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Image: https://i.cbc.ca/ais/f5bd5e14-de5f-42c1-8478-5b7731bb70ef,1762288538160/full/max/0/default.jpg?im=Crop%2Crect%3D%28196%2C0%2C787%2C787%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: Islanders asked for input on new rules for unregulated beauty services in P.E.I.
+Summary: Summary based on headline: Islanders asked for input on new rules for unregulated beauty services in...
+Description: Summary based on headline: Islanders asked for input on new rules for unregulated beauty services in P.E.I.
+Image: https://i.cbc.ca/ais/1.7178666,1733924643000/full/max/0/default.jpg?im=Crop%2Crect%3D%28421%2C86%2C899%2C899%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: A Toronto-area doctor spent 10 days caring for a dying baby without pay. Here’s why she’s speaking up
+Summary: Summary based on headline: A Toronto-area doctor spent 10 days caring for a dying baby without pay. ...
+Description: Summary based on headline: A Toronto-area doctor spent 10 days caring for a dying baby without pay. Here’s why she’s speaking up
+Image: https://i.cbc.ca/ais/1.6840868,1683850468000/full/max/0/default.jpg?im=Crop%2Crect%3D%281000%2C0%2C4000%2C4000%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+Headline: What we know about the Alzheimer's drug Health Canada approved
+Summary: Summary based on headline: What we know about the Alzheimer's drug Health Canada approved
+Description: Summary based on headline: What we know about the Alzheimer's drug Health Canada approved
+Image: https://i.cbc.ca/ais/8d329687-c6cf-4dd5-9ab1-b960f0395699,1759952306456/full/max/0/default.jpg?im=Crop%2Crect%3D%28249%2C1102%2C2575%2C2575%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-11-05 11:59:37 ===
+
+Headline: Public health defends its time-tested approach against the rise of MAHA
+Summary: Summary based on headline: Public health defends its time-tested approach against the rise of MAHA
+Description: Summary based on headline: Public health defends its time-tested approach against the rise of MAHA
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3024x1701+0+158/resize/400/quality/15/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F55%2F4d92afa6487cbb85b82050f88d93%2Fkrebs-grinnell-hospital-ob1.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/04/nx-s1-5597970/apha-maha-american-public-health-association
+==================================================
+
+=== CNN - travel - 2025-11-05 11:59:51 ===
