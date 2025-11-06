@@ -1,105 +1,202 @@
-import React, { useState } from 'react';
-import CommentsSection from './CommentsSection';
+import React, { useState, useEffect } from 'react';
+import { FiBookmark, FiCheckSquare } from 'react-icons/fi';
 
-const NewsCard = ({ article, darkMode }) => {
-  const [showComments, setShowComments] = useState(false);
-  
-  // Format the date with a fallback for invalid dates
-  const formatDate = (dateString) => {
-    const date = new Date(dateString);
-    return date.toString() !== "Invalid Date" ? date.toLocaleDateString() : "Unknown Date";
+const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
+  const [isBookmarked, setIsBookmarked] = useState(false);
+
+  const checkIfBookmarked = () => {
+    try {
+      const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+      const found = bookmarks.some(b => 
+        b.headline === article.headline || 
+        b.sourceLink === article.sourceLink
+      );
+      setIsBookmarked(found);
+      return found;
+    } catch (error) {
+      console.error('Error checking bookmark:', error);
+      return false;
+    }
   };
 
-  // Determine sentiment emoji based on compound score
-  const getSentimentEmoji = (sentiment) => {
-    const compound = sentiment?.headline?.compound || 0; // Use headline sentiment
-    if (compound >= 0.05) return '😊'; // Positive
-    if (compound <= -0.05) return '😢'; // Negative
-    return '😐'; // Neutral
+  useEffect(() => {
+    checkIfBookmarked();
+    
+    const handleBookmarkChange = () => checkIfBookmarked();
+    
+    window.addEventListener('bookmarksChanged', handleBookmarkChange);
+    window.addEventListener('storage', handleBookmarkChange);
+    window.addEventListener('focus', handleBookmarkChange);
+
+    return () => {
+      window.removeEventListener('bookmarksChanged', handleBookmarkChange);
+      window.removeEventListener('storage', handleBookmarkChange);
+      window.removeEventListener('focus', handleBookmarkChange);
+    };
+  }, [article.headline, article.sourceLink]);
+
+  const handleBookmarkClick = (e) => {
+    // CRITICAL: Stop all event propagation
+    e.stopPropagation();
+    e.preventDefault();
+    e.nativeEvent.stopImmediatePropagation();
+    
+    console.log('Bookmark button clicked!', article.headline);
+    
+    try {
+      const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+      const bookmarkIndex = bookmarks.findIndex(b => 
+        b.headline === article.headline
+      );
+      
+      let newBookmarks;
+      if (bookmarkIndex > -1) {
+        newBookmarks = bookmarks.filter((_, index) => index !== bookmarkIndex);
+        setIsBookmarked(false);
+        console.log('✅ Removed bookmark:', article.headline);
+      } else {
+        const bookmarkData = {
+          headline: article.headline,
+          summary: article.summary || article.description,
+          description: article.description,
+          image: article.image,
+          sourceLink: article.sourceLink,
+          publishedAt: article.publishedAt || article.date,
+          category: article.category,
+          source: article.source,
+          sentiment: article.sentiment,
+          bookmarkedAt: new Date().toISOString(),
+        };
+        newBookmarks = [...bookmarks, bookmarkData];
+        setIsBookmarked(true);
+        console.log('✅ Added bookmark:', article.headline);
+      }
+      
+      localStorage.setItem('bookmarks', JSON.stringify(newBookmarks));
+      console.log('📊 Total bookmarks:', newBookmarks.length);
+      
+      if (onBookmark) {
+        onBookmark(article);
+      }
+      
+      window.dispatchEvent(new CustomEvent('bookmarksChanged', { 
+        detail: { bookmarks: newBookmarks } 
+      }));
+      
+      // Force a small delay to ensure state updates
+      setTimeout(() => checkIfBookmarked(), 100);
+      
+    } catch (error) {
+      console.error('❌ Error toggling bookmark:', error);
+    }
   };
+
+  const handleNewsClick = () => {
+    if (article.sourceLink) {
+      console.log('Opening article:', article.sourceLink);
+      window.open(article.sourceLink, '_blank', 'noopener,noreferrer');
+    }
+  };
+
+  const articleDate = article.publishedAt || article.date || new Date().toISOString();
 
   return (
-    <div className={`relative rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:scale-[1.02] 
-      ${darkMode ? 'bg-neutral-700' : 'bg-white'} card-hover`}
+    <div 
+      className={`card-hover ${viewMode === 'grid' ? 'rounded-lg p-4' : 'p-4 border-b'} ${darkMode ? 'bg-gray-800 text-white' : 'bg-white text-gray-800'} shadow-md hover:shadow-lg transition-all ${viewMode === 'list' ? 'flex items-center' : ''}`}
     >
-      <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-brand-400 to-brand-600"></div>
-      
-      {article.image ? (
-        <div className="h-48 overflow-hidden">
-          <img
-            src={article.image}
-            alt={article.headline}
-            className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
-          />
-        </div>
-      ) : (
-        <div className={`w-full h-48 flex items-center justify-center 
-          ${darkMode ? 'bg-neutral-600' : 'bg-neutral-100'}`}
-        >
-          <span className="text-neutral-400">No Image Available</span>
-        </div>
-      )}
-      
-      <div className="p-6">
-        <div className="flex items-center mb-3">
-          <span className={`px-2 py-1 text-xs font-semibold rounded-full 
-            ${darkMode ? 'bg-neutral-600 text-white' : 'bg-brand-100 text-brand-800'}`}
-          >
-            {article.category}
-          </span>
-          <span className="ml-2 text-lg">{getSentimentEmoji(article.sentiment)}</span>
-          <span className="ml-auto text-sm text-gray-500 dark:text-gray-400">
-            {formatDate(article.date)}
-          </span>
-        </div>
-        
-        <h3 className={`text-xl font-bold mb-2 line-clamp-2 
-          ${darkMode ? 'text-white' : 'text-neutral-800'}`}
-        >
-          {article.headline}
-        </h3>
-        
-        <p className={`mb-4 line-clamp-3 ${darkMode ? 'text-neutral-300' : 'text-neutral-600'}`}>
-          {article.summary}
-        </p>
-        
-        <div className="flex items-center justify-between">
-          <a
-            href={article.sourceLink}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center text-brand-500 hover:text-brand-600 dark:text-brand-400 dark:hover:text-brand-300 font-medium"
-          >
-            Read Full Story
-            <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-            </svg>
-          </a>
-          
-          <button
-            onClick={() => setShowComments(!showComments)}
-            className={`flex items-center gap-2 px-3 py-1.5 rounded-lg transition-all duration-200 hover:scale-105 font-medium
-              ${darkMode 
-                ? 'text-neutral-300 hover:text-white hover:bg-neutral-600' 
-                : 'text-neutral-600 hover:text-neutral-800 hover:bg-neutral-100'
-              }
-            `}
-          >
-            <span className="text-lg">💬</span>
-            <span className="text-sm">Comments</span>
-          </button>
-        </div>
-      </div>
-      
-      {/* Comments Section */}
-      {showComments && (
-        <div className="px-6 pb-6" data-testid="comments-section">
-          <div className="pt-4 border-t border-neutral-200 dark:border-neutral-600">
-            <CommentsSection 
-              articleId={article.headline} // Using headline as unique ID for demo
-              darkMode={darkMode}
-            />
+      {viewMode === 'grid' ? (
+        <>
+          {/* Image and content - clickable to open article */}
+          <div onClick={handleNewsClick} className="cursor-pointer">
+            {article.image ? (
+              <div className="h-48 overflow-hidden rounded-lg mb-4">
+                <img
+                  src={article.image}
+                  alt={article.headline}
+                  className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
+                  onError={(e) => {
+                    e.target.style.display = 'none';
+                  }}
+                />
+              </div>
+            ) : (
+              <div className={`w-full h-48 flex items-center justify-center rounded-lg mb-4 ${darkMode ? 'bg-gray-600' : 'bg-gray-100'}`}>
+                <span className="text-gray-400 text-sm">No Image Available</span>
+              </div>
+            )}
+            <h3 className="text-lg font-semibold line-clamp-2 mb-2">{article.headline}</h3>
+            <p className="text-sm text-gray-500 dark:text-gray-400 line-clamp-3">
+              {article.summary || article.description || 'No summary available.'}
+            </p>
           </div>
+          
+          {/* Bottom bar with date and bookmark - NOT clickable for article */}
+          <div className="flex justify-between items-center mt-4">
+            <span className="text-xs text-gray-400">
+              {new Date(articleDate).toLocaleDateString()}
+            </span>
+            <button
+              type="button"
+              onClick={handleBookmarkClick}
+              onMouseDown={(e) => e.stopPropagation()}
+              onTouchStart={(e) => e.stopPropagation()}
+              className={`p-2 rounded-full transition-all z-10 relative ${
+                isBookmarked 
+                  ? 'bg-blue-500 text-white hover:bg-blue-600' 
+                  : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'
+              }`}
+              aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
+              title={isBookmarked ? 'Remove from bookmarks' : 'Save for later'}
+            >
+              {isBookmarked ? <FiCheckSquare size={18} /> : <FiBookmark size={18} />}
+            </button>
+          </div>
+        </>
+      ) : (
+        <div className="flex items-center w-full gap-4">
+          {/* Content - clickable to open article */}
+          <div onClick={handleNewsClick} className="cursor-pointer flex items-center gap-4 flex-1">
+            {article.image ? (
+              <div className="w-32 h-20 overflow-hidden rounded flex-shrink-0">
+                <img
+                  src={article.image}
+                  alt={article.headline}
+                  className="w-full h-full object-cover"
+                  onError={(e) => e.target.style.display = 'none'}
+                />
+              </div>
+            ) : (
+              <div className={`w-32 h-20 flex items-center justify-center rounded flex-shrink-0 ${darkMode ? 'bg-gray-600' : 'bg-gray-100'}`}>
+                <span className="text-gray-400 text-xs">No Image</span>
+              </div>
+            )}
+            <div className="flex-1">
+              <h3 className="text-lg font-semibold mb-1">{article.headline}</h3>
+              <p className="text-sm text-gray-500 dark:text-gray-400 line-clamp-2">
+                {article.summary || article.description || 'No summary available.'}
+              </p>
+              <span className="text-xs text-gray-400 mt-2 block">
+                {new Date(articleDate).toLocaleDateString()}
+              </span>
+            </div>
+          </div>
+          
+          {/* Bookmark button - separate from clickable content */}
+          <button
+            type="button"
+            onClick={handleBookmarkClick}
+            onMouseDown={(e) => e.stopPropagation()}
+            onTouchStart={(e) => e.stopPropagation()}
+            className={`p-2 rounded-full transition-all flex-shrink-0 z-10 relative ${
+              isBookmarked 
+                ? 'bg-blue-500 text-white hover:bg-blue-600' 
+                : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'
+            }`}
+            aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
+            title={isBookmarked ? 'Remove from bookmarks' : 'Save for later'}
+          >
+            {isBookmarked ? <FiCheckSquare size={18} /> : <FiBookmark size={18} />}
+          </button>
         </div>
       )}
     </div>

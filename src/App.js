@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import {
   BrowserRouter as Router,
   Route,
@@ -14,14 +14,19 @@ import LandingPage from "./components/LandingPage";
 import SubscribeModal from "./components/SubscribeModal";
 import PositiveNewsletterModal from "./components/PositiveNewsletterModal";
 import ProfileSettings from "./components/ProfileSettings";
+import SentimentGraph from "./components/SentimentGraph";
 import UserPreferences from "./components/UserPreferences";
-import { PreferencesProvider } from "./contexts/PreferencesContext";
+import BookmarksPage from "./components/BookmarksPage";
 import "./App.css";
-import { FiSun, FiMoon, FiUser } from "react-icons/fi";
+import { FiSun, FiMoon, FiUser, FiSearch } from "react-icons/fi";
+
+// API Configuration
+const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5001";
 
 // Wrapper component to handle navigation
 const AppContent = () => {
   const navigate = useNavigate();
+  const dropdownRef = useRef(null);
   const categories = [
     "art",
     "tech",
@@ -40,18 +45,80 @@ const AppContent = () => {
     !!localStorage.getItem("token")
   );
   const [showProfileDropdown, setShowProfileDropdown] = useState(false);
+  const [searchQuery, setSearchQuery] = useState("");
+  const [liveHeadlines, setLiveHeadlines] = useState([]);
+  const [showSentimentGraph, setShowSentimentGraph] = useState(false);
+  const [userPreferences, setUserPreferences] = useState(() =>
+    JSON.parse(localStorage.getItem("preferences") || "{}")
+  );
+  const [sentimentCategory, setSentimentCategory] = useState("all");
 
   useEffect(() => {
     document.documentElement.classList.toggle("dark", darkMode);
     localStorage.setItem("darkMode", darkMode);
-  }, [darkMode]);
+    localStorage.setItem("preferences", JSON.stringify(userPreferences));
+
+    const fetchHeadlines = async () => {
+      try {
+        const response = await fetch(`${API_URL}/api/news`);
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        const headlines = data.map((article) => article.headline).slice(0, 5);
+        setLiveHeadlines(headlines);
+      } catch (error) {
+        console.error("Error fetching headlines:", error);
+        setLiveHeadlines([
+          "Unable to load headlines. Check backend connection.",
+        ]);
+      }
+    };
+
+    fetchHeadlines();
+    const interval = setInterval(fetchHeadlines, 60000);
+    return () => clearInterval(interval);
+  }, [darkMode, userPreferences]);
+
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
+        setShowProfileDropdown(false);
+      }
+    };
+
+    if (showProfileDropdown) {
+      document.addEventListener("mousedown", handleClickOutside);
+    }
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [showProfileDropdown]);
 
   const toggleTheme = () => setDarkMode(!darkMode);
 
   const handleLogout = () => {
     localStorage.removeItem("token");
+    localStorage.removeItem("username");
     setIsAuthenticated(false);
+    setShowProfileDropdown(false);
     navigate("/signin");
+  };
+
+  const openSentimentGraph = (category) => {
+    setSentimentCategory(category);
+    setShowSentimentGraph(true);
+  };
+
+  const handlePreferenceChange = (category, priority) => {
+    setUserPreferences((prev) => ({ ...prev, [category]: priority }));
+  };
+
+  const handleMenuItemClick = (action) => {
+    setShowProfileDropdown(false);
+    action();
   };
 
   return (
@@ -66,10 +133,20 @@ const AppContent = () => {
       <div className="relative z-10 flex flex-col min-h-screen bg-white/70 dark:bg-gray-900/80 backdrop-blur-sm transition-colors duration-300">
         <header className="sticky top-0 z-50 bg-white dark:bg-gray-800 text-gray-900 dark:text-white p-4 shadow-sm">
           <div className="max-w-7xl mx-auto flex justify-between items-center">
-            <h1 className="text-4xl font-extrabold tracking-tight text-brand-600 dark:text-brand-400">
+            <h1 className="text-4xl font-extrabold tracking-tight text-blue-600 dark:text-blue-400">
               <Link to={isAuthenticated ? "/" : "/signin"}>BRIGHT FEED</Link>
             </h1>
             <div className="flex items-center gap-4">
+              <div className="relative">
+                <input
+                  type="text"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  placeholder="Search news..."
+                  className="w-64 p-2 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 text-gray-900 dark:text-white pl-8"
+                />
+                <FiSearch className="absolute left-2 top-2 text-gray-500 dark:text-gray-400" />
+              </div>
               <button
                 onClick={toggleTheme}
                 className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
@@ -82,11 +159,9 @@ const AppContent = () => {
                 )}
               </button>
               {isAuthenticated ? (
-                <div className="relative">
+                <div className="relative" ref={dropdownRef}>
                   <button
-                    onClick={() =>
-                      setShowProfileDropdown(!showProfileDropdown)
-                    }
+                    onClick={() => setShowProfileDropdown(!showProfileDropdown)}
                     className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
                     aria-label="Profile"
                   >
@@ -97,22 +172,28 @@ const AppContent = () => {
                   {showProfileDropdown && (
                     <div className="absolute right-0 mt-2 w-48 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg z-50">
                       <button
+                        onClick={() => handleMenuItemClick(() => navigate("/bookmarks"))}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-t-lg"
+                      >
+                        📖 My Bookmarks
+                      </button>
+                      <button
+                        onClick={() => handleMenuItemClick(() => navigate("/profile-settings"))}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                      >
+                        ⚙️ Profile Settings
+                      </button>
+                      <button
+                        onClick={() => handleMenuItemClick(() => navigate("/preferences"))}
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                      >
+                        🎯 Preferences
+                      </button>
+                      <button
                         onClick={handleLogout}
-                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 border-t border-gray-200 dark:border-gray-700 rounded-b-lg"
                       >
-                        Logout
-                      </button>
-                      <button
-                        onClick={() => navigate("/profile-settings")}
-                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
-                      >
-                        Profile Settings
-                      </button>
-                      <button
-                        onClick={() => navigate("/preferences")}
-                        className="w-full text-left px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
-                      >
-                        Preferences
+                        🚪 Logout
                       </button>
                     </div>
                   )}
@@ -132,7 +213,23 @@ const AppContent = () => {
           </div>
         </header>
 
-        <main className="flex-grow">
+        {/* Live Ticker */}
+        <div className="bg-gray-800 text-white p-1 shadow-md">
+          <div className="max-w-7xl mx-auto overflow-hidden">
+            <marquee
+              className="text-sm font-medium"
+              behavior="scroll"
+              direction="left"
+              scrollamount="4"
+            >
+              {liveHeadlines.length > 0
+                ? liveHeadlines.join(" | ")
+                : "Loading latest news..."}
+            </marquee>
+          </div>
+        </div>
+
+        <main className="flex-grow p-6">
           <Routes>
             <Route
               path="/profile-settings"
@@ -148,7 +245,11 @@ const AppContent = () => {
               path="/preferences"
               element={
                 isAuthenticated ? (
-                  <UserPreferences darkMode={darkMode} />
+                  <UserPreferences
+                    categories={categories}
+                    preferences={userPreferences}
+                    onChange={handlePreferenceChange}
+                  />
                 ) : (
                   <Navigate to="/signin" />
                 )
@@ -163,6 +264,8 @@ const AppContent = () => {
                     darkMode={darkMode}
                     onOpenSubscribeModal={() => setShowSubscribeModal(true)}
                     isAuthenticated={isAuthenticated}
+                    searchQuery={searchQuery}
+                    openSentimentGraph={openSentimentGraph}
                   />
                 ) : (
                   <Navigate to="/signin" />
@@ -175,13 +278,28 @@ const AppContent = () => {
                 path={`/${category}`}
                 element={
                   isAuthenticated ? (
-                    <NewsPage category={category} darkMode={darkMode} />
+                    <NewsPage
+                      category={category}
+                      darkMode={darkMode}
+                      searchQuery={searchQuery}
+                      openSentimentGraph={openSentimentGraph}
+                    />
                   ) : (
                     <Navigate to="/signin" />
                   )
                 }
               />
             ))}
+            <Route
+              path="/bookmarks"
+              element={
+                isAuthenticated ? (
+                  <BookmarksPage darkMode={darkMode} />
+                ) : (
+                  <Navigate to="/signin" />
+                )
+              }
+            />
             <Route path="/signup" element={<SignUp />} />
             <Route
               path="/signin"
@@ -190,7 +308,7 @@ const AppContent = () => {
           </Routes>
         </main>
 
-        <footer className="bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 p-4 shadow-inner">
+        <footer className="bg-gray-800 text-gray-300 p-4 shadow-inner">
           <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-2">
             <p className="text-lg font-semibold">BRIGHT FEED © 2025</p>
             <p className="text-sm italic">
@@ -199,7 +317,7 @@ const AppContent = () => {
             <div className="flex gap-2">
               <button
                 onClick={() => setShowPositiveModal(true)}
-                className="px-4 py-2 bg-accent-500 text-white rounded-lg hover:bg-accent-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                className="px-4 py-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-colors"
                 disabled={!isAuthenticated}
               >
                 Positive Newsletter 💖
@@ -221,18 +339,22 @@ const AppContent = () => {
             darkMode={darkMode}
           />
         )}
+        {showSentimentGraph && isAuthenticated && (
+          <SentimentGraph
+            category={sentimentCategory}
+            onClose={() => setShowSentimentGraph(false)}
+          />
+        )}
       </div>
     </div>
   );
 };
 
-// Wrap App with Router and Preferences Provider
+// Wrap App with Router
 const App = () => {
   return (
     <Router>
-      <PreferencesProvider>
-        <AppContent />
-      </PreferencesProvider>
+      <AppContent />
     </Router>
   );
 };

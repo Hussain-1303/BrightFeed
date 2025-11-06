@@ -3350,3 +3350,647 @@
 2025-09-18 11:33:41,197 - INFO - Inserted 1 new articles
 2025-09-18 11:33:41,197 - INFO - Waiting 30 minutes before next scan...
 2025-09-18 12:07:26,507 - INFO - Scraper stopped by user
+2025-10-02 02:07:31,134 - INFO - MongoDB connection successful
+2025-10-02 02:07:31,134 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-10-02 02:07:31,549 - INFO - Duplicate article found: 28 new movies worth checking out this fall
+2025-10-02 02:07:31,551 - INFO - Duplicate article found: What to watch this fall: Here are 12 TV shows we're looking forward to
+2025-10-02 02:07:31,574 - INFO - Scraped 13 articles from art
+2025-10-02 02:07:32,758 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-10-02 02:07:33,157 - INFO - Scraped 15 articles from tech
+2025-10-02 02:07:36,126 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-10-02 02:07:36,743 - INFO - Scraped 15 articles from science
+2025-10-02 02:07:37,792 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-10-02 02:07:38,174 - INFO - Scraped 15 articles from world
+2025-10-02 02:07:40,988 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-10-02 02:07:41,318 - INFO - Scraped 15 articles from gaming
+2025-10-02 02:07:42,592 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-10-02 02:07:43,182 - INFO - Duplicate article found: Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground
+2025-10-02 02:07:43,183 - INFO - Duplicate article found: Does adding football help colleges with recruiting? It's complicated
+2025-10-02 02:07:43,185 - INFO - Duplicate article found: 60 years later, Sandy Koufax's perfect game is still amazing
+2025-10-02 02:07:43,185 - INFO - Duplicate article found: World Cup tickets are on sale. Scoring them may not be easy — or cheap
+2025-10-02 02:07:43,186 - INFO - Duplicate article found: Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump's attendance
+2025-10-02 02:07:43,187 - INFO - Duplicate article found: Young Phillies fan is gifted swag after adult fan takes his home run ball
+2025-10-02 02:07:43,187 - INFO - Scraped 9 articles from sport
+2025-10-02 02:07:44,605 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-10-02 02:07:45,154 - INFO - Scraped 15 articles from business
+2025-10-02 02:07:47,196 - INFO - Inserted 97 new articles
+2025-10-02 02:07:47,196 - INFO - Waiting 30 minutes before next scan...
+2025-10-02 02:37:47,178 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-10-02 02:37:47,607 - INFO - Duplicate article found: 28 new movies worth checking out this fall
+2025-10-02 02:37:47,610 - INFO - Duplicate article found: What to watch this fall: Here are 12 TV shows we're looking forward to
+2025-10-02 02:37:47,613 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 02:37:47,615 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 02:37:47,617 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 02:37:47,619 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 02:37:47,620 - INFO - Duplicate article found: Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech
+2025-10-02 02:37:47,622 - INFO - Duplicate article found: PEN America warns of rise in books 'systematically removed from school libraries'
+2025-10-02 02:37:47,624 - INFO - Duplicate article found: Kimmel and Colbert appear as guests on each other's shows
+2025-10-02 02:37:47,625 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 02:37:47,626 - INFO - Duplicate article found: Could 'the next Scarlett Johansson or Natalie Portman' be an AI avatar?
+2025-10-02 02:37:47,628 - INFO - Duplicate article found: The Smithsonian will stay open through at least Monday, despite the shutdown
+2025-10-02 02:37:47,629 - INFO - Duplicate article found: 'I can't stop DJing,' Mark Ronson says — never mind the back pain
+2025-10-02 02:37:47,631 - INFO - Duplicate article found: Pasta meals from Trader Joe's and Walmart may be linked to a deadly listeria outbreak
+2025-10-02 02:37:47,633 - INFO - Duplicate article found: New books this week: War, murder, and Lionel Richie
+2025-10-02 02:37:47,633 - INFO - Scraped 0 articles from art
+2025-10-02 02:37:49,626 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-10-02 02:37:50,019 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 02:37:50,021 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 02:37:50,022 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 02:37:50,023 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 02:37:50,025 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 02:37:50,026 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 02:37:50,027 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 02:37:50,029 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 02:37:50,031 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 02:37:50,032 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 02:37:50,034 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 02:37:50,036 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 02:37:50,038 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 02:37:50,039 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 02:37:50,041 - INFO - Duplicate article found: 'Silent Hill f' surprises as one of the boldest and best horror games ever
+2025-10-02 02:37:50,041 - INFO - Scraped 0 articles from tech
+2025-10-02 02:37:52,982 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-10-02 02:37:53,378 - INFO - Duplicate article found: Jane Goodall, legendary primatologist, has died at age 91
+2025-10-02 02:37:53,380 - INFO - Duplicate article found: From vultures to hyenas: How scavengers protect human health
+2025-10-02 02:37:53,382 - INFO - Duplicate article found: Why sea level rise after 2050 is a mystery
+2025-10-02 02:37:53,385 - INFO - Duplicate article found: Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets
+2025-10-02 02:37:53,386 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 02:37:53,387 - INFO - Duplicate article found: 20 years later, what Katrina survivors teach us about resilience
+2025-10-02 02:37:53,388 - INFO - Duplicate article found: The endangered cactus behind Mexico's sweet secret
+2025-10-02 02:37:53,389 - INFO - Duplicate article found: Tropical Storm Imelda expected to batter parts of the southeastern U.S. this week
+2025-10-02 02:37:53,390 - INFO - Duplicate article found: 'Long history of blaming mothers': Trump's Tylenol warning echoes past misconceptions
+2025-10-02 02:37:53,392 - INFO - Duplicate article found: What causes endometriosis? Scientists are closer to finding out
+2025-10-02 02:37:53,393 - INFO - Duplicate article found: VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?
+2025-10-02 02:37:53,394 - INFO - Duplicate article found: Leucovorin for autism? Many scientists — and parents — are skeptical
+2025-10-02 02:37:53,395 - INFO - Duplicate article found: Autism researcher breaks down Trump’s claims on Tylenol
+2025-10-02 02:37:53,397 - INFO - Duplicate article found: The cancer quietly killing young people
+2025-10-02 02:37:53,399 - INFO - Duplicate article found: When it comes to Tylenol, what are parents to do?
+2025-10-02 02:37:53,399 - INFO - Scraped 0 articles from science
+2025-10-02 02:37:55,717 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-10-02 02:37:56,067 - INFO - Duplicate article found: Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S. isn't 'pro-life'
+2025-10-02 02:37:56,069 - INFO - Duplicate article found: Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla
+2025-10-02 02:37:56,071 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 02:37:56,074 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 02:37:56,079 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 02:37:56,081 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 02:37:56,083 - INFO - Duplicate article found: Greetings from Kyiv, where you might stumble across Zelenskyy taking a stroll
+2025-10-02 02:37:56,085 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 02:37:56,087 - INFO - Duplicate article found: Dozens killed in a powerful earthquake that hit the Philippines
+2025-10-02 02:37:56,089 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 02:37:56,090 - INFO - Duplicate article found: Ukraine's scrappy wartime innovation
+2025-10-02 02:37:56,092 - INFO - Duplicate article found: Ukraine’s Flourishing Arms Industry
+2025-10-02 02:37:56,094 - INFO - Duplicate article found: 'Like ice melting': Journalists warn press freedom is in decline across Asia
+2025-10-02 02:37:56,096 - INFO - Duplicate article found: The U.N. mission appeals to the Taliban to restore internet access in Afghanistan
+2025-10-02 02:37:56,098 - INFO - Duplicate article found: Germany thrived in the first China Shock. But the next one could prove catastrophic.
+2025-10-02 02:37:56,098 - INFO - Scraped 0 articles from world
+2025-10-02 02:37:58,839 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-10-02 02:37:59,207 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 02:37:59,209 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 02:37:59,212 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 02:37:59,215 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 02:37:59,217 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 02:37:59,218 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 02:37:59,219 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 02:37:59,220 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 02:37:59,221 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 02:37:59,223 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 02:37:59,224 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 02:37:59,225 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 02:37:59,227 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 02:37:59,228 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 02:37:59,229 - INFO - Duplicate article found: 'Silent Hill f' surprises as one of the boldest and best horror games ever
+2025-10-02 02:37:59,229 - INFO - Scraped 0 articles from gaming
+2025-10-02 02:38:01,032 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-10-02 02:38:01,422 - INFO - Duplicate article found: The MLB postseason begins Tuesday. Who should you root for to win a World Series?
+2025-10-02 02:38:01,424 - INFO - Duplicate article found: Latin superstar Bad Bunny will headline the 2026 Super Bowl halftime show
+2025-10-02 02:38:01,426 - INFO - Duplicate article found: Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy
+2025-10-02 02:38:01,427 - INFO - Duplicate article found: Random act of kindness: Mariners fan gifts historic ball to young stranger
+2025-10-02 02:38:01,429 - INFO - Duplicate article found: MLB will allow players to challenge balls and strikes starting in 2026
+2025-10-02 02:38:01,431 - INFO - Duplicate article found: A'ja Wilson snags a record fourth WNBA MVP
+2025-10-02 02:38:01,433 - INFO - Duplicate article found: In 'HIM,' football greatness comes with a price. Tyriq Withers is its rising star
+2025-10-02 02:38:01,435 - INFO - Duplicate article found: Longtime University of Alabama football referee still helping the Tide roll at age 97
+2025-10-02 02:38:01,436 - INFO - Duplicate article found: What happened to baseball's .300 hitter?
+2025-10-02 02:38:01,437 - INFO - Duplicate article found: Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground
+2025-10-02 02:38:01,437 - INFO - Duplicate article found: Does adding football help colleges with recruiting? It's complicated
+2025-10-02 02:38:01,438 - INFO - Duplicate article found: 60 years later, Sandy Koufax's perfect game is still amazing
+2025-10-02 02:38:01,439 - INFO - Duplicate article found: World Cup tickets are on sale. Scoring them may not be easy — or cheap
+2025-10-02 02:38:01,440 - INFO - Duplicate article found: Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump's attendance
+2025-10-02 02:38:01,441 - INFO - Duplicate article found: Young Phillies fan is gifted swag after adult fan takes his home run ball
+2025-10-02 02:38:01,441 - INFO - Scraped 0 articles from sport
+2025-10-02 02:38:03,058 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-10-02 02:38:03,519 - INFO - Duplicate article found: Trump’s economy is marked by uncertainty. What could more tariffs mean for you?
+2025-10-02 02:38:03,520 - INFO - Duplicate article found: Trump's controversial nominee drops bid to head vital data-gathering agency
+2025-10-02 02:38:03,521 - INFO - Duplicate article found: Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now
+2025-10-02 02:38:03,522 - INFO - Duplicate article found: Government shutdown could delay key economic reports at an especially sensitive time
+2025-10-02 02:38:03,524 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 02:38:03,527 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 02:38:03,532 - INFO - Duplicate article found: Why is everyone buying gold?
+2025-10-02 02:38:03,533 - INFO - Duplicate article found: We make a board game
+2025-10-02 02:38:03,534 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 02:38:03,535 - INFO - Duplicate article found: Spotify's Daniel Ek announces that he'll step aside as CEO
+2025-10-02 02:38:03,537 - INFO - Duplicate article found: 'Like ice melting': Journalists warn press freedom is in decline across Asia
+2025-10-02 02:38:03,538 - INFO - Duplicate article found: Germany thrived in the first China Shock. But the next one could prove catastrophic.
+2025-10-02 02:38:03,539 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 02:38:03,540 - INFO - Duplicate article found: Federal workers who took Trump's buyout get final paychecks and an uncertain future
+2025-10-02 02:38:03,541 - INFO - Duplicate article found: We're about to lose a lot of foreign STEM workers
+2025-10-02 02:38:03,541 - INFO - Scraped 0 articles from business
+2025-10-02 02:38:05,293 - INFO - No articles to save
+2025-10-02 02:38:05,293 - INFO - Waiting 30 minutes before next scan...
+2025-10-02 03:08:05,221 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-10-02 03:08:05,627 - INFO - Duplicate article found: 28 new movies worth checking out this fall
+2025-10-02 03:08:05,629 - INFO - Duplicate article found: What to watch this fall: Here are 12 TV shows we're looking forward to
+2025-10-02 03:08:05,633 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 03:08:05,634 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 03:08:05,635 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 03:08:05,636 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 03:08:05,637 - INFO - Duplicate article found: Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech
+2025-10-02 03:08:05,638 - INFO - Duplicate article found: PEN America warns of rise in books 'systematically removed from school libraries'
+2025-10-02 03:08:05,639 - INFO - Duplicate article found: Kimmel and Colbert appear as guests on each other's shows
+2025-10-02 03:08:05,640 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 03:08:05,642 - INFO - Duplicate article found: Could 'the next Scarlett Johansson or Natalie Portman' be an AI avatar?
+2025-10-02 03:08:05,643 - INFO - Duplicate article found: The Smithsonian will stay open through at least Monday, despite the shutdown
+2025-10-02 03:08:05,644 - INFO - Duplicate article found: 'I can't stop DJing,' Mark Ronson says — never mind the back pain
+2025-10-02 03:08:05,645 - INFO - Duplicate article found: Pasta meals from Trader Joe's and Walmart may be linked to a deadly listeria outbreak
+2025-10-02 03:08:05,645 - INFO - Scraped 1 articles from art
+2025-10-02 03:08:08,522 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-10-02 03:08:11,063 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 03:08:11,065 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 03:08:11,066 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 03:08:11,068 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 03:08:11,069 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 03:08:11,071 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 03:08:11,073 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 03:08:11,074 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 03:08:11,076 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 03:08:11,077 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 03:08:11,078 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 03:08:11,078 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 03:08:11,079 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 03:08:11,081 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 03:08:11,083 - INFO - Duplicate article found: 'Silent Hill f' surprises as one of the boldest and best horror games ever
+2025-10-02 03:08:11,083 - INFO - Scraped 0 articles from tech
+2025-10-02 03:08:12,430 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-10-02 03:08:12,791 - INFO - Duplicate article found: Jane Goodall, legendary primatologist, has died at age 91
+2025-10-02 03:08:12,794 - INFO - Duplicate article found: From vultures to hyenas: How scavengers protect human health
+2025-10-02 03:08:12,795 - INFO - Duplicate article found: Why sea level rise after 2050 is a mystery
+2025-10-02 03:08:12,797 - INFO - Duplicate article found: Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets
+2025-10-02 03:08:12,799 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 03:08:12,800 - INFO - Duplicate article found: 20 years later, what Katrina survivors teach us about resilience
+2025-10-02 03:08:12,801 - INFO - Duplicate article found: The endangered cactus behind Mexico's sweet secret
+2025-10-02 03:08:12,804 - INFO - Duplicate article found: Tropical Storm Imelda expected to batter parts of the southeastern U.S. this week
+2025-10-02 03:08:12,806 - INFO - Duplicate article found: 'Long history of blaming mothers': Trump's Tylenol warning echoes past misconceptions
+2025-10-02 03:08:12,807 - INFO - Duplicate article found: What causes endometriosis? Scientists are closer to finding out
+2025-10-02 03:08:12,808 - INFO - Duplicate article found: VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?
+2025-10-02 03:08:12,809 - INFO - Duplicate article found: Leucovorin for autism? Many scientists — and parents — are skeptical
+2025-10-02 03:08:12,811 - INFO - Duplicate article found: Autism researcher breaks down Trump’s claims on Tylenol
+2025-10-02 03:08:12,813 - INFO - Duplicate article found: The cancer quietly killing young people
+2025-10-02 03:08:12,814 - INFO - Duplicate article found: When it comes to Tylenol, what are parents to do?
+2025-10-02 03:08:12,814 - INFO - Scraped 0 articles from science
+2025-10-02 03:08:14,006 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-10-02 03:08:14,585 - INFO - Duplicate article found: Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S. isn't 'pro-life'
+2025-10-02 03:08:14,587 - INFO - Duplicate article found: Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla
+2025-10-02 03:08:14,588 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 03:08:14,590 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 03:08:14,591 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 03:08:14,596 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 03:08:14,598 - INFO - Duplicate article found: Greetings from Kyiv, where you might stumble across Zelenskyy taking a stroll
+2025-10-02 03:08:14,600 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 03:08:14,602 - INFO - Duplicate article found: Dozens killed in a powerful earthquake that hit the Philippines
+2025-10-02 03:08:14,603 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 03:08:14,606 - INFO - Duplicate article found: Ukraine's scrappy wartime innovation
+2025-10-02 03:08:14,607 - INFO - Duplicate article found: Ukraine’s Flourishing Arms Industry
+2025-10-02 03:08:14,609 - INFO - Duplicate article found: 'Like ice melting': Journalists warn press freedom is in decline across Asia
+2025-10-02 03:08:14,610 - INFO - Duplicate article found: The U.N. mission appeals to the Taliban to restore internet access in Afghanistan
+2025-10-02 03:08:14,613 - INFO - Duplicate article found: Germany thrived in the first China Shock. But the next one could prove catastrophic.
+2025-10-02 03:08:14,613 - INFO - Scraped 0 articles from world
+2025-10-02 03:08:17,163 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-10-02 03:08:17,429 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 03:08:17,431 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 03:08:17,432 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 03:08:17,434 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 03:08:17,434 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 03:08:17,435 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 03:08:17,436 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 03:08:17,438 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 03:08:17,439 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 03:08:17,440 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 03:08:17,441 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 03:08:17,442 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 03:08:17,443 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 03:08:17,444 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 03:08:17,445 - INFO - Duplicate article found: 'Silent Hill f' surprises as one of the boldest and best horror games ever
+2025-10-02 03:08:17,446 - INFO - Scraped 0 articles from gaming
+2025-10-02 03:08:18,655 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-10-02 03:08:18,995 - INFO - Duplicate article found: The MLB postseason begins Tuesday. Who should you root for to win a World Series?
+2025-10-02 03:08:18,996 - INFO - Duplicate article found: Latin superstar Bad Bunny will headline the 2026 Super Bowl halftime show
+2025-10-02 03:08:18,998 - INFO - Duplicate article found: Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy
+2025-10-02 03:08:18,999 - INFO - Duplicate article found: Random act of kindness: Mariners fan gifts historic ball to young stranger
+2025-10-02 03:08:19,001 - INFO - Duplicate article found: MLB will allow players to challenge balls and strikes starting in 2026
+2025-10-02 03:08:19,003 - INFO - Duplicate article found: A'ja Wilson snags a record fourth WNBA MVP
+2025-10-02 03:08:19,004 - INFO - Duplicate article found: In 'HIM,' football greatness comes with a price. Tyriq Withers is its rising star
+2025-10-02 03:08:19,006 - INFO - Duplicate article found: Longtime University of Alabama football referee still helping the Tide roll at age 97
+2025-10-02 03:08:19,008 - INFO - Duplicate article found: What happened to baseball's .300 hitter?
+2025-10-02 03:08:19,010 - INFO - Duplicate article found: Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground
+2025-10-02 03:08:19,011 - INFO - Duplicate article found: Does adding football help colleges with recruiting? It's complicated
+2025-10-02 03:08:19,013 - INFO - Duplicate article found: 60 years later, Sandy Koufax's perfect game is still amazing
+2025-10-02 03:08:19,014 - INFO - Duplicate article found: World Cup tickets are on sale. Scoring them may not be easy — or cheap
+2025-10-02 03:08:19,015 - INFO - Duplicate article found: Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump's attendance
+2025-10-02 03:08:19,017 - INFO - Duplicate article found: Young Phillies fan is gifted swag after adult fan takes his home run ball
+2025-10-02 03:08:19,017 - INFO - Scraped 0 articles from sport
+2025-10-02 03:08:20,068 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-10-02 03:08:20,637 - INFO - Duplicate article found: Trump’s economy is marked by uncertainty. What could more tariffs mean for you?
+2025-10-02 03:08:20,639 - INFO - Duplicate article found: Trump's controversial nominee drops bid to head vital data-gathering agency
+2025-10-02 03:08:20,641 - INFO - Duplicate article found: Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now
+2025-10-02 03:08:20,643 - INFO - Duplicate article found: Government shutdown could delay key economic reports at an especially sensitive time
+2025-10-02 03:08:20,645 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 03:08:20,646 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 03:08:20,648 - INFO - Duplicate article found: Why is everyone buying gold?
+2025-10-02 03:08:20,650 - INFO - Duplicate article found: We make a board game
+2025-10-02 03:08:20,652 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 03:08:20,654 - INFO - Duplicate article found: Spotify's Daniel Ek announces that he'll step aside as CEO
+2025-10-02 03:08:20,655 - INFO - Duplicate article found: 'Like ice melting': Journalists warn press freedom is in decline across Asia
+2025-10-02 03:08:20,657 - INFO - Duplicate article found: Germany thrived in the first China Shock. But the next one could prove catastrophic.
+2025-10-02 03:08:20,659 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 03:08:20,661 - INFO - Duplicate article found: Federal workers who took Trump's buyout get final paychecks and an uncertain future
+2025-10-02 03:08:20,661 - INFO - Scraped 1 articles from business
+2025-10-02 03:08:23,206 - INFO - Inserted 2 new articles
+2025-10-02 03:08:23,206 - INFO - Waiting 30 minutes before next scan...
+2025-10-02 03:38:23,189 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-10-02 03:38:23,569 - INFO - Duplicate article found: 28 new movies worth checking out this fall
+2025-10-02 03:38:23,571 - INFO - Duplicate article found: What to watch this fall: Here are 12 TV shows we're looking forward to
+2025-10-02 03:38:23,576 - INFO - Duplicate article found: Looking back at ‘Brokeback Mountain’
+2025-10-02 03:38:23,578 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 03:38:23,580 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 03:38:23,582 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 03:38:23,583 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 03:38:23,585 - INFO - Duplicate article found: Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech
+2025-10-02 03:38:23,586 - INFO - Duplicate article found: PEN America warns of rise in books 'systematically removed from school libraries'
+2025-10-02 03:38:23,587 - INFO - Duplicate article found: Kimmel and Colbert appear as guests on each other's shows
+2025-10-02 03:38:23,589 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 03:38:23,591 - INFO - Duplicate article found: Could 'the next Scarlett Johansson or Natalie Portman' be an AI avatar?
+2025-10-02 03:38:23,592 - INFO - Duplicate article found: The Smithsonian will stay open through at least Monday, despite the shutdown
+2025-10-02 03:38:23,594 - INFO - Duplicate article found: 'I can't stop DJing,' Mark Ronson says — never mind the back pain
+2025-10-02 03:38:23,595 - INFO - Duplicate article found: Pasta meals from Trader Joe's and Walmart may be linked to a deadly listeria outbreak
+2025-10-02 03:38:23,595 - INFO - Scraped 0 articles from art
+2025-10-02 03:38:25,574 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-10-02 03:38:25,946 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 03:38:25,947 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 03:38:25,949 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 03:38:25,950 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 03:38:25,951 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 03:38:25,952 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 03:38:25,954 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 03:38:25,954 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 03:38:25,956 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 03:38:25,957 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 03:38:25,958 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 03:38:25,960 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 03:38:25,961 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 03:38:25,962 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 03:38:25,963 - INFO - Duplicate article found: 'Silent Hill f' surprises as one of the boldest and best horror games ever
+2025-10-02 03:38:25,963 - INFO - Scraped 0 articles from tech
+2025-10-02 03:38:27,216 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-10-02 03:38:27,686 - INFO - Duplicate article found: Jane Goodall, legendary primatologist, has died at age 91
+2025-10-02 03:38:27,688 - INFO - Duplicate article found: From vultures to hyenas: How scavengers protect human health
+2025-10-02 03:38:27,689 - INFO - Duplicate article found: Why sea level rise after 2050 is a mystery
+2025-10-02 03:38:27,692 - INFO - Duplicate article found: Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets
+2025-10-02 03:38:27,695 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 03:38:27,696 - INFO - Duplicate article found: 20 years later, what Katrina survivors teach us about resilience
+2025-10-02 03:38:27,698 - INFO - Duplicate article found: The endangered cactus behind Mexico's sweet secret
+2025-10-02 03:38:27,700 - INFO - Duplicate article found: Tropical Storm Imelda expected to batter parts of the southeastern U.S. this week
+2025-10-02 03:38:27,701 - INFO - Duplicate article found: 'Long history of blaming mothers': Trump's Tylenol warning echoes past misconceptions
+2025-10-02 03:38:27,703 - INFO - Duplicate article found: What causes endometriosis? Scientists are closer to finding out
+2025-10-02 03:38:27,704 - INFO - Duplicate article found: VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?
+2025-10-02 03:38:27,706 - INFO - Duplicate article found: Leucovorin for autism? Many scientists — and parents — are skeptical
+2025-10-02 03:38:27,708 - INFO - Duplicate article found: Autism researcher breaks down Trump’s claims on Tylenol
+2025-10-02 03:38:27,709 - INFO - Duplicate article found: The cancer quietly killing young people
+2025-10-02 03:38:27,711 - INFO - Duplicate article found: When it comes to Tylenol, what are parents to do?
+2025-10-02 03:38:27,711 - INFO - Scraped 0 articles from science
+2025-10-02 03:38:30,281 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-10-02 03:38:30,697 - INFO - Duplicate article found: Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S. isn't 'pro-life'
+2025-10-02 03:38:30,703 - INFO - Duplicate article found: Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla
+2025-10-02 03:38:30,709 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 03:38:30,731 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 03:38:30,742 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 03:38:30,764 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 03:38:30,796 - INFO - Duplicate article found: Greetings from Kyiv, where you might stumble across Zelenskyy taking a stroll
+2025-10-02 03:38:30,812 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 03:38:30,816 - INFO - Duplicate article found: Dozens killed in a powerful earthquake that hit the Philippines
+2025-10-02 03:38:30,842 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 03:38:30,847 - INFO - Duplicate article found: Ukraine's scrappy wartime innovation
+2025-10-02 03:38:30,857 - INFO - Duplicate article found: Ukraine’s Flourishing Arms Industry
+2025-10-02 03:38:30,867 - INFO - Duplicate article found: 'Like ice melting': Journalists warn press freedom is in decline across Asia
+2025-10-02 03:38:30,871 - INFO - Duplicate article found: The U.N. mission appeals to the Taliban to restore internet access in Afghanistan
+2025-10-02 03:38:30,874 - INFO - Duplicate article found: Germany thrived in the first China Shock. But the next one could prove catastrophic.
+2025-10-02 03:38:30,874 - INFO - Scraped 0 articles from world
+2025-10-02 03:38:33,695 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-10-02 03:38:34,005 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 03:38:34,006 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 03:38:34,008 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 03:38:34,010 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 03:38:34,012 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 03:38:34,013 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 03:38:34,015 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 03:38:34,017 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 03:38:34,018 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 03:38:34,020 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 03:38:34,021 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 03:38:34,023 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 03:38:34,025 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 03:38:34,026 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 03:38:34,028 - INFO - Duplicate article found: 'Silent Hill f' surprises as one of the boldest and best horror games ever
+2025-10-02 03:38:34,028 - INFO - Scraped 0 articles from gaming
+2025-10-02 03:38:36,944 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-10-02 03:38:37,527 - INFO - Duplicate article found: The MLB postseason begins Tuesday. Who should you root for to win a World Series?
+2025-10-02 03:38:37,529 - INFO - Duplicate article found: Latin superstar Bad Bunny will headline the 2026 Super Bowl halftime show
+2025-10-02 03:38:37,531 - INFO - Duplicate article found: Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy
+2025-10-02 03:38:37,532 - INFO - Duplicate article found: Random act of kindness: Mariners fan gifts historic ball to young stranger
+2025-10-02 03:38:37,534 - INFO - Duplicate article found: MLB will allow players to challenge balls and strikes starting in 2026
+2025-10-02 03:38:37,536 - INFO - Duplicate article found: A'ja Wilson snags a record fourth WNBA MVP
+2025-10-02 03:38:37,538 - INFO - Duplicate article found: In 'HIM,' football greatness comes with a price. Tyriq Withers is its rising star
+2025-10-02 03:38:37,539 - INFO - Duplicate article found: Longtime University of Alabama football referee still helping the Tide roll at age 97
+2025-10-02 03:38:37,541 - INFO - Duplicate article found: What happened to baseball's .300 hitter?
+2025-10-02 03:38:37,543 - INFO - Duplicate article found: Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground
+2025-10-02 03:38:37,544 - INFO - Duplicate article found: Does adding football help colleges with recruiting? It's complicated
+2025-10-02 03:38:37,546 - INFO - Duplicate article found: 60 years later, Sandy Koufax's perfect game is still amazing
+2025-10-02 03:38:37,547 - INFO - Duplicate article found: World Cup tickets are on sale. Scoring them may not be easy — or cheap
+2025-10-02 03:38:37,548 - INFO - Duplicate article found: Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump's attendance
+2025-10-02 03:38:37,550 - INFO - Duplicate article found: Young Phillies fan is gifted swag after adult fan takes his home run ball
+2025-10-02 03:38:37,550 - INFO - Scraped 0 articles from sport
+2025-10-02 03:38:40,200 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-10-02 03:38:40,629 - INFO - Duplicate article found: How close is the US to crony capitalism?
+2025-10-02 03:38:40,631 - INFO - Duplicate article found: Trump’s economy is marked by uncertainty. What could more tariffs mean for you?
+2025-10-02 03:38:40,633 - INFO - Duplicate article found: Trump's controversial nominee drops bid to head vital data-gathering agency
+2025-10-02 03:38:40,636 - INFO - Duplicate article found: Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now
+2025-10-02 03:38:40,637 - INFO - Duplicate article found: Government shutdown could delay key economic reports at an especially sensitive time
+2025-10-02 03:38:40,639 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 03:38:40,641 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 03:38:40,643 - INFO - Duplicate article found: Why is everyone buying gold?
+2025-10-02 03:38:40,644 - INFO - Duplicate article found: We make a board game
+2025-10-02 03:38:40,645 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 03:38:40,646 - INFO - Duplicate article found: Spotify's Daniel Ek announces that he'll step aside as CEO
+2025-10-02 03:38:40,648 - INFO - Duplicate article found: 'Like ice melting': Journalists warn press freedom is in decline across Asia
+2025-10-02 03:38:40,649 - INFO - Duplicate article found: Germany thrived in the first China Shock. But the next one could prove catastrophic.
+2025-10-02 03:38:40,651 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 03:38:40,652 - INFO - Duplicate article found: Federal workers who took Trump's buyout get final paychecks and an uncertain future
+2025-10-02 03:38:40,652 - INFO - Scraped 0 articles from business
+2025-10-02 03:38:43,463 - INFO - No articles to save
+2025-10-02 03:38:43,463 - INFO - Waiting 30 minutes before next scan...
+2025-10-02 03:43:34,657 - INFO - Scraper stopped by user
+2025-10-02 11:01:29,264 - INFO - MongoDB connection successful
+2025-10-02 11:01:29,264 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-10-02 11:01:29,650 - INFO - Duplicate article found: 28 new movies worth checking out this fall
+2025-10-02 11:01:29,651 - INFO - Duplicate article found: What to watch this fall: Here are 12 TV shows we're looking forward to
+2025-10-02 11:01:29,655 - INFO - Duplicate article found: Looking back at ‘Brokeback Mountain’
+2025-10-02 11:01:29,657 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 11:01:29,658 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 11:01:29,660 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 11:01:29,662 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 11:01:29,664 - INFO - Duplicate article found: Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech
+2025-10-02 11:01:29,666 - INFO - Duplicate article found: PEN America warns of rise in books 'systematically removed from school libraries'
+2025-10-02 11:01:29,667 - INFO - Duplicate article found: Kimmel and Colbert appear as guests on each other's shows
+2025-10-02 11:01:29,669 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 11:01:29,671 - INFO - Duplicate article found: Could 'the next Scarlett Johansson or Natalie Portman' be an AI avatar?
+2025-10-02 11:01:29,672 - INFO - Duplicate article found: The Smithsonian will stay open through at least Monday, despite the shutdown
+2025-10-02 11:01:29,674 - INFO - Duplicate article found: 'I can't stop DJing,' Mark Ronson says — never mind the back pain
+2025-10-02 11:01:29,674 - INFO - Scraped 1 articles from art
+2025-10-02 11:01:31,585 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-10-02 11:01:31,978 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 11:01:31,979 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 11:01:31,980 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 11:01:31,981 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 11:01:31,983 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 11:01:31,985 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 11:01:31,986 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 11:01:31,988 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 11:01:31,989 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 11:01:31,991 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 11:01:31,992 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 11:01:31,994 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 11:01:31,995 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 11:01:31,997 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 11:01:31,997 - INFO - Scraped 1 articles from tech
+2025-10-02 11:01:33,899 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-10-02 11:01:34,387 - INFO - Duplicate article found: Jane Goodall, legendary primatologist, has died at age 91
+2025-10-02 11:01:34,390 - INFO - Duplicate article found: From vultures to hyenas: How scavengers protect human health
+2025-10-02 11:01:34,391 - INFO - Duplicate article found: Why sea level rise after 2050 is a mystery
+2025-10-02 11:01:34,392 - INFO - Duplicate article found: Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets
+2025-10-02 11:01:34,393 - INFO - Duplicate article found: 20 years later, what Katrina survivors teach us about resilience
+2025-10-02 11:01:34,394 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 11:01:34,395 - INFO - Duplicate article found: The endangered cactus behind Mexico's sweet secret
+2025-10-02 11:01:34,396 - INFO - Duplicate article found: Tropical Storm Imelda expected to batter parts of the southeastern U.S. this week
+2025-10-02 11:01:34,397 - INFO - Duplicate article found: 'Long history of blaming mothers': Trump's Tylenol warning echoes past misconceptions
+2025-10-02 11:01:34,398 - INFO - Duplicate article found: What causes endometriosis? Scientists are closer to finding out
+2025-10-02 11:01:34,399 - INFO - Duplicate article found: VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?
+2025-10-02 11:01:34,399 - INFO - Duplicate article found: Leucovorin for autism? Many scientists — and parents — are skeptical
+2025-10-02 11:01:34,400 - INFO - Duplicate article found: The cancer quietly killing young people
+2025-10-02 11:01:34,401 - INFO - Duplicate article found: Autism researcher breaks down Trump’s claims on Tylenol
+2025-10-02 11:01:34,401 - INFO - Scraped 1 articles from science
+2025-10-02 11:01:37,347 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-10-02 11:01:38,063 - INFO - Duplicate article found: Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S. isn't 'pro-life'
+2025-10-02 11:01:38,069 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 11:01:38,074 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 11:01:38,106 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 11:01:38,159 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 11:01:38,252 - INFO - Duplicate article found: Greetings from Kyiv, where you might stumble across Zelenskyy taking a stroll
+2025-10-02 11:01:38,259 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 11:01:38,281 - INFO - Duplicate article found: Dozens killed in a powerful earthquake that hit the Philippines
+2025-10-02 11:01:38,313 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 11:01:38,313 - INFO - Scraped 6 articles from world
+2025-10-02 11:01:40,150 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-10-02 11:01:40,516 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 11:01:40,518 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 11:01:40,519 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 11:01:40,523 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 11:01:40,524 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 11:01:40,525 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 11:01:40,526 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 11:01:40,527 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 11:01:40,528 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 11:01:40,529 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 11:01:40,530 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 11:01:40,531 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 11:01:40,532 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 11:01:40,533 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 11:01:40,533 - INFO - Scraped 1 articles from gaming
+2025-10-02 11:01:42,889 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-10-02 11:01:43,269 - INFO - Duplicate article found: The MLB postseason begins Tuesday. Who should you root for to win a World Series?
+2025-10-02 11:01:43,271 - INFO - Duplicate article found: Latin superstar Bad Bunny will headline the 2026 Super Bowl halftime show
+2025-10-02 11:01:43,273 - INFO - Duplicate article found: Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy
+2025-10-02 11:01:43,275 - INFO - Duplicate article found: Random act of kindness: Mariners fan gifts historic ball to young stranger
+2025-10-02 11:01:43,277 - INFO - Duplicate article found: MLB will allow players to challenge balls and strikes starting in 2026
+2025-10-02 11:01:43,278 - INFO - Duplicate article found: A'ja Wilson snags a record fourth WNBA MVP
+2025-10-02 11:01:43,280 - INFO - Duplicate article found: In 'HIM,' football greatness comes with a price. Tyriq Withers is its rising star
+2025-10-02 11:01:43,282 - INFO - Duplicate article found: Longtime University of Alabama football referee still helping the Tide roll at age 97
+2025-10-02 11:01:43,284 - INFO - Duplicate article found: What happened to baseball's .300 hitter?
+2025-10-02 11:01:43,286 - INFO - Duplicate article found: Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground
+2025-10-02 11:01:43,287 - INFO - Duplicate article found: Does adding football help colleges with recruiting? It's complicated
+2025-10-02 11:01:43,289 - INFO - Duplicate article found: 60 years later, Sandy Koufax's perfect game is still amazing
+2025-10-02 11:01:43,290 - INFO - Duplicate article found: World Cup tickets are on sale. Scoring them may not be easy — or cheap
+2025-10-02 11:01:43,291 - INFO - Duplicate article found: Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump's attendance
+2025-10-02 11:01:43,293 - INFO - Duplicate article found: Young Phillies fan is gifted swag after adult fan takes his home run ball
+2025-10-02 11:01:43,293 - INFO - Scraped 0 articles from sport
+2025-10-02 11:01:45,252 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-10-02 11:01:45,764 - INFO - Duplicate article found: How close is the US to crony capitalism?
+2025-10-02 11:01:45,766 - INFO - Duplicate article found: Trump’s economy is marked by uncertainty. What could more tariffs mean for you?
+2025-10-02 11:01:45,767 - INFO - Duplicate article found: Trump's controversial nominee drops bid to head vital data-gathering agency
+2025-10-02 11:01:45,768 - INFO - Duplicate article found: Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now
+2025-10-02 11:01:45,770 - INFO - Duplicate article found: Government shutdown could delay key economic reports at an especially sensitive time
+2025-10-02 11:01:45,771 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 11:01:45,772 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 11:01:45,773 - INFO - Duplicate article found: Why is everyone buying gold?
+2025-10-02 11:01:45,774 - INFO - Duplicate article found: We make a board game
+2025-10-02 11:01:45,775 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 11:01:45,777 - INFO - Duplicate article found: Spotify's Daniel Ek announces that he'll step aside as CEO
+2025-10-02 11:01:45,778 - INFO - Duplicate article found: 'Like ice melting': Journalists warn press freedom is in decline across Asia
+2025-10-02 11:01:45,779 - INFO - Duplicate article found: Germany thrived in the first China Shock. But the next one could prove catastrophic.
+2025-10-02 11:01:45,782 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 11:01:45,782 - INFO - Scraped 1 articles from business
+2025-10-02 11:01:46,963 - INFO - Inserted 11 new articles
+2025-10-02 11:01:46,963 - INFO - Waiting 30 minutes before next scan...
+2025-10-02 11:24:47,130 - INFO - Scraper stopped by user
+2025-10-02 11:28:33,966 - INFO - MongoDB connection successful
+2025-10-02 11:28:33,966 - INFO - Scraping art: https://www.npr.org/sections/arts
+2025-10-02 11:28:34,421 - INFO - Duplicate article found: 28 new movies worth checking out this fall
+2025-10-02 11:28:34,423 - INFO - Duplicate article found: What to watch this fall: Here are 12 TV shows we're looking forward to
+2025-10-02 11:28:34,428 - INFO - Duplicate article found: Brené Brown is stubborn about her faith
+2025-10-02 11:28:34,430 - INFO - Duplicate article found: Looking back at ‘Brokeback Mountain’
+2025-10-02 11:28:34,432 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 11:28:34,433 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 11:28:34,435 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 11:28:34,436 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 11:28:34,438 - INFO - Duplicate article found: Hundreds of celebrities relaunch a McCarthy-era committee to defend free speech
+2025-10-02 11:28:34,439 - INFO - Duplicate article found: PEN America warns of rise in books 'systematically removed from school libraries'
+2025-10-02 11:28:34,441 - INFO - Duplicate article found: Kimmel and Colbert appear as guests on each other's shows
+2025-10-02 11:28:34,443 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 11:28:34,444 - INFO - Duplicate article found: Could 'the next Scarlett Johansson or Natalie Portman' be an AI avatar?
+2025-10-02 11:28:34,446 - INFO - Duplicate article found: The Smithsonian will stay open through at least Monday, despite the shutdown
+2025-10-02 11:28:34,446 - INFO - Scraped 1 articles from art
+2025-10-02 11:28:36,344 - INFO - Scraping tech: https://www.npr.org/sections/technology
+2025-10-02 11:28:36,666 - INFO - Duplicate article found: Research, curriculum and grading: new data sheds light on how professors are using AI
+2025-10-02 11:28:36,668 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 11:28:36,670 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 11:28:36,671 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 11:28:36,673 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 11:28:36,674 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 11:28:36,676 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 11:28:36,678 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 11:28:36,679 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 11:28:36,681 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 11:28:36,683 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 11:28:36,684 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 11:28:36,686 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 11:28:36,688 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 11:28:36,689 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 11:28:36,689 - INFO - Scraped 0 articles from tech
+2025-10-02 11:28:39,500 - INFO - Scraping science: https://www.npr.org/sections/science
+2025-10-02 11:28:40,379 - INFO - Duplicate article found: Jane Goodall, legendary primatologist, has died at age 91
+2025-10-02 11:28:40,380 - INFO - Duplicate article found: Why scientists are using corals from other countries to help save Florida's reefs
+2025-10-02 11:28:40,381 - INFO - Duplicate article found: From vultures to hyenas: How scavengers protect human health
+2025-10-02 11:28:40,382 - INFO - Duplicate article found: Why sea level rise after 2050 is a mystery
+2025-10-02 11:28:40,383 - INFO - Duplicate article found: Scared of spiders? Some former arachnophobes now are keeping jumping spiders as pets
+2025-10-02 11:28:40,385 - INFO - Duplicate article found: 20 years later, what Katrina survivors teach us about resilience
+2025-10-02 11:28:40,386 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 11:28:40,388 - INFO - Duplicate article found: The endangered cactus behind Mexico's sweet secret
+2025-10-02 11:28:40,389 - INFO - Duplicate article found: Tropical Storm Imelda expected to batter parts of the southeastern U.S. this week
+2025-10-02 11:28:40,391 - INFO - Duplicate article found: 'Long history of blaming mothers': Trump's Tylenol warning echoes past misconceptions
+2025-10-02 11:28:40,393 - INFO - Duplicate article found: What causes endometriosis? Scientists are closer to finding out
+2025-10-02 11:28:40,394 - INFO - Duplicate article found: VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?
+2025-10-02 11:28:40,396 - INFO - Duplicate article found: Leucovorin for autism? Many scientists — and parents — are skeptical
+2025-10-02 11:28:40,397 - INFO - Duplicate article found: The cancer quietly killing young people
+2025-10-02 11:28:40,399 - INFO - Duplicate article found: Autism researcher breaks down Trump’s claims on Tylenol
+2025-10-02 11:28:40,399 - INFO - Scraped 0 articles from science
+2025-10-02 11:28:41,821 - INFO - Scraping world: https://www.npr.org/sections/world
+2025-10-02 11:28:42,377 - INFO - Duplicate article found: At least two people have been killed in an attack at a U.K. synagogue
+2025-10-02 11:28:42,436 - INFO - Duplicate article found: Pressure on Democrats grows to end shutdown. And, Gaza City receives evacuation orders
+2025-10-02 11:28:42,486 - INFO - Duplicate article found: From Madagascar to Morocco: Gen Z protests shake Africa
+2025-10-02 11:28:42,496 - INFO - Duplicate article found: A more than 1,000-year-old Viking ship goes on a very short, final voyage
+2025-10-02 11:28:42,499 - INFO - Duplicate article found: Anti-government protests in Morocco turn deadly, with 2 killed in a small town
+2025-10-02 11:28:42,501 - INFO - Duplicate article found: Pope Leo XIV says 'inhuman treatment of immigrants' in the U.S. isn't 'pro-life'
+2025-10-02 11:28:42,505 - INFO - Duplicate article found: Israeli navy intercepts most Gaza-bound flotilla boats and arrests activists
+2025-10-02 11:28:42,507 - INFO - Duplicate article found: A NPR visual series takes a look at the rhythm of cumbia
+2025-10-02 11:28:42,509 - INFO - Duplicate article found: Una serie visual de NPR explora el ritmo de la cumbia
+2025-10-02 11:28:42,512 - INFO - Duplicate article found: Colombia: la cuna de la cumbia
+2025-10-02 11:28:42,514 - INFO - Duplicate article found: Colombia: The birthplace of cumbia
+2025-10-02 11:28:42,517 - INFO - Duplicate article found: Greetings from Kyiv, where you might stumble across Zelenskyy taking a stroll
+2025-10-02 11:28:42,519 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 11:28:42,522 - INFO - Duplicate article found: Dozens killed in a powerful earthquake that hit the Philippines
+2025-10-02 11:28:42,526 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 11:28:42,527 - INFO - Scraped 0 articles from world
+2025-10-02 11:28:43,604 - INFO - Scraping gaming: https://www.npr.org/sections/technology
+2025-10-02 11:28:44,277 - INFO - Duplicate article found: Research, curriculum and grading: new data sheds light on how professors are using AI
+2025-10-02 11:28:44,279 - INFO - Duplicate article found: A lawsuit tries to block the Trump administration's efforts to merge personal data
+2025-10-02 11:28:44,281 - INFO - Duplicate article found: With therapy hard to get, people lean on AI for mental health. What are the risks?
+2025-10-02 11:28:44,282 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 11:28:44,282 - INFO - Duplicate article found: YouTube agrees to pay Trump $24 million to settle lawsuit over Jan. 6 suspension
+2025-10-02 11:28:44,284 - INFO - Duplicate article found: How AI impacts the environment (and your energy bill)
+2025-10-02 11:28:44,285 - INFO - Duplicate article found: Trump's TikTok deal payment criticized as 'shakedown scheme' by experts
+2025-10-02 11:28:44,286 - INFO - Duplicate article found: Trump advances TikTok deal with new executive order
+2025-10-02 11:28:44,288 - INFO - Duplicate article found: They warned about AI before it was cool. They're still worried
+2025-10-02 11:28:44,289 - INFO - Duplicate article found: Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime
+2025-10-02 11:28:44,290 - INFO - Duplicate article found: As AI advances, doomers warn the superintelligence apocalypse is nigh
+2025-10-02 11:28:44,291 - INFO - Duplicate article found: You can now experience Björk's heartbreak in VR
+2025-10-02 11:28:44,292 - INFO - Duplicate article found: Did Amazon trick people into paying for Prime? Federal case goes to trial
+2025-10-02 11:28:44,294 - INFO - Duplicate article found: Deal for TikTok creates U.S. joint venture, and government won't have a stake
+2025-10-02 11:28:44,296 - INFO - Duplicate article found: Rheumatoid arthritis kept her captive. This nerve stimulator set her free
+2025-10-02 11:28:44,296 - INFO - Scraped 0 articles from gaming
+2025-10-02 11:28:46,964 - INFO - Scraping sport: https://www.npr.org/sections/sports
+2025-10-02 11:28:47,463 - INFO - Duplicate article found: The MLB postseason begins Tuesday. Who should you root for to win a World Series?
+2025-10-02 11:28:47,465 - INFO - Duplicate article found: Latin superstar Bad Bunny will headline the 2026 Super Bowl halftime show
+2025-10-02 11:28:47,466 - INFO - Duplicate article found: Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy
+2025-10-02 11:28:47,467 - INFO - Duplicate article found: Random act of kindness: Mariners fan gifts historic ball to young stranger
+2025-10-02 11:28:47,468 - INFO - Duplicate article found: MLB will allow players to challenge balls and strikes starting in 2026
+2025-10-02 11:28:47,470 - INFO - Duplicate article found: A'ja Wilson snags a record fourth WNBA MVP
+2025-10-02 11:28:47,471 - INFO - Duplicate article found: In 'HIM,' football greatness comes with a price. Tyriq Withers is its rising star
+2025-10-02 11:28:47,473 - INFO - Duplicate article found: Longtime University of Alabama football referee still helping the Tide roll at age 97
+2025-10-02 11:28:47,474 - INFO - Duplicate article found: What happened to baseball's .300 hitter?
+2025-10-02 11:28:47,475 - INFO - Duplicate article found: Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground
+2025-10-02 11:28:47,476 - INFO - Duplicate article found: Does adding football help colleges with recruiting? It's complicated
+2025-10-02 11:28:47,478 - INFO - Duplicate article found: 60 years later, Sandy Koufax's perfect game is still amazing
+2025-10-02 11:28:47,479 - INFO - Duplicate article found: World Cup tickets are on sale. Scoring them may not be easy — or cheap
+2025-10-02 11:28:47,480 - INFO - Duplicate article found: Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump's attendance
+2025-10-02 11:28:47,481 - INFO - Duplicate article found: Young Phillies fan is gifted swag after adult fan takes his home run ball
+2025-10-02 11:28:47,481 - INFO - Scraped 0 articles from sport
+2025-10-02 11:28:48,786 - INFO - Scraping business: https://www.npr.org/sections/business
+2025-10-02 11:28:49,292 - INFO - Duplicate article found: VIDEO: Trump's tariffs, changing markets and what an uncertain economy means for you
+2025-10-02 11:28:49,293 - INFO - Duplicate article found: How close is the US to crony capitalism?
+2025-10-02 11:28:49,294 - INFO - Duplicate article found: Trump’s economy is marked by uncertainty. What could more tariffs mean for you?
+2025-10-02 11:28:49,296 - INFO - Duplicate article found: Trump's controversial nominee drops bid to head vital data-gathering agency
+2025-10-02 11:28:49,297 - INFO - Duplicate article found: Supreme Court says Federal Reserve Governor Lisa Cook can stay -- for now
+2025-10-02 11:28:49,298 - INFO - Duplicate article found: Government shutdown could delay key economic reports at an especially sensitive time
+2025-10-02 11:28:49,299 - INFO - Duplicate article found: Devotees of the mysterious Mothman descend on its West Virginia hometown
+2025-10-02 11:28:49,300 - INFO - Duplicate article found: Why China's ride apps are asking for odor ratings
+2025-10-02 11:28:49,301 - INFO - Duplicate article found: Why is everyone buying gold?
+2025-10-02 11:28:49,302 - INFO - Duplicate article found: We make a board game
+2025-10-02 11:28:49,303 - INFO - Duplicate article found: Change is brewing in the coffee industry. What lies ahead?
+2025-10-02 11:28:49,304 - INFO - Duplicate article found: Spotify's Daniel Ek announces that he'll step aside as CEO
+2025-10-02 11:28:49,305 - INFO - Duplicate article found: 'Like ice melting': Journalists warn press freedom is in decline across Asia
+2025-10-02 11:28:49,306 - INFO - Duplicate article found: Germany thrived in the first China Shock. But the next one could prove catastrophic.
+2025-10-02 11:28:49,307 - INFO - Duplicate article found: EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline
+2025-10-02 11:28:49,307 - INFO - Scraped 0 articles from business
+2025-10-02 11:28:51,067 - INFO - Inserted 1 new articles
+2025-10-02 11:28:51,068 - INFO - Waiting 30 minutes before next scan...
+2025-10-02 13:58:41,130 - INFO - Scraper stopped by user
+2025-10-16 19:41:31,481 - ERROR - ❌ MongoDB connection failed: ac-5uj8mfd-shard-00-00.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028),ac-5uj8mfd-shard-00-02.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028),ac-5uj8mfd-shard-00-01.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028), Timeout: 5.0s, Topology Description: <TopologyDescription id: 68f182a6e64ac523152ddd06, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-5uj8mfd-shard-00-00.3wrgn5c.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-5uj8mfd-shard-00-00.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')>, <ServerDescription ('ac-5uj8mfd-shard-00-01.3wrgn5c.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-5uj8mfd-shard-00-01.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')>, <ServerDescription ('ac-5uj8mfd-shard-00-02.3wrgn5c.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-5uj8mfd-shard-00-02.3wrgn5c.mongodb.net:27017: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')>]>
+2025-10-16 19:49:10,435 - INFO - ✅ MongoDB connection successful
+2025-10-16 19:49:10,436 - INFO - 🚀 NPR Scraper started - will run every 4 hours
+2025-10-16 19:49:10,436 - INFO - ⏱️ Starting scrape cycle at 2025-10-16 19:49:10
+2025-10-16 19:49:10,436 - INFO - 🔍 Scraping art: https://www.npr.org/sections/arts
+2025-10-16 19:49:12,124 - INFO - ✅ Scraped 15 articles from art
+2025-10-16 19:49:14,561 - INFO - 🔍 Scraping tech: https://www.npr.org/sections/technology
+2025-10-16 19:49:16,230 - INFO - ✅ Scraped 15 articles from tech
+2025-10-16 19:49:18,402 - INFO - 🔍 Scraping science: https://www.npr.org/sections/science
+2025-10-16 19:49:20,464 - INFO - ✅ Scraped 15 articles from science
+2025-10-16 19:49:21,889 - INFO - 🔍 Scraping world: https://www.npr.org/sections/world
+2025-10-16 19:49:23,621 - INFO - ✅ Scraped 15 articles from world
+2025-10-16 19:49:25,174 - INFO - 🔍 Scraping gaming: https://www.npr.org/sections/technology
+2025-10-16 19:49:26,875 - INFO - ✅ Scraped 15 articles from gaming
+2025-10-16 19:49:28,599 - INFO - 🔍 Scraping sport: https://www.npr.org/sections/sports
+2025-10-16 19:49:30,670 - INFO - ✅ Scraped 15 articles from sport
+2025-10-16 19:49:32,616 - INFO - 🔍 Scraping business: https://www.npr.org/sections/business
+2025-10-16 19:49:34,207 - INFO - ✅ Scraped 15 articles from business
+2025-10-16 19:49:45,245 - INFO - ✅ Inserted 105 new articles
+2025-10-16 19:49:45,245 - INFO - ✅ Scrape cycle complete
+2025-10-16 19:49:45,245 - INFO - ⏰ Next scrape in 4 hours...
+2025-10-16 20:01:36,654 - INFO - 🛑 Scraper stopped by user
+2025-10-16 20:01:36,760 - INFO - 🔌 MongoDB connection closed
