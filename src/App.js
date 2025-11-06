@@ -17,7 +17,7 @@ import ProfileSettings from "./components/ProfileSettings";
 import UserPreferences from "./components/UserPreferences";
 import { PreferencesProvider } from "./contexts/PreferencesContext";
 import "./App.css";
-import { FiHome, FiSun, FiMoon, FiUser } from "react-icons/fi";
+import { FiSun, FiMoon, FiUser } from "react-icons/fi";
 
 // Wrapper component to handle navigation
 const AppContent = () => {
