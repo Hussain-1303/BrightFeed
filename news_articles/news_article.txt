@@ -33640,3 +33640,3012 @@ Source: https://www.cnn.com/2025/11/05/politics/boat-strikes-democrats-briefing-
 === NPR - health - 2025-11-05 20:55:48 ===
 
 === CNN - travel - 2025-11-05 20:56:02 ===
+
+=== CNN - world - 2025-11-05 21:06:25 ===
+
+=== CBC - world - 2025-11-05 21:06:27 ===
+
+Headline: Japan sends in the military to deal with surge in bear attacks
+Summary: Summary based on headline: Japan sends in the military to deal with surge in bear attacks
+Description: Summary based on headline: Japan sends in the military to deal with surge in bear attacks
+Image: https://i.cbc.ca/ais/03f7934a-81b4-4965-b7fb-5954ece808a9,1762391050677/full/max/0/default.jpg?im=Crop%2Crect%3D%28821%2C0%2C3283%2C3283%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-05 21:06:31 ===
+
+=== CNN - technology - 2025-11-05 21:06:47 ===
+
+=== NPR - technology - 2025-11-05 21:06:58 ===
+
+=== CNN - business - 2025-11-05 21:07:13 ===
+
+=== CBC - business - 2025-11-05 21:07:16 ===
+
+=== NPR - business - 2025-11-05 21:07:22 ===
+
+=== CNN - sport - 2025-11-05 21:07:38 ===
+
+=== CNN - arts - 2025-11-05 21:08:05 ===
+
+=== NPR - arts - 2025-11-05 21:08:12 ===
+
+=== CNN - science - 2025-11-05 21:08:29 ===
+
+=== CBC - science - 2025-11-05 21:08:32 ===
+
+=== NPR - science - 2025-11-05 21:08:39 ===
+
+=== CNN - us - 2025-11-05 21:08:53 ===
+
+Headline: Carlos Barria/Reuters
+Summary: Summary based on headline: Carlos Barria/Reuters
+Description: Summary based on headline: Carlos Barria/Reuters
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-10-06t053210z-1296236702-rc256haohtzw-rtrmadp-3-usa-trump-portland-20251102195703602.JPG?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/02/us/portland-oregon-national-guard-ruling
+==================================================
+
+=== CNN - politics - 2025-11-05 21:09:21 ===
+
+=== CBC - politics - 2025-11-05 21:09:24 ===
+
+=== NPR - politics - 2025-11-05 21:09:31 ===
+
+=== CNN - health - 2025-11-05 21:09:47 ===
+
+=== CBC - health - 2025-11-05 21:09:50 ===
+
+=== NPR - health - 2025-11-05 21:09:54 ===
+
+=== CNN - travel - 2025-11-05 21:10:12 ===
+
+=== CNN - world - 2025-11-05 21:20:38 ===
+
+=== CBC - world - 2025-11-05 21:20:42 ===
+
+=== NPR - world - 2025-11-05 21:20:48 ===
+
+=== CNN - technology - 2025-11-05 21:21:03 ===
+
+=== NPR - technology - 2025-11-05 21:21:13 ===
+
+=== CNN - business - 2025-11-05 21:21:28 ===
+
+=== CBC - business - 2025-11-05 21:21:30 ===
+
+=== NPR - business - 2025-11-05 21:21:35 ===
+
+=== CNN - sport - 2025-11-05 21:21:50 ===
+
+=== CNN - arts - 2025-11-05 21:22:14 ===
+
+=== NPR - arts - 2025-11-05 21:22:21 ===
+
+=== CNN - science - 2025-11-05 21:22:35 ===
+
+=== CBC - science - 2025-11-05 21:22:39 ===
+
+=== NPR - science - 2025-11-05 21:22:45 ===
+
+=== CNN - us - 2025-11-05 21:23:00 ===
+
+Headline: Cliff Questel
+Summary: Summary based on headline: Cliff Questel
+Description: Summary based on headline: Cliff Questel
+Image: https://media.cnn.com/api/v1/images/stellar/prod/qad-martinez-ruiz-pretrial.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/us/chicago-marimar-martinez-shooting-hearing
+==================================================
+
+Headline: Border Patrol agent appeared to brag about his accuracy after shooting Chicago woman five times, messages in court reveal
+Summary: Summary based on headline: Border Patrol agent appeared to brag about his accuracy after shooting Ch...
+Description: Summary based on headline: Border Patrol agent appeared to brag about his accuracy after shooting Chicago woman five times, messages in court reveal
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1057737620.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/us/chicago-marimar-martinez-shooting-hearing
+==================================================
+
+=== CNN - politics - 2025-11-05 21:23:26 ===
+
+=== CBC - politics - 2025-11-05 21:23:28 ===
+
+=== NPR - politics - 2025-11-05 21:23:33 ===
+
+=== CNN - health - 2025-11-05 21:23:47 ===
+
+=== CBC - health - 2025-11-05 21:23:50 ===
+
+=== NPR - health - 2025-11-05 21:23:55 ===
+
+=== CNN - travel - 2025-11-05 21:24:10 ===
+
+=== CNN - world - 2025-11-05 21:34:38 ===
+
+=== CBC - world - 2025-11-05 21:34:40 ===
+
+=== NPR - world - 2025-11-05 21:34:45 ===
+
+=== CNN - technology - 2025-11-05 21:34:59 ===
+
+=== NPR - technology - 2025-11-05 21:35:08 ===
+
+=== CNN - business - 2025-11-05 21:35:25 ===
+
+=== CBC - business - 2025-11-05 21:35:28 ===
+
+=== NPR - business - 2025-11-05 21:35:34 ===
+
+=== CNN - sport - 2025-11-05 21:35:50 ===
+
+=== CNN - arts - 2025-11-05 21:36:13 ===
+
+=== NPR - arts - 2025-11-05 21:36:20 ===
+
+=== CNN - science - 2025-11-05 21:36:34 ===
+
+=== CBC - science - 2025-11-05 21:36:36 ===
+
+=== NPR - science - 2025-11-05 21:36:43 ===
+
+=== CNN - us - 2025-11-05 21:36:56 ===
+
+=== CNN - politics - 2025-11-05 21:37:22 ===
+
+=== CBC - politics - 2025-11-05 21:37:25 ===
+
+=== NPR - politics - 2025-11-05 21:37:31 ===
+
+=== CNN - health - 2025-11-05 21:37:47 ===
+
+=== CBC - health - 2025-11-05 21:37:50 ===
+
+Headline: Province has gained doctors but is having trouble keeping them, Doctors Manitoba says
+Summary: Summary based on headline: Province has gained doctors but is having trouble keeping them, Doctors M...
+Description: Summary based on headline: Province has gained doctors but is having trouble keeping them, Doctors Manitoba says
+Image: https://i.cbc.ca/ais/1.4297622,1675363779000/full/max/0/default.jpg?im=Crop%2Crect%3D%28183%2C44%2C801%2C801%29%3BResize%3D114
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-11-05 21:37:56 ===
+
+=== CNN - travel - 2025-11-05 21:38:11 ===
+
+=== CNN - world - 2025-11-05 21:48:34 ===
+
+=== CBC - world - 2025-11-05 21:48:36 ===
+
+=== NPR - world - 2025-11-05 21:48:40 ===
+
+=== CNN - technology - 2025-11-05 21:48:56 ===
+
+=== NPR - technology - 2025-11-05 21:49:06 ===
+
+=== CNN - business - 2025-11-05 21:49:20 ===
+
+=== CBC - business - 2025-11-05 21:49:23 ===
+
+=== NPR - business - 2025-11-05 21:49:28 ===
+
+=== CNN - sport - 2025-11-05 21:49:43 ===
+
+=== CNN - arts - 2025-11-05 21:50:10 ===
+
+=== NPR - arts - 2025-11-05 21:50:18 ===
+
+=== CNN - science - 2025-11-05 21:50:33 ===
+
+=== CBC - science - 2025-11-05 21:50:35 ===
+
+=== NPR - science - 2025-11-05 21:50:40 ===
+
+=== CNN - us - 2025-11-05 21:50:58 ===
+
+=== CNN - politics - 2025-11-05 21:51:24 ===
+
+=== CBC - politics - 2025-11-05 21:51:28 ===
+
+=== NPR - politics - 2025-11-05 21:51:33 ===
+
+=== CNN - health - 2025-11-05 21:51:48 ===
+
+=== CBC - health - 2025-11-05 21:51:50 ===
+
+=== NPR - health - 2025-11-05 21:51:57 ===
+
+=== CNN - travel - 2025-11-05 21:52:10 ===
+
+=== CNN - world - 2025-11-05 22:02:33 ===
+
+Headline: Dharmendra Khandal/10 Years of Remembering Wildlife
+Summary: Summary based on headline: Dharmendra Khandal/10 Years of Remembering Wildlife
+Description: Summary based on headline: Dharmendra Khandal/10 Years of Remembering Wildlife
+Image: https://media.cnn.com/api/v1/images/stellar/prod/indian-pangolin-photo-dharmendra-khandal-remembering-wildlife.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/world/pangolin-remembering-wildlife-photos-conservation-c2e-spc
+==================================================
+
+Headline: Pangolin’s plight: Photo book spotlights the world’s most trafficked mammal
+Summary: Summary based on headline: Pangolin’s plight: Photo book spotlights the world’s most trafficked mamm...
+Description: Summary based on headline: Pangolin’s plight: Photo book spotlights the world’s most trafficked mammal
+Image: https://media.cnn.com/api/v1/images/stellar/prod/10-ap9105070263.JPG?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/world/pangolin-remembering-wildlife-photos-conservation-c2e-spc
+==================================================
+
+Headline: Dick Cheney helped design the ‘war on terror.’ It opened a Pandora’s box that still hasn’t been closed
+Summary: Summary based on headline: Dick Cheney helped design the ‘war on terror.’ It opened a Pandora’s box ...
+Description: Summary based on headline: Dick Cheney helped design the ‘war on terror.’ It opened a Pandora’s box that still hasn’t been closed
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-11-04t082419z-359798145-rc2kphadigy2-rtrmadp-3-un-summit-qatar.JPG?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/middleeast/analysis-cheney-middle-east-legacy-latam-intl
+==================================================
+
+=== CBC - world - 2025-11-05 22:02:36 ===
+
+Headline: Mexican President Claudia Sheinbaum presses charges after man eludes security, gropes her
+Summary: Summary based on headline: Mexican President Claudia Sheinbaum presses charges after man eludes secu...
+Description: Summary based on headline: Mexican President Claudia Sheinbaum presses charges after man eludes security, gropes her
+Image: https://i.cbc.ca/ais/a2462312-7900-436b-b8e7-3471fc191cb3,1762379698284/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C279%2C5360%2C3015%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-05 22:02:41 ===
+
+=== CNN - technology - 2025-11-05 22:02:59 ===
+
+=== NPR - technology - 2025-11-05 22:03:06 ===
+
+=== CNN - business - 2025-11-05 22:03:22 ===
+
+=== CBC - business - 2025-11-05 22:03:25 ===
+
+=== NPR - business - 2025-11-05 22:03:30 ===
+
+=== CNN - sport - 2025-11-05 22:03:43 ===
+
+=== CNN - arts - 2025-11-05 22:04:08 ===
+
+=== NPR - arts - 2025-11-05 22:04:17 ===
+
+=== CNN - science - 2025-11-05 22:04:35 ===
+
+Headline: Robby Kohley
+Summary: Summary based on headline: Robby Kohley
+Description: Summary based on headline: Robby Kohley
+Image: https://media.cnn.com/api/v1/images/stellar/prod/kiwikiu-robby-kohley-americanbirdconservancy.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/science/hawaii-mosquitoes-rare-birds-drones-c2e-spc
+==================================================
+
+Headline: Thousands of mosquitoes are being dropped by drone over islands in Hawaii. Here’s why
+Summary: Summary based on headline: Thousands of mosquitoes are being dropped by drone over islands in Hawaii...
+Description: Summary based on headline: Thousands of mosquitoes are being dropped by drone over islands in Hawaii. Here’s why
+Image: https://media.cnn.com/api/v1/images/stellar/prod/cruciform-cache-after-excavation-cache-nr10-11-photo-by-inomata.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/science/hawaii-mosquitoes-rare-birds-drones-c2e-spc
+==================================================
+
+Headline: NASA may be quietly gutting an iconic campus with what it calls strategic closures, workers fear
+Summary: Summary based on headline: NASA may be quietly gutting an iconic campus with what it calls strategic...
+Description: Summary based on headline: NASA may be quietly gutting an iconic campus with what it calls strategic closures, workers fear
+Image: https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-11-03-at-7-11-48-am.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/science/nasa-goddard-building-closures-government-shutdown
+==================================================
+
+=== CBC - science - 2025-11-05 22:04:39 ===
+
+=== NPR - science - 2025-11-05 22:04:45 ===
+
+=== CNN - us - 2025-11-05 22:05:00 ===
+
+=== CNN - politics - 2025-11-05 22:05:21 ===
+
+=== CBC - politics - 2025-11-05 22:05:25 ===
+
+=== NPR - politics - 2025-11-05 22:05:31 ===
+
+=== CNN - health - 2025-11-05 22:05:44 ===
+
+=== CBC - health - 2025-11-05 22:05:46 ===
+
+=== NPR - health - 2025-11-05 22:05:53 ===
+
+=== CNN - travel - 2025-11-05 22:06:06 ===
+
+Headline: •For SubscribersFor SubscribersBad behavior, overcrowded streets: In Asia’s travel hot spots, overtourism is creating European-style problems
+Summary: Summary based on headline: •For SubscribersFor SubscribersBad behavior, overcrowded streets: In Asia...
+Description: Summary based on headline: •For SubscribersFor SubscribersBad behavior, overcrowded streets: In Asia’s travel hot spots, overtourism is creating European-style problems
+Image: https://media.cnn.com/api/v1/images/stellar/prod/1008-fred-he-4.jpg?c=16x9&q=h_270,w_480,c_fill
+Source: https://www.cnn.com/travel/asia-overtourism-issues-tourist-hotspots-intl-hnk-dst
+==================================================
+
+=== CNN - world - 2025-11-05 22:16:28 ===
+
+=== CBC - world - 2025-11-05 22:16:31 ===
+
+Headline: Mexican President Claudia Sheinbaum presses charges after man eludes security, gropes her
+Summary: Summary based on headline: Mexican President Claudia Sheinbaum presses charges after man eludes secu...
+Description: Summary based on headline: Mexican President Claudia Sheinbaum presses charges after man eludes security, gropes her
+Image: https://i.cbc.ca/ais/03f7934a-81b4-4965-b7fb-5954ece808a9,1762391050677/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C178%2C4925%2C2770%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-05 22:16:38 ===
+
+=== CNN - technology - 2025-11-05 22:16:53 ===
+
+=== NPR - technology - 2025-11-05 22:17:01 ===
+
+=== CNN - business - 2025-11-05 22:17:16 ===
+
+=== CBC - business - 2025-11-05 22:17:18 ===
+
+Headline: Some employers are paying for egg freezing. Is that about helping you build a family or something else?
+Summary: Summary based on headline: Some employers are paying for egg freezing. Is that about helping you bui...
+Description: Summary based on headline: Some employers are paying for egg freezing. Is that about helping you build a family or something else?
+Image: https://i.cbc.ca/ais/5b7cb030-d049-4f9e-8e0e-03d86b3bd007,1761685685503/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C244%2C1868%2C1868%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+Headline: Are you being tricked by your treats? Some Halloween candy multipacks have shrunk in size, but not in price
+Summary: Summary based on headline: Are you being tricked by your treats? Some Halloween candy multipacks hav...
+Description: Summary based on headline: Are you being tricked by your treats? Some Halloween candy multipacks have shrunk in size, but not in price
+Image: https://i.cbc.ca/ais/1.7241408,1758135875000/full/max/0/default.jpg?im=Crop%2Crect%3D%2877%2C295%2C1051%2C1051%29%3BResize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-05 22:17:23 ===
+
+=== CNN - sport - 2025-11-05 22:17:40 ===
+
+=== CNN - arts - 2025-11-05 22:18:05 ===
+
+=== NPR - arts - 2025-11-05 22:18:13 ===
+
+=== CNN - science - 2025-11-05 22:18:25 ===
+
+=== CBC - science - 2025-11-05 22:18:28 ===
+
+=== NPR - science - 2025-11-05 22:18:34 ===
+
+=== CNN - us - 2025-11-05 22:18:48 ===
+
+=== CNN - politics - 2025-11-05 22:19:11 ===
+
+=== CBC - politics - 2025-11-05 22:19:14 ===
+
+=== NPR - politics - 2025-11-05 22:19:20 ===
+
+=== CNN - health - 2025-11-05 22:19:33 ===
+
+=== CBC - health - 2025-11-05 22:19:36 ===
+
+=== NPR - health - 2025-11-05 22:19:42 ===
+
+=== CNN - travel - 2025-11-05 22:19:59 ===
+
+=== CNN - world - 2025-11-05 22:30:22 ===
+
+=== CBC - world - 2025-11-05 22:30:26 ===
+
+=== NPR - world - 2025-11-05 22:30:32 ===
+
+=== CNN - technology - 2025-11-05 22:30:50 ===
+
+=== NPR - technology - 2025-11-05 22:30:56 ===
+
+=== CNN - business - 2025-11-05 22:31:11 ===
+
+=== CBC - business - 2025-11-05 22:31:14 ===
+
+=== NPR - business - 2025-11-05 22:31:19 ===
+
+=== CNN - sport - 2025-11-05 22:31:33 ===
+
+=== CNN - arts - 2025-11-05 22:31:58 ===
+
+=== NPR - arts - 2025-11-05 22:32:06 ===
+
+=== CNN - science - 2025-11-05 22:32:23 ===
+
+=== CBC - science - 2025-11-05 22:32:26 ===
+
+=== NPR - science - 2025-11-05 22:32:31 ===
+
+=== CNN - us - 2025-11-05 22:32:45 ===
+
+=== CNN - politics - 2025-11-05 22:33:08 ===
+
+=== CBC - politics - 2025-11-05 22:33:11 ===
+
+=== NPR - politics - 2025-11-05 22:33:15 ===
+
+=== CNN - health - 2025-11-05 22:33:29 ===
+
+=== CBC - health - 2025-11-05 22:33:31 ===
+
+=== NPR - health - 2025-11-05 22:33:39 ===
+
+=== CNN - travel - 2025-11-05 22:33:56 ===
+
+=== CNN - world - 2025-11-05 22:44:21 ===
+
+=== CBC - world - 2025-11-05 22:44:25 ===
+
+=== NPR - world - 2025-11-05 22:44:31 ===
+
+=== CNN - technology - 2025-11-05 22:44:49 ===
+
+=== NPR - technology - 2025-11-05 22:44:57 ===
+
+=== CNN - business - 2025-11-05 22:45:15 ===
+
+=== CBC - business - 2025-11-05 22:45:17 ===
+
+=== NPR - business - 2025-11-05 22:45:24 ===
+
+=== CNN - sport - 2025-11-05 22:45:40 ===
+
+=== CNN - arts - 2025-11-05 22:46:04 ===
+
+=== NPR - arts - 2025-11-05 22:46:12 ===
+
+=== CNN - science - 2025-11-05 22:46:28 ===
+
+=== CBC - science - 2025-11-05 22:46:31 ===
+
+=== NPR - science - 2025-11-05 22:46:35 ===
+
+=== CNN - us - 2025-11-05 22:46:51 ===
+
+=== CNN - politics - 2025-11-05 22:47:16 ===
+
+=== CBC - politics - 2025-11-05 22:47:20 ===
+
+=== NPR - politics - 2025-11-05 22:47:25 ===
+
+=== CNN - health - 2025-11-05 22:47:38 ===
+
+=== CBC - health - 2025-11-05 22:47:41 ===
+
+=== NPR - health - 2025-11-05 22:47:46 ===
+
+=== CNN - travel - 2025-11-05 22:48:00 ===
+
+=== CNN - world - 2025-11-05 22:58:22 ===
+
+=== CBC - world - 2025-11-05 22:58:24 ===
+
+=== NPR - world - 2025-11-05 22:58:30 ===
+
+=== CNN - technology - 2025-11-05 22:58:45 ===
+
+=== NPR - technology - 2025-11-05 22:58:54 ===
+
+=== CNN - business - 2025-11-05 22:59:11 ===
+
+=== CBC - business - 2025-11-05 22:59:14 ===
+
+=== NPR - business - 2025-11-05 22:59:20 ===
+
+=== CNN - sport - 2025-11-05 22:59:34 ===
+
+=== CNN - arts - 2025-11-05 23:00:00 ===
+
+=== NPR - arts - 2025-11-05 23:00:07 ===
+
+=== CNN - science - 2025-11-05 23:00:23 ===
+
+=== CBC - science - 2025-11-05 23:00:26 ===
+
+=== NPR - science - 2025-11-05 23:00:31 ===
+
+=== CNN - us - 2025-11-05 23:00:46 ===
+
+=== CNN - politics - 2025-11-05 23:01:07 ===
+
+=== CBC - politics - 2025-11-05 23:01:10 ===
+
+=== NPR - politics - 2025-11-05 23:01:16 ===
+
+=== CNN - health - 2025-11-05 23:01:30 ===
+
+=== CBC - health - 2025-11-05 23:01:33 ===
+
+=== NPR - health - 2025-11-05 23:01:40 ===
+
+=== CNN - travel - 2025-11-05 23:01:56 ===
+
+=== CNN - world - 2025-11-05 23:12:20 ===
+
+=== CBC - world - 2025-11-05 23:12:23 ===
+
+=== NPR - world - 2025-11-05 23:12:29 ===
+
+=== CNN - technology - 2025-11-05 23:12:47 ===
+
+=== NPR - technology - 2025-11-05 23:12:55 ===
+
+=== CNN - business - 2025-11-05 23:13:12 ===
+
+=== CBC - business - 2025-11-05 23:13:16 ===
+
+=== NPR - business - 2025-11-05 23:13:22 ===
+
+=== CNN - sport - 2025-11-05 23:13:38 ===
+
+=== CNN - arts - 2025-11-05 23:14:00 ===
+
+=== NPR - arts - 2025-11-05 23:14:10 ===
+
+=== CNN - science - 2025-11-05 23:14:23 ===
+
+=== CBC - science - 2025-11-05 23:14:26 ===
+
+=== NPR - science - 2025-11-05 23:14:31 ===
+
+=== CNN - us - 2025-11-05 23:14:46 ===
+
+=== CNN - politics - 2025-11-05 23:15:10 ===
+
+=== CBC - politics - 2025-11-05 23:15:13 ===
+
+=== NPR - politics - 2025-11-05 23:15:18 ===
+
+=== CNN - health - 2025-11-05 23:15:33 ===
+
+=== CBC - health - 2025-11-05 23:15:35 ===
+
+=== NPR - health - 2025-11-05 23:15:40 ===
+
+=== CNN - travel - 2025-11-05 23:15:53 ===
+
+=== CNN - world - 2025-11-05 23:26:15 ===
+
+=== CBC - world - 2025-11-05 23:26:17 ===
+
+=== NPR - world - 2025-11-05 23:26:25 ===
+
+=== CNN - technology - 2025-11-05 23:26:41 ===
+
+=== NPR - technology - 2025-11-05 23:26:50 ===
+
+=== CNN - business - 2025-11-05 23:27:03 ===
+
+=== CBC - business - 2025-11-05 23:27:06 ===
+
+=== NPR - business - 2025-11-05 23:27:11 ===
+
+=== CNN - sport - 2025-11-05 23:27:26 ===
+
+=== CNN - arts - 2025-11-05 23:27:57 ===
+
+=== NPR - arts - 2025-11-05 23:28:06 ===
+
+=== CNN - science - 2025-11-05 23:28:22 ===
+
+=== CBC - science - 2025-11-05 23:28:26 ===
+
+=== NPR - science - 2025-11-05 23:28:32 ===
+
+=== CNN - us - 2025-11-05 23:28:49 ===
+
+=== CNN - politics - 2025-11-05 23:29:13 ===
+
+=== CBC - politics - 2025-11-05 23:29:16 ===
+
+=== NPR - politics - 2025-11-05 23:29:22 ===
+
+=== CNN - health - 2025-11-05 23:29:38 ===
+
+=== CBC - health - 2025-11-05 23:29:40 ===
+
+=== NPR - health - 2025-11-05 23:29:47 ===
+
+=== CNN - travel - 2025-11-05 23:30:01 ===
+
+=== CNN - world - 2025-11-05 23:40:25 ===
+
+=== CBC - world - 2025-11-05 23:40:27 ===
+
+=== NPR - world - 2025-11-05 23:40:32 ===
+
+=== CNN - technology - 2025-11-05 23:40:46 ===
+
+=== NPR - technology - 2025-11-05 23:40:53 ===
+
+=== CNN - business - 2025-11-05 23:41:10 ===
+
+=== CBC - business - 2025-11-05 23:41:13 ===
+
+=== NPR - business - 2025-11-05 23:41:18 ===
+
+=== CNN - sport - 2025-11-05 23:41:35 ===
+
+=== CNN - arts - 2025-11-05 23:41:57 ===
+
+=== NPR - arts - 2025-11-05 23:42:07 ===
+
+=== CNN - science - 2025-11-05 23:42:23 ===
+
+=== CBC - science - 2025-11-05 23:42:26 ===
+
+=== NPR - science - 2025-11-05 23:42:31 ===
+
+=== CNN - us - 2025-11-05 23:42:43 ===
+
+=== CNN - politics - 2025-11-05 23:43:06 ===
+
+=== CBC - politics - 2025-11-05 23:43:09 ===
+
+=== NPR - politics - 2025-11-05 23:43:15 ===
+
+=== CNN - health - 2025-11-05 23:43:27 ===
+
+=== CBC - health - 2025-11-05 23:43:31 ===
+
+=== NPR - health - 2025-11-05 23:43:37 ===
+
+=== CNN - travel - 2025-11-05 23:43:52 ===
+
+=== CNN - world - 2025-11-05 23:54:15 ===
+
+=== CBC - world - 2025-11-05 23:54:18 ===
+
+=== NPR - world - 2025-11-05 23:54:24 ===
+
+=== CNN - technology - 2025-11-05 23:54:39 ===
+
+=== NPR - technology - 2025-11-05 23:54:48 ===
+
+=== CNN - business - 2025-11-05 23:55:03 ===
+
+Headline: Qatar Airways bows out of Cathay Pacific after eight years
+Summary: Summary based on headline: Qatar Airways bows out of Cathay Pacific after eight years
+Description: Summary based on headline: Qatar Airways bows out of Cathay Pacific after eight years
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213352648.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/business/qatar-airways-cathay-pacific-intl-hnk
+==================================================
+
+=== CBC - business - 2025-11-05 23:55:06 ===
+
+=== NPR - business - 2025-11-05 23:55:12 ===
+
+=== CNN - sport - 2025-11-05 23:55:26 ===
+
+=== CNN - arts - 2025-11-05 23:55:49 ===
+
+=== NPR - arts - 2025-11-05 23:55:56 ===
+
+=== CNN - science - 2025-11-05 23:56:11 ===
+
+=== CBC - science - 2025-11-05 23:56:13 ===
+
+=== NPR - science - 2025-11-05 23:56:19 ===
+
+=== CNN - us - 2025-11-05 23:56:33 ===
+
+=== CNN - politics - 2025-11-05 23:56:58 ===
+
+=== CBC - politics - 2025-11-05 23:57:01 ===
+
+=== NPR - politics - 2025-11-05 23:57:08 ===
+
+=== CNN - health - 2025-11-05 23:57:24 ===
+
+=== CBC - health - 2025-11-05 23:57:26 ===
+
+=== NPR - health - 2025-11-05 23:57:30 ===
+
+=== CNN - travel - 2025-11-05 23:57:46 ===
+
+=== CNN - world - 2025-11-06 00:08:09 ===
+
+Headline: •Live UpdatesLive UpdatesŽižkovo údolí Kindergarten
+Summary: Summary based on headline: •Live UpdatesLive UpdatesŽižkovo údolí Kindergarten
+Description: Summary based on headline: •Live UpdatesLive UpdatesŽižkovo údolí Kindergarten
+Image: https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2025-11-05-at-14-29-33-4-20251105161219258.jpeg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/world/live-news/call-to-earth-day-2025-c2e
+==================================================
+
+Headline: Live UpdatesCall to Earth Day 2025: Guard your green space
+Summary: Summary based on headline: Live UpdatesCall to Earth Day 2025: Guard your green space
+Description: Summary based on headline: Live UpdatesCall to Earth Day 2025: Guard your green space
+Image: https://media.cnn.com/api/v1/images/stellar/prod/still-22092704-13339-still.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/world/live-news/call-to-earth-day-2025-c2e
+==================================================
+
+Headline: Chinese astronauts’ return to Earth delayed over fears spaceship damaged by debris
+Summary: Summary based on headline: Chinese astronauts’ return to Earth delayed over fears spaceship damaged ...
+Description: Summary based on headline: Chinese astronauts’ return to Earth delayed over fears spaceship damaged by debris
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244297832.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/china/china-shenzhou-20-astronauts-return-delayed-intl-hnk
+==================================================
+
+=== CBC - world - 2025-11-06 00:08:12 ===
+
+=== NPR - world - 2025-11-06 00:08:18 ===
+
+=== CNN - technology - 2025-11-06 00:08:35 ===
+
+=== NPR - technology - 2025-11-06 00:08:44 ===
+
+=== CNN - business - 2025-11-06 00:09:00 ===
+
+=== CBC - business - 2025-11-06 00:09:03 ===
+
+=== NPR - business - 2025-11-06 00:09:09 ===
+
+=== CNN - sport - 2025-11-06 00:09:21 ===
+
+=== CNN - arts - 2025-11-06 00:09:47 ===
+
+=== NPR - arts - 2025-11-06 00:09:56 ===
+
+=== CNN - science - 2025-11-06 00:10:12 ===
+
+=== CBC - science - 2025-11-06 00:10:15 ===
+
+=== NPR - science - 2025-11-06 00:10:21 ===
+
+=== CNN - us - 2025-11-06 00:10:37 ===
+
+=== CNN - politics - 2025-11-06 00:11:03 ===
+
+Headline: Democrats emboldened by election results mobilize against centrists’ emerging shutdown deal
+Summary: Summary based on headline: Democrats emboldened by election results mobilize against centrists’ emer...
+Description: Summary based on headline: Democrats emboldened by election results mobilize against centrists’ emerging shutdown deal
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2245189787.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/politics/democrats-shutdown-deal-elections
+==================================================
+
+=== CBC - politics - 2025-11-06 00:11:05 ===
+
+=== NPR - politics - 2025-11-06 00:11:11 ===
+
+=== CNN - health - 2025-11-06 00:11:23 ===
+
+=== CBC - health - 2025-11-06 00:11:25 ===
+
+=== NPR - health - 2025-11-06 00:11:31 ===
+
+=== CNN - travel - 2025-11-06 00:11:45 ===
+
+=== CNN - world - 2025-11-06 00:22:09 ===
+
+=== CBC - world - 2025-11-06 00:22:12 ===
+
+=== NPR - world - 2025-11-06 00:22:18 ===
+
+=== CNN - technology - 2025-11-06 00:22:35 ===
+
+=== NPR - technology - 2025-11-06 00:22:43 ===
+
+=== CNN - business - 2025-11-06 00:22:58 ===
+
+=== CBC - business - 2025-11-06 00:23:01 ===
+
+=== NPR - business - 2025-11-06 00:23:07 ===
+
+=== CNN - sport - 2025-11-06 00:23:20 ===
+
+=== CNN - arts - 2025-11-06 00:23:44 ===
+
+=== NPR - arts - 2025-11-06 00:23:52 ===
+
+=== CNN - science - 2025-11-06 00:24:07 ===
+
+=== CBC - science - 2025-11-06 00:24:11 ===
+
+=== NPR - science - 2025-11-06 00:24:18 ===
+
+=== CNN - us - 2025-11-06 00:24:32 ===
+
+=== CNN - politics - 2025-11-06 00:24:54 ===
+
+Headline: Eric Gay/AP
+Summary: Summary based on headline: Eric Gay/AP
+Description: Summary based on headline: Eric Gay/AP
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25300800605844.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/politics/november-snap-benefits-usda-plan
+==================================================
+
+=== CBC - politics - 2025-11-06 00:24:58 ===
+
+=== NPR - politics - 2025-11-06 00:25:04 ===
+
+=== CNN - health - 2025-11-06 00:25:21 ===
+
+=== CBC - health - 2025-11-06 00:25:25 ===
+
+=== NPR - health - 2025-11-06 00:25:30 ===
+
+=== CNN - travel - 2025-11-06 00:25:45 ===
+
+=== CNN - world - 2025-11-06 00:36:07 ===
+
+=== CBC - world - 2025-11-06 00:36:10 ===
+
+=== NPR - world - 2025-11-06 00:36:17 ===
+
+=== CNN - technology - 2025-11-06 00:36:33 ===
+
+=== NPR - technology - 2025-11-06 00:36:42 ===
+
+=== CNN - business - 2025-11-06 00:36:54 ===
+
+=== CBC - business - 2025-11-06 00:36:57 ===
+
+=== NPR - business - 2025-11-06 00:37:02 ===
+
+=== CNN - sport - 2025-11-06 00:37:14 ===
+
+=== CNN - arts - 2025-11-06 00:37:39 ===
+
+=== NPR - arts - 2025-11-06 00:37:47 ===
+
+=== CNN - science - 2025-11-06 00:37:59 ===
+
+=== CBC - science - 2025-11-06 00:38:02 ===
+
+=== NPR - science - 2025-11-06 00:38:08 ===
+
+=== CNN - us - 2025-11-06 00:38:23 ===
+
+=== CNN - politics - 2025-11-06 00:38:47 ===
+
+=== CBC - politics - 2025-11-06 00:38:49 ===
+
+=== NPR - politics - 2025-11-06 00:38:55 ===
+
+=== CNN - health - 2025-11-06 00:39:12 ===
+
+=== CBC - health - 2025-11-06 00:39:14 ===
+
+=== NPR - health - 2025-11-06 00:39:20 ===
+
+=== CNN - travel - 2025-11-06 00:39:33 ===
+
+=== CNN - world - 2025-11-06 00:49:52 ===
+
+=== CBC - world - 2025-11-06 00:49:54 ===
+
+=== NPR - world - 2025-11-06 00:50:01 ===
+
+=== CNN - technology - 2025-11-06 00:50:16 ===
+
+=== NPR - technology - 2025-11-06 00:50:25 ===
+
+=== CNN - business - 2025-11-06 00:50:39 ===
+
+=== CBC - business - 2025-11-06 00:50:45 ===
+
+=== NPR - business - 2025-11-06 00:50:51 ===
+
+=== CNN - sport - 2025-11-06 00:51:07 ===
+
+=== CNN - arts - 2025-11-06 00:51:32 ===
+
+=== NPR - arts - 2025-11-06 00:51:42 ===
+
+=== CNN - science - 2025-11-06 00:51:58 ===
+
+=== CBC - science - 2025-11-06 00:52:03 ===
+
+=== NPR - science - 2025-11-06 00:52:08 ===
+
+=== CNN - us - 2025-11-06 00:52:22 ===
+
+=== CNN - politics - 2025-11-06 00:52:44 ===
+
+=== CBC - politics - 2025-11-06 00:52:48 ===
+
+=== NPR - politics - 2025-11-06 00:52:53 ===
+
+=== CNN - health - 2025-11-06 00:53:11 ===
+
+=== CBC - health - 2025-11-06 00:53:16 ===
+
+=== NPR - health - 2025-11-06 00:53:21 ===
+
+=== CNN - travel - 2025-11-06 00:53:36 ===
+
+=== CNN - world - 2025-11-06 01:04:01 ===
+
+=== CBC - world - 2025-11-06 01:04:04 ===
+
+Headline: Democrats sweep 1st major U.S. elections of Trump’s second term
+Summary: Summary based on headline: Democrats sweep 1st major U.S. elections of Trump’s second term
+Description: Summary based on headline: Democrats sweep 1st major U.S. elections of Trump’s second term
+Image: https://i.cbc.ca/ais/4612d650-a732-4e07-b2d5-bb2d99ca6b75,1762384366354/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-06 01:04:11 ===
+
+=== CNN - technology - 2025-11-06 01:04:26 ===
+
+=== NPR - technology - 2025-11-06 01:04:33 ===
+
+=== CNN - business - 2025-11-06 01:04:50 ===
+
+=== CBC - business - 2025-11-06 01:04:53 ===
+
+=== NPR - business - 2025-11-06 01:05:00 ===
+
+=== CNN - sport - 2025-11-06 01:05:15 ===
+
+=== CNN - arts - 2025-11-06 01:05:41 ===
+
+=== NPR - arts - 2025-11-06 01:05:49 ===
+
+=== CNN - science - 2025-11-06 01:06:06 ===
+
+=== CBC - science - 2025-11-06 01:06:09 ===
+
+=== NPR - science - 2025-11-06 01:06:14 ===
+
+=== CNN - us - 2025-11-06 01:06:27 ===
+
+=== CNN - politics - 2025-11-06 01:06:51 ===
+
+=== CBC - politics - 2025-11-06 01:06:55 ===
+
+=== NPR - politics - 2025-11-06 01:07:00 ===
+
+=== CNN - health - 2025-11-06 01:07:14 ===
+
+=== CBC - health - 2025-11-06 01:07:18 ===
+
+=== NPR - health - 2025-11-06 01:07:23 ===
+
+=== CNN - travel - 2025-11-06 01:07:38 ===
+
+=== CNN - world - 2025-11-06 01:18:02 ===
+
+=== CBC - world - 2025-11-06 01:18:05 ===
+
+=== NPR - world - 2025-11-06 01:18:11 ===
+
+Headline: After battering the Philippines, deadly Typhoon Kalmaegi moves toward Vietnam
+Summary: Summary based on headline: After battering the Philippines, deadly Typhoon Kalmaegi moves toward Vie...
+Description: Summary based on headline: After battering the Philippines, deadly Typhoon Kalmaegi moves toward Vietnam
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+656/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F13%2F0eff788d44759fb7e1f9e311be95%2Ff85805b3-3229-4554-93fb-8ab54a2199ac.jpg
+Source: https://www.npr.org/2025/11/06/g-s1-96736/deadly-typhoon-kalmaegi
+==================================================
+
+Headline: Greetings from Johannesburg, South Africa, where spring bursts with jacaranda blooms
+Summary: Summary based on headline: Greetings from Johannesburg, South Africa, where spring bursts with jacar...
+Description: Summary based on headline: Greetings from Johannesburg, South Africa, where spring bursts with jacaranda blooms
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1089x613+0+57/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2F5d%2F9c7fd9824a8a97bea7e31746f5b1%2Fap25309207669092.jpg
+Source: https://www.npr.org/2025/11/05/g-s1-95193/jacaranda-trees-south-africa-johannesburg
+==================================================
+
+=== CNN - technology - 2025-11-06 01:18:25 ===
+
+=== NPR - technology - 2025-11-06 01:18:32 ===
+
+=== CNN - business - 2025-11-06 01:18:47 ===
+
+=== CBC - business - 2025-11-06 01:18:49 ===
+
+=== NPR - business - 2025-11-06 01:18:55 ===
+
+=== CNN - sport - 2025-11-06 01:19:09 ===
+
+=== CNN - arts - 2025-11-06 01:19:34 ===
+
+=== NPR - arts - 2025-11-06 01:19:42 ===
+
+=== CNN - science - 2025-11-06 01:19:57 ===
+
+=== CBC - science - 2025-11-06 01:19:59 ===
+
+=== NPR - science - 2025-11-06 01:20:05 ===
+
+=== CNN - us - 2025-11-06 01:20:20 ===
+
+=== CNN - politics - 2025-11-06 01:20:42 ===
+
+=== CBC - politics - 2025-11-06 01:20:45 ===
+
+=== NPR - politics - 2025-11-06 01:20:50 ===
+
+Headline: Judge in Comey case scolds prosecutors as he orders them to produce records from probe
+Summary: Summary based on headline: Judge in Comey case scolds prosecutors as he orders them to produce recor...
+Description: Summary based on headline: Judge in Comey case scolds prosecutors as he orders them to produce records from probe
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2949x1659+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2Fde%2F4080052142398496a6d354f22d6a%2Ffb3369c6-6918-4bb1-8d81-aa02d50a0b8b.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5600580/judge-comey-probe-evidence
+==================================================
+
+=== CNN - health - 2025-11-06 01:21:05 ===
+
+=== CBC - health - 2025-11-06 01:21:09 ===
+
+=== NPR - health - 2025-11-06 01:21:14 ===
+
+=== CNN - travel - 2025-11-06 01:21:32 ===
+
+=== CNN - world - 2025-11-06 01:31:55 ===
+
+Headline: Live UpdatesCall to Earth Day 2025: Guard your green space
+Summary: Summary based on headline: Live UpdatesCall to Earth Day 2025: Guard your green space
+Description: Summary based on headline: Live UpdatesCall to Earth Day 2025: Guard your green space
+Image: https://media.cnn.com/api/v1/images/stellar/prod/4ab4028b-fe3a-4a84-ba0c-e7e094852149.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/world/live-news/call-to-earth-day-2025-c2e
+==================================================
+
+Headline: Hostage remains handed over Tuesday are those of dual US-Israeli citizen Itay Chen, Israel says
+Summary: Summary based on headline: Hostage remains handed over Tuesday are those of dual US-Israeli citizen ...
+Description: Summary based on headline: Hostage remains handed over Tuesday are those of dual US-Israeli citizen Itay Chen, Israel says
+Image: https://media.cnn.com/api/v1/images/stellar/prod/img-5016.jpeg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/middleeast/israel-receives-hostage-remains-gaza-hamas-latam-intl
+==================================================
+
+=== CBC - world - 2025-11-06 01:31:58 ===
+
+=== NPR - world - 2025-11-06 01:32:02 ===
+
+Headline: Japan deploys the military to counter a surge in bear attacks
+Summary: Summary based on headline: Japan deploys the military to counter a surge in bear attacks
+Description: Summary based on headline: Japan deploys the military to counter a surge in bear attacks
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1152+0+107/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2Fc9%2F65d20da44603a1d449c3e47c104e%2Fap25309381438382.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5600582/japan-bear-attacks
+==================================================
+
+Headline: Our Correspondent is Finally Allowed into Gaza
+Summary: Summary based on headline: Our Correspondent is Finally Allowed into Gaza
+Description: Summary based on headline: Our Correspondent is Finally Allowed into Gaza
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fa2%2Feaf07a3144d0b76deb731b8099e9%2Ffarflungpostcard-kb.jpg
+Source: https://www.npr.org/2025/11/05/nx-s1-5600020/our-correspondent-is-finally-allowed-into-gaza
+==================================================
+
+=== CNN - technology - 2025-11-06 01:32:19 ===
+
+=== NPR - technology - 2025-11-06 01:32:26 ===
+
+=== CNN - business - 2025-11-06 01:32:40 ===
+
+=== CBC - business - 2025-11-06 01:32:43 ===
+
+Headline: Chrysler recalling 20,000 Jeep vehicles in Canada due to faulty battery that can catch fire
+Summary: Summary based on headline: Chrysler recalling 20,000 Jeep vehicles in Canada due to faulty battery t...
+Description: Summary based on headline: Chrysler recalling 20,000 Jeep vehicles in Canada due to faulty battery that can catch fire
+Image: https://i.cbc.ca/ais/26874dbf-4e38-47b4-a7a4-3e2ce939e8b4,1761921226109/full/max/0/default.jpg?im=Crop%2Crect%3D%28968%2C0%2C2160%2C2160%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-06 01:32:49 ===
+
+=== CNN - sport - 2025-11-06 01:33:01 ===
+
+=== CNN - arts - 2025-11-06 01:33:23 ===
+
+=== NPR - arts - 2025-11-06 01:33:33 ===
+
+=== CNN - science - 2025-11-06 01:33:46 ===
+
+=== CBC - science - 2025-11-06 01:33:48 ===
+
+=== NPR - science - 2025-11-06 01:33:53 ===
+
+=== CNN - us - 2025-11-06 01:34:07 ===
+
+=== CNN - politics - 2025-11-06 01:34:32 ===
+
+=== CBC - politics - 2025-11-06 01:34:35 ===
+
+=== NPR - politics - 2025-11-06 01:34:40 ===
+
+=== CNN - health - 2025-11-06 01:34:55 ===
+
+=== CBC - health - 2025-11-06 01:34:58 ===
+
+=== NPR - health - 2025-11-06 01:35:03 ===
+
+=== CNN - travel - 2025-11-06 01:35:19 ===
+
+=== CNN - world - 2025-11-06 01:45:41 ===
+
+=== CBC - world - 2025-11-06 01:45:44 ===
+
+=== NPR - world - 2025-11-06 01:45:48 ===
+
+=== CNN - technology - 2025-11-06 01:46:05 ===
+
+=== NPR - technology - 2025-11-06 01:46:13 ===
+
+=== CNN - business - 2025-11-06 01:46:26 ===
+
+=== CBC - business - 2025-11-06 01:46:29 ===
+
+=== NPR - business - 2025-11-06 01:46:35 ===
+
+=== CNN - sport - 2025-11-06 01:46:49 ===
+
+=== CNN - arts - 2025-11-06 01:47:15 ===
+
+=== NPR - arts - 2025-11-06 01:47:21 ===
+
+=== CNN - science - 2025-11-06 01:47:36 ===
+
+=== CBC - science - 2025-11-06 01:47:39 ===
+
+=== NPR - science - 2025-11-06 01:47:46 ===
+
+=== CNN - us - 2025-11-06 01:48:00 ===
+
+=== CNN - politics - 2025-11-06 01:48:27 ===
+
+=== CBC - politics - 2025-11-06 01:48:30 ===
+
+=== NPR - politics - 2025-11-06 01:48:37 ===
+
+=== CNN - health - 2025-11-06 01:48:51 ===
+
+=== CBC - health - 2025-11-06 01:48:53 ===
+
+=== NPR - health - 2025-11-06 01:48:59 ===
+
+=== CNN - travel - 2025-11-06 01:49:13 ===
+
+=== CNN - world - 2025-11-06 01:59:40 ===
+
+Headline: Eloisa Lopez/Reuters
+Summary: Summary based on headline: Eloisa Lopez/Reuters
+Description: Summary based on headline: Eloisa Lopez/Reuters
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-11-05t062618z-179136070-rc26qha8965c-rtrmadp-3-asia-weather-philippines.JPG?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/asia/typhoon-kalmaegi-philippines-damage-vietnam-intl-hnk
+==================================================
+
+=== CBC - world - 2025-11-06 01:59:43 ===
+
+=== NPR - world - 2025-11-06 01:59:49 ===
+
+=== CNN - technology - 2025-11-06 02:00:03 ===
+
+=== NPR - technology - 2025-11-06 02:00:11 ===
+
+=== CNN - business - 2025-11-06 02:00:26 ===
+
+=== CBC - business - 2025-11-06 02:00:28 ===
+
+=== NPR - business - 2025-11-06 02:00:34 ===
+
+=== CNN - sport - 2025-11-06 02:00:48 ===
+
+=== CNN - arts - 2025-11-06 02:01:14 ===
+
+=== NPR - arts - 2025-11-06 02:01:21 ===
+
+=== CNN - science - 2025-11-06 02:01:35 ===
+
+=== CBC - science - 2025-11-06 02:01:38 ===
+
+=== NPR - science - 2025-11-06 02:01:43 ===
+
+=== CNN - us - 2025-11-06 02:01:58 ===
+
+=== CNN - politics - 2025-11-06 02:02:22 ===
+
+=== CBC - politics - 2025-11-06 02:02:25 ===
+
+=== NPR - politics - 2025-11-06 02:02:29 ===
+
+=== CNN - health - 2025-11-06 02:02:43 ===
+
+=== CBC - health - 2025-11-06 02:02:47 ===
+
+=== NPR - health - 2025-11-06 02:02:52 ===
+
+=== CNN - travel - 2025-11-06 02:03:10 ===
+
+=== CNN - world - 2025-11-06 02:13:36 ===
+
+=== CBC - world - 2025-11-06 02:13:40 ===
+
+=== NPR - world - 2025-11-06 02:13:45 ===
+
+=== CNN - technology - 2025-11-06 02:13:58 ===
+
+=== NPR - technology - 2025-11-06 02:14:05 ===
+
+=== CNN - business - 2025-11-06 02:14:19 ===
+
+=== CBC - business - 2025-11-06 02:14:22 ===
+
+=== NPR - business - 2025-11-06 02:14:28 ===
+
+=== CNN - sport - 2025-11-06 02:14:43 ===
+
+=== CNN - arts - 2025-11-06 02:15:04 ===
+
+=== NPR - arts - 2025-11-06 02:15:13 ===
+
+=== CNN - science - 2025-11-06 02:15:27 ===
+
+=== CBC - science - 2025-11-06 02:15:29 ===
+
+=== NPR - science - 2025-11-06 02:15:34 ===
+
+=== CNN - us - 2025-11-06 02:15:50 ===
+
+=== CNN - politics - 2025-11-06 02:16:15 ===
+
+=== CBC - politics - 2025-11-06 02:16:18 ===
+
+=== NPR - politics - 2025-11-06 02:16:24 ===
+
+=== CNN - health - 2025-11-06 02:16:38 ===
+
+=== CBC - health - 2025-11-06 02:16:40 ===
+
+=== NPR - health - 2025-11-06 02:16:45 ===
+
+=== CNN - travel - 2025-11-06 02:17:00 ===
+
+=== CNN - world - 2025-11-06 02:27:21 ===
+
+=== CBC - world - 2025-11-06 02:27:23 ===
+
+=== NPR - world - 2025-11-06 02:27:28 ===
+
+=== CNN - technology - 2025-11-06 02:27:42 ===
+
+=== NPR - technology - 2025-11-06 02:27:49 ===
+
+=== CNN - business - 2025-11-06 02:28:06 ===
+
+=== CBC - business - 2025-11-06 02:28:09 ===
+
+=== NPR - business - 2025-11-06 02:28:16 ===
+
+=== CNN - sport - 2025-11-06 02:28:29 ===
+
+=== CNN - arts - 2025-11-06 02:28:54 ===
+
+=== NPR - arts - 2025-11-06 02:29:01 ===
+
+=== CNN - science - 2025-11-06 02:29:17 ===
+
+=== CBC - science - 2025-11-06 02:29:19 ===
+
+=== NPR - science - 2025-11-06 02:29:26 ===
+
+=== CNN - us - 2025-11-06 02:29:40 ===
+
+=== CNN - politics - 2025-11-06 02:30:03 ===
+
+=== CBC - politics - 2025-11-06 02:30:05 ===
+
+=== NPR - politics - 2025-11-06 02:30:12 ===
+
+=== CNN - health - 2025-11-06 02:30:28 ===
+
+=== CBC - health - 2025-11-06 02:30:31 ===
+
+=== NPR - health - 2025-11-06 02:30:37 ===
+
+=== CNN - travel - 2025-11-06 02:30:53 ===
+
+=== CNN - world - 2025-11-06 02:41:18 ===
+
+=== CBC - world - 2025-11-06 02:41:21 ===
+
+=== NPR - world - 2025-11-06 02:41:27 ===
+
+=== CNN - technology - 2025-11-06 02:41:41 ===
+
+=== NPR - technology - 2025-11-06 02:41:48 ===
+
+=== CNN - business - 2025-11-06 02:42:03 ===
+
+=== CBC - business - 2025-11-06 02:42:06 ===
+
+=== NPR - business - 2025-11-06 02:42:12 ===
+
+=== CNN - sport - 2025-11-06 02:42:26 ===
+
+=== CNN - arts - 2025-11-06 02:42:54 ===
+
+=== NPR - arts - 2025-11-06 02:43:03 ===
+
+=== CNN - science - 2025-11-06 02:43:17 ===
+
+=== CBC - science - 2025-11-06 02:43:20 ===
+
+=== NPR - science - 2025-11-06 02:43:24 ===
+
+=== CNN - us - 2025-11-06 02:43:39 ===
+
+=== CNN - politics - 2025-11-06 02:44:03 ===
+
+=== CBC - politics - 2025-11-06 02:44:06 ===
+
+=== NPR - politics - 2025-11-06 02:44:11 ===
+
+=== CNN - health - 2025-11-06 02:44:31 ===
+
+=== CBC - health - 2025-11-06 02:44:33 ===
+
+=== NPR - health - 2025-11-06 02:44:39 ===
+
+=== CNN - travel - 2025-11-06 02:44:56 ===
+
+=== CNN - world - 2025-11-06 02:55:20 ===
+
+=== CBC - world - 2025-11-06 02:55:23 ===
+
+=== NPR - world - 2025-11-06 02:55:28 ===
+
+=== CNN - technology - 2025-11-06 02:55:43 ===
+
+=== NPR - technology - 2025-11-06 02:55:52 ===
+
+=== CNN - business - 2025-11-06 02:56:05 ===
+
+=== CBC - business - 2025-11-06 02:56:09 ===
+
+=== NPR - business - 2025-11-06 02:56:16 ===
+
+=== CNN - sport - 2025-11-06 02:56:29 ===
+
+=== CNN - arts - 2025-11-06 02:56:54 ===
+
+=== NPR - arts - 2025-11-06 02:57:01 ===
+
+=== CNN - science - 2025-11-06 02:57:17 ===
+
+=== CBC - science - 2025-11-06 02:57:19 ===
+
+=== NPR - science - 2025-11-06 02:57:23 ===
+
+=== CNN - us - 2025-11-06 02:57:37 ===
+
+=== CNN - politics - 2025-11-06 02:57:58 ===
+
+=== CBC - politics - 2025-11-06 02:58:00 ===
+
+=== NPR - politics - 2025-11-06 02:58:06 ===
+
+=== CNN - health - 2025-11-06 02:58:20 ===
+
+=== CBC - health - 2025-11-06 02:58:22 ===
+
+=== NPR - health - 2025-11-06 02:58:28 ===
+
+=== CNN - travel - 2025-11-06 02:58:41 ===
+
+=== CNN - world - 2025-11-06 03:09:04 ===
+
+=== CBC - world - 2025-11-06 03:09:06 ===
+
+=== NPR - world - 2025-11-06 03:09:10 ===
+
+Headline: FIFA head says 'you will see' at World Cup draw if Trump receives new peace prize
+Summary: Summary based on headline: FIFA head says 'you will see' at World Cup draw if Trump receives new pea...
+Description: Summary based on headline: FIFA head says 'you will see' at World Cup draw if Trump receives new peace prize
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff7%2F0c%2F49f742e544708f8da08b1274cd27%2Fap25310068382697.jpg
+Source: https://www.npr.org/2025/11/06/g-s1-96755/fifa-new-peace-prize
+==================================================
+
+Headline: After battering the Philippines, deadly Typhoon Kalmaegi moves toward Vietnam
+Summary: Summary based on headline: After battering the Philippines, deadly Typhoon Kalmaegi moves toward Vie...
+Description: Summary based on headline: After battering the Philippines, deadly Typhoon Kalmaegi moves toward Vietnam
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+656/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F13%2F0eff788d44759fb7e1f9e311be95%2Ff85805b3-3229-4554-93fb-8ab54a2199ac.jpg
+Source: https://www.npr.org/2025/11/06/g-s1-96736/deadly-typhoon-kalmaegi
+==================================================
+
+=== CNN - technology - 2025-11-06 03:09:25 ===
+
+=== NPR - technology - 2025-11-06 03:09:34 ===
+
+=== CNN - business - 2025-11-06 03:09:49 ===
+
+=== CBC - business - 2025-11-06 03:09:52 ===
+
+=== NPR - business - 2025-11-06 03:09:56 ===
+
+Headline: This indicator hasn’t flashed this red since the dot-com bubble
+Summary: Summary based on headline: This indicator hasn’t flashed this red since the dot-com bubble
+Description: Summary based on headline: This indicator hasn’t flashed this red since the dot-com bubble
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F8c%2F9482ca83496098cb66b47b174405%2Fgettyimages-2244643795.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5600041/this-indicator-hasnt-flashed-this-red-since-the-dot-com-bubble
+==================================================
+
+=== CNN - sport - 2025-11-06 03:10:10 ===
+
+=== CNN - arts - 2025-11-06 03:10:36 ===
+
+=== NPR - arts - 2025-11-06 03:10:43 ===
+
+Headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Summary: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Description: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Fe7%2F383e6ae7461c8ad0da007ad13ffb%2F286bcf84-04ca-4efa-bca2-fc79dd753c19.jpg
+Source: https://www.npr.org/2025/09/17/nx-s1-5534152/what-to-watch-new-tv
+==================================================
+
+Headline: 'I Love LA' reinforces our love for Rachel Sennott
+Summary: Summary based on headline: 'I Love LA' reinforces our love for Rachel Sennott
+Description: Summary based on headline: 'I Love LA' reinforces our love for Rachel Sennott
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1000x563+0+76/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F4f%2Ff6a3963f46b0bea118087f803b1e%2Fnup-205409-02743.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5597906/i-love-la-reinforces-our-love-for-rachel-sennott
+==================================================
+
+=== CNN - science - 2025-11-06 03:10:58 ===
+
+=== CBC - science - 2025-11-06 03:11:01 ===
+
+=== NPR - science - 2025-11-06 03:11:06 ===
+
+=== CNN - us - 2025-11-06 03:11:21 ===
+
+Headline: Stephen Cohen/Getty Images
+Summary: Summary based on headline: Stephen Cohen/Getty Images
+Description: Summary based on headline: Stephen Cohen/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2245040004.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/us/ntsb-investigation-ups-plane-crash
+==================================================
+
+Headline: What could help – and hurt – the investigation into the Louisville UPS plane crash
+Summary: Summary based on headline: What could help – and hurt – the investigation into the Louisville UPS pl...
+Description: Summary based on headline: What could help – and hurt – the investigation into the Louisville UPS plane crash
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244548334.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/us/ntsb-investigation-ups-plane-crash
+==================================================
+
+=== CNN - politics - 2025-11-06 03:11:44 ===
+
+=== CBC - politics - 2025-11-06 03:11:47 ===
+
+=== NPR - politics - 2025-11-06 03:11:53 ===
+
+=== CNN - health - 2025-11-06 03:12:09 ===
+
+=== CBC - health - 2025-11-06 03:12:11 ===
+
+=== NPR - health - 2025-11-06 03:12:16 ===
+
+=== CNN - travel - 2025-11-06 03:12:32 ===
+
+=== CNN - world - 2025-11-06 03:22:54 ===
+
+=== CBC - world - 2025-11-06 03:22:56 ===
+
+=== NPR - world - 2025-11-06 03:23:01 ===
+
+=== CNN - technology - 2025-11-06 03:23:20 ===
+
+=== NPR - technology - 2025-11-06 03:23:29 ===
+
+=== CNN - business - 2025-11-06 03:23:45 ===
+
+=== CBC - business - 2025-11-06 03:23:48 ===
+
+=== NPR - business - 2025-11-06 03:23:55 ===
+
+=== CNN - sport - 2025-11-06 03:24:08 ===
+
+=== CNN - arts - 2025-11-06 03:24:31 ===
+
+=== NPR - arts - 2025-11-06 03:24:39 ===
+
+=== CNN - science - 2025-11-06 03:24:53 ===
+
+=== CBC - science - 2025-11-06 03:24:56 ===
+
+=== NPR - science - 2025-11-06 03:25:00 ===
+
+=== CNN - us - 2025-11-06 03:25:16 ===
+
+=== CNN - politics - 2025-11-06 03:25:41 ===
+
+=== CBC - politics - 2025-11-06 03:25:43 ===
+
+=== NPR - politics - 2025-11-06 03:25:49 ===
+
+=== CNN - health - 2025-11-06 03:26:04 ===
+
+=== CBC - health - 2025-11-06 03:26:06 ===
+
+=== NPR - health - 2025-11-06 03:26:10 ===
+
+=== CNN - travel - 2025-11-06 03:26:23 ===
+
+=== CNN - world - 2025-11-06 03:36:46 ===
+
+=== CBC - world - 2025-11-06 03:36:49 ===
+
+Headline: Mexican President Claudia Sheinbaum presses charges after man eludes security, gropes her
+Summary: Summary based on headline: Mexican President Claudia Sheinbaum presses charges after man eludes secu...
+Description: Summary based on headline: Mexican President Claudia Sheinbaum presses charges after man eludes security, gropes her
+Image: https://i.cbc.ca/ais/734d63b9-605a-4d63-8964-603e27d64dfa,1762351649581/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4176%2C2349%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-06 03:36:55 ===
+
+=== CNN - technology - 2025-11-06 03:37:11 ===
+
+=== NPR - technology - 2025-11-06 03:37:18 ===
+
+=== CNN - business - 2025-11-06 03:37:30 ===
+
+=== CBC - business - 2025-11-06 03:37:33 ===
+
+=== NPR - business - 2025-11-06 03:37:37 ===
+
+=== CNN - sport - 2025-11-06 03:37:51 ===
+
+=== CNN - arts - 2025-11-06 03:38:17 ===
+
+=== NPR - arts - 2025-11-06 03:38:26 ===
+
+=== CNN - science - 2025-11-06 03:38:41 ===
+
+=== CBC - science - 2025-11-06 03:38:44 ===
+
+=== NPR - science - 2025-11-06 03:38:51 ===
+
+=== CNN - us - 2025-11-06 03:39:04 ===
+
+=== CNN - politics - 2025-11-06 03:39:32 ===
+
+=== CBC - politics - 2025-11-06 03:39:34 ===
+
+=== NPR - politics - 2025-11-06 03:39:40 ===
+
+=== CNN - health - 2025-11-06 03:39:56 ===
+
+=== CBC - health - 2025-11-06 03:40:00 ===
+
+=== NPR - health - 2025-11-06 03:40:04 ===
+
+=== CNN - travel - 2025-11-06 03:40:18 ===
+
+=== CNN - world - 2025-11-06 03:50:42 ===
+
+=== CBC - world - 2025-11-06 03:50:44 ===
+
+=== NPR - world - 2025-11-06 03:50:49 ===
+
+=== CNN - technology - 2025-11-06 03:51:03 ===
+
+=== NPR - technology - 2025-11-06 03:51:11 ===
+
+=== CNN - business - 2025-11-06 03:51:24 ===
+
+=== CBC - business - 2025-11-06 03:51:26 ===
+
+=== NPR - business - 2025-11-06 03:51:31 ===
+
+=== CNN - sport - 2025-11-06 03:51:46 ===
+
+=== CNN - arts - 2025-11-06 03:52:12 ===
+
+=== NPR - arts - 2025-11-06 03:52:22 ===
+
+=== CNN - science - 2025-11-06 03:52:37 ===
+
+=== CBC - science - 2025-11-06 03:52:39 ===
+
+=== NPR - science - 2025-11-06 03:52:46 ===
+
+=== CNN - us - 2025-11-06 03:53:03 ===
+
+=== CNN - politics - 2025-11-06 03:53:28 ===
+
+=== CBC - politics - 2025-11-06 03:53:31 ===
+
+=== NPR - politics - 2025-11-06 03:53:37 ===
+
+=== CNN - health - 2025-11-06 03:53:52 ===
+
+=== CBC - health - 2025-11-06 03:53:55 ===
+
+=== NPR - health - 2025-11-06 03:54:00 ===
+
+=== CNN - travel - 2025-11-06 03:54:15 ===
+
+=== CNN - world - 2025-11-06 04:04:37 ===
+
+=== CBC - world - 2025-11-06 04:04:40 ===
+
+Headline: Did Bill Gates really say we don't need to address climate change?
+Summary: Summary based on headline: Did Bill Gates really say we don't need to address climate change?
+Description: Summary based on headline: Did Bill Gates really say we don't need to address climate change?
+Image: https://i.cbc.ca/ais/311a1354-9d0e-4da3-b3cb-75fa5c4001a7,1762355833535/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: 7 climbers presumed dead after avalanche in Nepal
+Summary: Summary based on headline: 7 climbers presumed dead after avalanche in Nepal
+Description: Summary based on headline: 7 climbers presumed dead after avalanche in Nepal
+Image: https://i.cbc.ca/ais/40d1214a-43ac-4d55-8627-861e88418b1f,1762374333566/full/max/0/default.jpg?im=Crop%2Crect%3D%28445%2C0%2C2643%2C2643%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-06 04:04:45 ===
+
+=== CNN - technology - 2025-11-06 04:05:02 ===
+
+=== NPR - technology - 2025-11-06 04:05:10 ===
+
+=== CNN - business - 2025-11-06 04:05:23 ===
+
+=== CBC - business - 2025-11-06 04:05:26 ===
+
+Headline: The hidden humans powering the AI economy
+Summary: Summary based on headline: The hidden humans powering the AI economy
+Description: Summary based on headline: The hidden humans powering the AI economy
+Image: https://i.cbc.ca/1.4649448.1630342982!/fileImage/httpImage/image.JPG_gen/derivatives/square_1180/nora-young.JPG?im=Resize%3D114
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-06 04:05:32 ===
+
+=== CNN - sport - 2025-11-06 04:05:49 ===
+
+=== CNN - arts - 2025-11-06 04:06:17 ===
+
+=== NPR - arts - 2025-11-06 04:06:26 ===
+
+=== CNN - science - 2025-11-06 04:06:40 ===
+
+=== CBC - science - 2025-11-06 04:06:43 ===
+
+=== NPR - science - 2025-11-06 04:06:47 ===
+
+=== CNN - us - 2025-11-06 04:07:00 ===
+
+=== CNN - politics - 2025-11-06 04:07:26 ===
+
+Headline: Drew Angerer/Getty Images/File
+Summary: Summary based on headline: Drew Angerer/Getty Images/File
+Description: Summary based on headline: Drew Angerer/Getty Images/File
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1782786634.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/politics/johnson-jeffries-relationship-house-trump-shutdown
+==================================================
+
+=== CBC - politics - 2025-11-06 04:07:30 ===
+
+=== NPR - politics - 2025-11-06 04:07:35 ===
+
+=== CNN - health - 2025-11-06 04:07:50 ===
+
+=== CBC - health - 2025-11-06 04:07:52 ===
+
+=== NPR - health - 2025-11-06 04:07:58 ===
+
+=== CNN - travel - 2025-11-06 04:08:12 ===
+
+=== CNN - world - 2025-11-06 04:18:37 ===
+
+=== CBC - world - 2025-11-06 04:18:40 ===
+
+=== NPR - world - 2025-11-06 04:18:45 ===
+
+=== CNN - technology - 2025-11-06 04:19:03 ===
+
+=== NPR - technology - 2025-11-06 04:19:11 ===
+
+=== CNN - business - 2025-11-06 04:19:25 ===
+
+=== CBC - business - 2025-11-06 04:19:27 ===
+
+=== NPR - business - 2025-11-06 04:19:32 ===
+
+=== CNN - sport - 2025-11-06 04:19:48 ===
+
+=== CNN - arts - 2025-11-06 04:20:10 ===
+
+=== NPR - arts - 2025-11-06 04:20:19 ===
+
+=== CNN - science - 2025-11-06 04:20:34 ===
+
+=== CBC - science - 2025-11-06 04:20:36 ===
+
+=== NPR - science - 2025-11-06 04:20:41 ===
+
+=== CNN - us - 2025-11-06 04:20:57 ===
+
+=== CNN - politics - 2025-11-06 04:21:18 ===
+
+=== CBC - politics - 2025-11-06 04:21:20 ===
+
+=== NPR - politics - 2025-11-06 04:21:27 ===
+
+=== CNN - health - 2025-11-06 04:21:40 ===
+
+=== CBC - health - 2025-11-06 04:21:42 ===
+
+=== NPR - health - 2025-11-06 04:21:47 ===
+
+=== CNN - travel - 2025-11-06 04:22:02 ===
+
+=== CNN - world - 2025-11-06 04:32:24 ===
+
+=== CBC - world - 2025-11-06 04:32:27 ===
+
+Headline: Israeli military's former top lawyer arrested days after resigning over leaked video of alleged prison abuse
+Summary: Summary based on headline: Israeli military's former top lawyer arrested days after resigning over l...
+Description: Summary based on headline: Israeli military's former top lawyer arrested days after resigning over leaked video of alleged prison abuse
+Image: https://i.cbc.ca/ais/1.5498920,1660233247000/full/max/0/default.jpg?im=Crop%2Crect%3D%28147%2C390%2C1783%2C1783%29%3BResize%3D114
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-06 04:32:34 ===
+
+=== CNN - technology - 2025-11-06 04:32:50 ===
+
+=== NPR - technology - 2025-11-06 04:32:57 ===
+
+=== CNN - business - 2025-11-06 04:33:14 ===
+
+=== CBC - business - 2025-11-06 04:33:16 ===
+
+=== NPR - business - 2025-11-06 04:33:23 ===
+
+=== CNN - sport - 2025-11-06 04:33:35 ===
+
+=== CNN - arts - 2025-11-06 04:34:02 ===
+
+=== NPR - arts - 2025-11-06 04:34:10 ===
+
+=== CNN - science - 2025-11-06 04:34:25 ===
+
+=== CBC - science - 2025-11-06 04:34:28 ===
+
+=== NPR - science - 2025-11-06 04:34:33 ===
+
+=== CNN - us - 2025-11-06 04:34:46 ===
+
+=== CNN - politics - 2025-11-06 04:35:09 ===
+
+=== CBC - politics - 2025-11-06 04:35:11 ===
+
+=== NPR - politics - 2025-11-06 04:35:16 ===
+
+=== CNN - health - 2025-11-06 04:35:30 ===
+
+=== CBC - health - 2025-11-06 04:35:32 ===
+
+=== NPR - health - 2025-11-06 04:35:37 ===
+
+=== CNN - travel - 2025-11-06 04:35:49 ===
+
+=== CNN - world - 2025-11-06 04:46:10 ===
+
+=== CBC - world - 2025-11-06 04:46:13 ===
+
+=== NPR - world - 2025-11-06 04:46:19 ===
+
+=== CNN - technology - 2025-11-06 04:46:33 ===
+
+=== NPR - technology - 2025-11-06 04:46:42 ===
+
+=== CNN - business - 2025-11-06 04:46:58 ===
+
+=== CBC - business - 2025-11-06 04:47:01 ===
+
+=== NPR - business - 2025-11-06 04:47:08 ===
+
+=== CNN - sport - 2025-11-06 04:47:22 ===
+
+=== CNN - arts - 2025-11-06 04:47:47 ===
+
+=== NPR - arts - 2025-11-06 04:47:54 ===
+
+=== CNN - science - 2025-11-06 04:48:07 ===
+
+=== CBC - science - 2025-11-06 04:48:10 ===
+
+=== NPR - science - 2025-11-06 04:48:16 ===
+
+=== CNN - us - 2025-11-06 04:48:29 ===
+
+=== CNN - politics - 2025-11-06 04:48:52 ===
+
+=== CBC - politics - 2025-11-06 04:48:56 ===
+
+=== NPR - politics - 2025-11-06 04:49:02 ===
+
+=== CNN - health - 2025-11-06 04:49:16 ===
+
+=== CBC - health - 2025-11-06 04:49:19 ===
+
+=== NPR - health - 2025-11-06 04:49:26 ===
+
+=== CNN - travel - 2025-11-06 04:49:41 ===
+
+=== CNN - world - 2025-11-06 05:00:07 ===
+
+=== CBC - world - 2025-11-06 05:00:10 ===
+
+=== NPR - world - 2025-11-06 05:00:16 ===
+
+=== CNN - technology - 2025-11-06 05:00:32 ===
+
+=== NPR - technology - 2025-11-06 05:00:38 ===
+
+=== CNN - business - 2025-11-06 05:00:52 ===
+
+=== CBC - business - 2025-11-06 05:00:55 ===
+
+=== NPR - business - 2025-11-06 05:01:01 ===
+
+Headline: ICE is sending a chill through the construction industry
+Summary: Summary based on headline: ICE is sending a chill through the construction industry
+Description: Summary based on headline: ICE is sending a chill through the construction industry
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F63%2F2ad4345a4520adc6cca2e5b7e651%2F5796fc50-a82a-4103-842b-92a95c4dfaf0.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5575539/ice-immigration-construction-latino-workers
+==================================================
+
+=== CNN - sport - 2025-11-06 05:01:14 ===
+
+=== CNN - arts - 2025-11-06 05:01:38 ===
+
+=== NPR - arts - 2025-11-06 05:01:46 ===
+
+=== CNN - science - 2025-11-06 05:02:00 ===
+
+=== CBC - science - 2025-11-06 05:02:02 ===
+
+=== NPR - science - 2025-11-06 05:02:09 ===
+
+=== CNN - us - 2025-11-06 05:02:21 ===
+
+=== CNN - politics - 2025-11-06 05:02:42 ===
+
+Headline: Timothy A. Clary/AFP/Getty Images
+Summary: Summary based on headline: Timothy A. Clary/AFP/Getty Images
+Description: Summary based on headline: Timothy A. Clary/AFP/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244643497.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/politics/jewish-new-york-mamdani-mayor
+==================================================
+
+=== CBC - politics - 2025-11-06 05:02:45 ===
+
+=== NPR - politics - 2025-11-06 05:02:52 ===
+
+Headline: The shutdown leaves telehealth for Medicare patients in limbo
+Summary: Summary based on headline: The shutdown leaves telehealth for Medicare patients in limbo
+Description: Summary based on headline: The shutdown leaves telehealth for Medicare patients in limbo
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7473x4204+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F81%2F8bd74bae4520adeace9c3fb06006%2Fap25260699348743.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5599542/medicare-telehealth-government-shutdown-2025
+==================================================
+
+Headline: The DOJ has been firing judges with immigrant defense backgrounds
+Summary: Summary based on headline: The DOJ has been firing judges with immigrant defense backgrounds
+Description: Summary based on headline: The DOJ has been firing judges with immigrant defense backgrounds
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+239/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2F11%2F9365f5c8450aaa0ac0ad719b4d6d%2F251101-giving-hope-food-bank-new-orleans-turner-35.JPG
+Source: https://www.npr.org/2025/11/06/g-s1-96437/trump-immigration-judges-fired
+==================================================
+
+Headline: The federal government is still shut down. Here's what that means across the country
+Summary: Summary based on headline: The federal government is still shut down. Here's what that means across ...
+Description: Summary based on headline: The federal government is still shut down. Here's what that means across the country
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4610x2593+0+240/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fd2%2F6c74ecb74c55be7a4c039068a2e3%2Fap25281590158930.jpg
+Source: https://www.npr.org/2025/11/06/g-s1-96673/shutdown-government
+==================================================
+
+=== CNN - health - 2025-11-06 05:03:06 ===
+
+=== CBC - health - 2025-11-06 05:03:09 ===
+
+=== NPR - health - 2025-11-06 05:03:15 ===
+
+Headline: The shutdown leaves telehealth for Medicare patients in limbo
+Summary: Summary based on headline: The shutdown leaves telehealth for Medicare patients in limbo
+Description: Summary based on headline: The shutdown leaves telehealth for Medicare patients in limbo
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4740x2666+0+247/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F0b%2F2db9612847538a6f6dd3077320ca%2Fgettyimages-2231054743.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5599542/medicare-telehealth-government-shutdown-2025
+==================================================
+
+Headline: Iowa doesn't have enough OB-GYNs. Is the state's abortion ban part of the problem?
+Summary: Summary based on headline: Iowa doesn't have enough OB-GYNs. Is the state's abortion ban part of the...
+Description: Summary based on headline: Iowa doesn't have enough OB-GYNs. Is the state's abortion ban part of the problem?
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3872x2178+0+0/resize/400/quality/15/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2Ff2%2Fd16ea2e746f3a34f91f343e70cbc%2Fgettyimages-1406033019.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/05/nx-s1-5558169/iowa-obgyns-abortion-ban-maternity-care-desert-maternal-mortality-obstetrics
+==================================================
+
+Headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25
+Summary: Summary based on headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes ...
+Description: Summary based on headline: Worsening listeria outbreak tied to pasta products kills 6, hospitalizes 25
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4333x2437+0+238/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2Fd1%2Fe931785e45d89094f47e391634a0%2Fdrbenjaminapha2025openingsession.jpg
+Source: https://www.npr.org/2025/11/04/nx-s1-5598279/listeria-outbreak-prepared-pasta
+==================================================
+
+=== CNN - travel - 2025-11-06 05:03:31 ===
+
+=== CNN - world - 2025-11-06 05:13:54 ===
+
+=== CBC - world - 2025-11-06 05:13:56 ===
+
+=== NPR - world - 2025-11-06 05:14:02 ===
+
+=== CNN - technology - 2025-11-06 05:14:17 ===
+
+=== NPR - technology - 2025-11-06 05:14:27 ===
+
+=== CNN - business - 2025-11-06 05:14:43 ===
+
+Headline: Why the blue wave? It is, of course, the economy, stupid
+Summary: Summary based on headline: Why the blue wave? It is, of course, the economy, stupid
+Description: Summary based on headline: Why the blue wave? It is, of course, the economy, stupid
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2242726287.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/business/democrats-trump-economy-affordability-nightcap
+==================================================
+
+Headline: Why the blue wave? It is, of course, the economy, stupid
+Summary: Summary based on headline: Why the blue wave? It is, of course, the economy, stupid
+Description: Summary based on headline: Why the blue wave? It is, of course, the economy, stupid
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236488788-20251105203941999.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/06/business/democrats-trump-economy-affordability-nightcap
+==================================================
+
+Headline: The Supreme Court could undo Trump’s signature economic policy. But tariffs aren’t the problem
+Summary: Summary based on headline: The Supreme Court could undo Trump’s signature economic policy. But tarif...
+Description: Summary based on headline: The Supreme Court could undo Trump’s signature economic policy. But tariffs aren’t the problem
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213352648.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/06/business/supreme-court-trump-tariffs-economy
+==================================================
+
+=== CBC - business - 2025-11-06 05:14:45 ===
+
+=== NPR - business - 2025-11-06 05:14:51 ===
+
+Headline: ICE is sending a chill through the construction industry
+Summary: Summary based on headline: ICE is sending a chill through the construction industry
+Description: Summary based on headline: ICE is sending a chill through the construction industry
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2F9b%2F3517d5ed49fea5d530213006377b%2Fcost-of-living-electricity.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5575539/ice-immigration-construction-latino-workers
+==================================================
+
+Headline: This indicator hasn’t flashed this red since the dot-com bubble
+Summary: Summary based on headline: This indicator hasn’t flashed this red since the dot-com bubble
+Description: Summary based on headline: This indicator hasn’t flashed this red since the dot-com bubble
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F8c%2F9482ca83496098cb66b47b174405%2Fgettyimages-2244643795.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5600041/this-indicator-hasnt-flashed-this-red-since-the-dot-com-bubble
+==================================================
+
+=== CNN - sport - 2025-11-06 05:15:05 ===
+
+=== CNN - arts - 2025-11-06 05:15:29 ===
+
+=== NPR - arts - 2025-11-06 05:15:39 ===
+
+=== CNN - science - 2025-11-06 05:15:52 ===
+
+=== CBC - science - 2025-11-06 05:15:55 ===
+
+=== NPR - science - 2025-11-06 05:16:00 ===
+
+=== CNN - us - 2025-11-06 05:16:13 ===
+
+=== CNN - politics - 2025-11-06 05:16:36 ===
+
+=== CBC - politics - 2025-11-06 05:16:39 ===
+
+=== NPR - politics - 2025-11-06 05:16:46 ===
+
+Headline: The federal government is still shut down. Here's what that means across the country
+Summary: Summary based on headline: The federal government is still shut down. Here's what that means across ...
+Description: Summary based on headline: The federal government is still shut down. Here's what that means across the country
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+82/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2Ff3%2F36aa28224f64ad622e5d7c88bcf9%2Fap25301782677114.jpg
+Source: https://www.npr.org/2025/11/06/g-s1-96673/shutdown-government
+==================================================
+
+Headline: The government shutdown is delaying an assistance program families use to heat homes
+Summary: Summary based on headline: The government shutdown is delaying an assistance program families use to...
+Description: Summary based on headline: The government shutdown is delaying an assistance program families use to heat homes
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/594x334+0+31/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F7d%2F64a9194b4be58de3eb8f6f8cfef9%2Fgettyimages-2244569382-594x594.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5598497/government-shutdown-delays-heat-homes-electric-bills-pennsylvania
+==================================================
+
+Headline: Trump plan for smaller SNAP benefits this month may leave millions with none at all
+Summary: Summary based on headline: Trump plan for smaller SNAP benefits this month may leave millions with n...
+Description: Summary based on headline: Trump plan for smaller SNAP benefits this month may leave millions with none at all
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2Fab%2F66d1e24248d49ffed259ec36b07b%2Fgettyimages-2244638567.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5600097/snap-partial-payments-trump-administration
+==================================================
+
+=== CNN - health - 2025-11-06 05:17:01 ===
+
+=== CBC - health - 2025-11-06 05:17:04 ===
+
+Headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Summary: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to r...
+Description: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Image: https://i.cbc.ca/ais/4499fbbb-056b-4636-b5d2-aa4378721e8a,1761940097056/full/max/0/default.jpg?im=Crop%2Crect%3D%28504%2C0%2C3024%2C3024%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-11-06 05:17:10 ===
+
+=== CNN - travel - 2025-11-06 05:17:25 ===
+
+=== CNN - world - 2025-11-06 05:27:49 ===
+
+=== CBC - world - 2025-11-06 05:27:51 ===
+
+=== NPR - world - 2025-11-06 05:27:57 ===
+
+=== CNN - technology - 2025-11-06 05:28:13 ===
+
+=== NPR - technology - 2025-11-06 05:28:21 ===
+
+=== CNN - business - 2025-11-06 05:28:33 ===
+
+=== CBC - business - 2025-11-06 05:28:37 ===
+
+=== NPR - business - 2025-11-06 05:28:43 ===
+
+Headline: Is your electric bill going up? AI is partly to blame
+Summary: Summary based on headline: Is your electric bill going up? AI is partly to blame
+Description: Summary based on headline: Is your electric bill going up? AI is partly to blame
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5831x3280+0+304/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2F7e%2Fdd7590b6450e958345efceb2711c%2Fap25196798356389.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5597971/electricity-bills-utilities-ai
+==================================================
+
+=== CNN - sport - 2025-11-06 05:28:57 ===
+
+=== CNN - arts - 2025-11-06 05:29:23 ===
+
+=== NPR - arts - 2025-11-06 05:29:32 ===
+
+=== CNN - science - 2025-11-06 05:29:49 ===
+
+=== CBC - science - 2025-11-06 05:29:53 ===
+
+=== NPR - science - 2025-11-06 05:29:59 ===
+
+=== CNN - us - 2025-11-06 05:30:14 ===
+
+=== CNN - politics - 2025-11-06 05:30:37 ===
+
+=== CBC - politics - 2025-11-06 05:30:40 ===
+
+=== NPR - politics - 2025-11-06 05:30:46 ===
+
+Headline: Trump plan for smaller SNAP benefits this month may leave millions with none at all
+Summary: Summary based on headline: Trump plan for smaller SNAP benefits this month may leave millions with n...
+Description: Summary based on headline: Trump plan for smaller SNAP benefits this month may leave millions with none at all
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3872x2178+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2Ff2%2Fd16ea2e746f3a34f91f343e70cbc%2Fgettyimages-1406033019.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5600097/snap-partial-payments-trump-administration
+==================================================
+
+=== CNN - health - 2025-11-06 05:31:01 ===
+
+=== CBC - health - 2025-11-06 05:31:04 ===
+
+=== NPR - health - 2025-11-06 05:31:11 ===
+
+=== CNN - travel - 2025-11-06 05:31:23 ===
+
+=== CNN - world - 2025-11-06 05:41:46 ===
+
+=== CBC - world - 2025-11-06 05:41:48 ===
+
+=== NPR - world - 2025-11-06 05:41:54 ===
+
+=== CNN - technology - 2025-11-06 05:42:08 ===
+
+=== NPR - technology - 2025-11-06 05:42:15 ===
+
+=== CNN - business - 2025-11-06 05:42:30 ===
+
+Headline: Mayor-elect Mamdani: New York businesses share their hopes and worries
+Summary: Summary based on headline: Mayor-elect Mamdani: New York businesses share their hopes and worries
+Description: Summary based on headline: Mayor-elect Mamdani: New York businesses share their hopes and worries
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243986625.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/business/zohran-mamdani-new-york-small-businesses
+==================================================
+
+Headline: Mayor-elect Mamdani: New York businesses share their hopes and worries
+Summary: Summary based on headline: Mayor-elect Mamdani: New York businesses share their hopes and worries
+Description: Summary based on headline: Mayor-elect Mamdani: New York businesses share their hopes and worries
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2242726287.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/06/business/zohran-mamdani-new-york-small-businesses
+==================================================
+
+=== CBC - business - 2025-11-06 05:42:33 ===
+
+=== NPR - business - 2025-11-06 05:42:39 ===
+
+=== CNN - sport - 2025-11-06 05:42:53 ===
+
+=== CNN - arts - 2025-11-06 05:43:17 ===
+
+=== NPR - arts - 2025-11-06 05:43:26 ===
+
+=== CNN - science - 2025-11-06 05:43:41 ===
+
+=== CBC - science - 2025-11-06 05:43:45 ===
+
+Headline: How much of a role did climate change play with Hurricane Melissa?
+Summary: Summary based on headline: How much of a role did climate change play with Hurricane Melissa?
+Description: Summary based on headline: How much of a role did climate change play with Hurricane Melissa?
+Image: https://i.cbc.ca/ais/1.6483294,1654800740000/full/max/0/default.jpg?im=Crop%2Crect%3D%28109%2C0%2C2742%2C2742%29%3BResize%3D114
+Source: https://www.cbc.ca/news/science
+==================================================
+
+=== NPR - science - 2025-11-06 05:43:51 ===
+
+=== CNN - us - 2025-11-06 05:44:16 ===
+
+=== CNN - politics - 2025-11-06 05:44:40 ===
+
+=== CBC - politics - 2025-11-06 05:44:43 ===
+
+=== NPR - politics - 2025-11-06 05:44:48 ===
+
+=== CNN - health - 2025-11-06 05:45:02 ===
+
+=== CBC - health - 2025-11-06 05:45:04 ===
+
+=== NPR - health - 2025-11-06 05:45:11 ===
+
+=== CNN - travel - 2025-11-06 05:45:26 ===
+
+=== CNN - world - 2025-11-06 05:55:49 ===
+
+=== CBC - world - 2025-11-06 05:55:52 ===
+
+=== NPR - world - 2025-11-06 05:55:56 ===
+
+=== CNN - technology - 2025-11-06 05:56:12 ===
+
+=== NPR - technology - 2025-11-06 05:56:21 ===
+
+=== CNN - business - 2025-11-06 05:56:34 ===
+
+=== CBC - business - 2025-11-06 05:56:37 ===
+
+Headline: Chrysler recalling 20,000 Jeep vehicles in Canada due to faulty battery that can catch fire
+Summary: Summary based on headline: Chrysler recalling 20,000 Jeep vehicles in Canada due to faulty battery t...
+Description: Summary based on headline: Chrysler recalling 20,000 Jeep vehicles in Canada due to faulty battery that can catch fire
+Image: https://i.cbc.ca/ais/a626863a-09f5-4a46-aed3-5c2a656388d0,1762288654012/full/max/0/default.jpg?im=Crop%2Crect%3D%28913%2C0%2C3673%2C3673%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-06 05:56:44 ===
+
+=== CNN - sport - 2025-11-06 05:56:57 ===
+
+=== CNN - arts - 2025-11-06 05:57:20 ===
+
+=== NPR - arts - 2025-11-06 05:57:29 ===
+
+=== CNN - science - 2025-11-06 05:57:43 ===
+
+=== CBC - science - 2025-11-06 05:57:46 ===
+
+=== NPR - science - 2025-11-06 05:57:52 ===
+
+=== CNN - us - 2025-11-06 05:58:07 ===
+
+=== CNN - politics - 2025-11-06 05:58:31 ===
+
+=== CBC - politics - 2025-11-06 05:58:34 ===
+
+=== NPR - politics - 2025-11-06 05:58:39 ===
+
+=== CNN - health - 2025-11-06 05:58:56 ===
+
+=== CBC - health - 2025-11-06 05:58:59 ===
+
+=== NPR - health - 2025-11-06 05:59:05 ===
+
+=== CNN - travel - 2025-11-06 05:59:21 ===
+
+=== CNN - world - 2025-11-06 06:09:45 ===
+
+Headline: Live UpdatesCall to Earth Day 2025: Guard your green space
+Summary: Summary based on headline: Live UpdatesCall to Earth Day 2025: Guard your green space
+Description: Summary based on headline: Live UpdatesCall to Earth Day 2025: Guard your green space
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25308223142569.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/world/live-news/call-to-earth-day-2025-c2e
+==================================================
+
+Headline: Typhoon Kalmaegi kills at least 85 in the Philippines, heads toward Vietnam
+Summary: Summary based on headline: Typhoon Kalmaegi kills at least 85 in the Philippines, heads toward Vietn...
+Description: Summary based on headline: Typhoon Kalmaegi kills at least 85 in the Philippines, heads toward Vietnam
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25306388012069.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/04/asia/typhoon-kalmaegi-deaths-philippines-cebu-intl
+==================================================
+
+=== CBC - world - 2025-11-06 06:09:46 ===
+
+=== NPR - world - 2025-11-06 06:09:51 ===
+
+=== CNN - technology - 2025-11-06 06:10:06 ===
+
+Headline: Mayor-elect Mamdani: New York businesses share their hopes and worries
+Summary: Summary based on headline: Mayor-elect Mamdani: New York businesses share their hopes and worries
+Description: Summary based on headline: Mayor-elect Mamdani: New York businesses share their hopes and worries
+Image: https://media.cnn.com/api/v1/images/stellar/prod/physical-ai-thumb-20.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/business/zohran-mamdani-new-york-small-businesses
+==================================================
+
+Headline: VideoMove over ChatGPT, here’s the next evolution in AI3:12
+Summary: Summary based on headline: VideoMove over ChatGPT, here’s the next evolution in AI3:12
+Description: Summary based on headline: VideoMove over ChatGPT, here’s the next evolution in AI3:12
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ai-tennis-thumb-still001.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/06/business/video/nvidia-ai-robots-labor-digvid
+==================================================
+
+=== NPR - technology - 2025-11-06 06:10:16 ===
+
+=== CNN - business - 2025-11-06 06:10:31 ===
+
+=== CBC - business - 2025-11-06 06:10:34 ===
+
+=== NPR - business - 2025-11-06 06:10:39 ===
+
+=== CNN - sport - 2025-11-06 06:10:52 ===
+
+=== CNN - arts - 2025-11-06 06:11:16 ===
+
+=== NPR - arts - 2025-11-06 06:11:25 ===
+
+=== CNN - science - 2025-11-06 06:11:36 ===
+
+=== CBC - science - 2025-11-06 06:11:39 ===
+
+=== NPR - science - 2025-11-06 06:11:44 ===
+
+=== CNN - us - 2025-11-06 06:11:58 ===
+
+=== CNN - politics - 2025-11-06 06:12:22 ===
+
+Headline: CNN
+Summary: Summary based on headline: CNN
+Description: Summary based on headline: CNN
+Image: https://media.cnn.com/api/v1/images/stellar/prod/onita.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/politics/snap-west-virginia-government-shutdown
+==================================================
+
+=== CBC - politics - 2025-11-06 06:12:26 ===
+
+=== NPR - politics - 2025-11-06 06:12:30 ===
+
+=== CNN - health - 2025-11-06 06:12:44 ===
+
+=== CBC - health - 2025-11-06 06:12:47 ===
+
+=== NPR - health - 2025-11-06 06:12:53 ===
+
+Headline: Bird flu surges among poultry amid a scaled back federal response
+Summary: Summary based on headline: Bird flu surges among poultry amid a scaled back federal response
+Description: Summary based on headline: Bird flu surges among poultry amid a scaled back federal response
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3872x2178+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2Ff2%2Fd16ea2e746f3a34f91f343e70cbc%2Fgettyimages-1406033019.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5600125/bird-flu-risk-outbreak-trump-administration
+==================================================
+
+Headline: A declaration of famine is rare. It's now happened twice in 2025, this time in Sudan
+Summary: Summary based on headline: A declaration of famine is rare. It's now happened twice in 2025, this ti...
+Description: Summary based on headline: A declaration of famine is rare. It's now happened twice in 2025, this time in Sudan
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/400/quality/15/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F9d%2F1450a56e446ca17bab6a2fb18e95%2Fgettyimages-1246952878.jpg
+Source: https://www.npr.org/sections/goats-and-soda/2025/11/05/g-s1-96608/famine-sudan-gaza
+==================================================
+
+=== CNN - travel - 2025-11-06 06:13:06 ===
+
+=== CNN - world - 2025-11-06 06:23:30 ===
+
+=== CBC - world - 2025-11-06 06:23:32 ===
+
+=== NPR - world - 2025-11-06 06:23:37 ===
+
+=== CNN - technology - 2025-11-06 06:23:51 ===
+
+=== NPR - technology - 2025-11-06 06:24:00 ===
+
+=== CNN - business - 2025-11-06 06:24:13 ===
+
+=== CBC - business - 2025-11-06 06:24:16 ===
+
+=== NPR - business - 2025-11-06 06:24:22 ===
+
+=== CNN - sport - 2025-11-06 06:24:36 ===
+
+=== CNN - arts - 2025-11-06 06:25:01 ===
+
+=== NPR - arts - 2025-11-06 06:25:09 ===
+
+=== CNN - science - 2025-11-06 06:25:27 ===
+
+=== CBC - science - 2025-11-06 06:25:29 ===
+
+=== NPR - science - 2025-11-06 06:25:35 ===
+
+=== CNN - us - 2025-11-06 06:25:50 ===
+
+Headline: Joshua Lott/The Washington Post/Getty Images
+Summary: Summary based on headline: Joshua Lott/The Washington Post/Getty Images
+Description: Summary based on headline: Joshua Lott/The Washington Post/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244762965.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/us/chicago-day-care-ice-arrest-hnk
+==================================================
+
+=== CNN - politics - 2025-11-06 06:26:15 ===
+
+=== CBC - politics - 2025-11-06 06:26:18 ===
+
+=== NPR - politics - 2025-11-06 06:26:23 ===
+
+=== CNN - health - 2025-11-06 06:26:42 ===
+
+=== CBC - health - 2025-11-06 06:26:44 ===
+
+=== NPR - health - 2025-11-06 06:26:49 ===
+
+=== CNN - travel - 2025-11-06 06:27:03 ===
+
+=== CNN - world - 2025-11-06 06:37:25 ===
+
+Headline: •For SubscribersFor SubscribersMick Krever/CNN
+Summary: Summary based on headline: •For SubscribersFor SubscribersMick Krever/CNN
+Description: Summary based on headline: •For SubscribersFor SubscribersMick Krever/CNN
+Image: https://media.cnn.com/api/v1/images/stellar/prod/drone-desert-20.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/africa/traffickers-sahara-torture-ransom-libya-intl-cmd
+==================================================
+
+=== CBC - world - 2025-11-06 06:37:27 ===
+
+=== NPR - world - 2025-11-06 06:37:32 ===
+
+=== CNN - technology - 2025-11-06 06:37:47 ===
+
+=== NPR - technology - 2025-11-06 06:37:56 ===
+
+=== CNN - business - 2025-11-06 06:38:11 ===
+
+Headline: Tariff refunds are now a very real possibility … and a giant ‘mess’
+Summary: Summary based on headline: Tariff refunds are now a very real possibility … and a giant ‘mess’
+Description: Summary based on headline: Tariff refunds are now a very real possibility … and a giant ‘mess’
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2228192263-20251105214226094.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/economy/tariff-refunds-scotus
+==================================================
+
+Headline: Tariff refunds are now a very real possibility … and a giant ‘mess’
+Summary: Summary based on headline: Tariff refunds are now a very real possibility … and a giant ‘mess’
+Description: Summary based on headline: Tariff refunds are now a very real possibility … and a giant ‘mess’
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243986625.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/06/economy/tariff-refunds-scotus
+==================================================
+
+=== CBC - business - 2025-11-06 06:38:13 ===
+
+=== NPR - business - 2025-11-06 06:38:18 ===
+
+=== CNN - sport - 2025-11-06 06:38:32 ===
+
+=== CNN - arts - 2025-11-06 06:38:55 ===
+
+=== NPR - arts - 2025-11-06 06:39:02 ===
+
+=== CNN - science - 2025-11-06 06:39:16 ===
+
+=== CBC - science - 2025-11-06 06:39:18 ===
+
+=== NPR - science - 2025-11-06 06:39:24 ===
+
+=== CNN - us - 2025-11-06 06:39:38 ===
+
+=== CNN - politics - 2025-11-06 06:40:01 ===
+
+=== CBC - politics - 2025-11-06 06:40:04 ===
+
+=== NPR - politics - 2025-11-06 06:40:07 ===
+
+=== CNN - health - 2025-11-06 06:40:28 ===
+
+=== CBC - health - 2025-11-06 06:40:31 ===
+
+=== NPR - health - 2025-11-06 06:40:40 ===
+
+=== CNN - travel - 2025-11-06 06:40:53 ===
+
+=== CNN - world - 2025-11-06 06:51:17 ===
+
+Headline: Oliver Berg/picture-alliance/dpa/AP
+Summary: Summary based on headline: Oliver Berg/picture-alliance/dpa/AP
+Description: Summary based on headline: Oliver Berg/picture-alliance/dpa/AP
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25309436219638.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/europe/germany-nurse-killer-convicted-scli-intl
+==================================================
+
+Headline: German nurse convicted of murdering 10 patients to reduce his workload
+Summary: Summary based on headline: German nurse convicted of murdering 10 patients to reduce his workload
+Description: Summary based on headline: German nurse convicted of murdering 10 patients to reduce his workload
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25303447256382.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/europe/germany-nurse-killer-convicted-scli-intl
+==================================================
+
+Headline: Tanzanian police disposed of bodies after election violence, opposition alleges
+Summary: Summary based on headline: Tanzanian police disposed of bodies after election violence, opposition a...
+Description: Summary based on headline: Tanzanian police disposed of bodies after election violence, opposition alleges
+Image: https://media.cnn.com/api/v1/images/stellar/prod/ap25308408664297.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/world/tanzania-election-protest-deaths-intl
+==================================================
+
+=== CBC - world - 2025-11-06 06:51:19 ===
+
+=== NPR - world - 2025-11-06 06:51:24 ===
+
+=== CNN - technology - 2025-11-06 06:51:40 ===
+
+=== NPR - technology - 2025-11-06 06:51:48 ===
+
+=== CNN - business - 2025-11-06 06:52:04 ===
+
+=== CBC - business - 2025-11-06 06:52:07 ===
+
+=== NPR - business - 2025-11-06 06:52:13 ===
+
+=== CNN - sport - 2025-11-06 06:52:28 ===
+
+=== CNN - arts - 2025-11-06 06:52:55 ===
+
+=== NPR - arts - 2025-11-06 06:53:03 ===
+
+=== CNN - science - 2025-11-06 06:53:18 ===
+
+=== CBC - science - 2025-11-06 06:53:21 ===
+
+=== NPR - science - 2025-11-06 06:53:26 ===
+
+=== CNN - us - 2025-11-06 06:53:38 ===
+
+=== CNN - politics - 2025-11-06 06:54:01 ===
+
+=== CBC - politics - 2025-11-06 06:54:04 ===
+
+=== NPR - politics - 2025-11-06 06:54:09 ===
+
+=== CNN - health - 2025-11-06 06:54:23 ===
+
+=== CBC - health - 2025-11-06 06:54:27 ===
+
+=== NPR - health - 2025-11-06 06:54:32 ===
+
+=== CNN - travel - 2025-11-06 06:54:48 ===
+
+=== CNN - world - 2025-11-06 07:05:12 ===
+
+=== CBC - world - 2025-11-06 07:05:15 ===
+
+=== NPR - world - 2025-11-06 07:05:23 ===
+
+=== CNN - technology - 2025-11-06 07:05:38 ===
+
+=== NPR - technology - 2025-11-06 07:05:46 ===
+
+=== CNN - business - 2025-11-06 07:06:02 ===
+
+=== CBC - business - 2025-11-06 07:06:05 ===
+
+=== NPR - business - 2025-11-06 07:06:09 ===
+
+=== CNN - sport - 2025-11-06 07:06:23 ===
+
+=== CNN - arts - 2025-11-06 07:06:46 ===
+
+=== NPR - arts - 2025-11-06 07:06:54 ===
+
+Headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Summary: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Description: Summary based on headline: What to watch this fall: Here are 12 TV shows we're looking forward to
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2600x1463+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F13%2F4e18a48c48c2a2353d7af2ad1854%2Ff10e0326-8dee-4ec0-a9c2-83f0ce104c0b.jpg
+Source: https://www.npr.org/2025/09/17/nx-s1-5534152/what-to-watch-new-tv
+==================================================
+
+Headline: Padma Lakshmi says she wouldn’t go back to her 20s
+Summary: Summary based on headline: Padma Lakshmi says she wouldn’t go back to her 20s
+Description: Summary based on headline: Padma Lakshmi says she wouldn’t go back to her 20s
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Fe7%2F383e6ae7461c8ad0da007ad13ffb%2F286bcf84-04ca-4efa-bca2-fc79dd753c19.jpg
+Source: https://www.npr.org/2025/11/06/nx-s1-5600049/padma-lakshmi-padmas-all-american-taste-the-nation
+==================================================
+
+=== CNN - science - 2025-11-06 07:07:09 ===
+
+=== CBC - science - 2025-11-06 07:07:12 ===
+
+=== NPR - science - 2025-11-06 07:07:18 ===
+
+=== CNN - us - 2025-11-06 07:07:34 ===
+
+Headline: Jeff Faughender/Courier Journal/USA Today Network/Reuters
+Summary: Summary based on headline: Jeff Faughender/Courier Journal/USA Today Network/Reuters
+Description: Summary based on headline: Jeff Faughender/Courier Journal/USA Today Network/Reuters
+Image: https://media.cnn.com/api/v1/images/stellar/prod/2025-11-05t001741z-930807653-rc2sphaojq7t-rtrmadp-3-ups-crash.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/us/ups-plane-crash-victims-louisville
+==================================================
+
+=== CNN - politics - 2025-11-06 07:08:00 ===
+
+=== CBC - politics - 2025-11-06 07:08:03 ===
+
+=== NPR - politics - 2025-11-06 07:08:08 ===
+
+=== CNN - health - 2025-11-06 07:08:26 ===
+
+=== CBC - health - 2025-11-06 07:08:30 ===
+
+=== NPR - health - 2025-11-06 07:08:35 ===
+
+=== CNN - travel - 2025-11-06 07:08:51 ===
+
+=== CNN - world - 2025-11-06 07:19:14 ===
+
+=== CBC - world - 2025-11-06 07:19:17 ===
+
+=== NPR - world - 2025-11-06 07:19:22 ===
+
+=== CNN - technology - 2025-11-06 07:19:41 ===
+
+=== NPR - technology - 2025-11-06 07:19:48 ===
+
+=== CNN - business - 2025-11-06 07:20:04 ===
+
+Headline: Layoff announcements surged last month: The worst October in 22 years
+Summary: Summary based on headline: Layoff announcements surged last month: The worst October in 22 years
+Description: Summary based on headline: Layoff announcements surged last month: The worst October in 22 years
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243392135.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/economy/job-layoff-announcements-challenger
+==================================================
+
+Headline: Layoff announcements surged last month: The worst October in 22 years
+Summary: Summary based on headline: Layoff announcements surged last month: The worst October in 22 years
+Description: Summary based on headline: Layoff announcements surged last month: The worst October in 22 years
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2228192263-20251105214226094.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/06/economy/job-layoff-announcements-challenger
+==================================================
+
+=== CBC - business - 2025-11-06 07:20:07 ===
+
+=== NPR - business - 2025-11-06 07:20:11 ===
+
+=== CNN - sport - 2025-11-06 07:20:24 ===
+
+=== CNN - arts - 2025-11-06 07:20:51 ===
+
+=== NPR - arts - 2025-11-06 07:20:59 ===
+
+=== CNN - science - 2025-11-06 07:21:13 ===
+
+=== CBC - science - 2025-11-06 07:21:15 ===
+
+=== NPR - science - 2025-11-06 07:21:21 ===
+
+=== CNN - us - 2025-11-06 07:21:34 ===
+
+Headline: Michael Nagle/Bloomberg/Getty Images
+Summary: Summary based on headline: Michael Nagle/Bloomberg/Getty Images
+Description: Summary based on headline: Michael Nagle/Bloomberg/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2244373779.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/us/5-things-to-know-for-nov-6-flight-cuts-ups-plane-crash-election-aftermath-food-stamps-typhoon-kalmaegi
+==================================================
+
+=== CNN - politics - 2025-11-06 07:21:58 ===
+
+=== CBC - politics - 2025-11-06 07:22:01 ===
+
+Headline: Carney tries to sell budget as critics say it doesn't fix cost of living issues
+Summary: Summary based on headline: Carney tries to sell budget as critics say it doesn't fix cost of living ...
+Description: Summary based on headline: Carney tries to sell budget as critics say it doesn't fix cost of living issues
+Image: https://i.cbc.ca/ais/a7e0fbdf-58eb-4df9-b873-e12f8a398d06,1762384990847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Canada’s school food program has holes despite permanent funding pledge
+Summary: Summary based on headline: Canada’s school food program has holes despite permanent funding pledge
+Description: Summary based on headline: Canada’s school food program has holes despite permanent funding pledge
+Image: https://i.cbc.ca/ais/e713f200-36ec-4baa-a773-6f8f4fe265fb,1762384665404/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+Headline: Former Conservative MP suggests others considering floor crossing
+Summary: Summary based on headline: Former Conservative MP suggests others considering floor crossing
+Description: Summary based on headline: Former Conservative MP suggests others considering floor crossing
+Image: https://i.cbc.ca/ais/7392f22b-4ea8-48af-bdf2-4ba5817c7979,1762383002422/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B
+Source: https://www.cbc.ca/news/politics
+==================================================
+
+=== NPR - politics - 2025-11-06 07:22:06 ===
+
+=== CNN - health - 2025-11-06 07:22:22 ===
+
+=== CBC - health - 2025-11-06 07:22:24 ===
+
+=== NPR - health - 2025-11-06 07:22:31 ===
+
+=== CNN - travel - 2025-11-06 07:22:46 ===
+
+=== CNN - world - 2025-11-06 07:33:12 ===
+
+=== CBC - world - 2025-11-06 07:33:15 ===
+
+Headline: Did Bill Gates really say we don't need to address climate change?
+Summary: Summary based on headline: Did Bill Gates really say we don't need to address climate change?
+Description: Summary based on headline: Did Bill Gates really say we don't need to address climate change?
+Image: https://i.cbc.ca/ais/587dd840-2ed2-4b56-aec8-ee06df95ee31,1762425989607/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+Headline: Vietnam evacuates hundreds of thousands ahead of Typhoon Kalmaegi, which left 114 dead in Philippines
+Summary: Summary based on headline: Vietnam evacuates hundreds of thousands ahead of Typhoon Kalmaegi, which ...
+Description: Summary based on headline: Vietnam evacuates hundreds of thousands ahead of Typhoon Kalmaegi, which left 114 dead in Philippines
+Image: https://i.cbc.ca/ais/1e0a1fcd-93cc-491c-9619-35c11ef18f9c,1762429489469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3923%2C2206%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-06 07:33:20 ===
+
+=== CNN - technology - 2025-11-06 07:33:34 ===
+
+=== NPR - technology - 2025-11-06 07:33:43 ===
+
+=== CNN - business - 2025-11-06 07:33:58 ===
+
+=== CBC - business - 2025-11-06 07:34:01 ===
+
+=== NPR - business - 2025-11-06 07:34:06 ===
+
+=== CNN - sport - 2025-11-06 07:34:19 ===
+
+=== CNN - arts - 2025-11-06 07:34:44 ===
+
+=== NPR - arts - 2025-11-06 07:34:51 ===
+
+=== CNN - science - 2025-11-06 07:35:05 ===
+
+=== CBC - science - 2025-11-06 07:35:08 ===
+
+=== NPR - science - 2025-11-06 07:35:15 ===
+
+=== CNN - us - 2025-11-06 07:35:30 ===
+
+=== CNN - politics - 2025-11-06 07:35:54 ===
+
+=== CBC - politics - 2025-11-06 07:35:56 ===
+
+=== NPR - politics - 2025-11-06 07:36:03 ===
+
+=== CNN - health - 2025-11-06 07:36:17 ===
+
+=== CBC - health - 2025-11-06 07:36:20 ===
+
+=== NPR - health - 2025-11-06 07:36:26 ===
+
+Headline: AI steps in to detect the world's deadliest infectious disease
+Summary: Summary based on headline: AI steps in to detect the world's deadliest infectious disease
+Description: Summary based on headline: AI steps in to detect the world's deadliest infectious disease
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F9d%2F1450a56e446ca17bab6a2fb18e95%2Fgettyimages-1246952878.jpg
+Source: https://www.npr.org/sections/goats-and-soda/2025/11/06/g-s1-96448/ai-artificial-intelligence-tb-tuberculosis
+==================================================
+
+Headline: The shutdown leaves telehealth for Medicare patients in limbo
+Summary: Summary based on headline: The shutdown leaves telehealth for Medicare patients in limbo
+Description: Summary based on headline: The shutdown leaves telehealth for Medicare patients in limbo
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1776x999+0+0/resize/400/quality/15/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2Fa5%2F2b06ebe643fba2be5b5bae35d782%2Ftb-diptych3-final.jpg
+Source: https://www.npr.org/sections/shots-health-news/2025/11/06/nx-s1-5599542/medicare-telehealth-government-shutdown-2025
+==================================================
+
+Headline: A declaration of famine is rare. It's now happened twice in 2025, this time in Sudan
+Summary: Summary based on headline: A declaration of famine is rare. It's now happened twice in 2025, this ti...
+Description: Summary based on headline: A declaration of famine is rare. It's now happened twice in 2025, this time in Sudan
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3024x1701+0+158/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F55%2F4d92afa6487cbb85b82050f88d93%2Fkrebs-grinnell-hospital-ob1.jpg
+Source: https://www.npr.org/sections/goats-and-soda/2025/11/05/g-s1-96608/famine-sudan-gaza
+==================================================
+
+=== CNN - travel - 2025-11-06 07:36:42 ===
+
+=== CNN - world - 2025-11-06 07:47:05 ===
+
+=== CBC - world - 2025-11-06 07:47:08 ===
+
+=== NPR - world - 2025-11-06 07:47:14 ===
+
+=== CNN - technology - 2025-11-06 07:47:29 ===
+
+=== NPR - technology - 2025-11-06 07:47:37 ===
+
+=== CNN - business - 2025-11-06 07:47:53 ===
+
+Headline: Outback abruptly closed 21 restaurants
+Summary: Summary based on headline: Outback abruptly closed 21 restaurants
+Description: Summary based on headline: Outback abruptly closed 21 restaurants
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1350921720-20251106122309487.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/food/outback-steakhouse-closures
+==================================================
+
+Headline: Outback abruptly closed 21 restaurants
+Summary: Summary based on headline: Outback abruptly closed 21 restaurants
+Description: Summary based on headline: Outback abruptly closed 21 restaurants
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1241326101-20251106123505253.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/06/food/outback-steakhouse-closures
+==================================================
+
+Headline: Ben & Jerry’s board chair is not fit to serve, parent company says
+Summary: Summary based on headline: Ben & Jerry’s board chair is not fit to serve, parent company says
+Description: Summary based on headline: Ben & Jerry’s board chair is not fit to serve, parent company says
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243392135.jpg?c=16x9&q=h_144,w_256,c_fill
+Source: https://www.cnn.com/2025/11/06/business/ben-and-jerrys-board-chair
+==================================================
+
+=== CBC - business - 2025-11-06 07:47:56 ===
+
+=== NPR - business - 2025-11-06 07:48:01 ===
+
+=== CNN - sport - 2025-11-06 07:48:13 ===
+
+=== CNN - arts - 2025-11-06 07:48:37 ===
+
+=== NPR - arts - 2025-11-06 07:48:45 ===
+
+=== CNN - science - 2025-11-06 07:49:00 ===
+
+=== CBC - science - 2025-11-06 07:49:03 ===
+
+=== NPR - science - 2025-11-06 07:49:10 ===
+
+=== CNN - us - 2025-11-06 07:49:25 ===
+
+=== CNN - politics - 2025-11-06 07:49:51 ===
+
+=== CBC - politics - 2025-11-06 07:49:54 ===
+
+=== NPR - politics - 2025-11-06 07:49:59 ===
+
+=== CNN - health - 2025-11-06 07:50:15 ===
+
+=== CBC - health - 2025-11-06 07:50:17 ===
+
+=== NPR - health - 2025-11-06 07:50:23 ===
+
+=== CNN - travel - 2025-11-06 07:50:37 ===
+
+=== CNN - world - 2025-11-06 08:01:00 ===
+
+=== CBC - world - 2025-11-06 08:01:02 ===
+
+Headline: U.S. government shutdown to force air traffic reductions starting Friday
+Summary: Summary based on headline: U.S. government shutdown to force air traffic reductions starting Friday
+Description: Summary based on headline: U.S. government shutdown to force air traffic reductions starting Friday
+Image: https://i.cbc.ca/ais/4612d650-a732-4e07-b2d5-bb2d99ca6b75,1762384366354/full/max/0/default.jpg?im=Crop%2Crect%3D%28420%2C0%2C1080%2C1080%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-06 08:01:09 ===
+
+=== CNN - technology - 2025-11-06 08:01:24 ===
+
+=== NPR - technology - 2025-11-06 08:01:33 ===
+
+=== CNN - business - 2025-11-06 08:01:47 ===
+
+=== CBC - business - 2025-11-06 08:01:51 ===
+
+=== NPR - business - 2025-11-06 08:01:56 ===
+
+=== CNN - sport - 2025-11-06 08:02:12 ===
+
+=== CNN - arts - 2025-11-06 08:02:36 ===
+
+=== NPR - arts - 2025-11-06 08:02:43 ===
+
+=== CNN - science - 2025-11-06 08:02:56 ===
+
+=== CBC - science - 2025-11-06 08:02:58 ===
+
+=== NPR - science - 2025-11-06 08:03:03 ===
+
+=== CNN - us - 2025-11-06 08:03:16 ===
+
+=== CNN - politics - 2025-11-06 08:03:41 ===
+
+Headline: Brendan Smialowski/AFP/Getty Images
+Summary: Summary based on headline: Brendan Smialowski/AFP/Getty Images
+Description: Summary based on headline: Brendan Smialowski/AFP/Getty Images
+Image: https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2244638413.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/06/politics/trump-power-grabs-gop-democrats-analysis
+==================================================
+
+=== CBC - politics - 2025-11-06 08:03:44 ===
+
+=== NPR - politics - 2025-11-06 08:03:49 ===
+
+=== CNN - health - 2025-11-06 08:04:04 ===
+
+=== CBC - health - 2025-11-06 08:04:07 ===
+
+Headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Summary: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to r...
+Description: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Image: https://i.cbc.ca/ais/f7f417ef-2ad0-4fb5-a867-5d49af010e24,1761839192801/full/max/0/default.jpg?im=Crop%2Crect%3D%28420%2C0%2C1080%2C1080%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-11-06 08:04:13 ===
+
+=== CNN - travel - 2025-11-06 08:04:25 ===
+
+=== CNN - world - 2025-11-06 08:14:49 ===
+
+=== CBC - world - 2025-11-06 08:14:53 ===
+
+=== NPR - world - 2025-11-06 08:14:59 ===
+
+=== CNN - technology - 2025-11-06 08:15:13 ===
+
+=== NPR - technology - 2025-11-06 08:15:22 ===
+
+=== CNN - business - 2025-11-06 08:15:34 ===
+
+=== CBC - business - 2025-11-06 08:15:37 ===
+
+=== NPR - business - 2025-11-06 08:15:41 ===
+
+=== CNN - sport - 2025-11-06 08:15:55 ===
+
+=== CNN - arts - 2025-11-06 08:16:21 ===
+
+=== NPR - arts - 2025-11-06 08:16:29 ===
+
+=== CNN - science - 2025-11-06 08:16:43 ===
+
+=== CBC - science - 2025-11-06 08:16:46 ===
+
+=== NPR - science - 2025-11-06 08:16:52 ===
+
+=== CNN - us - 2025-11-06 08:17:06 ===
+
+=== CNN - politics - 2025-11-06 08:17:28 ===
+
+=== CBC - politics - 2025-11-06 08:17:31 ===
+
+=== NPR - politics - 2025-11-06 08:17:38 ===
+
+=== CNN - health - 2025-11-06 08:17:52 ===
+
+=== CBC - health - 2025-11-06 08:17:54 ===
+
+Headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Summary: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to r...
+Description: Summary based on headline: Quebec extends hand to doctors, suspends parts of special law in bid to resume talks
+Image: https://i.cbc.ca/ais/1.7032953,1753733843000/full/max/0/default.jpg?im=Crop%2Crect%3D%28654%2C0%2C2849%2C2849%29%3B
+Source: https://www.cbc.ca/news/health
+==================================================
+
+=== NPR - health - 2025-11-06 08:18:01 ===
+
+=== CNN - travel - 2025-11-06 08:18:14 ===
+
+=== CNN - world - 2025-11-06 08:28:39 ===
+
+=== CBC - world - 2025-11-06 08:28:41 ===
+
+=== NPR - world - 2025-11-06 08:28:47 ===
+
+=== CNN - technology - 2025-11-06 08:29:01 ===
+
+=== NPR - technology - 2025-11-06 08:29:09 ===
+
+=== CNN - business - 2025-11-06 08:29:26 ===
+
+=== CBC - business - 2025-11-06 08:29:29 ===
+
+=== NPR - business - 2025-11-06 08:29:35 ===
+
+=== CNN - sport - 2025-11-06 08:29:48 ===
+
+=== CNN - arts - 2025-11-06 08:30:09 ===
+
+=== NPR - arts - 2025-11-06 08:30:17 ===
+
+=== CNN - science - 2025-11-06 08:30:33 ===
+
+=== CBC - science - 2025-11-06 08:30:36 ===
+
+=== NPR - science - 2025-11-06 08:30:41 ===
+
+=== CNN - us - 2025-11-06 08:30:53 ===
+
+=== CNN - politics - 2025-11-06 08:31:18 ===
+
+=== CBC - politics - 2025-11-06 08:31:21 ===
+
+=== NPR - politics - 2025-11-06 08:31:27 ===
+
+=== CNN - health - 2025-11-06 08:31:38 ===
+
+=== CBC - health - 2025-11-06 08:31:40 ===
+
+=== NPR - health - 2025-11-06 08:31:44 ===
+
+=== CNN - travel - 2025-11-06 08:31:58 ===
+
+=== CNN - world - 2025-11-06 08:42:21 ===
+
+=== CBC - world - 2025-11-06 08:42:25 ===
+
+=== NPR - world - 2025-11-06 08:42:31 ===
+
+=== CNN - technology - 2025-11-06 08:42:47 ===
+
+=== NPR - technology - 2025-11-06 08:42:58 ===
+
+=== CNN - business - 2025-11-06 08:43:22 ===
+
+=== CBC - business - 2025-11-06 08:43:26 ===
+
+=== NPR - business - 2025-11-06 08:43:33 ===
+
+=== CNN - sport - 2025-11-06 08:43:49 ===
+
+=== CNN - arts - 2025-11-06 08:44:17 ===
+
+=== NPR - arts - 2025-11-06 08:44:27 ===
+
+=== CNN - science - 2025-11-06 08:44:42 ===
+
+=== CBC - science - 2025-11-06 08:44:46 ===
+
+=== NPR - science - 2025-11-06 08:44:53 ===
+
+=== CNN - us - 2025-11-06 08:45:08 ===
+
+=== CNN - politics - 2025-11-06 08:45:34 ===
+
+=== CBC - politics - 2025-11-06 08:45:37 ===
+
+=== NPR - politics - 2025-11-06 08:45:40 ===
+
+=== CNN - health - 2025-11-06 08:45:54 ===
+
+=== CBC - health - 2025-11-06 08:45:56 ===
+
+=== NPR - health - 2025-11-06 08:46:02 ===
+
+=== CNN - travel - 2025-11-06 08:46:17 ===
+
+=== CNN - world - 2025-11-06 08:56:38 ===
+
+=== CBC - world - 2025-11-06 08:56:42 ===
+
+=== NPR - world - 2025-11-06 08:56:48 ===
+
+=== CNN - technology - 2025-11-06 08:57:09 ===
+
+=== NPR - technology - 2025-11-06 08:57:17 ===
+
+=== CNN - business - 2025-11-06 08:57:35 ===
+
+=== CBC - business - 2025-11-06 08:57:37 ===
+
+=== NPR - business - 2025-11-06 08:57:44 ===
+
+=== CNN - sport - 2025-11-06 08:57:59 ===
+
+=== CNN - arts - 2025-11-06 08:58:24 ===
+
+=== NPR - arts - 2025-11-06 08:58:33 ===
+
+=== CNN - science - 2025-11-06 08:58:48 ===
+
+=== CBC - science - 2025-11-06 08:58:50 ===
+
+=== NPR - science - 2025-11-06 08:58:55 ===
+
+=== CNN - us - 2025-11-06 08:59:09 ===
+
+=== CNN - politics - 2025-11-06 08:59:32 ===
+
+=== CBC - politics - 2025-11-06 08:59:34 ===
+
+=== NPR - politics - 2025-11-06 08:59:40 ===
+
+=== CNN - health - 2025-11-06 08:59:56 ===
+
+=== CBC - health - 2025-11-06 08:59:59 ===
+
+=== NPR - health - 2025-11-06 09:00:03 ===
+
+=== CNN - travel - 2025-11-06 09:00:18 ===
