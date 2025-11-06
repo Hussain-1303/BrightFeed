@@ -33487,3 +33487,156 @@ Source: https://www.cnn.com/2025/11/05/us/chicago-immigration-facility-improveme
 === NPR - health - 2025-11-05 19:59:36 ===
 
 === CNN - travel - 2025-11-05 19:59:52 ===
+
+=== CNN - world - 2025-11-05 20:24:31 ===
+
+=== CBC - world - 2025-11-05 20:24:33 ===
+
+Headline: Tracking Trump’s changes to law enforcement
+Summary: Summary based on headline: Tracking Trump’s changes to law enforcement
+Description: Summary based on headline: Tracking Trump’s changes to law enforcement
+Image: https://i.cbc.ca/ais/a2462312-7900-436b-b8e7-3471fc191cb3,1762379698284/full/max/0/default.jpg?im=Crop%2Crect%3D%28893%2C0%2C3573%2C3573%29%3B
+Source: https://www.cbc.ca/news/world
+==================================================
+
+=== NPR - world - 2025-11-05 20:24:39 ===
+
+=== CNN - technology - 2025-11-05 20:24:56 ===
+
+=== NPR - technology - 2025-11-05 20:25:03 ===
+
+=== CNN - business - 2025-11-05 20:25:17 ===
+
+=== CBC - business - 2025-11-05 20:25:20 ===
+
+=== NPR - business - 2025-11-05 20:25:25 ===
+
+=== CNN - sport - 2025-11-05 20:25:40 ===
+
+=== CNN - arts - 2025-11-05 20:26:05 ===
+
+=== NPR - arts - 2025-11-05 20:26:13 ===
+
+=== CNN - science - 2025-11-05 20:26:27 ===
+
+=== CBC - science - 2025-11-05 20:26:30 ===
+
+=== NPR - science - 2025-11-05 20:26:35 ===
+
+=== CNN - us - 2025-11-05 20:26:49 ===
+
+=== CNN - politics - 2025-11-05 20:27:15 ===
+
+=== CBC - politics - 2025-11-05 20:27:19 ===
+
+=== NPR - politics - 2025-11-05 20:27:23 ===
+
+=== CNN - health - 2025-11-05 20:27:42 ===
+
+=== CBC - health - 2025-11-05 20:27:44 ===
+
+=== NPR - health - 2025-11-05 20:27:48 ===
+
+=== CNN - travel - 2025-11-05 20:28:01 ===
+
+=== CNN - world - 2025-11-05 20:38:25 ===
+
+=== CBC - world - 2025-11-05 20:38:28 ===
+
+=== NPR - world - 2025-11-05 20:38:34 ===
+
+=== CNN - technology - 2025-11-05 20:38:48 ===
+
+=== NPR - technology - 2025-11-05 20:38:54 ===
+
+=== CNN - business - 2025-11-05 20:39:08 ===
+
+=== CBC - business - 2025-11-05 20:39:10 ===
+
+=== NPR - business - 2025-11-05 20:39:15 ===
+
+=== CNN - sport - 2025-11-05 20:39:32 ===
+
+=== CNN - arts - 2025-11-05 20:39:55 ===
+
+=== NPR - arts - 2025-11-05 20:40:04 ===
+
+=== CNN - science - 2025-11-05 20:40:18 ===
+
+=== CBC - science - 2025-11-05 20:40:22 ===
+
+=== NPR - science - 2025-11-05 20:40:29 ===
+
+=== CNN - us - 2025-11-05 20:40:45 ===
+
+=== CNN - politics - 2025-11-05 20:41:08 ===
+
+=== CBC - politics - 2025-11-05 20:41:11 ===
+
+=== NPR - politics - 2025-11-05 20:41:17 ===
+
+=== CNN - health - 2025-11-05 20:41:31 ===
+
+=== CBC - health - 2025-11-05 20:41:33 ===
+
+=== NPR - health - 2025-11-05 20:41:38 ===
+
+=== CNN - travel - 2025-11-05 20:41:53 ===
+
+=== CNN - world - 2025-11-05 20:52:18 ===
+
+=== CBC - world - 2025-11-05 20:52:20 ===
+
+=== NPR - world - 2025-11-05 20:52:28 ===
+
+=== CNN - technology - 2025-11-05 20:52:50 ===
+
+=== NPR - technology - 2025-11-05 20:52:58 ===
+
+=== CNN - business - 2025-11-05 20:53:14 ===
+
+=== CBC - business - 2025-11-05 20:53:17 ===
+
+Headline: Canada's economy shrank by 0.3% in August
+Summary: Summary based on headline: Canada's economy shrank by 0.3% in August
+Description: Summary based on headline: Canada's economy shrank by 0.3% in August
+Image: https://i.cbc.ca/ais/4e6a7b1c-da50-485d-8296-db492415e422,1762279482107/full/max/0/default.jpg?im=Crop%2Crect%3D%28833%2C0%2C3333%2C3333%29%3B
+Source: https://www.cbc.ca/news/business
+==================================================
+
+=== NPR - business - 2025-11-05 20:53:23 ===
+
+=== CNN - sport - 2025-11-05 20:53:36 ===
+
+=== CNN - arts - 2025-11-05 20:54:03 ===
+
+=== NPR - arts - 2025-11-05 20:54:12 ===
+
+=== CNN - science - 2025-11-05 20:54:30 ===
+
+=== CBC - science - 2025-11-05 20:54:33 ===
+
+=== NPR - science - 2025-11-05 20:54:37 ===
+
+=== CNN - us - 2025-11-05 20:54:51 ===
+
+=== CNN - politics - 2025-11-05 20:55:14 ===
+
+Headline: Pete Hegseth/X
+Summary: Summary based on headline: Pete Hegseth/X
+Description: Summary based on headline: Pete Hegseth/X
+Image: https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-10-28-at-9-37-42-am.jpg?c=16x9&q=h_438,w_780,c_fill
+Source: https://www.cnn.com/2025/11/05/politics/boat-strikes-democrats-briefing-trump-admin
+==================================================
+
+=== CBC - politics - 2025-11-05 20:55:17 ===
+
+=== NPR - politics - 2025-11-05 20:55:23 ===
+
+=== CNN - health - 2025-11-05 20:55:41 ===
+
+=== CBC - health - 2025-11-05 20:55:44 ===
+
+=== NPR - health - 2025-11-05 20:55:48 ===
+
+=== CNN - travel - 2025-11-05 20:56:02 ===
