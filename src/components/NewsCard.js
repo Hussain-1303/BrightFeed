@@ -1,204 +1,241 @@
 import React, { useState, useEffect } from 'react';
-import { FiBookmark, FiCheckSquare } from 'react-icons/fi';
+import { useNavigate } from 'react-router-dom';
+import LikeCommentSection from './LikeCommentSection';
 
-const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
+const NewsCard = ({ article, viewMode = 'grid' }) => {
   const [isBookmarked, setIsBookmarked] = useState(false);
-
-  const checkIfBookmarked = () => {
-    try {
-      const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
-      const found = bookmarks.some(b => 
-        b.headline === article.headline || 
-        b.sourceLink === article.sourceLink
-      );
-      setIsBookmarked(found);
-      return found;
-    } catch (error) {
-      console.error('Error checking bookmark:', error);
-      return false;
-    }
-  };
+  const navigate = useNavigate();
 
   useEffect(() => {
-    checkIfBookmarked();
-    
-    const handleBookmarkChange = () => checkIfBookmarked();
-    
-    window.addEventListener('bookmarksChanged', handleBookmarkChange);
-    window.addEventListener('storage', handleBookmarkChange);
-    window.addEventListener('focus', handleBookmarkChange);
+    checkBookmarkStatus();
+  }, [article]);
 
-    return () => {
-      window.removeEventListener('bookmarksChanged', handleBookmarkChange);
-      window.removeEventListener('storage', handleBookmarkChange);
-      window.removeEventListener('focus', handleBookmarkChange);
-    };
-  }, [article.headline, article.sourceLink]);
+  const checkBookmarkStatus = () => {
+    const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
+    const isInBookmarks = bookmarks.some(
+      (bookmark) => bookmark.content_hash === article.content_hash
+    );
+    setIsBookmarked(isInBookmarks);
+  };
 
-  const handleBookmarkClick = (e) => {
-    // CRITICAL: Stop all event propagation
-    e.stopPropagation();
+  const toggleBookmark = (e) => {
     e.preventDefault();
-    e.nativeEvent.stopImmediatePropagation();
+    e.stopPropagation();
     
-    console.log('Bookmark button clicked!', article.headline);
+    const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
     
-    try {
-      const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
-      const bookmarkIndex = bookmarks.findIndex(b => 
-        b.headline === article.headline
+    if (isBookmarked) {
+      const updatedBookmarks = bookmarks.filter(
+        (bookmark) => bookmark.content_hash !== article.content_hash
       );
-      
-      let newBookmarks;
-      if (bookmarkIndex > -1) {
-        newBookmarks = bookmarks.filter((_, index) => index !== bookmarkIndex);
-        setIsBookmarked(false);
-        console.log('✅ Removed bookmark:', article.headline);
-      } else {
-        const bookmarkData = {
-          headline: article.headline,
-          summary: article.summary || article.description,
-          description: article.description,
-          image: article.image,
-          sourceLink: article.sourceLink,
-          publishedAt: article.publishedAt || article.date,
-          category: article.category,
-          source: article.source,
-          sentiment: article.sentiment,
-          bookmarkedAt: new Date().toISOString(),
-        };
-        newBookmarks = [...bookmarks, bookmarkData];
-        setIsBookmarked(true);
-        console.log('✅ Added bookmark:', article.headline);
-      }
-      
-      localStorage.setItem('bookmarks', JSON.stringify(newBookmarks));
-      console.log('📊 Total bookmarks:', newBookmarks.length);
-      
-      if (onBookmark) {
-        onBookmark(article);
-      }
-      
-      window.dispatchEvent(new CustomEvent('bookmarksChanged', { 
-        detail: { bookmarks: newBookmarks } 
-      }));
-      
-      // Force a small delay to ensure state updates
-      setTimeout(() => checkIfBookmarked(), 100);
-      
-    } catch (error) {
-      console.error('❌ Error toggling bookmark:', error);
+      localStorage.setItem('bookmarks', JSON.stringify(updatedBookmarks));
+      setIsBookmarked(false);
+    } else {
+      bookmarks.push(article);
+      localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
+      setIsBookmarked(true);
+    }
+    
+    window.dispatchEvent(new CustomEvent('bookmarksChanged'));
+  };
+
+  const getSentimentColor = () => {
+    const compound = article.sentiment?.headline?.compound || 0;
+    if (compound >= 0.05) return 'bg-green-500';
+    if (compound <= -0.05) return 'bg-red-500';
+    return 'bg-gray-400';
+  };
+
+  const getSentimentLabel = () => {
+    const compound = article.sentiment?.headline?.compound || 0;
+    if (compound >= 0.05) return 'Positive';
+    if (compound <= -0.05) return 'Negative';
+    return 'Neutral';
+  };
+
+  const formatDate = (dateString) => {
+    const date = new Date(dateString);
+    const now = new Date();
+    const diffTime = Math.abs(now - date);
+    const diffHours = Math.ceil(diffTime / (1000 * 60 * 60));
+    
+    if (diffHours < 24) {
+      return `${diffHours}h ago`;
+    } else if (diffHours < 48) {
+      return 'Yesterday';
+    } else {
+      return date.toLocaleDateString('en-US', { 
+        month: 'short', 
+        day: 'numeric',
+        year: 'numeric'
+      });
     }
   };
 
-  const handleNewsClick = () => {
-    if (article.sourceLink) {
-      console.log('Opening article:', article.sourceLink);
-      window.open(article.sourceLink, '_blank', 'noopener,noreferrer');
-    }
-  };
-
-  const articleDate = article.publishedAt || article.date || new Date().toISOString();
-
-  return (
-    <div 
-      className={`card-hover ${viewMode === 'grid' ? 'rounded-lg p-4' : 'p-4 border-b'} ${darkMode ? 'bg-gray-800 text-white' : 'bg-white text-gray-800'} shadow-md hover:shadow-lg transition-all ${viewMode === 'list' ? 'flex items-center' : ''}`}
-    >
-      {viewMode === 'grid' ? (
-        <>
-          {/* Image and content - clickable to open article */}
-          <div onClick={handleNewsClick} className="cursor-pointer">
-            {article.image ? (
-              <div className="h-48 overflow-hidden rounded-lg mb-4">
-                <img
-                  src={article.image}
-                  alt={article.headline}
-                  className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
-                  onError={(e) => {
-                    e.target.style.display = 'none';
-                  }}
-                />
-              </div>
-            ) : (
-              <div className={`w-full h-48 flex items-center justify-center rounded-lg mb-4 ${darkMode ? 'bg-gray-600' : 'bg-gray-100'}`}>
-                <span className="text-gray-400 text-sm">No Image Available</span>
-              </div>
-            )}
-            <h3 className="text-lg font-semibold line-clamp-2 mb-2">{article.headline}</h3>
-            <p className="text-sm text-gray-500 dark:text-gray-400 line-clamp-3">
-              {article.summary || article.description || 'No summary available.'}
-            </p>
-          </div>
+  if (viewMode === 'list') {
+    return (
+      <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden mb-4">
+        <div className="flex">
+          {/* Sentiment Indicator */}
+          <div className={`w-2 ${getSentimentColor()}`}></div>
           
-          {/* Bottom bar with date and bookmark - NOT clickable for article */}
-          <div className="flex justify-between items-center mt-4">
-            <span className="text-xs text-gray-400">
-              {new Date(articleDate).toLocaleDateString()}
-            </span>
-            <button
-              type="button"
-              onClick={handleBookmarkClick}
-              onMouseDown={(e) => e.stopPropagation()}
-              onTouchStart={(e) => e.stopPropagation()}
-              className={`p-2 rounded-full transition-all z-10 relative ${
-                isBookmarked 
-                  ? 'bg-blue-500 text-white hover:bg-blue-600' 
-                  : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'
-              }`}
-              aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
-              title={isBookmarked ? 'Remove from bookmarks' : 'Save for later'}
-            >
-              {isBookmarked ? <FiCheckSquare size={18} /> : <FiBookmark size={18} />}
-            </button>
-          </div>
-        </>
-      ) : (
-        <div className="flex items-center w-full gap-4">
-          {/* Content - clickable to open article */}
-          <div onClick={handleNewsClick} className="cursor-pointer flex items-center gap-4 flex-1">
-            {article.image ? (
-              <div className="w-32 h-20 overflow-hidden rounded flex-shrink-0">
-                <img
-                  src={article.image}
-                  alt={article.headline}
-                  className="w-full h-full object-cover"
-                  onError={(e) => e.target.style.display = 'none'}
-                />
-              </div>
-            ) : (
-              <div className={`w-32 h-20 flex items-center justify-center rounded flex-shrink-0 ${darkMode ? 'bg-gray-600' : 'bg-gray-100'}`}>
-                <span className="text-gray-400 text-xs">No Image</span>
-              </div>
-            )}
-            <div className="flex-1">
-              <h3 className="text-lg font-semibold mb-1">{article.headline}</h3>
-              <p className="text-sm text-gray-500 dark:text-gray-400 line-clamp-2">
-                {article.summary || article.description || 'No summary available.'}
-              </p>
-              <span className="text-xs text-gray-400 mt-2 block">
-                {new Date(articleDate).toLocaleDateString()}
-              </span>
+          {/* Image */}
+          {article.image && (
+            <div className="w-48 h-32 flex-shrink-0">
+              <img
+                src={article.image}
+                alt={article.headline}
+                className="w-full h-full object-cover"
+                onError={(e) => {
+                  e.target.onerror = null;
+                  e.target.src = '/images/placeholder.png';
+                }}
+              />
             </div>
-          </div>
+          )}
           
-          {/* Bookmark button - separate from clickable content */}
+          {/* Content */}
+          <div className="flex-1 p-4">
+            <div className="flex justify-between items-start mb-2">
+              <div className="flex-1">
+                <div className="flex items-center gap-2 mb-2">
+                  <span className={`text-xs px-2 py-1 rounded-full ${
+                    article.sentiment?.headline?.compound >= 0.05
+                      ? 'bg-green-100 text-green-800'
+                      : article.sentiment?.headline?.compound <= -0.05
+                      ? 'bg-red-100 text-red-800'
+                      : 'bg-gray-100 text-gray-800'
+                  }`}>
+                    {getSentimentLabel()}
+                  </span>
+                  <span className="text-xs text-gray-500">{article.source}</span>
+                  <span className="text-xs text-gray-400">•</span>
+                  <span className="text-xs text-gray-500">{formatDate(article.date)}</span>
+                </div>
+                
+                <h3 className="text-lg font-semibold text-gray-800 mb-2 hover:text-blue-600 transition-colors">
+                  <a href={article.sourceLink} target="_blank" rel="noopener noreferrer">
+                    {article.headline}
+                  </a>
+                </h3>
+                
+                <p className="text-sm text-gray-600 line-clamp-2">
+                  {article.description || article.summary}
+                </p>
+              </div>
+              
+              {/* Bookmark Button */}
+              <button
+                onClick={toggleBookmark}
+                className={`ml-4 p-2 rounded-full transition-colors ${
+                  isBookmarked
+                    ? 'text-yellow-500 hover:bg-yellow-50'
+                    : 'text-gray-400 hover:bg-gray-100'
+                }`}
+                aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
+              >
+                <svg
+                  className="w-6 h-6"
+                  fill={isBookmarked ? 'currentColor' : 'none'}
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"
+                  />
+                </svg>
+              </button>
+            </div>
+            
+            {/* Likes and Comments */}
+            <LikeCommentSection article={article} />
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // Grid View
+  return (
+    <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden flex flex-col h-full">
+      {/* Sentiment Indicator Bar */}
+      <div className={`h-1 ${getSentimentColor()}`}></div>
+      
+      {/* Image */}
+      {article.image && (
+        <div className="relative h-48 overflow-hidden">
+          <img
+            src={article.image}
+            alt={article.headline}
+            className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+            onError={(e) => {
+              e.target.onerror = null;
+              e.target.src = '/images/placeholder.png';
+            }}
+          />
+          {/* Bookmark Button Overlay */}
           <button
-            type="button"
-            onClick={handleBookmarkClick}
-            onMouseDown={(e) => e.stopPropagation()}
-            onTouchStart={(e) => e.stopPropagation()}
-            className={`p-2 rounded-full transition-all flex-shrink-0 z-10 relative ${
-              isBookmarked 
-                ? 'bg-blue-500 text-white hover:bg-blue-600' 
-                : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'
+            onClick={toggleBookmark}
+            className={`absolute top-3 right-3 p-2 rounded-full backdrop-blur-sm transition-colors ${
+              isBookmarked
+                ? 'bg-yellow-500/80 text-white hover:bg-yellow-600/80'
+                : 'bg-white/80 text-gray-700 hover:bg-white'
             }`}
             aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
-            title={isBookmarked ? 'Remove from bookmarks' : 'Save for later'}
           >
-            {isBookmarked ? <FiCheckSquare size={18} /> : <FiBookmark size={18} />}
+            <svg
+              className="w-5 h-5"
+              fill={isBookmarked ? 'currentColor' : 'none'}
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"
+              />
+            </svg>
           </button>
         </div>
       )}
+      
+      {/* Content */}
+      <div className="p-4 flex-1 flex flex-col">
+        {/* Metadata */}
+        <div className="flex items-center gap-2 mb-3 flex-wrap">
+          <span className={`text-xs px-2 py-1 rounded-full ${
+            article.sentiment?.headline?.compound >= 0.05
+              ? 'bg-green-100 text-green-800'
+              : article.sentiment?.headline?.compound <= -0.05
+              ? 'bg-red-100 text-red-800'
+              : 'bg-gray-100 text-gray-800'
+          }`}>
+            {getSentimentLabel()}
+          </span>
+          <span className="text-xs text-gray-500">{article.source}</span>
+          <span className="text-xs text-gray-400">•</span>
+          <span className="text-xs text-gray-500">{formatDate(article.date)}</span>
+        </div>
+        
+        {/* Headline */}
+        <h3 className="text-lg font-semibold text-gray-800 mb-2 hover:text-blue-600 transition-colors line-clamp-2">
+          <a href={article.sourceLink} target="_blank" rel="noopener noreferrer">
+            {article.headline}
+          </a>
+        </h3>
+        
+        {/* Description */}
+        <p className="text-sm text-gray-600 mb-3 line-clamp-3 flex-1">
+          {article.description || article.summary}
+        </p>
+        
+        {/* Likes and Comments */}
+        <LikeCommentSection article={article} />
+      </div>
     </div>
   );
 };
