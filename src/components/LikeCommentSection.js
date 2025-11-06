@@ -10,18 +10,30 @@ const LikeCommentSection = ({ article }) => {
   const [showComments, setShowComments] = useState(false);
   const [loading, setLoading] = useState(false);
 
-  const articleId = article.content_hash;
+  // FIX: Use multiple fallbacks for article ID
+  const articleId = article.content_hash || article._id || article.id || article.sourceLink;
+  
   const token = localStorage.getItem('token');
   const currentUserEmail = localStorage.getItem('userEmail');
 
+  // Debug: Log article ID
   useEffect(() => {
-    fetchLikes();
-    if (showComments) {
-      fetchComments();
+    console.log('Article ID:', articleId);
+    console.log('Article:', article);
+  }, [articleId]);
+
+  useEffect(() => {
+    if (articleId) {
+      fetchLikes();
+      if (showComments) {
+        fetchComments();
+      }
     }
   }, [articleId, showComments]);
 
   const fetchLikes = async () => {
+    if (!articleId) return;
+    
     try {
       const headers = {};
       if (token) {
@@ -32,14 +44,16 @@ const LikeCommentSection = ({ article }) => {
         headers
       });
       const data = await response.json();
-      setLikes(data.like_count);
-      setUserLiked(data.user_liked);
+      setLikes(data.like_count || 0);
+      setUserLiked(data.user_liked || false);
     } catch (error) {
       console.error('Error fetching likes:', error);
     }
   };
 
   const fetchComments = async () => {
+    if (!articleId) return;
+    
     try {
       const response = await fetch(`${API_URL}/api/articles/${articleId}/comments`);
       const data = await response.json();
@@ -52,6 +66,11 @@ const LikeCommentSection = ({ article }) => {
   const handleLike = async () => {
     if (!token) {
       alert('Please sign in to like articles');
+      return;
+    }
+
+    if (!articleId) {
+      console.error('No article ID available');
       return;
     }
 
@@ -70,6 +89,9 @@ const LikeCommentSection = ({ article }) => {
         const data = await response.json();
         setLikes(data.like_count);
         setUserLiked(data.liked);
+      } else {
+        const error = await response.json();
+        console.error('Like error:', error);
       }
     } catch (error) {
       console.error('Error toggling like:', error);
@@ -85,6 +107,11 @@ const LikeCommentSection = ({ article }) => {
     }
 
     if (!commentText.trim()) {
+      return;
+    }
+
+    if (!articleId) {
+      console.error('No article ID available');
       return;
     }
 
@@ -152,8 +179,12 @@ const LikeCommentSection = ({ article }) => {
     return date.toLocaleDateString();
   };
 
+  if (!articleId) {
+    return null; // Don't render if no article ID
+  }
+
   return (
-    <div className="border-t pt-3 mt-3">
+    <div className="border-t border-gray-200 dark:border-gray-700 pt-3 mt-3">
       {/* Like and Comment Buttons */}
       <div className="flex items-center gap-4 mb-3">
         {/* Like Button */}
@@ -161,8 +192,8 @@ const LikeCommentSection = ({ article }) => {
           onClick={handleLike}
           className={`flex items-center gap-2 px-3 py-1.5 rounded-lg transition-colors ${
             userLiked
-              ? 'bg-red-100 text-red-600 hover:bg-red-200'
-              : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+              ? 'bg-red-100 dark:bg-red-900 text-red-600 dark:text-red-300 hover:bg-red-200 dark:hover:bg-red-800'
+              : 'bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
           }`}
         >
           <svg
@@ -184,7 +215,7 @@ const LikeCommentSection = ({ article }) => {
         {/* Comment Button */}
         <button
           onClick={() => setShowComments(!showComments)}
-          className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-gray-100 text-gray-600 hover:bg-gray-200 transition-colors"
+          className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
         >
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path
@@ -200,7 +231,7 @@ const LikeCommentSection = ({ article }) => {
 
       {/* Comments Section */}
       {showComments && (
-        <div className="bg-gray-50 rounded-lg p-4 space-y-3">
+        <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-4 space-y-3">
           {/* Add Comment Form */}
           {token ? (
             <form onSubmit={handleAddComment} className="mb-4">
@@ -208,12 +239,12 @@ const LikeCommentSection = ({ article }) => {
                 value={commentText}
                 onChange={(e) => setCommentText(e.target.value)}
                 placeholder="Add a comment..."
-                className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none"
+                className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 dark:bg-gray-700 dark:text-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none"
                 rows="3"
                 maxLength="500"
               />
               <div className="flex justify-between items-center mt-2">
-                <span className="text-xs text-gray-500">
+                <span className="text-xs text-gray-500 dark:text-gray-400">
                   {commentText.length}/500
                 </span>
                 <button
@@ -226,7 +257,7 @@ const LikeCommentSection = ({ article }) => {
               </div>
             </form>
           ) : (
-            <div className="text-center py-4 text-gray-500">
+            <div className="text-center py-4 text-gray-500 dark:text-gray-400">
               Please sign in to comment
             </div>
           )}
@@ -234,16 +265,16 @@ const LikeCommentSection = ({ article }) => {
           {/* Comments List */}
           <div className="space-y-3">
             {comments.length === 0 ? (
-              <p className="text-center text-gray-500 py-4">No comments yet. Be the first!</p>
+              <p className="text-center text-gray-500 dark:text-gray-400 py-4">No comments yet. Be the first!</p>
             ) : (
               comments.map((comment) => (
-                <div key={comment._id} className="bg-white rounded-lg p-3 shadow-sm">
+                <div key={comment._id} className="bg-white dark:bg-gray-700 rounded-lg p-3 shadow-sm">
                   <div className="flex justify-between items-start mb-2">
                     <div>
-                      <span className="font-semibold text-gray-800">
+                      <span className="font-semibold text-gray-800 dark:text-white">
                         {comment.username}
                       </span>
-                      <span className="text-xs text-gray-500 ml-2">
+                      <span className="text-xs text-gray-500 dark:text-gray-400 ml-2">
                         {formatDate(comment.created_at)}
                       </span>
                     </div>
@@ -256,7 +287,7 @@ const LikeCommentSection = ({ article }) => {
                       </button>
                     )}
                   </div>
-                  <p className="text-gray-700">{comment.comment_text}</p>
+                  <p className="text-gray-700 dark:text-gray-300">{comment.comment_text}</p>
                 </div>
               ))
             )}
