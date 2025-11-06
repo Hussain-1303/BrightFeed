@@ -13,7 +13,7 @@ const NewsCard = ({ article, viewMode = 'grid' }) => {
   const checkBookmarkStatus = () => {
     const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
     const isInBookmarks = bookmarks.some(
-      (bookmark) => bookmark.content_hash === article.content_hash
+      (bookmark) => bookmark.content_hash === article.content_hash || bookmark.sourceLink === article.sourceLink
     );
     setIsBookmarked(isInBookmarks);
   };
@@ -26,7 +26,7 @@ const NewsCard = ({ article, viewMode = 'grid' }) => {
     
     if (isBookmarked) {
       const updatedBookmarks = bookmarks.filter(
-        (bookmark) => bookmark.content_hash !== article.content_hash
+        (bookmark) => bookmark.content_hash !== article.content_hash && bookmark.sourceLink !== article.sourceLink
       );
       localStorage.setItem('bookmarks', JSON.stringify(updatedBookmarks));
       setIsBookmarked(false);
@@ -74,7 +74,7 @@ const NewsCard = ({ article, viewMode = 'grid' }) => {
 
   if (viewMode === 'list') {
     return (
-      <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden mb-4">
+      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden mb-4">
         <div className="flex">
           {/* Sentiment Indicator */}
           <div className={`w-2 ${getSentimentColor()}`}></div>
@@ -101,25 +101,25 @@ const NewsCard = ({ article, viewMode = 'grid' }) => {
                 <div className="flex items-center gap-2 mb-2">
                   <span className={`text-xs px-2 py-1 rounded-full ${
                     article.sentiment?.headline?.compound >= 0.05
-                      ? 'bg-green-100 text-green-800'
+                      ? 'bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200'
                       : article.sentiment?.headline?.compound <= -0.05
-                      ? 'bg-red-100 text-red-800'
-                      : 'bg-gray-100 text-gray-800'
+                      ? 'bg-red-100 dark:bg-red-900 text-red-800 dark:text-red-200'
+                      : 'bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-200'
                   }`}>
                     {getSentimentLabel()}
                   </span>
-                  <span className="text-xs text-gray-500">{article.source}</span>
-                  <span className="text-xs text-gray-400">•</span>
-                  <span className="text-xs text-gray-500">{formatDate(article.date)}</span>
+                  <span className="text-xs text-gray-500 dark:text-gray-400">{article.source}</span>
+                  <span className="text-xs text-gray-400 dark:text-gray-500">•</span>
+                  <span className="text-xs text-gray-500 dark:text-gray-400">{formatDate(article.date || article.publishedAt)}</span>
                 </div>
                 
-                <h3 className="text-lg font-semibold text-gray-800 mb-2 hover:text-blue-600 transition-colors">
+                <h3 className="text-lg font-semibold text-gray-800 dark:text-white mb-2 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                   <a href={article.sourceLink} target="_blank" rel="noopener noreferrer">
                     {article.headline}
                   </a>
                 </h3>
                 
-                <p className="text-sm text-gray-600 line-clamp-2">
+                <p className="text-sm text-gray-600 dark:text-gray-300 line-clamp-2">
                   {article.description || article.summary}
                 </p>
               </div>
@@ -129,8 +129,8 @@ const NewsCard = ({ article, viewMode = 'grid' }) => {
                 onClick={toggleBookmark}
                 className={`ml-4 p-2 rounded-full transition-colors ${
                   isBookmarked
-                    ? 'text-yellow-500 hover:bg-yellow-50'
-                    : 'text-gray-400 hover:bg-gray-100'
+                    ? 'text-yellow-500 hover:bg-yellow-50 dark:hover:bg-yellow-900'
+                    : 'text-gray-400 dark:text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700'
                 }`}
                 aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
               >
@@ -160,7 +160,7 @@ const NewsCard = ({ article, viewMode = 'grid' }) => {
 
   // Grid View
   return (
-    <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden flex flex-col h-full">
+    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden flex flex-col h-full">
       {/* Sentiment Indicator Bar */}
       <div className={`h-1 ${getSentimentColor()}`}></div>
       
@@ -182,7 +182,7 @@ const NewsCard = ({ article, viewMode = 'grid' }) => {
             className={`absolute top-3 right-3 p-2 rounded-full backdrop-blur-sm transition-colors ${
               isBookmarked
                 ? 'bg-yellow-500/80 text-white hover:bg-yellow-600/80'
-                : 'bg-white/80 text-gray-700 hover:bg-white'
+                : 'bg-white/80 dark:bg-gray-700/80 text-gray-700 dark:text-gray-200 hover:bg-white dark:hover:bg-gray-600'
             }`}
             aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
           >
@@ -209,27 +209,27 @@ const NewsCard = ({ article, viewMode = 'grid' }) => {
         <div className="flex items-center gap-2 mb-3 flex-wrap">
           <span className={`text-xs px-2 py-1 rounded-full ${
             article.sentiment?.headline?.compound >= 0.05
-              ? 'bg-green-100 text-green-800'
+              ? 'bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200'
               : article.sentiment?.headline?.compound <= -0.05
-              ? 'bg-red-100 text-red-800'
-              : 'bg-gray-100 text-gray-800'
+              ? 'bg-red-100 dark:bg-red-900 text-red-800 dark:text-red-200'
+              : 'bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-200'
           }`}>
             {getSentimentLabel()}
           </span>
-          <span className="text-xs text-gray-500">{article.source}</span>
-          <span className="text-xs text-gray-400">•</span>
-          <span className="text-xs text-gray-500">{formatDate(article.date)}</span>
+          <span className="text-xs text-gray-500 dark:text-gray-400">{article.source}</span>
+          <span className="text-xs text-gray-400 dark:text-gray-500">•</span>
+          <span className="text-xs text-gray-500 dark:text-gray-400">{formatDate(article.date || article.publishedAt)}</span>
         </div>
         
         {/* Headline */}
-        <h3 className="text-lg font-semibold text-gray-800 mb-2 hover:text-blue-600 transition-colors line-clamp-2">
+        <h3 className="text-lg font-semibold text-gray-800 dark:text-white mb-2 hover:text-blue-600 dark:hover:text-blue-400 transition-colors line-clamp-2">
           <a href={article.sourceLink} target="_blank" rel="noopener noreferrer">
             {article.headline}
           </a>
         </h3>
         
         {/* Description */}
-        <p className="text-sm text-gray-600 mb-3 line-clamp-3 flex-1">
+        <p className="text-sm text-gray-600 dark:text-gray-300 mb-3 line-clamp-3 flex-1">
           {article.description || article.summary}
         </p>
         
