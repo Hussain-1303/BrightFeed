@@ -31855,6 +31855,7 @@ Source: https://www.npr.org/sections/shots-health-news/2025/11/04/nx-s1-5597970/
 ==================================================
 
 === CNN - travel - 2025-11-05 11:59:51 ===
+<<<<<<< HEAD
 
 === CNN - world - 2025-11-05 14:21:07 ===
 
@@ -36657,3 +36658,49 @@ Source: https://www.cbc.ca/news/health
 === NPR - health - 2025-11-09 08:51:55 ===
 
 === CNN - travel - 2025-11-09 08:52:11 ===
+=======
+>>>>>>> 76f3d614cc075500dceda278de88a966165bc1ac
+
+=== CNN - world - 2025-11-09 09:30:23 ===
+
+=== CBC - world - 2025-11-09 09:30:26 ===
+
+=== NPR - world - 2025-11-09 09:30:33 ===
+
+Headline: Israel receives remains of hostage that Hamas says is IDF soldier killed in 2014
+Summary: Summary based on headline: Israel receives remains of hostage that Hamas says is IDF soldier killed ...
+Description: Summary based on headline: Israel receives remains of hostage that Hamas says is IDF soldier killed in 2014
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4185x2354+0+218/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F74%2F0d79118847f589de41662544c17d%2Fap25312619970692.jpg
+Source: https://www.npr.org/2025/11/09/nx-s1-5603375/hamas-returns-idf-soldier-hadar-goldin-killed-2014
+==================================================
+
+Headline: Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines
+Summary: Summary based on headline: Nearly a million people evacuate as Super Typhoon Fung-wong threatens the...
+Description: Summary based on headline: Nearly a million people evacuate as Super Typhoon Fung-wong threatens the Philippines
+Image: https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/300/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F42%2F28b6fa1c4863ad056407d8abede7%2Fap25309583670992.jpg
+Source: https://www.npr.org/2025/11/09/g-s1-97091/nearly-a-million-people-evacuate-as-super-typhoon-fung-wong-threatens-the-philippines
+==================================================
+
+=== CNN - technology - 2025-11-09 09:30:49 ===
+
+=== NPR - technology - 2025-11-09 09:30:56 ===
+
+=== CNN - business - 2025-11-09 09:31:12 ===
+
+=== CBC - business - 2025-11-09 09:31:15 ===
+
+=== NPR - business - 2025-11-09 09:31:21 ===
+
+=== CNN - sport - 2025-11-09 09:31:33 ===
+
+=== CNN - arts - 2025-11-09 09:32:00 ===
+
+=== NPR - arts - 2025-11-09 09:32:09 ===
+
+=== CNN - science - 2025-11-09 09:32:26 ===
+
+=== CBC - science - 2025-11-09 09:32:29 ===
+
+=== NPR - science - 2025-11-09 09:32:35 ===
+
+=== CNN - us - 2025-11-09 09:32:49 ===

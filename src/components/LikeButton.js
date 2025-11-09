@@ -11,17 +11,6 @@ const LikeButton = ({ likes = 0, isLiked = false, onLike, size = 'medium', darkM
     setTimeout(() => setIsAnimating(false), 300);
   };
 
-  const getSizeClasses = () => {
-    switch (size) {
-      case 'small':
-        return 'w-4 h-4';
-      case 'large':
-        return 'w-6 h-6';
-      default:
-        return 'w-5 h-5';
-    }
-  };
-
   const getButtonSize = () => {
     switch (size) {
       case 'small':

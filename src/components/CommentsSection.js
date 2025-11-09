@@ -8,7 +8,6 @@ const CommentsSection = ({ articleId, darkMode = false }) => {
   const [likes, setLikes] = useState(0);
   const [isLiked, setIsLiked] = useState(false);
   const [showCommentForm, setShowCommentForm] = useState(false);
-  const [loading, setLoading] = useState(false);
 
   // Mock data for demonstration - in a real app, this would come from an API
   useEffect(() => {
