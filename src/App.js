@@ -216,17 +216,21 @@ const AppContent = () => {
         {/* Live Ticker */}
         <div className="bg-gray-800 text-white p-1 shadow-md">
           <div className="max-w-7xl mx-auto overflow-hidden">
-            <marquee
-              className="text-sm font-medium"
-              behavior="scroll"
-              direction="left"
-              scrollamount="4"
-            >
+            <div className="animate-scroll text-sm font-medium whitespace-nowrap">
               {liveHeadlines.length > 0
                 ? liveHeadlines.join(" | ")
                 : "Loading latest news..."}
-            </marquee>
+            </div>
           </div>
+          <style>{`
+            @keyframes scroll {
+              0% { transform: translateX(100%); }
+              100% { transform: translateX(-100%); }
+            }
+            .animate-scroll {
+              animation: scroll 30s linear infinite;
+            }
+          `}</style>
         </div>
 
         <main className="flex-grow p-6">

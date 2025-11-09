@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate, Link } from 'react-router-dom';
 import NewsCard from './NewsCard';
 import Navigation from './Navigation';
 
@@ -12,7 +11,6 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   const [sentimentFilter, setSentimentFilter] = useState(null);
   const [viewMode, setViewMode] = useState('grid');
   const [loading, setLoading] = useState(true);
-  const navigate = useNavigate();
 
   useEffect(() => {
     const fetchArticles = async () => {

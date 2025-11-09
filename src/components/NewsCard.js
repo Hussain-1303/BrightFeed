@@ -1,10 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { FiBookmark, FiCheckSquare } from 'react-icons/fi';
 
 const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
   const [isBookmarked, setIsBookmarked] = useState(false);
 
-  const checkIfBookmarked = () => {
+  const checkIfBookmarked = useCallback(() => {
     try {
       const bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
       const found = bookmarks.some(b => 
@@ -17,7 +17,7 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
       console.error('Error checking bookmark:', error);
       return false;
     }
-  };
+  }, [article.headline, article.sourceLink]);
 
   useEffect(() => {
     checkIfBookmarked();
@@ -33,7 +33,7 @@ const NewsCard = ({ article, darkMode, onBookmark, viewMode = 'grid' }) => {
       window.removeEventListener('storage', handleBookmarkChange);
       window.removeEventListener('focus', handleBookmarkChange);
     };
-  }, [article.headline, article.sourceLink]);
+  }, [checkIfBookmarked]);
 
   const handleBookmarkClick = (e) => {
     // CRITICAL: Stop all event propagation
