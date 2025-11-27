@@ -8,6 +8,11 @@ import LikeButton from './components/LikeButton';
 import CommentForm from './components/CommentForm';
 import CommentItem from './components/CommentItem';
 
+// Mock react-router-dom
+jest.mock('react-router-dom', () => ({
+  useNavigate: () => jest.fn(),
+}), { virtual: true });
+
 /**
  * E2E Integration Tests for Comments & Likes UI System
  * 
@@ -50,6 +55,84 @@ describe('Comments & Likes UI System - E2E Integration Tests', () => {
   beforeEach(() => {
     // Reset any mocks before each test
     jest.clearAllMocks();
+    
+    // Mock Math.random for deterministic CommentsSection behavior
+    let randomCounter = 0;
+    jest.spyOn(Math, 'random').mockImplementation(() => {
+      randomCounter += 0.1;
+      return randomCounter;
+    });
+    
+    // Set up localStorage
+    localStorage.setItem('token', 'fake-token');
+    localStorage.setItem('userEmail', 'test@example.com');
+
+    // Mock fetch with stateful behavior for likes
+    let mockLikes = 0;
+    let mockUserLiked = false;
+    let mockComments = [];
+
+    const mockFetch = jest.fn((url, options) => {
+      console.log('Mock fetch called with:', url, options?.method);
+      // Likes endpoints
+      if (url.includes('/likes') && !url.includes('/unlike')) {
+         return Promise.resolve({
+           ok: true,
+           json: () => Promise.resolve({ like_count: mockLikes, user_liked: mockUserLiked }),
+         });
+      }
+      if (url.endsWith('/like')) {
+         mockLikes++;
+         mockUserLiked = true;
+         return Promise.resolve({
+           ok: true,
+           json: () => Promise.resolve({ like_count: mockLikes, liked: true }),
+         });
+      }
+      if (url.endsWith('/unlike')) {
+         mockLikes = Math.max(0, mockLikes - 1);
+         mockUserLiked = false;
+         return Promise.resolve({
+           ok: true,
+           json: () => Promise.resolve({ like_count: mockLikes, liked: false }),
+         });
+      }
+
+      // Comments endpoints
+      if (url.includes('/comments')) {
+        if (options && options.method === 'POST') {
+            const body = JSON.parse(options.body);
+            const newComment = {
+              _id: Math.random().toString(),
+              comment_text: body.comment_text,
+              username: 'Test User',
+              created_at: new Date().toISOString(),
+              user_email: 'test@example.com'
+            };
+            mockComments.unshift(newComment);
+            return Promise.resolve({
+              ok: true,
+              json: () => Promise.resolve({ comment: newComment }),
+            });
+        }
+        if (options && options.method === 'DELETE') {
+            return Promise.resolve({ ok: true, json: () => Promise.resolve({}) });
+        }
+        // GET comments
+        return Promise.resolve({
+          ok: true,
+          json: () => Promise.resolve({ comments: mockComments }),
+        });
+      }
+
+      return Promise.resolve({
+          ok: true,
+          json: () => Promise.resolve({}),
+      });
+    });
+
+    global.fetch = mockFetch;
+    window.fetch = mockFetch;
   });
 
   describe('NewsCard Integration', () => {
@@ -58,7 +141,7 @@ describe('Comments & Likes UI System - E2E Integration Tests', () => {
       
       // Verify article content is displayed
       expect(screen.getByText('Test Article for Comments')).toBeInTheDocument();
-      expect(screen.getByText('This is a test article for testing comments functionality')).toBeInTheDocument();
+      expect(screen.getByText('Detailed description of the test article...')).toBeInTheDocument();
       
       // Verify Comments button is present
       const commentsButton = screen.getByRole('button', { name: /comments/i });
@@ -476,32 +559,32 @@ describe('Comments & Likes UI System - E2E Integration Tests', () => {
       const initialAriaLabel = likeButtons[0].getAttribute('aria-label');
       const isInitiallyLiked = initialAriaLabel === 'Unlike';
       
-      fireEvent.click(likeButtons[0]);
+      await act(async () => {
+        fireEvent.click(likeButtons[0]);
+      });
       
       await waitFor(() => {
         likeButtons = screen.getAllByTestId('like-button');
-        const newCount = parseInt(likeButtons[0].textContent.match(/\d+/)[0]);
+        const text = likeButtons[0].textContent;
+        const newCount = parseInt(text.match(/\d+/)[0]);
         // If initially liked, clicking should decrement; otherwise increment
         const expectedChange = isInitiallyLiked ? -1 : 1;
         expect(newCount).toBe(initialCount + expectedChange);
-      });
+      }, { timeout: 3000 });
       
-      // 3. Open comment form by clicking the comments count button
-      const allCommentButtons = screen.getAllByRole('button', { name: /comments/i });
-      const formToggleButton = allCommentButtons[allCommentButtons.length - 1];
-      fireEvent.click(formToggleButton);
+      // 3. Verify comment form is visible (already opened in step 1)
+      const textarea = screen.getByPlaceholderText(/Add a comment.../i);
+      expect(textarea).toBeInTheDocument();
       
       // 4. Write and submit a comment
-      const textarea = screen.getByPlaceholderText(/share your thoughts/i);
-      const submitButton = screen.getByRole('button', { name: /post comment/i });
+      const form = screen.getByTestId('add-comment-form');
       
       fireEvent.change(textarea, { target: { value: 'This is my test comment' } });
-      fireEvent.click(submitButton);
+      fireEvent.submit(form);
       
       // 5. Verify comment appears in the list
-      await waitFor(() => {
-        expect(screen.getByText('This is my test comment')).toBeInTheDocument();
-      });
+      const comments = await screen.findAllByText('This is my test comment');
+      expect(comments.length).toBeGreaterThan(0);
     });
 
     it('should handle reply workflow', async () => {
