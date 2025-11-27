@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate, Link } from 'react-router-dom';
 import NewsCard from './NewsCard';
 import Navigation from './Navigation';
 
@@ -9,10 +8,13 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
   const [articles, setArticles] = useState([]);
   const [filteredArticles, setFilteredArticles] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
+<<<<<<< HEAD
   const [sentimentFilter, setSentimentFilter] = useState(null);
   const [viewMode, setViewMode] = useState('grid');
   const [loading, setLoading] = useState(true);
-  const navigate = useNavigate();
+=======
+  const [sentimentFilter, setSentimentFilter] = useState(null); // null, 'positive', 'negative', or 'neutral'
+>>>>>>> 76f3d614cc075500dceda278de88a966165bc1ac
 
   useEffect(() => {
     const fetchArticles = async () => {
@@ -94,6 +96,7 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
         <h2 className={`text-2xl font-bold capitalize ${darkMode ? 'text-white' : 'text-gray-800'}`}>
           {category === "sport" ? "Sports" : category} News
         </h2>
+<<<<<<< HEAD
         
         {/* Filters in one compact row */}
         <div className="flex flex-wrap gap-2 items-center justify-center">
@@ -101,26 +104,69 @@ const NewsPage = ({ category, darkMode, searchQuery, openSentimentGraph }) => {
           <button
             onClick={() => filterBySentiment('positive')}
             className={`px-3 py-1 rounded-lg text-sm ${sentimentFilter === 'positive' ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
+=======
+        {/* Sentiment Filter Buttons */}
+        <div className="flex gap-2 mb-4 flex-wrap justify-center">
+          <button
+            onClick={() => filterBySentiment('positive')}
+            className={`px-4 py-2 rounded-lg font-medium transition-all duration-200
+              ${sentimentFilter === 'positive' 
+                ? 'bg-success-500 text-white shadow-md hover:bg-success-600' 
+                : darkMode 
+                  ? 'bg-neutral-700 text-neutral-300 hover:bg-neutral-600' 
+                  : 'bg-neutral-200 text-neutral-700 hover:bg-neutral-300'
+              }`}
+>>>>>>> 76f3d614cc075500dceda278de88a966165bc1ac
           >
             😊 Positive
           </button>
           <button
             onClick={() => filterBySentiment('negative')}
+<<<<<<< HEAD
             className={`px-3 py-1 rounded-lg text-sm ${sentimentFilter === 'negative' ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
+=======
+            className={`px-4 py-2 rounded-lg font-medium transition-all duration-200
+              ${sentimentFilter === 'negative' 
+                ? 'bg-error-500 text-white shadow-md hover:bg-error-600' 
+                : darkMode 
+                  ? 'bg-neutral-700 text-neutral-300 hover:bg-neutral-600' 
+                  : 'bg-neutral-200 text-neutral-700 hover:bg-neutral-300'
+              }`}
+>>>>>>> 76f3d614cc075500dceda278de88a966165bc1ac
           >
             😢 Negative
           </button>
           <button
             onClick={() => filterBySentiment('neutral')}
+<<<<<<< HEAD
             className={`px-3 py-1 rounded-lg text-sm ${sentimentFilter === 'neutral' ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
+=======
+            className={`px-4 py-2 rounded-lg font-medium transition-all duration-200
+              ${sentimentFilter === 'neutral' 
+                ? 'bg-warning-500 text-white shadow-md hover:bg-warning-600' 
+                : darkMode 
+                  ? 'bg-neutral-700 text-neutral-300 hover:bg-neutral-600' 
+                  : 'bg-neutral-200 text-neutral-700 hover:bg-neutral-300'
+              }`}
+>>>>>>> 76f3d614cc075500dceda278de88a966165bc1ac
           >
             😐 Neutral
           </button>
           <button
             onClick={() => filterBySentiment(null)}
+<<<<<<< HEAD
             className={`px-3 py-1 rounded-lg text-sm ${sentimentFilter === null ? 'bg-blue-500 text-white' : darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`}
+=======
+            className={`px-4 py-2 rounded-lg font-medium transition-all duration-200
+              ${sentimentFilter === null 
+                ? 'bg-brand-500 text-white shadow-md hover:bg-brand-600' 
+                : darkMode 
+                  ? 'bg-neutral-700 text-neutral-300 hover:bg-neutral-600' 
+                  : 'bg-neutral-200 text-neutral-700 hover:bg-neutral-300'
+              }`}
+>>>>>>> 76f3d614cc075500dceda278de88a966165bc1ac
           >
-            All
+            📰 All News
           </button>
           
           {/* View mode */}

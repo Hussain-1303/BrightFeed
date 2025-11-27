@@ -1,0 +1,198 @@
+
+> brightfeed@0.1.0 test
+> react-scripts test
+
+PASS src/api.news.e2e.test.js
+FAIL src/components.comments.e2e.test.js (5.601 s)
+  ΓùÅ Comments & Likes UI System - E2E Integration Tests ΓÇ║ Complete User Flow Integration ΓÇ║ should handle complete comment and like workflow
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: 27
+    Received: 25
+
+    Ignored nodes: comments, script, style
+    <html>
+      <head />
+      <body>
+        <div>
+          <div
+            class="relative rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:scale-[1.02] 
+          bg-white card-hover"
+          >
+            <div
+              class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-brand-400 to-brand-600"
+            />
+            <div
+              class="h-48 overflow-hidden"
+            >
+              <img
+                alt="Test Article for Comments"
+                class="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
+                src="https://example.com/test-image.jpg"
+              />
+            </div>
+            <div
+              class="p-6"
+            >
+              <div
+                class="flex items-center mb-3"
+              >
+                <span
+                  class="px-2 py-1 text-xs font-semibold rounded-full 
+                bg-brand-100 text-brand-800"
+                >
+                  tech
+                </span>
+                <span
+                  class="ml-2 text-lg"
+                >
+                  ≡ƒÿÉ
+                </span>
+                <span
+                  class="ml-auto text-sm text-gray-500 dark:text-gray-400"
+                >
+                  1/14/2025
+                </span>
+              </div>
+              <h3
+                class="text-xl font-bold mb-2 line-clamp-2 
+              text-neutral-800"
+              >
+                Test Article for Comments
+              </h3>
+              <p
+                class="mb-4 line-clamp-3 text-neutral-600"
+              >
+                This is a test article for testing comments functionality
+              </p>
+              <div
+                class="flex items-center justify-between"
+              >
+                <a
+                  class="inline-flex items-center text-brand-500 hover:text-brand-600 dark:text-brand-400 dark:hover:text-brand-300 font-medium"
+                  href="https://www.npr.org/test-article"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  Read Full Story
+                  <svg
+                    class="w-4 h-4 ml-2"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M14 5l7 7m0 0l-7 7m7-7H3"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+                <button
+                  class="flex items-center gap-2 px-3 py-1.5 rounded-lg transition-all duration-200 hover:scale-105 font-medium
+                  text-neutral-600 hover:text-neutral-800 hover:bg-neutral-100
+                "
+                >
+                  <span
+                    class="text-lg"
+                  >
+                    ≡ƒÆ¼
+                  </span>
+                  <span
+                    class="text-sm"
+                  >
+                    Comments
+                  </span>
+                </button>
+              </div>
+            </div>
+            <div
+              class="px-6 pb-6"
+              data-testid="comments-section"
+            >
+              <div
+                class="pt-4 border-t border-neutral-200 dark:border-neutral-600"
+              >
+                <div
+                  class="w-full max-w-4xl mx-auto p-6 rounded-xl border transition-colors duration-300 
+          bg-white border-neutral-200"
+                  data-testid="comments-section"
+                >
+                  <div
+                    class="flex items-center justify-between mb-6 pb-4 border-b border-neutral-200 dark:border-neutral-700"
+                  >
+                    <div
+                      class="flex items-center gap-6"
+                    >
+                      <button
+                        aria-label="Like"
+                        class="flex items-center gap-2 rounded-lg transition-all duration-200 hover:scale-105 font-medium
+            px-4 py-2
+            text-neutral-600 hover:text-red-500
+            hover:bg-neutral-100
+            
+          "
+                        data-testid="like-button"
+                      >
+                        <span
+                          class=""
+                          data-testid="heart-outline-icon"
+                        >
+                          ≡ƒñì
+                        </span>
+                        <span
+                          class="select-none"
+                        >
+                          25
+                        </span>
+                      </button>
+                      <button
+                        class="flex items-center gap-2 px-4 py-2 rounded-lg transition-all duration-200 hover:scale-105
+                  text-neutral-600 hover:text-neutral-800 hover:bg-neutral-100"
+                      >
+                        <span
+                          class="text-xl"
+                        >
+                          ≡ƒÆ¼
+                        </span>
+                        <span
+                          class="font-medium"
+                        >
+                          2
+                           
+                          Comments
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                  <div
+                    class="space-y-6"
+                  >
+                    <div
+                      class=" border-neutral-200"
+                    >
+                      <div
+                        ...
+
+      468 |         likeButtons = screen.getAllByTestId('like-button');
+      469 |         const newCount = parseInt(likeButtons[0].textContent.match(/\d+/)[0]);
+    > 470 |         expect(newCount).toBe(initialCount + 1);
+          |                          ^
+      471 |       });
+      472 |       
+      473 |       // 3. Open comment form by clicking the comments count button
+
+      at src/components.comments.e2e.test.js:470:26
+      at runWithExpensiveErrorDiagnosticsDisabled (node_modules/@testing-library/dom/dist/config.js:47:12)
+      at checkCallback (node_modules/@testing-library/dom/dist/wait-for.js:124:77)
+      at checkRealTimersCallback (node_modules/@testing-library/dom/dist/wait-for.js:118:16)
+      at Timeout.task [as _onTimeout] (node_modules/jsdom/lib/jsdom/browser/Window.js:516:19)
+
+Test Suites: 1 failed, 1 passed, 2 total
+Tests:       1 failed, 34 passed, 35 total
+Snapshots:   0 total
+Time:        8.162 s
+Ran all test suites related to changed files.
+
