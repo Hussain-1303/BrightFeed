@@ -6,17 +6,13 @@ const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5001';
 const PositiveNewsletterModal = ({ onClose, darkMode }) => {
   const [email, setEmail] = useState("");
   const [loading, setLoading] = useState(false);
-<<<<<<< HEAD
   const [message, setMessage] = useState("");
   const [error, setError] = useState("");
-=======
   const [success, setSuccess] = useState(false);
->>>>>>> 76f3d614cc075500dceda278de88a966165bc1ac
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);
-<<<<<<< HEAD
     setMessage("");
     setError("");
 
@@ -34,7 +30,13 @@ const PositiveNewsletterModal = ({ onClose, darkMode }) => {
 
       if (data.success) {
         setMessage(`✅ You're signed up for Positive Vibes at ${email}! 💖`);
-        setTimeout(() => onClose(), 2000);
+        setSuccess(true);
+        setTimeout(() => {
+          onClose();
+          setSuccess(false);
+          setEmail("");
+          setMessage("");
+        }, 2000);
       } else {
         setError(data.message || 'Subscription failed');
       }
@@ -44,19 +46,6 @@ const PositiveNewsletterModal = ({ onClose, darkMode }) => {
     } finally {
       setLoading(false);
     }
-=======
-    
-    // Simulate API call
-    setTimeout(() => {
-      setSuccess(true);
-      setLoading(false);
-      setTimeout(() => {
-        onClose();
-        setSuccess(false);
-        setEmail("");
-      }, 1500);
-    }, 800);
->>>>>>> 76f3d614cc075500dceda278de88a966165bc1ac
   };
 
   return (
@@ -79,33 +68,6 @@ const PositiveNewsletterModal = ({ onClose, darkMode }) => {
         >
           <FiX size={24} />
         </button>
-<<<<<<< HEAD
-        <h2 className="text-3xl font-bold mb-2 text-pink-600 dark:text-pink-400">Positive Newsletter 💖</h2>
-        <p className="text-pink-500 dark:text-pink-300 mb-6">
-          Get feel-good stories and uplifting news delivered to your inbox!
-        </p>
-
-        {message && <p className="text-green-500 text-center mb-4 font-semibold">{message}</p>}
-        {error && <p className="text-red-500 text-center mb-4 font-semibold">{error}</p>}
-        
-        <form onSubmit={handleSubmit} className="space-y-4">
-          <input
-            type="email"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-            required
-            className={`w-full p-3 border rounded-lg ${darkMode ? 'border-gray-600 bg-gray-700 text-white placeholder-gray-400' : 'border-pink-300 bg-white text-pink-700 placeholder-pink-300'}`}
-            placeholder="you@example.com"
-          />
-          <button
-            type="submit"
-            disabled={loading}
-            className="w-full bg-pink-500 text-white font-semibold py-2 rounded-lg hover:bg-pink-600 disabled:bg-gray-400 transition-colors"
-          >
-            {loading ? 'Subscribing...' : 'Get Your Positive News!'}
-          </button>
-        </form>
-=======
 
         {/* Success State */}
         {success ? (
@@ -117,7 +79,7 @@ const PositiveNewsletterModal = ({ onClose, darkMode }) => {
               You're All Set!
             </h3>
             <p className={darkMode ? 'text-neutral-400' : 'text-neutral-600'}>
-              Get ready for feel-good stories delivered to your inbox
+              {message || "Get ready for feel-good stories delivered to your inbox"}
             </p>
           </div>
         ) : (
@@ -141,6 +103,8 @@ const PositiveNewsletterModal = ({ onClose, darkMode }) => {
             <p className={`mb-6 ${darkMode ? 'text-neutral-300' : 'text-neutral-700'}`}>
               Subscribe to our weekly newsletter filled with feel-good stories, inspiring human interest pieces, and uplifting news from around the world. Stay positive, stay informed! ✨
             </p>
+
+            {error && <p className="text-red-500 text-center mb-4 font-semibold">{error}</p>}
 
             {/* Form */}
             <form onSubmit={handleSubmit} className="space-y-4">
@@ -207,7 +171,6 @@ const PositiveNewsletterModal = ({ onClose, darkMode }) => {
             </div>
           </>
         )}
->>>>>>> 76f3d614cc075500dceda278de88a966165bc1ac
       </div>
     </div>
   );
